@@ -5,6 +5,7 @@ class Home extends Public_Controller {
 
 
 	public function __construct(){
+		
 		parent::__construct();
 
 	}
@@ -27,13 +28,10 @@ class Home extends Public_Controller {
 
 	public function index()
 	{
-		redirect('/admin/');
-		exit();
-		$this->load->model('product_model');
-		$this->load->model('article_model');
-
-		$this->data['products'] = $this->product_model->where(array('active'=>'Y'))->with_province()->with_district()->with_ward()->order_by('sort','ASC')->get_all();
-		$this->data['articles'] = $this->article_model->where(array('active'=>'Y'))->get_all();
+		$this->load->model('sliders/Slider_model');
+		
+		$this->data['sliders'] = $this->Slider_model->where('active','Y')->get_all();
+		
 		//redirect('/admin/','true');exit();
 		 $this->render('default/home/index_view');
 

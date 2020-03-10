@@ -1,4 +1,7 @@
 <?php
+
+$basename = '/thienanphu/';
+	
 $version = "9.14.0";
 if (session_id() == '') {
     session_start();
@@ -76,7 +79,7 @@ $config = array(
     | with start and final /
     |
     */
-    'upload_dir' => '/billfee/assets/upload/',
+    'upload_dir' => $basename.'assets/upload/',
     /*
     |--------------------------------------------------------------------------
     | relative path from filemanager folder to upload folder
@@ -107,7 +110,7 @@ $config = array(
     | DO NOT put inside upload folder
     |
     */
-    'thumbs_upload_dir' => '/billfee/assets/thumbs/',
+    'thumbs_upload_dir' => $basename.'assets/thumbs/',
 
 
     /*

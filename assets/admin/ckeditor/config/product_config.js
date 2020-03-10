@@ -38,9 +38,9 @@ CKEDITOR.editorConfig = function( config ) {
 	// Simplify the dialog windows.
 	config.removeDialogTabs = 'link:advanced;image:file';
 	
-	config.filebrowserBrowseUrl = '/billfee/filemanager/dialog.php?type=1&akey=abc&editor=ckeditor&fldr=';
-	config.filebrowserUploadUrl = '/billfee/filemanager/dialog.php?type=1&akey=abc&editor=ckeditor&fldr=';
-	config.filebrowserImageBrowseUrl = '/billfee/filemanager/dialog.php?type=1&akey=abc&editor=ckeditor&fldr=';
+	config.filebrowserBrowseUrl = '/thienanphu/filemanager/dialog.php?type=1&akey=abc&editor=ckeditor&fldr=';
+	config.filebrowserUploadUrl = '/thienanphu/filemanager/dialog.php?type=1&akey=abc&editor=ckeditor&fldr=';
+	config.filebrowserImageBrowseUrl = '/thienanphu/filemanager/dialog.php?type=1&akey=abc&editor=ckeditor&fldr=';
 	
 	//config.extraPlugins = "dialogadvtab";
 	

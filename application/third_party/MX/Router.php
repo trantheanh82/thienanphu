@@ -56,6 +56,7 @@ class MX_Router extends CI_Router
 		}
 		
 		if($segments[0] == 'admin' && isset($segments[1])){
+			
 	        if (isset($segments[2])){
 	            $this->set_method($segments[2]);
 	            $segments[2] = $segments[2];

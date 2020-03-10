@@ -1,54 +1,20 @@
-<!-- Main Banner -->
 <?php
-	$this->load->view('elements/main_banner_view');
+	//Load Sliders
+	if(!empty($sliders)){
+		echo $this->load->view('sliders/elements/module_sliders',array('sliders'=>$sliders));
+	}
+	
+	$this->load->view('elements/modules/home_about',array('home_about'=>""));
+	
+	$this->load->view('elements/modules/home_parallax',array('background_image'=>'blink-edited.jpg'));
+	
+	$this->load->view('elements/modules/home_product_solution',array('products_solutions'=>""));
+	
+	$this->load->view('elements/modules/home_parallax',array('background_image'=>'blink-edited.jpg'));
+	
+	$this->load->view('elements/modules/home_services',array('home_services'=>""));
+	
+	$this->load->view('elements/modules/home_funfact',array('funcfact'=>""));
+	
+	$this->load->view('elements/modules/home_news',array('home_news'=>""));
 ?>
-<!-- End Main Banner -->
-
-<!--
-	-->
-<?php
-	$this->load->view('elements/modules/real_estate_view',array('products'=>$products));
-	?>
-
-<!-- -->
-<?php 
-	//$this->load->view('elements/modules/services_view');
-	?>
-<!-- -->
-
-<!-- -->
-<?php
-	//$this->load->view('elements/modules/advertising_view');
-	?>
-<!-- -->
-
-<!-- -->
-<?php
-	//$this->load->view('elements/modules/awesome_feature_view');
-	?>
-<!-- -->
-
-<!-- -->
-<?php
-	//$this->load->view('elements/modules/real_estate_1_view');
-	?>
-<!-- -->
-
-<!-- -->
-<?php
-	//$this->load->view('elements/modules/statistic_view');
-	?>
-<!-- -->
-
-<!-- -->
-<?php
-	$this->load->view('elements/modules/news_view',array('articles'=>$articles));
-	?>
-<!-- -->
-
-<!-- -->
-<?php
-	$this->load->view('elements/modules/video_view');
-	?>
-<!-- -->
-

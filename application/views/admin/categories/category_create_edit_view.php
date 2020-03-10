@@ -39,6 +39,16 @@
 	            </div>
             </div>
             
+            <div class="form-group">
+                <label class='control-label col-sm-2'><?=lang('Type')?></label>
+                <div class='col-sm-9'>
+		                <select class="form-control select2" name='model' style="width: 100%;">
+		                  <option value='article' <?=(isset($item) && $item->model=='article')?"selected":""?>><?=lang('Article')?></option>
+		                  <option value='page' <?=(isset($item) && $item->model=='page')?"selected":""?>><?=lang('Page')?></option>
+		                </select>
+                </div>
+              </div>
+            
 			<div class="form-group">
 				 <label class="control-label col-sm-2" for="pwd">Name</label>
 				 <div class='col-sm-9'>
@@ -58,6 +68,8 @@
 		    		?>
 				 </div>
             </div> 
+            
+            
             
             <div class='form-group'>
 	            <label class="control-label col-sm-2" for="pwd">Description</label>

@@ -34,7 +34,8 @@ class Articles extends Admin_Controller {
 	function edit($id){
 		if(!empty($id)){
 			$this->load->model('category_model');
-			$this->data['list_cats'] = $this->category_model->as_dropdown('name')->get_all();
+			
+			$this->data['list_cats'] = $this->category_model->get_dropdown('article');
 			
 			$this->data['item'] = $this->article_model->with_article_category()->where('id',$id)->get();
 			
@@ -71,8 +72,7 @@ class Articles extends Admin_Controller {
 		$this->load->model('article_category_model');
 		
 		if(!empty($data['id'])){
-			
-			
+			pr($data);exit();
 			if($this->article_model->update($data,$data['id'])){
 								
 				$this->article_category_model->delete(array('article_id'=>$data['id']));
@@ -85,6 +85,8 @@ class Articles extends Admin_Controller {
 				
 			}else{
 				$this->session->set_flashdata('error','Error occures, please try again');
+				redirect($this->agent->referrer(),'refresh');
+
 			}
 		}else{
 			if($id = $this->article_model->insert($data)){
@@ -96,6 +98,7 @@ class Articles extends Admin_Controller {
 				$this->session->set_flashdata('message','Article has been updated.');
 			}else{
 				$this->session->set_flashdata('error','Error occures, please try again');
+				redirect($this->agent->referrer(),'refresh');
 			}
 		}
 		

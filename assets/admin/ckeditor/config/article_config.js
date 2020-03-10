@@ -2,24 +2,23 @@
  * @license Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
  * For licensing, see LICENSE.md or http://ckeditor.com/license
  */
+console.log('loaded');
 
 CKEDITOR.editorConfig = function( config ) {
 	// Define changes to default configuration here.
 	// For complete reference see:
 	// http://docs.ckeditor.com/#!/api/CKEDITOR.config
-
+	
+	
 	// The toolbar groups arrangement, optimized for two toolbar rows.
 	config.toolbarGroups = [
 		
 		{ name: 'document',	   groups: [ 'mode', 'document', 'doctools' ] },
 		{ name: 'tools' },
 		{ name: 'clipboard',   groups: [ 'undo', 'clipboard' ] },
-		{ name: 'editing',     groups: [ 'find', 'selection'] },
 		{ name: 'links' },
-		{ name: 'insert', items: ['images']},
-		/*{ name: 'forms' },*/
-		
-		
+		{ name: 'insert', groups: ['images']},
+		/*{ name: 'forms' },*/		
 		{ name: 'others' },
 		'/',
 		{ name: 'basicstyles', groups: [ 'basicstyles', 'cleanup' ] },
@@ -28,10 +27,12 @@ CKEDITOR.editorConfig = function( config ) {
 		{ name: 'colors' },
 		{ name: 'about' }
 	];
+	
+	config.width = '100%';
 
 	// Remove some buttons provided by the standard plugins, which are
 	// not needed in the Standard(s) toolbar.
-	config.removeButtons = 'Underline,Subscript,Superscript,';
+	config.removeButtons = 'Underline,Subscript,Superscript';
 
 	// Set the most common block elements.
 	config.format_tags = 'p;h1;h2;h3;pre';
@@ -39,9 +40,12 @@ CKEDITOR.editorConfig = function( config ) {
 	// Simplify the dialog windows.
 	config.removeDialogTabs = 'link:advanced;image:file';
 	
-	config.filebrowserBrowseUrl = '/billfee/filemanager/dialog.php?akey=abc';
-	config.filebrowserUploadUrl = '/billfee/filemanager/dialog.php?akey=abc';
+	config.filebrowserBrowseUrl = '/thienanphu/filemanager/dialog.php?type=1&akey=abc&editor=ckeditor&fldr=';
+	config.filebrowserUploadUrl = '/thienanphu/filemanager/dialog.php?type=1&akey=abc&editor=ckeditor&fldr=';
+	config.filebrowserImageBrowseUrl = '/thienanphu/filemanager/dialog.php?type=1&akey=abc&editor=ckeditor&fldr=';
 	
+	//config styleset
+	//config.stylesSet = 'my_styles';
 	
 	//config.extraPlugins = "dialogadvtab";
 	

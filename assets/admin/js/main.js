@@ -1,6 +1,5 @@
 $(document).ready(function() {
-	startjs();
-	// Make Ajax load on all page
+	startjs();	// Make Ajax load on all page
 	$('a[data-load="ajax"]').click(function(){
 		href = $(this).attr('href');
 		page_title = $(this).attr('title');		
@@ -177,11 +176,26 @@ window.onload = function(){
 			});
 		});*/
 		
+		
 		$('.product-editor').each(function(){
 			
 			CKEDITOR.replace($(this).attr('id'),{
-				customConfig: "/billfee/assets/admin/ckeditor/config/product_config.js"
+				customConfig: "/thienanphu/assets/admin/ckeditor/config/product_config.js"
 			});
+		});
+		
+		$('.article-editor').each(function(){
+			
+			CKEDITOR.replace($(this).attr('id'),{
+				customConfig: "/thienanphu/assets/admin/ckeditor/config/article_config.js"
+			});
+		});
+		
+		$('.basic-editor').each(function(){
+			CKEDITOR.replace($(this).attr('id'),{
+				customConfig: "/thienanphu/assets/admin/ckeditor/config/basic.js"
+			});
+
 		});
 		
 }

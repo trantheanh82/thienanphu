@@ -24,7 +24,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'http://localhost/billfee/';
+$config['base_url'] = 'http://localhost/thienanphu/';
 
 /*
 |--------------------------------------------------------------------------
@@ -53,7 +53,7 @@ $config['index_page'] = '';
 |
 | WARNING: If you set this to 'PATH_INFO', URIs will always be URL-decoded!
 */
-$config['uri_protocol']	= 'REQUEST_URI';
+$config['uri_protocol']	= $_SERVER['PATH_INFO'];
 
 /*
 |--------------------------------------------------------------------------
@@ -77,13 +77,13 @@ $config['url_suffix'] = '';
 | than english.
 |
 */
-$config['language']	= 'english';
+$config['language']	= 'vietnamese';
 
 /* default language abbreviation */
 $config['language_abbr'] = "vn";
 
 /* set available language abbreviations */
-$config['lang_uri_abbr'] = array("vn" => "vietnamese","es" => "spanish", "en" => "english", "ja" => "japanese");
+$config['lang_uri_abbr'] = array("vn" => "vietnamese", "en" => "english");
 
 /* hide the language segment (use cookie) */
 $config['lang_ignore'] = FALSE;
@@ -235,7 +235,7 @@ $config['log_threshold'] = 4;
 | application/logs/ directory. Use a full server path with trailing slash.
 |
 */
-$config['log_path'] = '/Volumes/Betrai/www/billfee/application/logs/';
+$config['log_path'] = '/Volumes/Betrai/www/thienanphu/application/logs/';
 
 /*
 |--------------------------------------------------------------------------
@@ -294,7 +294,7 @@ $config['error_views_path'] = '';
 | application/cache/ directory.  Use a full server path with trailing slash.
 |
 */
-$config['cache_path'] = '/Volumes/Betrai/www/billfee/application/cache/';
+$config['cache_path'] = '/Volumes/Betrai/www/thienanphu/application/cache/';
 
 /*
 |--------------------------------------------------------------------------
@@ -381,7 +381,7 @@ $config['encryption_key'] = '';
 $config['sess_driver'] = 'files';
 $config['sess_cookie_name'] = 'ci_session';
 $config['sess_expiration'] = 7200;
-$config['sess_save_path'] = '/Volumes/Betrai/www/billfee/application/tmp';
+$config['sess_save_path'] = '/Volumes/Betrai/www/thienanphu/application/tmp';
 $config['sess_match_ip'] = FALSE;
 $config['sess_time_to_update'] = 300;
 $config['sess_regenerate_destroy'] = FALSE;

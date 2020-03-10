@@ -57,6 +57,7 @@ class Category extends Admin_Controller {
 					
 				}else{
 					$this->session->set_flashdata('error','Error occurs. Try again late.');
+					redirect($this->agent->referrer(),'refresh');
 				}
 				break;
 			case 'edit':
@@ -65,11 +66,12 @@ class Category extends Admin_Controller {
 					$this->session->set_flashdata('message','New Category has been updated.');
 				}else{
 					$this->session->set_flashdata('error','Error occurs. Try again late.');
+					redirect($this->agent->referrer(),'refresh');
 				}
 				break;
 		}
 		
-		redirect($this->agent->referrer(),'refresh');
+		redirect('/admin/category','refresh');
 	}
 	
 	function delete($id){

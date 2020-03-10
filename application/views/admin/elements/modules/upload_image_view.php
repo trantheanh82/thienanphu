@@ -1,4 +1,15 @@
 <?php defined('BASEPATH') OR exit('No direct script access allowed');?>
+<?php
+	/**
+		Variables 
+		$id:
+		$field_id:
+		$path:
+		$button_name:
+		$max_width:
+		$value:
+	**/
+	?>
 <button type="button" class="btn btn-warning btn-sm" data-toggle="modal" data-target="#modal-default"><?=__($button_name,$this)?></button>
 <br /><br />
 <div class='image-placehold mt-10' style='max-width:<?=isset($max_width)?$max_width:"150px";?>'>

@@ -10,4 +10,10 @@ class Category_model extends MY_Model
 		parent::__construct();
 	}
 	
+	function get_dropdown($model){
+		$lists = $this->as_dropdown('name')->where(array('model'=>$model,'active'=>'Y'))->get_all();
+		return $lists;
+
+	}
+	
 }

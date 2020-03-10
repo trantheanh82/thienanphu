@@ -64,6 +64,7 @@ class Settings extends Admin_Controller
 	}
 	
 	function submit(){
+		
 		if(!empty($this->input->post())){
 			foreach($this->input->post() as $k => $v){
 				$value = array('value'=>$v);
@@ -71,6 +72,8 @@ class Settings extends Admin_Controller
 					
 				$this->setting_model->update($value,$column_where);
 			}
+			
+			//delete cache
 			
 			$this->session->set_flashdata('message','Your Settings has been updated.');
 			redirect($this->agent->referrer(),'refresh');
@@ -84,8 +87,6 @@ class Settings extends Admin_Controller
 			if(!empty($v->config_variable)){
 				$value[$k]->config_variable = unserialize($v->config_variable);
 			}
-			
-			pr($value[$k]);	
 		}
 		return $value;
 	}

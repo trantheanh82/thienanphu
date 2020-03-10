@@ -12,7 +12,7 @@
 <script src="<?=base_url()?>assets/admin/js/jquery-validate/additional-methods.min.js"></script>
 
 <!-- Modernizr JS -->
-<script src="<?=base_url()?>/assets/js/vendor/modernizr-2.8.3.min.js"></script> 
+<script src="<?=base_url()?>assets/admin/js/vendor/modernizr-2.8.3.min.js"></script> 
 
 <!-- Resolve conflict in jQuery UI tooltip with Bootstrap tooltip -->
 <script>
@@ -57,7 +57,7 @@
 <script src="<?=base_url()?>assets/admin/js/demo.js"></script>
 <script src="<?=base_url()?>assets/admin/js/script.js?r=<?=$rand_debug?>"></script>
 
-<script src="<?=base_url()?>assets/admin/js/main.js?r=<?=$rand_debug?>"></script>
+<script src="<?=base_url()?>assets/admin/js/main.js?base_url=<?=base_url()?>&r=<?=$rand_debug?>"></script>
 
 <!-- script for layout in <?=$this->router->fetch_class()?>-->
 <?php echo $script_for_layout;?>

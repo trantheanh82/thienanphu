@@ -43,7 +43,7 @@
 	?>
 		<li class="<?=$menu_class?>">
 	      <a href="<?=$link?>"  <?=$data_load?>>
-	        <i class="<?=icon($menu1->icon)?>"></i>  <span><?=__($menu1->name,$this)?></span>
+	        <i class="<?=icon($menu1->icon)?>"></i>  <span><?=lang($menu1->name)?></span>
 	        <?php
 		        	if(!empty($menu1->children)):
 		        ?>
@@ -76,7 +76,7 @@
 			      		}
 			      ?>
 	        <li class="<?=$class?>">
-	        	<a href="<?=menulink($menu2)?>" <?=$data_load?>><i class="<?=icon($menu2->icon)?>"></i> <?=__($menu2->name,$this)?>
+	        	<a href="<?=menulink($menu2)?>" <?=$data_load?>><i class="<?=icon($menu2->icon)?>"></i> <?=lang($menu2->name)?>
 	        		<?php
 		        		if(!empty($menu2->children)):
 		        	?>

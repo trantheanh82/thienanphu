@@ -49,11 +49,11 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | Examples:	my-controller/index	-> my_controller/index
 |		my-controller/my-method	-> my_controller/my_method
 */
-$route['default_controller'] = 'dashboard';
+$route['default_controller'] = 'home';
 $route['404_override'] = '';
 $route['translate_uri_dashes'] = TRUE;
 
-$route['admin'] = '/admin/dashboard';
+$route['/admin'] = '/admin/dashboard';
 //$route['admin/(:any)'] = 'admin/$1';
 $route['richfilemanager/(:any)'] = 'admin/richfilemanager/\$1';
 
@@ -80,19 +80,22 @@ $route['^(\w{2})/(.*)'] = function($language, $link) use ($controllers_methods)
 		return $new_link;
 	}
 	return $link;
-};*/
+};
+*/
 
 //route example: http://domain.tld/en/controller => http://domain.tld/controller
-$route['^(\w{2})$'] = $route['default_controller'];
+$route['^(\w{2})/contact'] = '/pages/contact';
+$route['^(\w{2})/lien-he'] = '/pages/contact';
 
-$route['^(\w{2})/(.*)'] = '$2';
-$route['^(\w{2})/admin'] = '/admin/dashboard';
+
+$route['^(\w{2})/assets^(.*)'] = '/assets$2';
+
+
 
 $route['^(\w{2})/api/^(.*)'] = '/api/$2';
 
 $route['^(\w{2})/filenamager/^(.*)'] = '/filemanager/$2';
+$route['^(\w{2})$'] = $route['default_controller'];
+$route['^(\w{2})/admin'] = '/admin/dashboard';
+$route['^(\w{2})/(.*)'] = '$2';
 
-//$route['(\w{2})'] = $route['default_controller'];
-
-
-//$route['^(\w{2})/admin/site'] = 'module/admin/site';

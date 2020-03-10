@@ -12,11 +12,11 @@
 ?>
 <section class="content-header">
   <h1>
-	  <?=__(ucwords($breadcrumb[0]),$this)?>
-    <small><?=__(ucwords($breadcrumb[1]),$this)?></small>
+	  <?=lang(ucwords($breadcrumb[0]))?>
+    <small><?=lang(ucwords($breadcrumb[1]))?></small>
   </h1>
   <ol class="breadcrumb">
-	  <li><a href="#"><i class="fa fa-dashboard"></i><?=__("Home",$this)?></a></li>
+	  <li><a href="#"><i class="fa fa-dashboard"></i><?=lang("Home")?></a></li>
 	 <?php
 		 foreach($breadcrumb as $k =>$b):
 	?>

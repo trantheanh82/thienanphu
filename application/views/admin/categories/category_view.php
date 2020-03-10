@@ -14,13 +14,13 @@
 	<table id='data' class="table table-bordered table-striped table-hover">
 		<thead>
 			<tr>
-				<th>ID</th>
-				<th>Name</th>
-				<th>Image</th>
-				<!--<th>Position</th>-->
-				<th>Sort</th>
-				<th>Active</th>
-				<th>Created</th>
+				<th><?=lang('ID')?></th>
+				<th><?=lang('Name')?></th>
+				<th><?=lang('Image')?></th>
+				<th><?=lang('Type')?></th>
+				<th><?=lang('Sort')?></th>
+				<th><?=lang('Active')?></th>
+				<th><?=lang('Created')?></th>
 				<th></th>
 			</tr>
 		</thead>
@@ -41,9 +41,11 @@
 							endif;
 						?>
 					</td>
-					<td><?=$item->created_at?></td>
+					<td><?=$item->model?></td>
 					<td><?=$item->active?></td>
 					<td><?=$item->sort?></td>
+					
+					<td><?=$item->created_at?></td>
 					<td class='text-center'><?=anchor('admin/category/edit/'.$item->id,'<i class="fa fa-edit"></i>',array('title'=>__('Edit',$this))).' '.anchor('admin/category/delete/'.$item->id,'<i class="fa fa-trash"></i>',array('title'=>__('Delete',$this),'class'=>'confirm_delete'))?></td>
 				</tr>
 			<?php

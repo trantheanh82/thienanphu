@@ -27,15 +27,12 @@ $lang['Email']							= "Email";
 
 // Homepage
 $lang['English']		= 'English';
-$lang['Vietnamese']		= 'Tiếng';
-$lang['Japanese']		= '日本語';
+$lang['Vietnamese']		= 'Tiếng Việt';
 $lang['Languages']		= 'Languages';
 
 $lang['News Letter']	= "News Letter";
 $lang['Useful Links']	= "Useful Links";
 $lang['Latest News']	= "Latest News";
-
-$lang['Brochuce']		= "Brochuce";
 
 $lang['Submit']			= "Submit";
 

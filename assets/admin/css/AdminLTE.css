@@ -4990,3 +4990,7 @@ table.text-center th {
 .border-notrans{
 	border: 1px solid rgba(003,003,003,0.9);
 }
+
+.border-right-3d{
+	border-right: 1px solid #ddd;
+}

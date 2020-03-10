@@ -51,7 +51,7 @@ if( !function_exists('content_open')){
 			<div class="box">
 		   		<!-- /.box-header -->
 		   		<div class="box-header with-border">
-		   			<h3 class="box-title"> '.$box_header.'</h3>
+		   			<h3 class="box-title"> '.lang($box_header).'</h3>
 		   		</div>';
 			
 		return $content;

@@ -1,199 +1,112 @@
-                <!--Start of Footer Widget-area-->
-                <div class="footer-widget-area bg-greenpearl bg-pattern pb-58">
-                    <div class="container">
-                        <div class="row">
-                        <div class="col-md-12">
-                        	<div class="footer-logo">
-                        		<a href="index.html"><img src="/assets/images/logo/logo_thaotay.png" alt="" style="max-height:100px"></a>
-                        	</div>
-                        </div>
-                        	<div class="col-md-12">
-                        		<div class="social-links mt-25 mb-20">
-                        			<a href="#"><i class="fab fa-facebook"></i></a>
-                        			<!--<a href="#"><i class="fab fa-twitter"></i></a>
-                        			<a href="#"><i class="fab fa-linkedin"></i></a>
-                        			<a href="#"><i class="fa fa-google-plus"></i></a>-->
-                        		</div>
-                        	</div>
-                        </div>
-                        <div class="row">
-                            <div class="col-lg-3 col-md-4 col-sm-4 col-xs-12 hidden-sm hidden-xs">
-                                <div class="single-footer-widget">
-                                    <h3 class="text-yellow text-uppercase mb-21">THẢO TÂY LAND</h3>
-                                    <p class="pb-19">THẢO TÂY LAND cung cấp những sản phẩm bất động sản có tính THANH KHOẢN, tỷ suất lợi nhuận CAO và tư vấn những giải pháp giúp nhà đầu tư AN TÂM, TIN TƯỞNG khi lựa chọn.</p>
-									<!--<form action="#" id="mc-form" class="mc-form fix">
-										<div class="subscribe-form">
-											<input id="mc-email" type="email" name="email" placeholder="Email for Newsletter">
-											<button id="mc-submit" type="submit"><i class="fa fa-send"></i></button>
-										</div>    
-									</form>-->
-									<!-- mailchimp-alerts Start -->
-									
-									<!-- mailchimp-alerts end -->
-                                </div>
-                            </div>
-                            <div class="col-lg-3 col-md-4 col-sm-4 pl-80 col-xs-12 hidden-sm hidden-xs">
-                                <div class="single-footer-widget">
-                                    <h3 class="text-yellow text-uppercase mb-28">TIN TỨC</h3>
-                                    <div class="footer-widget-content">
-										<h5 class="mb-8">Duplex Villa Design</h5>
-										<span class="mb-27 block">Lorem ipsum dolor sit amet, tur<br>acinglit sed do eius </span>
-                                	</div>
-                                </div>
-                            </div>
-                            <div class="col-lg-3 pl-80 col-xs-12">
-                                <div class="single-footer-widget" style='width:100%;'>
-                                    <h3 class="text-yellow text-uppercase mb-17">Huyện/Xã</h3>
-                                    <div class='col-xs-6 col-sm-6 col-md-6'>
-	                                    <ul class="footer-list">
-		                                    <li><a href="#">TT Cần Thạnh</a></li>
-	                                        <li><a href="#">An Thới Đông</a></li>
-	                                        <li><a href="#">Bình Khánh</a></li>
-	                                    </ul>
-                                    </div>
-                                    <div class='col-xs-6 col-sm-6 col-md-6'>
-	                                    <ul class="footer-list"> 
-	                                        <li><a href="#">Long Hoà</a></li>
-	                                        <li><a href="#">Lý Nhơn</a></li>
-	                                        <li><a href="#">Tam Thôn Hiệp</a></li>
-	                                    </ul>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-3 col-md-4 col-sm-4 col-xs-12">
-                                <div class="single-footer-widget pull_right">
-                                    <h3 class="text-yellow text-uppercase mb-21">LIÊN HỆ</h3>
-                                    <div class="footer-contact-info mb-24">
-                                    	<!--<img src="assets/images/icons/f-map.png" alt="">-->
-                                    	<!--<i class="fas fa-map-marker-alt"></i>-->
-                                    	<!--<span class="pl-40 block">256, 1st AVE, Manchester<br>
-                                    	125 , Noth England</span>-->
-                                    	<span class="pl-10 block">Telephone : <a tel="0708797989" style='color:#fff'>0708.797.989</a></span>
-                                    	<span class="pl-10 block">Web : www.thaotayland.com</span>
-                                    </div>
-                                    <!--<div class="footer-contact-info mb-24">
-                                    	<i class="fas fa-phone"></i>
-                                    	<span class="pl-40 block">Telephone : +012 345 678 102<br>
-                                    	Telephone : +013 445 678 155</span>
-                                    </div>
-                                    <div class="footer-contact-info">
-                                    	<i class="fas fa-globe-asia"></i>
-                                    	<span class="pl-40 block">Email : info@example.com<br>
-                                    	Web : www.example.com</span>
-                                    </div>-->
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!--End of Footer Widget-area-->
-                <!-- Start of Footer area -->
-                <footer class="footer-area bg-violet text-center pt-27 pb-32 border-top">
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-md-12">
-                                <div class="footer-text">
-                                    <span class="block">Copyright&copy; 2019 <a href="#">THẢO TÂY LAND</a>. All rights reserved.</span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </footer>
-                <!-- End of Footer area -->
-            </div>   
-            <!--End of Bg White--> 
-           
-        </div>    
-        <!--End of Main Wrapper Area--> 
-       
-       <!-- Call Now -->
-       <?php
-	      $this->load->view('elements/modules/call_now');
-	       ?>
-       <!-- end Call Now -->
-        
-        <!-- jquery latest version
-		========================================================= -->	
-        <script src="<?php echo site_url('assets/js/vendor/jquery-1.12.4.min.js')?>"></script>
-        
-        <!-- Bootstrap framework js
-		========================================================= -->			
-        <script src="<?php echo site_url('assets/js/bootstrap.min.js')?>"></script>
-        
-        <!-- Owl Carousel js
-		========================================================= -->		
-        <script src="<?php echo site_url('assets/js/owl.carousel.min.js')?>"></script>
-        
-        <!-- nivo slider js
-		========================================================= -->	    
-		<script src="<?php echo site_url('assets/lib/nivo-slider/js/jquery.nivo.slider.js')?>" type="text/javascript"></script>
-		<script src="<?php echo site_url('assets/lib/nivo-slider/home.js')?>" type="text/javascript"></script>
-        
-        <!-- Waypoint Js
-		========================================================= -->	
-        <script src="<?php echo site_url('assets/js/waypoints.min.js')?>"></script>
-        
-        <!-- Google Map js
-		============================================ --> 		
-        
-		<!--<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDSLSFRa0DyBj9VGzT7GM6SFbSMcG0YNBM "></script>
-		<script type="text/javascript" src="https://www.google.com/jsapi"></script>
-		<script>
-			function initialize() {
-			  var mapOptions = {
-				zoom: 13,
-				scrollwheel: false,
-				center: new google.maps.LatLng(10.410212, 106.920839),
-				mapTypeId: "satellite"
-			  };
+<!--FOOTER-->
+<footer class="padding-top">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-4 col-sm-4 footer_panel bottom25">
+        <h3 class="heading bottom25">Về Thiên An Phú<span class="divider-left"></span></h3>
+        <a href="index3.html" class="footer_logo bottom25"><img src="images/logo-white.png" alt="Xwin"></a>
+        <p>Chuyên kinh doanh cung cấp giải pháp tổng thể công nghệ thông tin, hệ thống LAN - WAN hệ thống camera giám sát, thiết bị máy tính, máy in, toàn bộ thiết bị tổng đài.</p>
+        <ul class="social_icon top25">
+          <li><a href="#." class="facebook"><i class="fa fa-facebook"></i></a></li>
+          <li><a href="#." class="twitter"><i class="icon-twitter4"></i></a></li>
+          <li><a href="#." class="dribble"><i class="icon-dribbble5"></i></a></li>
+          <li><a href="#." class="instagram"><i class="icon-instagram"></i></a></li>
+          <li><a href="#." class="vimo"><i class="icon-vimeo4"></i></a></li>
+        </ul>
+      </div>
+      <div class="col-md-4 col-sm-4 footer_panel bottom25">
+        <h3 class="heading bottom25">Liên kết<span class="divider-left"></span></h3>
+        <ul class="links">
+          <li><a href="#."><i class="icon-chevron-small-right"></i>Trang chủ</a></li>
+          <li><a href="#."><i class="icon-chevron-small-right"></i>Giới thiệu</a></li>
+          <li><a href="#."><i class="icon-chevron-small-right"></i>Dịch vụ</a></li>
+          <li><a href="#."><i class="icon-chevron-small-right"></i>Đội ngũ</a></li>
+          <li><a href="#."><i class="icon-chevron-small-right"></i>Sản phẩm - Giải pháp</a></li>
+          <li><a href="#."><i class="icon-chevron-small-right"></i>Chứng nhận</a></li>
+          <li><a href="#."><i class="icon-chevron-small-right"></i>Tin tức</a></li>
+          <li><a href="#."><i class="icon-chevron-small-right"></i>Chính sách khách hàng</a></li>
+          <li><a href="#."><i class="icon-chevron-small-right"></i>Liên hệ</a></li>
+        </ul>
+      </div>
+      <div class="col-md-4 col-sm-4 footer_panel bottom25">
+        <h3 class="heading bottom25">Trự Sở <span class="divider-left"></span></h3>
+        <p class=" address"><i class="icon-map-pin"></i>D1.5 Cao Ốc Phú Hoàng Anh, Số 9 Nguyễn Hữu Thọ, Phước Kiểng, Nhà Bè TP HCM</p>
+        <p class=" address"><i class="icon-phone"></i>(84) 28-3925-7175</p>
+        <p class=" address"><i class="icon-envelope"></i><a href="mailto:Xwin@info.com">info@thienanphu.vn</a></p>
+        <img src="images/footer-map-new.png" alt="we are here" class="img-responsive">
+      </div>
+    </div>
+  </div>
+</footer>
+<div class="copyright">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12 text-center">
+        <p>Bản quyền &copy; 2020 <a href="#.">Thien An Phú</a></p>
+      </div>
+    </div>
+  </div>
+</div>
+<!--FOOTER ends-->
 
-			  var map = new google.maps.Map(document.getElementById('googleMap'),
-				  mapOptions);
+        
+    <!-- jquery latest version
+	========================================================= -->	
+    <script src="<?php echo base_url('assets/js/jquery-2.2.3.js')?>"></script>
+    
+    <!-- Bootstrap framework js
+	========================================================= -->			
+    <script src="<?php echo base_url('assets/js/bootstrap.min.js')?>"></script>
+    
+    <script src="<?php echo base_url('assets/js/bootsnav.js')?>"></script>
+    <script src="<?php echo base_url('assets/js/jquery.appear.js')?>"></script>
+    <script src="<?php echo base_url('assets/js/jquery-countTo.js')?>"></script>
+    <script src="<?php echo base_url('assets/js/jquery.parallax-1.1.3.js')?>"></script>
+    <script src="<?php echo base_url('assets/js/owl.carousel.min.js')?>"></script>
+    <script src="<?php echo base_url('assets/js/jquery.cubeportfolio.min.js')?>"></script>
+    <script src="<?php echo base_url('assets/js/jquery.matchHeight-min.js')?>"></script>
+    <script src="<?php echo base_url('assets/js/jquery.themepunch.tools.min.js')?>"></script>
+    <script src="<?php echo base_url('assets/js/jquery.themepunch.revolution.min.js')?>"></script>
+    <script src="<?php echo base_url('assets/js/revolution.extension.layeranimation.min.js')?>"></script>
+    <script src="<?php echo base_url('assets/js/revolution.extension.navigation.min.js')?>"></script>
+    <script src="<?php echo base_url('assets/js/revolution.extension.parallax.min.js')?>"></script>
+    <script src="<?php echo base_url('assets/js/revolution.extension.slideanims.min.js')?>"></script>
+    <script src="<?php echo base_url('assets/js/revolution.extension.video.min.js')?>"></script>
+    <script src="<?php echo base_url('assets/js/wow.min.js')?>"></script>
+    <script src="<?php echo base_url('assets/js/functions.js')?>"></script>
+    
+   
+    
+    <!-- Google Map js
+	============================================ --> 		
+    
+	<!--<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDSLSFRa0DyBj9VGzT7GM6SFbSMcG0YNBM "></script>
+	<script type="text/javascript" src="https://www.google.com/jsapi"></script>
+	<script>
+		function initialize() {
+		  var mapOptions = {
+			zoom: 13,
+			scrollwheel: false,
+			center: new google.maps.LatLng(10.410212, 106.920839),
+			mapTypeId: "satellite"
+		  };
+
+		  var map = new google.maps.Map(document.getElementById('googleMap'),
+			  mapOptions);
 
 
-			  var marker = new google.maps.Marker({
-				position: map.getCenter(),
-				animation:google.maps.Animation.BOUNCE,
-				icon: 'images/map-marker.png',
-				map: map
-			  });
-                
-			}
-                
-			google.maps.event.addDomListener(window, 'load', initialize);
-		</script>-->
-
-<?php
-	$rand_debug = rand(0,9999999);
-	?>        
-		<!-- Video Player JS
-		========================================================= -->			
-        <script src="<?php echo site_url('assets/js/jquery.mb.YTPlayer.js')?>"></script>
-        
-		<!-- AJax Mail JS
-		========================================================= -->			
-        <script src="<?php echo site_url('assets/js/ajax-mail.js')?>"></script>
-        
-		<!-- Mail Chimp JS
-		========================================================= -->			
-        <script src="<?php echo site_url('assets/js/jquery.ajaxchimp.min.js')?>"></script>
-        
-		<!-- Slick Carousel JS
-		========================================================= -->			
-        <script src="<?php echo site_url('assets/js/slick.min.js')?>"></script>
-        
-		<!-- Style Customizer JS
-		========================================================= -->		
-        <script src="<?php echo site_url('assets/js/style-customizer.js')?>"></script>
-        
-        <!-- Plugin Js
-		========================================================= -->	
-        <script src="<?php echo site_url('assets/js/plugins.js')?>"></script>
-        
-        <!-- Main js file contents all jQuery plugins activation
-		========================================================= -->		
-        <script src="<?php echo site_url('assets/js/main.js?r='.$rand_debug)?>"></script>
-        
-        <?php echo $before_body;?>
+		  var marker = new google.maps.Marker({
+			position: map.getCenter(),
+			animation:google.maps.Animation.BOUNCE,
+			icon: 'images/map-marker.png',
+			map: map
+		  });
+            
+		}
+            
+		google.maps.event.addDomListener(window, 'load', initialize);
+	</script>-->
+    
+    <?php echo $before_body;?>
     </body>
 </html>

@@ -9,6 +9,7 @@
 	?>
 	<!-- Main Content -->
 <form class="form-horizontal" role="form" action="<?=site_url('admin/products/submit')?>" method="post" id='main_form_submit' enctype="multipart/form-data">
+		      
 
 <?php
 	if(isset($item->id)){
@@ -19,7 +20,7 @@
 	
 	<?=content_open_tabs($page_name,$tabs)?>
 
-		
+
 	<div class="tab-content">
 				<div class='tab-pane active' id='tab_1'>
 			<div class='form-group'>
@@ -95,7 +96,7 @@
             <div class="form-group">
 	            <label class="control-label col-sm-2" for="pwd"></label>        
 		      <div class="col-sm-9">
-		        <button type="submit" class="btn btn-primary cmd-save"> <?=__("Save",$this)?></button>
+		        <button type="submit" class="btn btn-primary cmd-save"><?=__("Save",$this)?></button>
 		      </div>
 	    	</div>
 		</div>
