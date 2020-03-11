@@ -47,6 +47,15 @@
 	            </label>
 	          </div>
 	        </div>
+	        <hr />
+	        
+	        <div class="form-group">
+			<label for="sort" class="control-label"><?=lang("Order")?></label>
+	          <div class="checkbox">
+	            <?=form_input('sort',value(isset($item->sort)?$item->sort:"10"),array('class'=>'form-control'))?>
+	          </div>
+	        </div>
+	        <hr />
 	        
 	        <?php
 			if(isset($list_cats)):
@@ -81,7 +90,7 @@
 						<div class='text-right'><a href="">+ <?=lang('create new')?></a></div>
 					</div>
 				</div>
-				
+				<hr />
 				<?php
 					endif;
 					?>
@@ -90,10 +99,14 @@
 					<label for="inputEmail3" class="control-label"><?=lang("Image Article")?></label>
 		     	 	
 		     	 	<div class=''>
-		    			<?php $this->load->view("admin/elements/modules/upload_view",array('file'=>"image",'id'=>"img",'button_name'=>lang("Upload Image"),"field_id"=>"image",'value'=>"",'multiple'=>false,'type_file'=>'articles','basic'=>true));?>
+		    			<?php //$this->load->view("admin/elements/modules/upload_view",array('file'=>"image",'id'=>"img",'button_name'=>lang("Upload Image"),"field_id"=>"image",'value'=>"",'multiple'=>false,'type_file'=>'articles','basic'=>true));?>
+		    			
+		    			<?php
+							$this->load->view("admin/elements/modules/upload_image_view",array('type'=>'image','field_id'=>'upload_image','id'=>'image','value'=>isset($item->image)?$item->image:"",'multiple'=>false,'path'=>'/img','button_name'=>'Upload Image','max_width'=>'300px'));
+					?>
 					</div>
 				</div>
-
+				<hr />
 		</div>
 		
 	</div>

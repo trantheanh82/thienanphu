@@ -46,6 +46,22 @@ class Pages extends Admin_Controller {
 		}
 	}
 	
+	function delete($id){
+		if(!empty($id)){
+			if($this->page_model->delete($id)){
+				$this->sesssion->set_flashdata('messege','The item has been deleted.');
+				redirect('admin/pages','refresh');
+			}else{
+				$this->session->set_flashdata('messege','Error, please try again.');
+			}
+		}else{
+			$this->session->set_flashdata('messege','There is no page id to delete.');
+		}
+		
+		redirect('admin/pages','refresh');
+
+	}
+	
 	function submit(){
 		$data = $this->input->post();
 		$cat_ids = $data['category_ids'];
@@ -71,7 +87,7 @@ class Pages extends Admin_Controller {
 				redirect($this->agent->referrer(),'refresh');
 			}
 		}else{
-			pr($data);
+			
 			if($id = $this->page_model->insert($data)){
 				foreach($cat_ids as $k => $v){
 					$acat['page_id'] = $id;

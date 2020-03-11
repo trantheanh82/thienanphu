@@ -3,7 +3,7 @@
 	$this->load->view('admin/elements/section_header_view');
 ?>
 <?=content_open($page_name,$this)?>
-<form class="form-horizontal" role="form" action="<?=site_url('admin/pages/submit')?>" method="post" id='main_form_submit'>
+<form class="form-horizontal" role="form" action="<?=site_url('admin/services/submit')?>" method="post" id='main_form_submit'>
 <?php
 	if(isset($item->id)){
 		echo form_hidden('id',$item->id);
@@ -41,7 +41,7 @@
 		<div class='col-sm-3'>
 			
 			<div class="form-group">
-				<label for="inputEmail3" class="control-label"><?=lang("Status")?></label>
+				<label for="active" class="control-label"><?=lang("Status")?></label>
 	          <div class="checkbox">
 	            <label>
 	              <input type="checkbox" checked value="Y">
@@ -50,6 +50,7 @@
 	          </div>
 	        </div>
 	        <hr />
+	        
 	        <div class="form-group">
 			<label for="sort" class="control-label"><?=lang("Order")?></label>
 	          <div class="checkbox">
@@ -57,7 +58,6 @@
 	          </div>
 	        </div>
 	        <hr />
-	        
 	        <?php
 				if(isset($list_cats) && !empty($list_cats)):
 			?>
@@ -92,13 +92,13 @@
 					</div>
 				</div>
 				<hr />
-				
 				<?php
+					
 					endif;
 					?>
 					
 				<div class='form-group'>
-					<label for="inputEmail3" class="control-label"><?=lang("Image Pages")?></label>
+					<label for="inputEmail3" class="control-label"><?=lang("Image Service")?></label>
 		     	 	
 		     	 	<div class=''>
 		    			<?php //$this->load->view("admin/elements/modules/upload_view",array('file'=>"image",'id'=>"img",'button_name'=>lang("Upload Image"),"field_id"=>"image",'value'=>"",'multiple'=>false,'type_file'=>'articles','basic'=>true));?>

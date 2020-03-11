@@ -31,7 +31,7 @@
 					?>
 					<tr>
 						<td class='text-center'><?=$v->id?></td>
-						<td class='text-center'><a href="<?=base_url()?>admin/articles/edit/<?=$v->id?>"><img src="<?=base_url()?>assets/upload/img/thumbnail/<?=$v->image?>" /></a>
+						<td class='text-center'><a href="<?=base_url()?>admin/articles/edit/<?=$v->id?>"><?=img($v->image,TRUE,array('alt'=>$v->title,'class'=>'img-responsive','style'=>'max-width:100px'))?></a>
 						<td><a href="<?=base_url()?>admin/articles/edit/<?=$v->id?>"><?=$v->title?></a></td>
 						<td><?=$v->description?></td>
 						<td class='text-center'><?=$v->created_at?></td>

@@ -72,9 +72,9 @@ class Articles extends Admin_Controller {
 		$this->load->model('article_category_model');
 		
 		if(!empty($data['id'])){
-			pr($data);exit();
+			
 			if($this->article_model->update($data,$data['id'])){
-								
+							
 				$this->article_category_model->delete(array('article_id'=>$data['id']));
 				foreach($cat_ids as $k => $v){
 					$acat['article_id'] = $data['id'];

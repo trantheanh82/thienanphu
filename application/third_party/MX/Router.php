@@ -51,10 +51,11 @@ class MX_Router extends CI_Router
 		{
 			foreach(range(0, 2) as $v)
 			{
+				
 				isset($segments[$v]) && $segments[$v] = str_replace('-', '_', $segments[$v]);
 			}
 		}
-		
+
 		if($segments[0] == 'admin' && isset($segments[1])){
 			
 	        if (isset($segments[2])){

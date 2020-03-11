@@ -7,7 +7,7 @@
 <?=content_open($page_name,$this)?>
 	<div class='box-body'>
 		<?php
-			$this->load->view('admin/elements/ui/command_tools.php',array('command_tools'=>array('create'=>array('url'=>'admin/pages/create','name'=>lang('Create Services')))));
+			$this->load->view('admin/elements/ui/command_tools.php',array('command_tools'=>array('create'=>array('url'=>'admin/services/create','name'=>lang('Create Services')))));
 			?>
 		<table id="data" class="table table-bordered table-striped table-hover">
 		    <thead>
@@ -31,13 +31,13 @@
 					?>
 					<tr>
 						<td class='text-center'><?=$v->id?></td>
-						<td class='text-center'><a href="<?=base_url()?>admin/pages/edit/<?=$v->id?>"><img src="<?=$v->image?>" width="100"/></a>
-						<td><a href="<?=base_url()?>admin/pages/edit/<?=$v->id?>"><?=$v->name?></a></td>
-						<td><?=getSnippet($v->description,10)?> [<a href="<?=base_url()?>admin/pages/edit/<?=$v->id?>">...</a>]</td>
+						<td class='text-center'><a href="<?=base_url()?>admin/services/edit/<?=$v->id?>"><img src="<?=$v->image?>" width="100"/></a>
+						<td><a href="<?=base_url()?>admin/services/edit/<?=$v->id?>"><?=$v->name?></a></td>
+						<td><?=getSnippet($v->description,10)?> [<a href="<?=base_url()?>admin/services/edit/<?=$v->id?>">...</a>]</td>
 						<td class='text-center'><?=$v->created_at?></td>
 						<td class='text-center'><?=$v->updated_at?></td>
 						<td class='text-center'><?=$v->sort?></td>
-						<td class='text-center'><?=anchor('admin/pages/edit/'.$v->id,'<i class="fa fa-edit"></i>',array('title'=>__('Edit',$this))).' '.anchor('admin/pages/delete/'.$v->id,'<i class="fa fa-trash"></i>',array('title'=>__('Delete',$this),'class'=>'confirm_delete'))?></td>
+						<td class='text-center'><?=anchor('admin/services/edit/'.$v->id,'<i class="fa fa-edit"></i>',array('title'=>__('Edit',$this))).' '.anchor('admin/services/delete/'.$v->id,'<i class="fa fa-trash"></i>',array('title'=>__('Delete',$this),'class'=>'confirm_delete'))?></td>
 					</tr>
 				<?php
 						endforeach;

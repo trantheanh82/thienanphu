@@ -95,10 +95,10 @@ function startjs(){
     
 	//Make slug
 	$(".make_slug").keyup(function(){
+		
 	    var Text = $(this).val();
 	    Text = convertToSlug(Text);
 	    Text = change_alias(Text);
-	    console.log(Text);
 	    
 	    $("#slug").val(Text);    
 	});

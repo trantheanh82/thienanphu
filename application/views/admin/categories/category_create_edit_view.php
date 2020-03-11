@@ -21,7 +21,6 @@
 	}
 	
 	$model_type = array('article'=>'Article','page'=>'Pages','service'=>'Service');
-	echo $model;
 	
 ?>
 <form class="form-horizontal" action="<?=site_url('admin/category/submit/'.$type)?>" method="post" id='main_form_submit'>

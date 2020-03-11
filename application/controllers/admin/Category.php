@@ -46,6 +46,7 @@ class Category extends Admin_Controller {
 		$this->data['page_name'] = 'Cateogry::create';
 		
 		$this->data['item'] = $this->category_model->where('id',$id)->get();
+		$this->data['model'] = $this->data['item']->model;
 		
 		$this->render('admin/categories/category_create_edit_view');
 	}

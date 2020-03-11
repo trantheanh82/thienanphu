@@ -59,8 +59,7 @@ class Products extends Admin_Controller {
 		if(!empty($this->input->post())){
 			$data = $this->input->post();
 			$data_id = 0;
-			pr($_POST);
-			exit();
+			
 			if(isset($data['id'])){
 				$data_id = $data['id'];
 			}
