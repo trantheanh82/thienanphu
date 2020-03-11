@@ -4,7 +4,7 @@
     <div class="row">
       <div class="col-md-4 col-sm-4 footer_panel bottom25">
         <h3 class="heading bottom25">Về Thiên An Phú<span class="divider-left"></span></h3>
-        <a href="index3.html" class="footer_logo bottom25"><img src="images/logo-white.png" alt="Xwin"></a>
+        <a href="index3.html" class="footer_logo bottom25"><?=img($Settings['company_logo_footer'],array('alt'=>$Settings['company_name']))?></a>
         <p>Chuyên kinh doanh cung cấp giải pháp tổng thể công nghệ thông tin, hệ thống LAN - WAN hệ thống camera giám sát, thiết bị máy tính, máy in, toàn bộ thiết bị tổng đài.</p>
         <ul class="social_icon top25">
           <li><a href="#." class="facebook"><i class="fa fa-facebook"></i></a></li>

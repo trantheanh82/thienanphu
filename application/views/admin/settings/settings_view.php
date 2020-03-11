@@ -8,7 +8,7 @@
 				    <div class='box-body'>
 					    <form class="form-horizontal" action="<?=site_url('admin/settings/submit')?>" method="post">
 		
-					<?php 	
+					<?php 
 						foreach($form_settings as $k => $v):
 					?>	
 						<div class="form-group">
@@ -24,7 +24,7 @@
 							     	 		break;
 							     	 	case "image":
 							     	 	echo "<div>";
-							     	 		$this->load->view("admin/elements/modules/upload_image_view",array('field_id'=>$v->form_name,'id'=>$v->form_name,'value'=>$v->value,'multiple'=>false,'path'=>'/img','button_name'=>$v->form_name,'max_width'=>'200px'));
+							     	 		$this->load->view("admin/elements/modules/upload_image_view",array('type'=>'image','field_id'=>$v->form_name,'id'=>$v->form_name,'value'=>$v->value,'multiple'=>false,'path'=>'/img','button_name'=>$v->name,'max_width'=>'100px'));
 							     	 	echo "</div>";
 							     	 		break;
 							     	 	case "checkbox":
@@ -56,3 +56,4 @@
 					</div>
 				</div>
 <?=content_close()?>	
+

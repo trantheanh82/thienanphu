@@ -7,7 +7,7 @@
 
 <div class='box-body'>
 	 <?php
-			$this->load->view('admin/elements/ui/command_tools',array('command_tools'=>array('create'=>array('url'=>'admin/category/create','name'=>'
+			$this->load->view('admin/elements/ui/command_tools',array('command_tools'=>array('create'=>array('url'=>'admin/category/create/'.$model,'name'=>'
  Category'))));
 			?>
 			

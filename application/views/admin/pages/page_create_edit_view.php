@@ -51,7 +51,7 @@
 	        </div>
 	        
 	        <?php
-			if(isset($list_cats) && !empty($list_cats)):
+				if(isset($list_cats) && !empty($list_cats)):
 			?>
 				<!-- Checkbox Categories -->
 				<div class='form-group'>
@@ -92,8 +92,11 @@
 					<label for="inputEmail3" class="control-label"><?=lang("Image Pages")?></label>
 		     	 	
 		     	 	<div class=''>
-		    			<?php $this->load->view("admin/elements/modules/upload_view",array('file'=>"image",'id'=>"img",'button_name'=>lang("Upload Image"),"field_id"=>"image",'value'=>"",'multiple'=>false,'type_file'=>'articles','basic'=>true));?>
-					</div>
+		    			<?php //$this->load->view("admin/elements/modules/upload_view",array('file'=>"image",'id'=>"img",'button_name'=>lang("Upload Image"),"field_id"=>"image",'value'=>"",'multiple'=>false,'type_file'=>'articles','basic'=>true));?>
+		    			<?php
+							$this->load->view("admin/elements/modules/upload_image_view",array('type'=>'image','field_id'=>'upload_image','id'=>'image','value'=>isset($item->image)?$item->image:"",'multiple'=>false,'path'=>'/img','button_name'=>'Upload Image','max_width'=>'300px'));
+					?>
+		     	 	</div>
 				</div>
 
 		</div>

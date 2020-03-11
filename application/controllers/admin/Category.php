@@ -26,17 +26,18 @@ class Category extends Admin_Controller {
 		
 	}
 	
-	function listing(){
+	function listing($model){
 		$this->data['page_name'] = 'Category listing';
 		
-		$this->data['items'] = $this->category_model->get_all();
-		
+		$this->data['items'] = $this->category_model->where('model',$model)->get_all();
+		$this->data['model'] = $model;
 		$this->render('admin/categories/category_view');
 	}
 	
-	function create(){
+	function create($model = ""){
 		parent::__loadScriptUpload();
 		$this->data['page_name'] = 'Cateogry::create';
+		$this->data['model'] = $model;
 		$this->render('admin/categories/category_create_edit_view');
 	}
 	

@@ -57,9 +57,9 @@ class Pages extends Admin_Controller {
 			
 			if($this->page_model->update($data,$data['id'])){
 								
-				$this->page_category_model->delete(array('pages_id'=>$data['id']));
+				$this->page_category_model->delete(array('page_id'=>$data['id']));
 				foreach($cat_ids as $k => $v){
-					$acat['pages_id'] = $data['id'];
+					$acat['page_id'] = $data['id'];
 					$acat['category_id'] = $k;
 					$acat['model'] = 'page';
 					$this->page_category_model->insert($acat);
@@ -74,7 +74,7 @@ class Pages extends Admin_Controller {
 			pr($data);
 			if($id = $this->page_model->insert($data)){
 				foreach($cat_ids as $k => $v){
-					$acat['pages_id'] = $id;
+					$acat['page_id'] = $id;
 					$acat['category_id'] = $k;
 					$acat['model'] = 'page';
 					$this->page_category_model->insert($acat);

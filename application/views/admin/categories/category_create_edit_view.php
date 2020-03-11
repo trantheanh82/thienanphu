@@ -19,6 +19,10 @@
 			$checked = "";
 		}
 	}
+	
+	$model_type = array('article'=>'Article','page'=>'Pages','service'=>'Service');
+	echo $model;
+	
 ?>
 <form class="form-horizontal" action="<?=site_url('admin/category/submit/'.$type)?>" method="post" id='main_form_submit'>
 
@@ -43,8 +47,13 @@
                 <label class='control-label col-sm-2'><?=lang('Type')?></label>
                 <div class='col-sm-9'>
 		                <select class="form-control select2" name='model' style="width: 100%;">
-		                  <option value='article' <?=(isset($item) && $item->model=='article')?"selected":""?>><?=lang('Article')?></option>
-		                  <option value='page' <?=(isset($item) && $item->model=='page')?"selected":""?>><?=lang('Page')?></option>
+		                  <?php
+			                  foreach($model_type as $k => $v):
+			                  ?>
+			                   <option value='<?=$k?>' <?=(isset($item) && $item->model=='page') || ($model==$k)?"selected":""?>><?=lang($v)?></option>
+			              <?php
+				              endforeach;
+				              ?>
 		                </select>
                 </div>
               </div>

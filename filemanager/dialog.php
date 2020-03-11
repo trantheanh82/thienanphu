@@ -164,13 +164,14 @@ if (isset($_GET['multiple'])) {
 
 if (isset($_GET['callback'])) {
     $callback = strip_tags($_GET['callback']);
+    
     $_SESSION['RF']["callback"] = $callback;
 } else {
     $callback = 0;
-
     if (isset($_SESSION['RF']["callback"])) {
         $callback = $_SESSION['RF']["callback"];
     }
+   
 }
 
 $popup = isset($_GET['popup']) ? strip_tags($_GET['popup']) : 0;

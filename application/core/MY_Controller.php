@@ -5,7 +5,6 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 require APPPATH . "third_party/MX/Controller.php";
 
 class MY_Controller extends MX_Controller {
-
 	protected $data = array();
 	protected $langs = array();
 	protected $default_lang;
@@ -21,7 +20,6 @@ class MY_Controller extends MX_Controller {
         }
         
         $this->load->helper(array('url','html','cookie','language'));
-
         
         $this->load->library('session');
 

@@ -10,7 +10,7 @@
 		$value:
 	**/
 	?>
-<button type="button" class="btn btn-warning btn-sm" data-toggle="modal" data-target="#modal-default"><?=__($button_name,$this)?></button>
+<button type="button" class="btn btn-warning btn-sm" data-toggle="modal" data-target="#modal-default-<?=$field_id?>"><?=__($button_name,$this)?></button>
 <br /><br />
 <div class='image-placehold mt-10' style='max-width:<?=isset($max_width)?$max_width:"150px";?>'>
 	
@@ -18,25 +18,27 @@
 	
 	<img src="<?=($value != "")?$value:""?>" id='img_<?=$id?>' class='img-responsive profile-avatar border-trans' 
 		style='cursor:pointer;width:<?=	isset($max_width)?$max_width:"150px";?>;'
-		 data-toggle='modal' data-target='#modal-default'
+		 data-toggle='modal' data-target='#modal-default-<?=$field_id?>'
 		onerror="this.src='<?=base_url()?>assets/images/images-empty.png';"/>	
 		
-<input type='hidden' name='<?=$id?>' id='<?=$id?>' value="<?=$value?>"/>
+<input type='hidden' name='<?=$id?>' id='<?=$field_id?>' value="<?=$value?>"/>
 
 </div>
 <?php
-	$this->load->view('admin/elements/modules/modal_filemanager_view',array('modal_title'=>__('Upload Image',$this),'type'=>'image','field_id'=>$field_id,'path'=>$path));
+	$this->load->view('admin/elements/modules/modal_filemanager_view',array('modal_title'=>lang('Upload Image'),'type'=>$type,'field_id'=>$field_id,'path'=>$path));
 	?>
 	
 <script>
+	
 	function responsive_filemanager_callback(field_id){
+		console.log(field_id);
 		var url=jQuery('#'+field_id).val();
 		$('#img_<?=$id?>').attr('src',url);
-		
-		//your code
+	//your code
 	}
 	
 	$(document).ready(function(){
+		
 		$('.image-placehold').hover(
 			function(){
 				if($('#img_<?=$id?>').attr('src') != "<?=base_url()?>assets/images/images-empty.png"){
@@ -53,5 +55,5 @@
 			$('#img_<?=$id?>').attr('src','');
 			
 		})
-	})
+	});
 </script>

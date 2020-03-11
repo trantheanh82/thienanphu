@@ -30,13 +30,15 @@ echo form_hidden('type_file',$type_file);
       <i class="glyphicon glyphicon-trash"></i>
       <span>Delete selected</span>
     </button>
+   
     <input type="checkbox" class="toggle">
+     <?php 
+	    //end if basic
+	    endif;?>
     <!-- The global file processing state -->
     <span class="fileupload-process"></span>
     
-    <?php 
-	    //end if basic
-	    endif;?>
+    
     
   </div>
   <!-- The global progress state -->
