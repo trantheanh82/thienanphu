@@ -31,19 +31,18 @@
 				?>
 				<tr>
 					<td><?=$item->id?></td>
-					<td><?=empty($item->name)?"":$item->name?></td>
+					<td><?=anchor('admin/category/edit/'.$item->id,empty($item->name)?"":$item->name)?></td>
 					<td>
 						<?php
-							if($item->image):	
-						?>
-							<img src='<?=base_url()?>assets/upload/img/thumbnail/<?=$item->image?>' width='100'/>
-						<?php
-							endif;
+							if($item->image){
+								echo anchor('admin/category/	edit/'.$item->id,img($item->image,true,array('class'=>'img-responsive','style'=>'max-width:100px')));
+							}
 						?>
 					</td>
 					<td><?=$item->model?></td>
-					<td><?=$item->active?></td>
 					<td><?=$item->sort?></td>
+					
+					<td><?=$item->active?></td>	
 					
 					<td><?=$item->created_at?></td>
 					<td class='text-center'><?=anchor('admin/category/edit/'.$item->id,'<i class="fa fa-edit"></i>',array('title'=>__('Edit',$this))).' '.anchor('admin/category/delete/'.$item->id,'<i class="fa fa-trash"></i>',array('title'=>__('Delete',$this),'class'=>'confirm_delete'))?></td>

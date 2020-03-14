@@ -1103,7 +1103,7 @@ header#boxed.stick nav.navbar.bootsnav{
 }
 nav.navbar.bootsnav.navbar-fixed.no-background,
 nav.navbar.bootsnav{
-	padding:10px 0;
+	padding:0px 0;
 }
 nav.navbar.bootsnav.navbar-fixed,
 nav.navbar.bootsnav.sticked{
@@ -1135,6 +1135,10 @@ nav.navbar.bootsnav ul.nav > li > a{
   text-transform:uppercase;
   position:relative;
   overflow:hidden;
+}
+
+nav.navbar.bootsnav ul.nav > li.on > a {
+    color: #ffffff;
 }
 
 nav.navbar.bootsnav ul.nav > li > a,

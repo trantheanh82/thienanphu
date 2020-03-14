@@ -1,4 +1,7 @@
 <?php
+	$controller = $this->router->fetch_class();
+	$action = $this->router->fetch_method();
+	
 	if($is_home):
 	?>
 <div class="container">
@@ -18,7 +21,7 @@
 	        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
 	          <i class="fa fa-bars"></i>
 	        </button>
-	        <a class="navbar-brand" href="index3.html">
+	        <a class="navbar-brand" href="<?=base_url()?>">
 	        	<img src="images/logo.png?r=3993" class="logo" alt="">
 	        	<?php
 		        	echo img('assets/img/logo.png',array('class'=>'logo','alt'=>""))
@@ -27,6 +30,46 @@
 	      </div>
 	      <div class="collapse navbar-collapse" id="navbar-menu">
 	        <ul class="nav navbar-nav navbar-right" data-in="fadeInDown" data-out="fadeOut">
+		        <?php
+			        foreach($public_menu as $k =>$v):
+			        
+			        	$class = "";
+
+			        	if(!empty($v->children)){
+				        	$class .= "dropdown";
+			        	}
+			        	
+			        	if($controller == $v->controller && $action == $v->action){
+				        	$class .= " on";
+			        	}
+			    ?>
+			    <li class="<?=$class?>">
+			    	<?=anchor(isset($v->link)?$v->link:$v->slug,lang($v->name),array('title'=>$v->name))?>
+			    	<?php
+				    	//check if has children menu 
+				    	if(!empty($v->children)):
+				    		
+				    		//check if it is simple menu
+				    		if($v->type == 'simple'):
+				    	?>
+				    	<ul class="dropdown-menu">
+					    	<?php
+						    	foreach($v->children as $ck => $cv):
+						    	?>
+						    <li><?=anchor($v->slug.'/'.(isset($cv->slug)?$cv->slug:$cv->link),lang($cv->name),array('title'=>$cv->name))?></li>	
+						    <?php
+							    endforeach; 
+							    ?>
+				    	</ul>
+				    	<?php
+					    	endif;
+					    endif;
+					    	?>
+			    </li>    
+			    <?php
+		        	endforeach;
+		        ?>
+		        <!--
 	          <li class="dropdown on">
 	            <a href="<?=base_url()?>" class="dropdown-toggle" data-toggle="dropdown"><?=lang('Home')?></a>
 	          </li>
@@ -177,7 +220,7 @@
 	          </li>
 	
 	          <li><a href="contact.html">Liên hệ</a></li>
-	        </ul>
+	        </ul>-->
 	      </div>
       <?=$is_home?'':'</div>'?>
   </nav>

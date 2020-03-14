@@ -65,11 +65,29 @@ class Articles extends Admin_Controller {
 	}
 	
 	function submit(){
-		
+		$this->load->library('user_agent');
 		$data = $this->input->post();
 		$cat_ids = $data['category_ids'];
 		unset($data['category_ids']);
 		$this->load->model('article_category_model');
+		
+		$conditions = array('slug'=>$data['slug']);
+		
+		if(!empty($data['id'])){
+			$conditions = array_merge($conditions,array('id <>'=>$data['id']));
+		}
+		
+		$exist_slug = $this->article_model->where($conditions)->get();
+			
+		if(!empty($exist_slug)){
+			$data['slug'] .= "-".date('is');
+		}
+		
+		if($this->agent->referrer() == "null"){
+			$link_redirect = '/admin/news';
+		}else{
+			$link_redirect = $this->agent->referrer();
+		}
 		
 		if(!empty($data['id'])){
 			
@@ -85,7 +103,7 @@ class Articles extends Admin_Controller {
 				
 			}else{
 				$this->session->set_flashdata('error','Error occures, please try again');
-				redirect($this->agent->referrer(),'refresh');
+				redirect($link_redirect,'refresh');
 
 			}
 		}else{
@@ -98,7 +116,7 @@ class Articles extends Admin_Controller {
 				$this->session->set_flashdata('message','Article has been updated.');
 			}else{
 				$this->session->set_flashdata('error','Error occures, please try again');
-				redirect($this->agent->referrer(),'refresh');
+				redirect($link_redirect,'refresh');
 			}
 		}
 		

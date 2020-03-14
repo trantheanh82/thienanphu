@@ -20,7 +20,7 @@ CKEDITOR.editorConfig = function( config ) {
 		{ name: 'others' },
 		'/',
 		{ name: 'basicstyles', groups: [ 'basicstyles', 'cleanup' ] },
-		{ name: 'paragraph',   groups: [ 'list', 'indent', 'blocks', 'align' ] },
+		{ name: 'paragraph',   groups: [ 'list', 'indent', 'blocks','align'] },
 		{ name: 'styles' },
 		{ name: 'colors' },
 		{ name: 'about' }
@@ -36,7 +36,7 @@ CKEDITOR.editorConfig = function( config ) {
 	config.format_tags = 'p;h1;h2;h3;pre';
 
 	// Simplify the dialog windows.
-	config.removeDialogTabs = 'link:advanced;image:file';
+	config.removeDialogTabs = 'link:advanced;image:file;image:Upload';
 	
 	config.filebrowserBrowseUrl = '/thienanphu/filemanager/dialog.php?type=1&akey=abc&editor=ckeditor&fldr=';
 	config.filebrowserUploadUrl = '/thienanphu/filemanager/dialog.php?type=1&akey=abc&editor=ckeditor&fldr=';
@@ -45,7 +45,6 @@ CKEDITOR.editorConfig = function( config ) {
 	//config styleset
 	//config.stylesSet = 'my_styles';
 	
-	//config.extraPlugins = "dialogadvtab";
 	
 	//config.options.fileRoot = '/assets/upload/';
 };

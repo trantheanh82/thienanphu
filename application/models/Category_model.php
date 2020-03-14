@@ -16,4 +16,8 @@ class Category_model extends MY_Model
 
 	}
 	
+	function get_menu_category(){
+		return $this->where(array('model'=>'article','active'=>'Y','on_menu'=>'Y'))->fields(array('name','slug'))->get_all();
+	}
+	
 }

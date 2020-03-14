@@ -73,7 +73,7 @@ class Category extends Admin_Controller {
 				break;
 		}
 		
-		redirect('/admin/category','refresh');
+		redirect('/admin/category/listing/'.$this->input->post('model'),'refresh');
 	}
 	
 	function delete($id){

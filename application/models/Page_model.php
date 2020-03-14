@@ -13,5 +13,10 @@ class Page_model extends MY_Model
 
         parent::__construct();
     }
+    
+    public function get_menu_about(){
+	    
+	    return $this->where(array('on_menu'=>'Y','active'=>'Y'))->fields(array('name','slug'))->order_by('sort','ASC')->get_all();	
+    }
 
 }

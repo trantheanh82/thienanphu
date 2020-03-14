@@ -9,7 +9,7 @@ class Public_Controller extends MY_Controller{
 
 		$this->data['Settings'] = $this->__getGlobalSettings();
 
-		$this->data['public_menu'] = $this->__getGlobalMenu("front");
+		$this->data['public_menu'] = $this->__getPublicMenu();
 
 		$this->data['langs'] = $this->__getLanguages();
 
@@ -22,30 +22,37 @@ class Public_Controller extends MY_Controller{
 	* Get Global Menu
 	*
 	**/
-	function __getGlobalMenu(){
-
-		/**
-		$admin_menu = parent::__getMenus('admin');
-		if(! $admin_menu = $this->cache->get('admin_menu')){
-
-			$this->load->model('menu_model');
-			$admin_menu = parent::__getMenus('admin');
-		}
-		$this->config->load('menu');
-		$menu = $this->config->item('public');
-		return $menu;
-		**/
+	function __getPublicMenu(){
 		
 		$public_menu = $this->cache->get('public_menu');
 		
 		if(!$public_menu){
 			$this->load->model('public_menu_model');
-				$this->db->cache_on();
-			$public_menu = $this->public_menu_model->where('active','Y')->order_by('sort','ASC')->get_all();
-			$this->cache->save('public_menu',$public_menu);
+			
+			//$this->db->cache_on();
+			$public_menu = $this->public_menu_model->getTreeMenu();
+			
+			foreach($public_menu as $k => $v){
+				if($v->name == 'About us'){
+					$this->load->model('page_model');
+					$public_menu[$k]->children = $this->page_model->get_menu_about();
+				}
+				
+				if($v->name == 'Service'){
+					$this->load->model('service_model');
+					$public_menu[$k]->children = $this->service_model->get_menu_services();
+				}
+				
+				if($v->name == 'News'){
+					$this->load->model('category_model');
+					$public_menu[$k]->children = $this->category_model->get_menu_category();
+				}
+			}
+			//pr($public_menu);exit();
+			//$this->cache->save('public_menu',$public_menu);
 		}
 		
-		$this->data['public_menu'] = $public_menu;
+		return $public_menu;
 	}
 
 	function __getLanguages(){

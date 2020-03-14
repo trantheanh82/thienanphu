@@ -44,12 +44,26 @@
 				<label for="inputEmail3" class="control-label"><?=lang("Status")?></label>
 	          <div class="checkbox">
 	            <label>
-	              <input type="checkbox" checked value="Y">
-	              <?=lang("Active")?>
+	              <?=form_hidden('active','N')?>
+	              <?=form_checkbox('active','Y',(isset($item) && $item->active == 'Y'?true:false),array('class'=>'minimal'))?>
 	            </label>
 	          </div>
 	        </div>
 	        <hr />
+	        
+	        <div class="form-group">
+				<label for="inputEmail3" class="control-label"><?=lang("Home Menu")?></label>
+	          <div class="checkbox">
+	            <label>
+	              <?php
+		              echo form_hidden('on_menu','N');
+					  echo form_checkbox('on_menu','Y',(isset($item->on_menu) && $item->on_menu == 'Y'?true:false),array('class'=>'minimal'));
+	              ?>
+	            </label>
+	          </div>
+	        </div>
+	        <hr />
+	        
 	        <div class="form-group">
 			<label for="sort" class="control-label"><?=lang("Order")?></label>
 	          <div class="checkbox">
@@ -80,7 +94,7 @@
 						?>
 								<div class="checkbox">
 				                    <label>
-				                      <input type="checkbox" <?=$check?> name="category_ids[<?=$key?>]" value="<?=$value?>">
+				                      <input type="checkbox" <?=$check?> class='minimal' name="category_ids[<?=$key?>]" value="<?=$value?>">
 				                      <?=$value?>
 				                    </label>
 				                  </div>

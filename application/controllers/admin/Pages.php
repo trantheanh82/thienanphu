@@ -49,7 +49,7 @@ class Pages extends Admin_Controller {
 	function delete($id){
 		if(!empty($id)){
 			if($this->page_model->delete($id)){
-				$this->sesssion->set_flashdata('messege','The item has been deleted.');
+				$this->session->set_flashdata('messege','The item has been deleted.');
 				redirect('admin/pages','refresh');
 			}else{
 				$this->session->set_flashdata('messege','Error, please try again.');
@@ -68,7 +68,6 @@ class Pages extends Admin_Controller {
 		unset($data['category_ids']);
 		unset($data['files']);
 		$this->load->model('page_category_model');
-		
 		if(!empty($data['id'])){
 			
 			if($this->page_model->update($data,$data['id'])){

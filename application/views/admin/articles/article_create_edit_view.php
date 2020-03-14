@@ -1,25 +1,28 @@
 <?php defined('BASEPATH') OR exit('No direct script access allowed');
 
 	$this->load->view('admin/elements/section_header_view');
+	
 ?>
 <?=content_open($page_name,$this)?>
 <form class="form-horizontal" role="form" action="<?=site_url('admin/articles/submit')?>" method="post" id='main_form_submit'>
 <?php
 	echo form_hidden("id",value(isset($item->id)?$item->id:""));
+	$link_redirect = (empty($_SERVER['HTTP_REFERER'])?"/admin/articles/":$_SERVER['HTTP_REFERER']);
+	echo form_hidden("link_redirect",$link_redirect);
 ?>
 	<div class='box-body'>
 		<!-- ./col left -->
 		<div class='col-sm-9 border-right-3d'>
 			<div class='form-group'>
                     <!--<input type="input" name='title' class="form-control make_slug" id="title" placeholder="<?=lang("Title")?>">-->
-                    <?=form_input('title',value(isset($item->title)?$item->title:""),array('id'=>'title','class'=>'form-control make_slug editor cke_editable cke_editable_inline cke_contents_ltr cke_show_borders','placeholder'=>lang("Title")))?>
+                    <?=form_input('title',value(isset($item->title)?$item->title:""),array('id'=>'title','class'=>'form-control make_slug','placeholder'=>lang("Title")))?>
 			</div>
             
             <div class='form-group'>
 				<label for="inputEmail3" class="control-label"><?=lang("Slug")?></label>
 				<div class="">
 	                   <!-- <input type="input" name='slug' class="form-control slug" id="slug" placeholder="<?=lang("Slug")?>">-->
-	                    <?=form_input('slug',value(isset($item->slug)?$item->slug:""),array('class'=>'form-control slug','placeholder'=>lang("Slug")))?>
+	                    <?=form_input('slug',value(isset($item->slug)?$item->slug:""),array('class'=>'form-control slug','id'=>'slug','placeholder'=>lang("Slug")))?>
 	            </div>
 			</div>
 			
@@ -42,8 +45,11 @@
 				<label for="inputEmail3" class="control-label"><?=lang("Status")?></label>
 	          <div class="checkbox">
 	            <label>
-	              <input type="checkbox" checked value="Y">
-	              <?=lang("Active")?>
+	              <?php
+	              echo form_hidden('active','N');
+	              echo form_checkbox('active','Y',true,array('class'=>'minimal'));
+		          echo lang("Active")
+		          ?>
 	            </label>
 	          </div>
 	        </div>
@@ -76,10 +82,12 @@
 										}
 									}
 								}
+								
+								
 						?>
 								<div class="checkbox">
 				                    <label>
-				                      <input type="checkbox" <?=$check?> name="category_ids[<?=$key?>]" value="<?=$value?>">
+				                      <input type="checkbox" <?=$check?> class='minimal' name="category_ids[<?=$key?>]" value="<?=$value?>">
 				                      <?=$value?>
 				                    </label>
 				                  </div>

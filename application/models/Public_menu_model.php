@@ -13,8 +13,8 @@ class Public_menu_model extends MY_Model
 	
 	function __construct()
 	{
-		$this->before_create[] = 'delete_cache';
-		$this->before_update[] = 'delete_cache';
+		/*$this->before_create[] = 'delete_cache';
+		$this->before_update[] = 'delete_cache';*/
 		
 		$this->after_create[] = 'update_cache';
 		$this->after_update[] = 'update_cache';
@@ -33,11 +33,34 @@ class Public_menu_model extends MY_Model
 		)	
 	);
 	
-	public function delete_cache(){
-		$this->cache_delete('public_menu_model');
+	public function getTreeMenu(){
+		$items = $this->where('active','Y')->order_by(array('parent_id'=>'ASC','sort'=>'ASC'))->get_all();
+		$menus = $this->__menu(0,$items);
+		return $menus;
+	}
+	
+	public function del_cache(){
+		$this->cache_delete('public_menu');
 	}
 	
 	public function update_cache(){
 		
+	}
+	
+	private function __menu($parent_id,$children){
+		if(is_array($children)){
+			$parents = $children;
+			$items = array();
+			foreach($children as $k => $v){
+				if($children[$k]->parent_id == $parent_id){
+					unset($parents[$k]);
+					$items[$k] = $v;
+					$items[$k]->children = $this->__menu($v->id,$parents);
+				}
+			}
+			return $items;
+		}else{
+			return;
+		}
 	}
 }

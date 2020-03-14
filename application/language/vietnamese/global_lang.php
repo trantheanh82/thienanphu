@@ -61,3 +61,20 @@ $lang['Date']				=	"Ngày";
 $lang['Print']				=	"In";
 $lang['Generate PDF']		=	"Tạo file PDF";
 
+/*Menu*/
+$lang['Home']				= "Trang chủ";
+$lang['About us']				= "Giới thiệu";
+$lang['Solutions']			=	"Giải pháp";
+$lang['Service']			= "Dịch vụ";
+$lang['Manufactures']		=	"Hãng Sản Xuất";
+$lang['News']				=	"Tin tức";
+$lang['Contact']			=	"Liên hệ";
+$lang['Trade Services']		=	"Thương mại dịch vụ";
+$lang['Activities']			=	"Lĩnh vực hoạt động";
+
+// Menu News
+$lang['Activity news']		=	"Tin Hoạt động";
+$lang['Technology']			=	"Tin Công nghệ";
+$lang['Events']				=	"Sự kiện";
+$lang['Press']				=	"Góc báo chí";
+

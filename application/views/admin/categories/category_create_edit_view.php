@@ -24,61 +24,31 @@
 	
 ?>
 <form class="form-horizontal" action="<?=site_url('admin/category/submit/'.$type)?>" method="post" id='main_form_submit'>
-
+	<?php
+		if(isset($item)){
+			echo form_hidden('id',$item->id);
+		}
+		echo form_hidden('refere_url',base_url(uri_string()));
+		?>	
 	<div class='box-body'>
-		
-			<div class='form-group'>
-	            <label class='control-label col-sm-2' for='active'>Active</label>
-	            <div class='col-sm-9'>
-
-	            <?php 
-		            echo "<input name='active'  id='active' type='hidden'  value='N'/>";
-		     	 	echo form_checkbox('active','Y',$checked);
-		     	 	if(isset($item->id)){
-			     	 	echo form_hidden('id',$item->id);
-		     	 	}
-
-	            ?>
-	            </div>
-            </div>
-            
-            <div class="form-group">
-                <label class='control-label col-sm-2'><?=lang('Type')?></label>
-                <div class='col-sm-9'>
-		                <select class="form-control select2" name='model' style="width: 100%;">
-		                  <?php
-			                  foreach($model_type as $k => $v):
-			                  ?>
-			                   <option value='<?=$k?>' <?=(isset($item) && $item->model=='page') || ($model==$k)?"selected":""?>><?=lang($v)?></option>
-			              <?php
-				              endforeach;
-				              ?>
-		                </select>
-                </div>
-              </div>
-            
+		<div class='col-md-9 border-right-3d'>
 			<div class="form-group">
 				 <label class="control-label col-sm-2" for="pwd">Name</label>
 				 <div class='col-sm-9'>
 					<?php
-						 echo form_input('name',value(isset($item->name)?$item->name:""),'class="form-control"');
+						 echo form_input('name',value(isset($item->name)?$item->name:""),'class="form-control make_slug"');
 					?>
 				 </div>
             </div>
             
-            
             <div class='form-group'>
-	            <label class="control-label col-sm-2" for="pwd">Images (1280x720)</label>
-				 <div class='col-sm-9'>
-					<p style="padding-bottom:10px;"></p>
-		     	 	<?php	
-		    			$this->load->view('admin/elements/fileupload_view.php',array('file'=>'image','id'=>'Banner_image','value'=>'','multiple'=>false));
-		    		?>
-				 </div>
-            </div> 
-            
-            
-            
+				<label for="inputEmail3" class="control-label  col-sm-2"><?=lang("Slug")?></label>
+				<div class="col-sm-9">
+	                   <!-- <input type="input" name='slug' class="form-control slug" id="slug" placeholder="<?=lang("Slug")?>">-->
+	                    <?=form_input('slug',value(isset($item->slug)?$item->slug:""),array('class'=>'form-control slug','id'=>'slug','placeholder'=>lang("Slug")))?>
+	            </div>
+			</div>
+                        
             <div class='form-group'>
 	            <label class="control-label col-sm-2" for="pwd">Description</label>
 				 <div class='col-sm-9'>
@@ -96,7 +66,60 @@
             </div>
                         
             
-		
+		</div>
+		<div class='col-md-3'>
+			<div class="form-group">
+				<label for="inputEmail3" class="control-label"><?=lang("Status")?></label>
+	          <div class="checkbox">
+	            <label>
+	              <?=form_hidden('active','N')?>
+	              <?=form_checkbox('active','Y',(isset($item) && $item->active == 'Y'?true:false),array('class'=>'minimal'))?>
+	            </label>
+	          </div>
+	        </div>
+	        <hr />
+	        
+	        <div class="form-group">
+				<label for="inputEmail3" class="control-label"><?=lang("Home Menu")?></label>
+	          <div class="checkbox">
+	            <label>
+	              <?php
+		              echo form_hidden('on_menu','N');
+					  echo form_checkbox('on_menu','Y',(isset($item->on_menu) && $item->on_menu == 'Y'?true:false),array('class'=>'minimal'));
+	              ?>
+	            </label>
+	          </div>
+	        </div>
+	        <hr />
+
+            
+            <div class="form-group">
+                <label class='control-label'><?=lang('Type')?></label>
+	                <select class="form-control select2" name='model' style="width: 100%;">
+	                  <?php
+		                  foreach($model_type as $k => $v):
+		                  ?>
+		                   <option value='<?=$k?>' <?=isset($item) && ($model==$k)?"selected":""?>><?=lang($v)?></option>
+		              <?php
+			              endforeach;
+			              ?>
+	                </select>
+              </div>
+              <hr />
+              
+              <div class='form-group'>
+					<label for="inputEmail3" class="control-label"><?=lang("Image Pages")?></label>
+		     	 	
+		     	 	<div class=''>
+		    			<?php //$this->load->view("admin/elements/modules/upload_view",array('file'=>"image",'id'=>"img",'button_name'=>lang("Upload Image"),"field_id"=>"image",'value'=>"",'multiple'=>false,'type_file'=>'articles','basic'=>true));?>
+		    			<?php
+							$this->load->view("admin/elements/modules/upload_image_view",array('type'=>'image','field_id'=>'upload_image','id'=>'image','value'=>isset($item->image)?$item->image:"",'multiple'=>false,'path'=>'/img','button_name'=>'Upload Image','max_width'=>'300px'));
+					?>
+		     	 	</div>
+				</div>
+				<hr />
+
+		</div>
 	</div>
 	
 	<!--./box-footer -->
