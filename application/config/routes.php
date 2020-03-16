@@ -98,10 +98,13 @@ $route['^(\w{2})/filenamager/^(.*)'] = '/filemanager/$2';
 $route['^(\w{2})$'] = $route['default_controller'];
 $route['^(\w{2})/admin'] = '/admin/dashboard';
 
+$route['^(\w{2})/pages/(.*)'] = '/pages/index/$2';
 
 $route['^(\w{2})/news/(.*)/([\d]+)'] = '/news/index/$2/$3';
 $route['^(\w{2})/news/(.*)/([\d]+)-(.*)'] = '/news/detail/$2/$3/$4';
 $route['^(\w{2})/news/(.*)'] = '/news/index/$2';
+
+$route['(\w{2})/services/(.*)'] = '/services/view/$2';
 
 $route['^(\w{2})/(.*)'] = '$2';
 

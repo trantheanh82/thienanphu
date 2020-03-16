@@ -54,6 +54,14 @@ class Services extends Admin_Controller {
 			$data['slug'] .= "-".date('Ymdhis');		
 		}
 		
+		if(empty($data['meta_title'])){
+			$data['meta_title'] = $data['name'];
+		}
+		
+		if(empty($data['meta_description'])){
+			$data['meta_description'] = strip_tags($data['description']);
+		}
+		
 		if(!empty($data['id'])){
 			
 			if($this->service_model->update($data,$data['id'])){

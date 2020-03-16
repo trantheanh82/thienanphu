@@ -75,107 +75,15 @@
       <!-- end of articles -->
       <div class="col-md-4	">
         <aside class="sidebar bg_grey border-radius wow fadeIn" data-wow-delay="300ms">
-          <div class="widget heading_space">
-            <form class="widget_search border-radius">
-              <div class="input-group">
-                <input type="search" class="form-control" placeholder="Tìm kiếm" required>
-                <i class="input-group-addon icon-icons185"></i>
-              </div>
-            </form>
-          </div>
-          <div class="widget heading_space">
-            <h3 class="bottom20">Tin tức khác</h3>
-            <div class="media">
-              <div class="media-body">
-                <a href="#."><h5 class="bottom5">Tin công nghệ</h5></a>
-              </div>
-            </div>
-            <div class="media">
-              <div class="media-body">
-                <a href="#."><h5 class="bottom5">Tin hoạt động</h5></a>
-              </div>
-            </div>
-            <div class="media">
-              <div class="media-body">
-                <a href="#."><h5 class="bottom5">Tin sự kiện</h5></a>
-              </div>
-            </div>
-            <div class="media">
-              <div class="media-body">
-                <a href="#."><h5 class="bottom5">Góc báo chí</h5></a>
-              </div>
-            </div>
-          </div>
+          <?=$this->load->view('elements/modules/module_search')?>
           
-          <!-- Dịch vụ -->
-          <div class="widget heading_space">
-          	<h3 class="bottom20">Dịch vụ</h3>
-	          <div class="media">
-	            <a class="media-left" href="#."><img src="images/service-deploy.jpg" width=100 alt="post"></a>
-	            <div class="media-body">
-	              <a href='#.'><h5 class="bottom5">Cho thuê thiết bị CNTT</h5></a>
-	              <p>Cung cấp thiết bị CNTT dài hạn</p>
-	              <a href="#." class="btn-primary border_radius bottom5">chi tiết</a>            </div>
-	          </div>
-	          <div class="media">
-	            <a class="media-left" href="#."><img src="images/service-shipping.jpg" width=100 alt="post"></a>
-	            <div class="media-body">
-	              <a href='#.'><h5 class="bottom5">DI DỜI HỆ THỐNG CNTT</h5></a>
-	              <p>Vận chuyển cơ sở hạ tầng CNTT</p>
-	              <a href="#." class="btn-primary border_radius bottom5">chi tiết</a>            </div>
-	          </div>
-	          <div class="media">
-	            <a class="media-left" href="#."><img src="images/service-guarantee.jpg" width=100 alt="post"></a>
-	            <div class="media-body">
-	              <a href='#.'><h5 class="bottom5">QUẢN TRỊ & VẬN HÀNH HỆ THỐNG CNTT</h5></a>
-	              <p>Cung cấp thiết bị CNTT dài hạn</p>
-	              <a href="#." class="btn-primary border_radius bottom5">chi tiết</a>            </div>
-	          </div>
-        </div>
-        
-        <div class="widget heading_space">
-          <h3 class="bottom20">Sản phẩm & Giải pháp</h3>
-          <div class="media">
-            <a class="media-left" href="#."><img src="images/service-deploy.jpg" width=100 alt="post"></a>
-            <div class="media-body">
-              <a href='#.'><h5 class="bottom5">Phần mềm tích hợp</h5></a>
-              <p>Cung cấp thiết bị CNTT dài hạn</p>
-              <a href="#." class="btn-primary border_radius bottom5">chi tiết</a>            </div>
-          </div>
-          <div class="media">
-            <a class="media-left" href="#."><img src="images/service-shipping.jpg" width=100 alt="post"></a>
-            <div class="media-body">
-              <a href='#.'><h5 class="bottom5">Giải pháp Bảo mật</h5></a>
-              <p>Vận chuyển cơ sở hạ tầng CNTT</p>
-              <a href="#." class="btn-primary border_radius bottom5">chi tiết</a>            </div>
-          </div>
-          <div class="media">
-            <a class="media-left" href="#."><img src="images/service-guarantee.jpg" width=100 alt="post"></a>
-            <div class="media-body">
-              <a href='#.'><h5 class="bottom5">Giải pháp Dữ liệu</h5></a>
-              <p>Cung cấp thiết bị CNTT dài hạn</p>
-              <a href="#." class="btn-primary border_radius bottom5">chi tiết</a>            </div>
-          </div>
-        </div>
-
-          <!-- ./end dịch vụ -->
+          <?=$this->load->view('elements/modules/module_news_categories',array('categories'=>$other_category))?>
           
-          <div class="widget heading_space">
-            <h3 class="bottom20">Top Tags</h3>
-            <ul class="tags">
-              <li><a href="#.">Books</a></li>
-              <li><a href="#.">Midterm test </a></li>
-              <li><a href="#.">Presentation</a></li>
-              <li><a href="#.">Courses</a></li>
-              <li><a href="#.">Certifications</a></li>
-              <li><a href="#.">Teachers</a></li>
-              <li><a href="#.">Student Life</a></li>
-              <li><a href="#.">Study</a></li>
-              <li><a href="#.">Midterm test </a></li>
-              <li><a href="#.">Presentation</a></li>
-              <li><a href="#.">Courses</a></li>
-            </ul>
-          </div>
+          <?=$this->load->view('elements/modules/module_services',array('module_services'=>$module_services))?>
+		  
+		  <?=$this->load->view('elements/modules/module_solutions')?>
+		  
+          <?=$this->load->view('elements/modules/module_tags')?>
         </aside>
       </div>
     </div>

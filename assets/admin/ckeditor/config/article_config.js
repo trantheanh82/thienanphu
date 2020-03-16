@@ -44,7 +44,11 @@ CKEDITOR.editorConfig = function( config ) {
 	
 	//config styleset
 	//config.stylesSet = 'my_styles';
-	
-	
+	config.allowedContent = true;
+	config.extraAllowedContent = 'div(*)';
+
+	config.extraPlugins = 'stylesheetparser';
+   config.contentsCss = '/thienanphu/assets/admin/css/forckeditor.css';
+   config.stylesSet = [];
 	//config.options.fileRoot = '/assets/upload/';
 };

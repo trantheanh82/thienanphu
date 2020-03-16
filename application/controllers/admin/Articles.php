@@ -78,6 +78,14 @@ class Articles extends Admin_Controller {
 		}
 		
 		$exist_slug = $this->article_model->where($conditions)->get();
+		
+		if(empty($data['meta_title'])){
+			$data['meta_title'] = $data['title'];
+		}
+		
+		if(empty($data['meta_description'])){
+			$data['meta_description'] = strip_tags($data['description']);
+		}
 			
 		if(!empty($exist_slug)){
 			$data['slug'] .= "-".date('is');

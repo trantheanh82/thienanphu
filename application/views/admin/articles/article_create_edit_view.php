@@ -37,6 +37,28 @@
 				<?php echo form_textarea('content',value(isset($item->content)?$item->content:""),array('class'=>'form-control article-editor','id'=>'article','contenteditable'=>true,'style'=>'width:100%;border:1px solid #333'));?>
             </div>
             
+            <!-- Meta tags -->
+            <hr />
+            <div class="">
+            	<h3><?=lang('Meta Tags')?></h3>
+            </div>
+            
+            <div class='form-group'>
+				<label for="input" class="control-label"><?=lang("Meta title")?></label>
+				<div class="">
+	                   <!-- <input type="input" name='slug' class="form-control slug" id="slug" placeholder="<?=lang("Slug")?>">-->
+	                    <?=form_input('meta_title',value(isset($item->meta_title)?$item->meta_title:""),array('class'=>'form-control','id'=>'meta_title','placeholder'=>lang("meta title")))?>
+	            </div>
+			</div>
+			
+			<div class='form-group'>
+				<label for="inputEmail3" class="control-label"><?=lang("Meta description")?></label>
+				<div class="">
+					<?php echo form_textarea('meta_description',value(isset($item->meta_description)?$item->meta_description:""),array('class'=>'form-control','id'=>'meta_description'));?>
+	            </div>
+			</div>
+			<!-- Meta tags -->
+            
 		</div>
 		<!-- ./col right -->
 		<div class='col-sm-3'>

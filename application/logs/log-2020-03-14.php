@@ -25720,3 +25720,9966 @@ INFO - 2020-03-14 13:09:16 --> Model "Page_model" initialized
 INFO - 2020-03-14 13:09:16 --> Model "Category_model" initialized
 INFO - 2020-03-14 13:09:16 --> Model "Article_model" initialized
 ERROR - 2020-03-14 13:09:16 --> Severity: Warning --> A non-numeric value encountered /Volumes/Betrai/www/thienanphu/application/controllers/News.php 18
+INFO - 2020-03-14 14:16:20 --> Config Class Initialized
+INFO - 2020-03-14 14:16:20 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:16:20 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:16:20 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:16:20 --> Config Class Initialized
+INFO - 2020-03-14 14:16:20 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:16:20 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:16:20 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:16:20 --> URI Class Initialized
+INFO - 2020-03-14 14:16:20 --> URI Class Initialized
+INFO - 2020-03-14 14:16:20 --> Router Class Initialized
+INFO - 2020-03-14 14:16:20 --> Router Class Initialized
+INFO - 2020-03-14 14:16:20 --> Output Class Initialized
+INFO - 2020-03-14 14:16:20 --> Output Class Initialized
+INFO - 2020-03-14 14:16:20 --> Security Class Initialized
+INFO - 2020-03-14 14:16:20 --> Security Class Initialized
+DEBUG - 2020-03-14 14:16:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:16:20 --> Input Class Initialized
+DEBUG - 2020-03-14 14:16:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:16:21 --> Input Class Initialized
+DEBUG - 2020-03-14 14:16:21 --> Language_Identifier Class Initialized
+DEBUG - 2020-03-14 14:16:21 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:16:21 --> Language Class Initialized
+INFO - 2020-03-14 14:16:21 --> Config Class Initialized
+INFO - 2020-03-14 14:16:21 --> Language Class Initialized
+INFO - 2020-03-14 14:16:21 --> Config Class Initialized
+INFO - 2020-03-14 14:16:21 --> Loader Class Initialized
+INFO - 2020-03-14 14:16:21 --> Loader Class Initialized
+INFO - 2020-03-14 14:16:21 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:16:21 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:16:21 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:16:21 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:16:21 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:16:21 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:16:22 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:16:22 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:16:22 --> Controller Class Initialized
+INFO - 2020-03-14 14:16:22 --> Controller Class Initialized
+DEBUG - 2020-03-14 14:16:22 --> Home MX_Controller Initialized
+DEBUG - 2020-03-14 14:16:22 --> Home MX_Controller Initialized
+INFO - 2020-03-14 14:16:22 --> Helper loaded: html_helper
+INFO - 2020-03-14 14:16:22 --> Helper loaded: html_helper
+INFO - 2020-03-14 14:16:22 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 14:16:22 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 14:16:22 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 14:16:22 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 14:16:22 --> Helper loaded: file_helper
+INFO - 2020-03-14 14:16:22 --> Helper loaded: file_helper
+INFO - 2020-03-14 14:16:22 --> MY_Model class loaded
+INFO - 2020-03-14 14:16:22 --> MY_Model class loaded
+INFO - 2020-03-14 14:16:22 --> Model "Language_model" initialized
+INFO - 2020-03-14 14:16:22 --> Model "Language_model" initialized
+INFO - 2020-03-14 14:16:22 --> Language file loaded: language/vietnamese/home_lang.php
+INFO - 2020-03-14 14:16:22 --> Language file loaded: language/vietnamese/home_lang.php
+INFO - 2020-03-14 14:16:22 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 14:16:22 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 14:16:22 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 14:16:22 --> Model "Setting_model" initialized
+INFO - 2020-03-14 14:16:22 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 14:16:22 --> Model "Setting_model" initialized
+INFO - 2020-03-14 14:16:22 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 14:16:23 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 14:16:23 --> Model "Page_model" initialized
+INFO - 2020-03-14 14:16:23 --> Model "Page_model" initialized
+INFO - 2020-03-14 14:16:23 --> Model "Category_model" initialized
+INFO - 2020-03-14 14:16:23 --> Model "Category_model" initialized
+DEBUG - 2020-03-14 14:16:23 --> File loaded: /Volumes/Betrai/www/thienanphu/application/modules/sliders/models/Slider_model.php
+DEBUG - 2020-03-14 14:16:23 --> File loaded: /Volumes/Betrai/www/thienanphu/application/modules/sliders/models/Slider_model.php
+DEBUG - 2020-03-14 14:16:23 --> File loaded: /Volumes/Betrai/www/thienanphu/application/modules/sliders/views/elements/module_sliders.php
+DEBUG - 2020-03-14 14:16:23 --> File loaded: /Volumes/Betrai/www/thienanphu/application/modules/sliders/views/elements/module_sliders.php
+DEBUG - 2020-03-14 14:16:23 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_about.php
+DEBUG - 2020-03-14 14:16:23 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_about.php
+DEBUG - 2020-03-14 14:16:23 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_parallax.php
+DEBUG - 2020-03-14 14:16:23 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_parallax.php
+DEBUG - 2020-03-14 14:16:23 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_product_solution.php
+DEBUG - 2020-03-14 14:16:23 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_product_solution.php
+DEBUG - 2020-03-14 14:16:23 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_parallax.php
+DEBUG - 2020-03-14 14:16:23 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_parallax.php
+ERROR - 2020-03-14 14:16:23 --> Could not find the language line "Services"
+ERROR - 2020-03-14 14:16:23 --> Could not find the language line "Services"
+ERROR - 2020-03-14 14:16:23 --> Could not find the language line "Services"
+ERROR - 2020-03-14 14:16:23 --> Could not find the language line "Services"
+DEBUG - 2020-03-14 14:16:23 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_services.php
+ERROR - 2020-03-14 14:16:23 --> Could not find the language line "Services"
+ERROR - 2020-03-14 14:16:23 --> Could not find the language line "Services"
+ERROR - 2020-03-14 14:16:23 --> Could not find the language line "Services"
+ERROR - 2020-03-14 14:16:23 --> Could not find the language line "Services"
+DEBUG - 2020-03-14 14:16:23 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_services.php
+DEBUG - 2020-03-14 14:16:23 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_funfact.php
+DEBUG - 2020-03-14 14:16:23 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_funfact.php
+DEBUG - 2020-03-14 14:16:23 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php
+DEBUG - 2020-03-14 14:16:23 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php
+DEBUG - 2020-03-14 14:16:23 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/default/home/index_view.php
+DEBUG - 2020-03-14 14:16:23 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/default/home/index_view.php
+ERROR - 2020-03-14 14:16:23 --> Could not find the language line "Giới thiệu"
+ERROR - 2020-03-14 14:16:23 --> Could not find the language line "Giới thiệu"
+ERROR - 2020-03-14 14:16:23 --> Could not find the language line "Dịch vụ thương mại"
+ERROR - 2020-03-14 14:16:23 --> Could not find the language line "Dịch vụ thương mại"
+ERROR - 2020-03-14 14:16:23 --> Could not find the language line "Lĩnh vực hoạt động"
+ERROR - 2020-03-14 14:16:23 --> Could not find the language line "Lĩnh vực hoạt động"
+ERROR - 2020-03-14 14:16:23 --> Could not find the language line "Services"
+ERROR - 2020-03-14 14:16:23 --> Could not find the language line "Services"
+ERROR - 2020-03-14 14:16:23 --> Could not find the language line "Tin Hoạt Động"
+ERROR - 2020-03-14 14:16:23 --> Could not find the language line "Tin Hoạt Động"
+ERROR - 2020-03-14 14:16:23 --> Could not find the language line "Tin Công Nghệ"
+ERROR - 2020-03-14 14:16:23 --> Could not find the language line "Tin Công Nghệ"
+ERROR - 2020-03-14 14:16:23 --> Could not find the language line "Sự Kiện"
+ERROR - 2020-03-14 14:16:23 --> Could not find the language line "Sự Kiện"
+ERROR - 2020-03-14 14:16:23 --> Could not find the language line "Góc báo chí"
+ERROR - 2020-03-14 14:16:23 --> Could not find the language line "Góc báo chí"
+DEBUG - 2020-03-14 14:16:23 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/mega_menu.php
+DEBUG - 2020-03-14 14:16:23 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/mega_menu.php
+ERROR - 2020-03-14 14:16:23 --> Could not find the language line "Search"
+ERROR - 2020-03-14 14:16:23 --> Could not find the language line "Search"
+DEBUG - 2020-03-14 14:16:23 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_header_view.php
+DEBUG - 2020-03-14 14:16:23 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_header_view.php
+DEBUG - 2020-03-14 14:16:23 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_footer_view.php
+DEBUG - 2020-03-14 14:16:23 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/master_view.php
+DEBUG - 2020-03-14 14:16:23 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_footer_view.php
+DEBUG - 2020-03-14 14:16:23 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/master_view.php
+INFO - 2020-03-14 14:16:23 --> Final output sent to browser
+DEBUG - 2020-03-14 14:16:23 --> Total execution time: 3.3467
+INFO - 2020-03-14 14:16:23 --> Final output sent to browser
+DEBUG - 2020-03-14 14:16:23 --> Total execution time: 3.1956
+INFO - 2020-03-14 14:16:23 --> Config Class Initialized
+INFO - 2020-03-14 14:16:23 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:16:23 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:16:23 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:16:23 --> URI Class Initialized
+INFO - 2020-03-14 14:16:24 --> Router Class Initialized
+INFO - 2020-03-14 14:16:24 --> Output Class Initialized
+INFO - 2020-03-14 14:16:24 --> Security Class Initialized
+DEBUG - 2020-03-14 14:16:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:16:24 --> Input Class Initialized
+DEBUG - 2020-03-14 14:16:24 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:16:24 --> Language Class Initialized
+INFO - 2020-03-14 14:16:24 --> Config Class Initialized
+INFO - 2020-03-14 14:16:24 --> Loader Class Initialized
+INFO - 2020-03-14 14:16:24 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:16:24 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:16:24 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:16:24 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:16:24 --> Controller Class Initialized
+INFO - 2020-03-14 14:16:24 --> Config Class Initialized
+INFO - 2020-03-14 14:16:24 --> Hooks Class Initialized
+INFO - 2020-03-14 14:16:24 --> Config Class Initialized
+INFO - 2020-03-14 14:16:24 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:16:24 --> UTF-8 Support Enabled
+DEBUG - 2020-03-14 14:16:24 --> UTF-8 Support Enabled
+ERROR - 2020-03-14 14:16:24 --> 404 Page Not Found: /index
+INFO - 2020-03-14 14:16:24 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:16:24 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:16:24 --> URI Class Initialized
+INFO - 2020-03-14 14:16:24 --> URI Class Initialized
+INFO - 2020-03-14 14:16:24 --> Router Class Initialized
+INFO - 2020-03-14 14:16:24 --> Router Class Initialized
+INFO - 2020-03-14 14:16:24 --> Output Class Initialized
+INFO - 2020-03-14 14:16:24 --> Output Class Initialized
+INFO - 2020-03-14 14:16:24 --> Security Class Initialized
+INFO - 2020-03-14 14:16:24 --> Security Class Initialized
+DEBUG - 2020-03-14 14:16:24 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-03-14 14:16:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:16:24 --> Input Class Initialized
+INFO - 2020-03-14 14:16:24 --> Input Class Initialized
+DEBUG - 2020-03-14 14:16:24 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:16:24 --> Language Class Initialized
+INFO - 2020-03-14 14:16:24 --> Config Class Initialized
+DEBUG - 2020-03-14 14:16:24 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:16:24 --> Loader Class Initialized
+INFO - 2020-03-14 14:16:24 --> Language Class Initialized
+INFO - 2020-03-14 14:16:24 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:16:24 --> Config Class Initialized
+INFO - 2020-03-14 14:16:24 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:16:24 --> Loader Class Initialized
+INFO - 2020-03-14 14:16:24 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:16:24 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:16:24 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:16:24 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:16:24 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:16:24 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:16:24 --> Controller Class Initialized
+ERROR - 2020-03-14 14:16:24 --> 404 Page Not Found: /index
+INFO - 2020-03-14 14:16:24 --> Controller Class Initialized
+ERROR - 2020-03-14 14:16:24 --> 404 Page Not Found: /index
+INFO - 2020-03-14 14:16:28 --> Config Class Initialized
+INFO - 2020-03-14 14:16:28 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:16:28 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:16:28 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:16:28 --> URI Class Initialized
+INFO - 2020-03-14 14:16:28 --> Router Class Initialized
+INFO - 2020-03-14 14:16:28 --> Output Class Initialized
+INFO - 2020-03-14 14:16:28 --> Security Class Initialized
+DEBUG - 2020-03-14 14:16:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:16:28 --> Input Class Initialized
+DEBUG - 2020-03-14 14:16:28 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:16:28 --> Language Class Initialized
+INFO - 2020-03-14 14:16:28 --> Config Class Initialized
+INFO - 2020-03-14 14:16:28 --> Loader Class Initialized
+INFO - 2020-03-14 14:16:28 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:16:28 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:16:28 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:16:28 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:16:28 --> Controller Class Initialized
+DEBUG - 2020-03-14 14:16:28 --> Services MX_Controller Initialized
+INFO - 2020-03-14 14:16:28 --> Helper loaded: html_helper
+INFO - 2020-03-14 14:16:28 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 14:16:28 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 14:16:28 --> Helper loaded: file_helper
+INFO - 2020-03-14 14:16:28 --> MY_Model class loaded
+INFO - 2020-03-14 14:16:28 --> Model "Language_model" initialized
+ERROR - 2020-03-14 14:16:28 --> Language file contains no data: language/vietnamese/services_lang.php
+INFO - 2020-03-14 14:16:28 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 14:16:28 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 14:16:28 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 14:16:28 --> Model "Page_model" initialized
+INFO - 2020-03-14 14:16:28 --> Model "Category_model" initialized
+INFO - 2020-03-14 14:16:28 --> Model "Service_model" initialized
+ERROR - 2020-03-14 14:16:28 --> Language file contains no data: language/vietnamese/services_lang.php
+ERROR - 2020-03-14 14:16:28 --> Could not find the language line "Find out"
+ERROR - 2020-03-14 14:16:28 --> Could not find the language line "Find out"
+ERROR - 2020-03-14 14:16:28 --> Could not find the language line "Find out"
+ERROR - 2020-03-14 14:16:28 --> Could not find the language line "Find out"
+DEBUG - 2020-03-14 14:16:28 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/default/services/service_view.php
+DEBUG - 2020-03-14 14:16:29 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/top_bar.php
+ERROR - 2020-03-14 14:16:29 --> Could not find the language line "Giới thiệu"
+ERROR - 2020-03-14 14:16:29 --> Could not find the language line "Dịch vụ thương mại"
+ERROR - 2020-03-14 14:16:29 --> Could not find the language line "Lĩnh vực hoạt động"
+ERROR - 2020-03-14 14:16:29 --> Could not find the language line "Services"
+ERROR - 2020-03-14 14:16:29 --> Could not find the language line "Tin Hoạt Động"
+ERROR - 2020-03-14 14:16:29 --> Could not find the language line "Tin Công Nghệ"
+ERROR - 2020-03-14 14:16:29 --> Could not find the language line "Sự Kiện"
+ERROR - 2020-03-14 14:16:29 --> Could not find the language line "Góc báo chí"
+DEBUG - 2020-03-14 14:16:29 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/mega_menu.php
+ERROR - 2020-03-14 14:16:29 --> Could not find the language line "Search"
+ERROR - 2020-03-14 14:16:29 --> Could not find the language line "services"
+DEBUG - 2020-03-14 14:16:29 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/page_header.php
+DEBUG - 2020-03-14 14:16:29 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_header_view.php
+DEBUG - 2020-03-14 14:16:29 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_footer_view.php
+DEBUG - 2020-03-14 14:16:29 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/master_view.php
+INFO - 2020-03-14 14:16:29 --> Final output sent to browser
+DEBUG - 2020-03-14 14:16:29 --> Total execution time: 0.1639
+INFO - 2020-03-14 14:16:29 --> Config Class Initialized
+INFO - 2020-03-14 14:16:29 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:16:29 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:16:29 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:16:29 --> URI Class Initialized
+INFO - 2020-03-14 14:16:29 --> Config Class Initialized
+INFO - 2020-03-14 14:16:29 --> Router Class Initialized
+INFO - 2020-03-14 14:16:29 --> Output Class Initialized
+INFO - 2020-03-14 14:16:29 --> Security Class Initialized
+DEBUG - 2020-03-14 14:16:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:16:29 --> Input Class Initialized
+INFO - 2020-03-14 14:16:29 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:16:29 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:16:29 --> Utf8 Class Initialized
+DEBUG - 2020-03-14 14:16:29 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:16:29 --> Language Class Initialized
+INFO - 2020-03-14 14:16:29 --> Config Class Initialized
+INFO - 2020-03-14 14:16:29 --> Loader Class Initialized
+INFO - 2020-03-14 14:16:29 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:16:29 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:16:29 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:16:29 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:16:29 --> URI Class Initialized
+INFO - 2020-03-14 14:16:29 --> Router Class Initialized
+INFO - 2020-03-14 14:16:29 --> Output Class Initialized
+INFO - 2020-03-14 14:16:29 --> Security Class Initialized
+DEBUG - 2020-03-14 14:16:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:16:29 --> Controller Class Initialized
+INFO - 2020-03-14 14:16:29 --> Input Class Initialized
+ERROR - 2020-03-14 14:16:29 --> 404 Page Not Found: /index
+DEBUG - 2020-03-14 14:16:29 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:16:29 --> Language Class Initialized
+INFO - 2020-03-14 14:16:29 --> Config Class Initialized
+INFO - 2020-03-14 14:16:29 --> Loader Class Initialized
+INFO - 2020-03-14 14:16:29 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:16:29 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:16:29 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:16:29 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:16:29 --> Controller Class Initialized
+ERROR - 2020-03-14 14:16:29 --> 404 Page Not Found: /index
+INFO - 2020-03-14 14:16:33 --> Config Class Initialized
+INFO - 2020-03-14 14:16:33 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:16:33 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:16:33 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:16:33 --> URI Class Initialized
+INFO - 2020-03-14 14:16:33 --> Router Class Initialized
+INFO - 2020-03-14 14:16:33 --> Output Class Initialized
+INFO - 2020-03-14 14:16:33 --> Security Class Initialized
+DEBUG - 2020-03-14 14:16:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:16:33 --> Input Class Initialized
+DEBUG - 2020-03-14 14:16:33 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:16:33 --> Language Class Initialized
+INFO - 2020-03-14 14:16:33 --> Config Class Initialized
+INFO - 2020-03-14 14:16:33 --> Loader Class Initialized
+INFO - 2020-03-14 14:16:33 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:16:33 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:16:33 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:16:33 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:16:33 --> Controller Class Initialized
+ERROR - 2020-03-14 14:16:33 --> 404 Page Not Found: /index
+INFO - 2020-03-14 14:17:02 --> Config Class Initialized
+INFO - 2020-03-14 14:17:02 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:17:02 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:17:02 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:17:02 --> URI Class Initialized
+INFO - 2020-03-14 14:17:02 --> Router Class Initialized
+INFO - 2020-03-14 14:17:02 --> Output Class Initialized
+INFO - 2020-03-14 14:17:02 --> Security Class Initialized
+DEBUG - 2020-03-14 14:17:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:17:02 --> Input Class Initialized
+DEBUG - 2020-03-14 14:17:02 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:17:02 --> Language Class Initialized
+INFO - 2020-03-14 14:17:02 --> Config Class Initialized
+INFO - 2020-03-14 14:17:02 --> Loader Class Initialized
+INFO - 2020-03-14 14:17:02 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:17:02 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:17:02 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:17:02 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:17:02 --> Controller Class Initialized
+DEBUG - 2020-03-14 14:17:02 --> Services MX_Controller Initialized
+INFO - 2020-03-14 14:17:02 --> Helper loaded: html_helper
+INFO - 2020-03-14 14:17:02 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 14:17:02 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 14:17:02 --> Helper loaded: file_helper
+INFO - 2020-03-14 14:17:02 --> MY_Model class loaded
+INFO - 2020-03-14 14:17:02 --> Model "Language_model" initialized
+ERROR - 2020-03-14 14:17:02 --> Language file contains no data: language/vietnamese/services_lang.php
+INFO - 2020-03-14 14:17:02 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 14:17:02 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 14:17:02 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 14:17:02 --> Model "Page_model" initialized
+INFO - 2020-03-14 14:17:02 --> Model "Category_model" initialized
+INFO - 2020-03-14 14:17:02 --> Model "Service_model" initialized
+ERROR - 2020-03-14 14:17:02 --> Language file contains no data: language/vietnamese/services_lang.php
+ERROR - 2020-03-14 14:17:02 --> Could not find the language line "Find out"
+ERROR - 2020-03-14 14:17:02 --> Could not find the language line "Find out"
+ERROR - 2020-03-14 14:17:02 --> Could not find the language line "Find out"
+ERROR - 2020-03-14 14:17:02 --> Could not find the language line "Find out"
+DEBUG - 2020-03-14 14:17:02 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/default/services/service_view.php
+DEBUG - 2020-03-14 14:17:02 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/top_bar.php
+ERROR - 2020-03-14 14:17:02 --> Could not find the language line "Giới thiệu"
+ERROR - 2020-03-14 14:17:02 --> Could not find the language line "Dịch vụ thương mại"
+ERROR - 2020-03-14 14:17:02 --> Could not find the language line "Lĩnh vực hoạt động"
+ERROR - 2020-03-14 14:17:02 --> Could not find the language line "Services"
+ERROR - 2020-03-14 14:17:02 --> Could not find the language line "Tin Hoạt Động"
+ERROR - 2020-03-14 14:17:02 --> Could not find the language line "Tin Công Nghệ"
+ERROR - 2020-03-14 14:17:02 --> Could not find the language line "Sự Kiện"
+ERROR - 2020-03-14 14:17:02 --> Could not find the language line "Góc báo chí"
+DEBUG - 2020-03-14 14:17:02 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/mega_menu.php
+ERROR - 2020-03-14 14:17:02 --> Could not find the language line "Search"
+ERROR - 2020-03-14 14:17:02 --> Could not find the language line "services"
+DEBUG - 2020-03-14 14:17:02 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/page_header.php
+DEBUG - 2020-03-14 14:17:02 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_header_view.php
+DEBUG - 2020-03-14 14:17:02 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_footer_view.php
+DEBUG - 2020-03-14 14:17:02 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/master_view.php
+INFO - 2020-03-14 14:17:02 --> Final output sent to browser
+DEBUG - 2020-03-14 14:17:02 --> Total execution time: 0.4584
+INFO - 2020-03-14 14:17:05 --> Config Class Initialized
+INFO - 2020-03-14 14:17:05 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:17:05 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:17:05 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:17:05 --> URI Class Initialized
+INFO - 2020-03-14 14:17:05 --> Router Class Initialized
+INFO - 2020-03-14 14:17:05 --> Output Class Initialized
+INFO - 2020-03-14 14:17:05 --> Security Class Initialized
+DEBUG - 2020-03-14 14:17:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:17:05 --> Input Class Initialized
+DEBUG - 2020-03-14 14:17:05 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:17:05 --> Language Class Initialized
+INFO - 2020-03-14 14:17:05 --> Config Class Initialized
+INFO - 2020-03-14 14:17:05 --> Loader Class Initialized
+INFO - 2020-03-14 14:17:05 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:17:05 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:17:05 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:17:05 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:17:05 --> Controller Class Initialized
+DEBUG - 2020-03-14 14:17:05 --> News MX_Controller Initialized
+INFO - 2020-03-14 14:17:05 --> Helper loaded: html_helper
+INFO - 2020-03-14 14:17:05 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 14:17:05 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 14:17:05 --> Helper loaded: file_helper
+INFO - 2020-03-14 14:17:05 --> MY_Model class loaded
+INFO - 2020-03-14 14:17:05 --> Model "Language_model" initialized
+INFO - 2020-03-14 14:17:05 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 14:17:05 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 14:17:05 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 14:17:05 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 14:17:05 --> Model "Page_model" initialized
+INFO - 2020-03-14 14:17:05 --> Model "Category_model" initialized
+INFO - 2020-03-14 14:17:05 --> Model "Article_model" initialized
+INFO - 2020-03-14 14:17:05 --> Model "User_model" initialized
+INFO - 2020-03-14 14:17:06 --> Model "Article_category_model" initialized
+ERROR - 2020-03-14 14:17:06 --> Could not find the language line "Next"
+DEBUG - 2020-03-14 14:17:06 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/default/news/listing_news.php
+DEBUG - 2020-03-14 14:17:06 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/top_bar.php
+ERROR - 2020-03-14 14:17:06 --> Could not find the language line "Giới thiệu"
+ERROR - 2020-03-14 14:17:06 --> Could not find the language line "Dịch vụ thương mại"
+ERROR - 2020-03-14 14:17:06 --> Could not find the language line "Lĩnh vực hoạt động"
+ERROR - 2020-03-14 14:17:06 --> Could not find the language line "Services"
+ERROR - 2020-03-14 14:17:06 --> Could not find the language line "Tin Hoạt Động"
+ERROR - 2020-03-14 14:17:06 --> Could not find the language line "Tin Công Nghệ"
+ERROR - 2020-03-14 14:17:06 --> Could not find the language line "Sự Kiện"
+ERROR - 2020-03-14 14:17:06 --> Could not find the language line "Góc báo chí"
+DEBUG - 2020-03-14 14:17:06 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/mega_menu.php
+ERROR - 2020-03-14 14:17:06 --> Could not find the language line "Search"
+ERROR - 2020-03-14 14:17:06 --> Could not find the language line "Tin Hoạt Động"
+ERROR - 2020-03-14 14:17:06 --> Could not find the language line "Tin Hoạt Động"
+ERROR - 2020-03-14 14:17:06 --> Could not find the language line "news"
+DEBUG - 2020-03-14 14:17:06 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/page_header.php
+DEBUG - 2020-03-14 14:17:06 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_header_view.php
+DEBUG - 2020-03-14 14:17:06 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_footer_view.php
+DEBUG - 2020-03-14 14:17:06 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/master_view.php
+INFO - 2020-03-14 14:17:06 --> Final output sent to browser
+DEBUG - 2020-03-14 14:17:06 --> Total execution time: 0.3259
+INFO - 2020-03-14 14:17:06 --> Config Class Initialized
+INFO - 2020-03-14 14:17:06 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:17:06 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:17:06 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:17:06 --> Config Class Initialized
+INFO - 2020-03-14 14:17:06 --> Hooks Class Initialized
+INFO - 2020-03-14 14:17:06 --> URI Class Initialized
+DEBUG - 2020-03-14 14:17:06 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:17:06 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:17:06 --> Router Class Initialized
+INFO - 2020-03-14 14:17:06 --> Output Class Initialized
+INFO - 2020-03-14 14:17:06 --> Config Class Initialized
+INFO - 2020-03-14 14:17:06 --> Config Class Initialized
+INFO - 2020-03-14 14:17:06 --> Hooks Class Initialized
+INFO - 2020-03-14 14:17:06 --> URI Class Initialized
+DEBUG - 2020-03-14 14:17:06 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:17:06 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:17:06 --> Router Class Initialized
+INFO - 2020-03-14 14:17:06 --> URI Class Initialized
+INFO - 2020-03-14 14:17:06 --> Output Class Initialized
+INFO - 2020-03-14 14:17:06 --> Security Class Initialized
+DEBUG - 2020-03-14 14:17:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:17:06 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:17:06 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:17:06 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:17:06 --> Config Class Initialized
+INFO - 2020-03-14 14:17:06 --> Input Class Initialized
+DEBUG - 2020-03-14 14:17:06 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:17:06 --> Router Class Initialized
+INFO - 2020-03-14 14:17:06 --> Language Class Initialized
+INFO - 2020-03-14 14:17:06 --> Config Class Initialized
+INFO - 2020-03-14 14:17:06 --> Output Class Initialized
+INFO - 2020-03-14 14:17:06 --> Security Class Initialized
+INFO - 2020-03-14 14:17:06 --> Loader Class Initialized
+DEBUG - 2020-03-14 14:17:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:17:06 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:17:06 --> Input Class Initialized
+INFO - 2020-03-14 14:17:06 --> Security Class Initialized
+DEBUG - 2020-03-14 14:17:06 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-03-14 14:17:06 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:17:06 --> Input Class Initialized
+INFO - 2020-03-14 14:17:06 --> Language Class Initialized
+DEBUG - 2020-03-14 14:17:06 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:17:06 --> URI Class Initialized
+INFO - 2020-03-14 14:17:06 --> Language Class Initialized
+INFO - 2020-03-14 14:17:06 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:17:06 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:17:06 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:17:06 --> Router Class Initialized
+INFO - 2020-03-14 14:17:06 --> Output Class Initialized
+INFO - 2020-03-14 14:17:06 --> Security Class Initialized
+DEBUG - 2020-03-14 14:17:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:17:06 --> Input Class Initialized
+DEBUG - 2020-03-14 14:17:06 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:17:06 --> Language Class Initialized
+INFO - 2020-03-14 14:17:06 --> Config Class Initialized
+INFO - 2020-03-14 14:17:06 --> Loader Class Initialized
+INFO - 2020-03-14 14:17:06 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:17:06 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:17:06 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:17:06 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:17:06 --> Config Class Initialized
+INFO - 2020-03-14 14:17:06 --> Loader Class Initialized
+INFO - 2020-03-14 14:17:06 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:17:06 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:17:06 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:17:06 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:17:06 --> Config Class Initialized
+INFO - 2020-03-14 14:17:06 --> Loader Class Initialized
+INFO - 2020-03-14 14:17:06 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:17:06 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:17:06 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:17:06 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:17:06 --> Controller Class Initialized
+ERROR - 2020-03-14 14:17:06 --> 404 Page Not Found: /index
+INFO - 2020-03-14 14:17:06 --> Controller Class Initialized
+ERROR - 2020-03-14 14:17:06 --> 404 Page Not Found: /index
+INFO - 2020-03-14 14:17:06 --> Hooks Class Initialized
+INFO - 2020-03-14 14:17:06 --> Controller Class Initialized
+INFO - 2020-03-14 14:17:06 --> Controller Class Initialized
+ERROR - 2020-03-14 14:17:06 --> 404 Page Not Found: /index
+DEBUG - 2020-03-14 14:17:06 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:17:06 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:17:06 --> URI Class Initialized
+INFO - 2020-03-14 14:17:06 --> Router Class Initialized
+INFO - 2020-03-14 14:17:06 --> Output Class Initialized
+INFO - 2020-03-14 14:17:06 --> Security Class Initialized
+DEBUG - 2020-03-14 14:17:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:17:06 --> Input Class Initialized
+ERROR - 2020-03-14 14:17:06 --> 404 Page Not Found: /index
+DEBUG - 2020-03-14 14:17:06 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:17:06 --> Language Class Initialized
+INFO - 2020-03-14 14:17:06 --> Config Class Initialized
+INFO - 2020-03-14 14:17:06 --> Loader Class Initialized
+INFO - 2020-03-14 14:17:06 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:17:06 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:17:06 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:17:06 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:17:06 --> Controller Class Initialized
+ERROR - 2020-03-14 14:17:06 --> 404 Page Not Found: /index
+INFO - 2020-03-14 14:20:32 --> Config Class Initialized
+INFO - 2020-03-14 14:20:32 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:20:32 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:20:32 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:20:32 --> URI Class Initialized
+INFO - 2020-03-14 14:20:32 --> Router Class Initialized
+INFO - 2020-03-14 14:20:32 --> Output Class Initialized
+INFO - 2020-03-14 14:20:32 --> Security Class Initialized
+DEBUG - 2020-03-14 14:20:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:20:32 --> Input Class Initialized
+DEBUG - 2020-03-14 14:20:32 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:20:32 --> Language Class Initialized
+INFO - 2020-03-14 14:20:32 --> Config Class Initialized
+INFO - 2020-03-14 14:20:32 --> Loader Class Initialized
+INFO - 2020-03-14 14:20:32 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:20:32 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:20:32 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:20:32 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:20:32 --> Controller Class Initialized
+DEBUG - 2020-03-14 14:20:32 --> News MX_Controller Initialized
+INFO - 2020-03-14 14:20:32 --> Helper loaded: html_helper
+INFO - 2020-03-14 14:20:32 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 14:20:32 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 14:20:32 --> Helper loaded: file_helper
+INFO - 2020-03-14 14:20:32 --> MY_Model class loaded
+INFO - 2020-03-14 14:20:32 --> Model "Language_model" initialized
+INFO - 2020-03-14 14:20:32 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 14:20:32 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 14:20:32 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 14:20:32 --> Model "Setting_model" initialized
+INFO - 2020-03-14 14:20:32 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 14:20:32 --> Model "Page_model" initialized
+INFO - 2020-03-14 14:20:32 --> Model "Category_model" initialized
+INFO - 2020-03-14 14:20:32 --> Model "Article_model" initialized
+INFO - 2020-03-14 14:20:32 --> Model "User_model" initialized
+INFO - 2020-03-14 14:20:32 --> Model "Article_category_model" initialized
+ERROR - 2020-03-14 14:20:32 --> Could not find the language line "Next"
+INFO - 2020-03-14 14:21:12 --> Config Class Initialized
+INFO - 2020-03-14 14:21:12 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:21:12 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:21:12 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:21:12 --> URI Class Initialized
+INFO - 2020-03-14 14:21:12 --> Router Class Initialized
+INFO - 2020-03-14 14:21:12 --> Output Class Initialized
+INFO - 2020-03-14 14:21:12 --> Security Class Initialized
+DEBUG - 2020-03-14 14:21:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:21:12 --> Input Class Initialized
+DEBUG - 2020-03-14 14:21:12 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:21:12 --> Language Class Initialized
+INFO - 2020-03-14 14:21:12 --> Config Class Initialized
+INFO - 2020-03-14 14:21:12 --> Loader Class Initialized
+INFO - 2020-03-14 14:21:12 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:21:12 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:21:12 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:21:12 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:21:12 --> Controller Class Initialized
+DEBUG - 2020-03-14 14:21:12 --> News MX_Controller Initialized
+INFO - 2020-03-14 14:21:12 --> Helper loaded: html_helper
+INFO - 2020-03-14 14:21:12 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 14:21:12 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 14:21:12 --> Helper loaded: file_helper
+INFO - 2020-03-14 14:21:12 --> MY_Model class loaded
+INFO - 2020-03-14 14:21:12 --> Model "Language_model" initialized
+INFO - 2020-03-14 14:21:12 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 14:21:12 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 14:21:12 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 14:21:12 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 14:21:12 --> Model "Page_model" initialized
+INFO - 2020-03-14 14:21:12 --> Model "Category_model" initialized
+INFO - 2020-03-14 14:21:12 --> Model "Article_model" initialized
+INFO - 2020-03-14 14:21:12 --> Model "User_model" initialized
+INFO - 2020-03-14 14:21:12 --> Model "Article_category_model" initialized
+ERROR - 2020-03-14 14:21:12 --> Could not find the language line "Next"
+DEBUG - 2020-03-14 14:21:12 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_news_categories.php
+DEBUG - 2020-03-14 14:21:12 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/default/news/listing_news.php
+DEBUG - 2020-03-14 14:21:12 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/top_bar.php
+ERROR - 2020-03-14 14:21:12 --> Could not find the language line "Giới thiệu"
+ERROR - 2020-03-14 14:21:12 --> Could not find the language line "Dịch vụ thương mại"
+ERROR - 2020-03-14 14:21:12 --> Could not find the language line "Lĩnh vực hoạt động"
+ERROR - 2020-03-14 14:21:12 --> Could not find the language line "Services"
+ERROR - 2020-03-14 14:21:12 --> Could not find the language line "Tin Hoạt Động"
+ERROR - 2020-03-14 14:21:12 --> Could not find the language line "Tin Công Nghệ"
+ERROR - 2020-03-14 14:21:12 --> Could not find the language line "Sự Kiện"
+ERROR - 2020-03-14 14:21:12 --> Could not find the language line "Góc báo chí"
+DEBUG - 2020-03-14 14:21:12 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/mega_menu.php
+ERROR - 2020-03-14 14:21:12 --> Could not find the language line "Search"
+ERROR - 2020-03-14 14:21:12 --> Could not find the language line "Tin Hoạt Động"
+ERROR - 2020-03-14 14:21:12 --> Could not find the language line "Tin Hoạt Động"
+ERROR - 2020-03-14 14:21:12 --> Could not find the language line "news"
+DEBUG - 2020-03-14 14:21:12 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/page_header.php
+DEBUG - 2020-03-14 14:21:12 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_header_view.php
+DEBUG - 2020-03-14 14:21:12 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_footer_view.php
+DEBUG - 2020-03-14 14:21:12 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/master_view.php
+INFO - 2020-03-14 14:21:12 --> Final output sent to browser
+DEBUG - 2020-03-14 14:21:12 --> Total execution time: 0.1191
+INFO - 2020-03-14 14:21:12 --> Config Class Initialized
+INFO - 2020-03-14 14:21:12 --> Hooks Class Initialized
+INFO - 2020-03-14 14:21:12 --> Config Class Initialized
+INFO - 2020-03-14 14:21:12 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:21:12 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:21:12 --> Utf8 Class Initialized
+DEBUG - 2020-03-14 14:21:12 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:21:12 --> URI Class Initialized
+INFO - 2020-03-14 14:21:12 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:21:12 --> URI Class Initialized
+INFO - 2020-03-14 14:21:12 --> Router Class Initialized
+INFO - 2020-03-14 14:21:12 --> Output Class Initialized
+INFO - 2020-03-14 14:21:12 --> Router Class Initialized
+INFO - 2020-03-14 14:21:12 --> Security Class Initialized
+INFO - 2020-03-14 14:21:12 --> Config Class Initialized
+INFO - 2020-03-14 14:21:12 --> Output Class Initialized
+INFO - 2020-03-14 14:21:12 --> Config Class Initialized
+INFO - 2020-03-14 14:21:12 --> Hooks Class Initialized
+INFO - 2020-03-14 14:21:12 --> Security Class Initialized
+DEBUG - 2020-03-14 14:21:12 --> UTF-8 Support Enabled
+DEBUG - 2020-03-14 14:21:12 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-03-14 14:21:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:21:12 --> Input Class Initialized
+INFO - 2020-03-14 14:21:12 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:21:12 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:21:12 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:21:12 --> Language Class Initialized
+INFO - 2020-03-14 14:21:12 --> URI Class Initialized
+INFO - 2020-03-14 14:21:12 --> Config Class Initialized
+INFO - 2020-03-14 14:21:12 --> Loader Class Initialized
+INFO - 2020-03-14 14:21:12 --> Router Class Initialized
+INFO - 2020-03-14 14:21:12 --> Output Class Initialized
+INFO - 2020-03-14 14:21:12 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:21:12 --> Security Class Initialized
+INFO - 2020-03-14 14:21:12 --> Helper loaded: form_helper
+DEBUG - 2020-03-14 14:21:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:21:12 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:21:12 --> Input Class Initialized
+INFO - 2020-03-14 14:21:12 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:21:12 --> Input Class Initialized
+DEBUG - 2020-03-14 14:21:12 --> Language_Identifier Class Initialized
+DEBUG - 2020-03-14 14:21:12 --> UTF-8 Support Enabled
+DEBUG - 2020-03-14 14:21:12 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:21:12 --> Language Class Initialized
+INFO - 2020-03-14 14:21:12 --> Config Class Initialized
+INFO - 2020-03-14 14:21:12 --> Language Class Initialized
+INFO - 2020-03-14 14:21:12 --> Config Class Initialized
+INFO - 2020-03-14 14:21:12 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:21:12 --> Loader Class Initialized
+INFO - 2020-03-14 14:21:12 --> Loader Class Initialized
+INFO - 2020-03-14 14:21:12 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:21:12 --> URI Class Initialized
+INFO - 2020-03-14 14:21:12 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:21:12 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:21:12 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:21:12 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:21:12 --> Router Class Initialized
+INFO - 2020-03-14 14:21:12 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:21:12 --> Output Class Initialized
+INFO - 2020-03-14 14:21:12 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:21:12 --> Security Class Initialized
+INFO - 2020-03-14 14:21:12 --> Database Driver Class Initialized
+DEBUG - 2020-03-14 14:21:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:21:12 --> Input Class Initialized
+DEBUG - 2020-03-14 14:21:12 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:21:12 --> Controller Class Initialized
+ERROR - 2020-03-14 14:21:12 --> 404 Page Not Found: /index
+INFO - 2020-03-14 14:21:12 --> Language Class Initialized
+INFO - 2020-03-14 14:21:12 --> Config Class Initialized
+INFO - 2020-03-14 14:21:12 --> Controller Class Initialized
+INFO - 2020-03-14 14:21:12 --> Loader Class Initialized
+INFO - 2020-03-14 14:21:12 --> Helper loaded: url_helper
+ERROR - 2020-03-14 14:21:12 --> 404 Page Not Found: /index
+INFO - 2020-03-14 14:21:12 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:21:12 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:21:12 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:21:12 --> Controller Class Initialized
+ERROR - 2020-03-14 14:21:12 --> 404 Page Not Found: /index
+INFO - 2020-03-14 14:21:12 --> Config Class Initialized
+INFO - 2020-03-14 14:21:12 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:21:12 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:21:12 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:21:12 --> URI Class Initialized
+INFO - 2020-03-14 14:21:12 --> Controller Class Initialized
+INFO - 2020-03-14 14:21:12 --> Router Class Initialized
+ERROR - 2020-03-14 14:21:12 --> 404 Page Not Found: /index
+INFO - 2020-03-14 14:21:12 --> Output Class Initialized
+INFO - 2020-03-14 14:21:12 --> Security Class Initialized
+DEBUG - 2020-03-14 14:21:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:21:12 --> Input Class Initialized
+DEBUG - 2020-03-14 14:21:12 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:21:12 --> Language Class Initialized
+INFO - 2020-03-14 14:21:12 --> Config Class Initialized
+INFO - 2020-03-14 14:21:12 --> Loader Class Initialized
+INFO - 2020-03-14 14:21:12 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:21:12 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:21:12 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:21:12 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:21:12 --> Controller Class Initialized
+ERROR - 2020-03-14 14:21:12 --> 404 Page Not Found: /index
+INFO - 2020-03-14 14:23:49 --> Config Class Initialized
+INFO - 2020-03-14 14:23:49 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:23:49 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:23:49 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:23:49 --> URI Class Initialized
+INFO - 2020-03-14 14:23:49 --> Router Class Initialized
+INFO - 2020-03-14 14:23:49 --> Output Class Initialized
+INFO - 2020-03-14 14:23:49 --> Security Class Initialized
+DEBUG - 2020-03-14 14:23:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:23:49 --> Input Class Initialized
+DEBUG - 2020-03-14 14:23:49 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:23:49 --> Language Class Initialized
+INFO - 2020-03-14 14:23:49 --> Config Class Initialized
+INFO - 2020-03-14 14:23:49 --> Loader Class Initialized
+INFO - 2020-03-14 14:23:49 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:23:49 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:23:49 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:23:49 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:23:49 --> Controller Class Initialized
+DEBUG - 2020-03-14 14:23:49 --> News MX_Controller Initialized
+INFO - 2020-03-14 14:23:49 --> Helper loaded: html_helper
+INFO - 2020-03-14 14:23:49 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 14:23:49 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 14:23:49 --> Helper loaded: file_helper
+INFO - 2020-03-14 14:23:49 --> MY_Model class loaded
+INFO - 2020-03-14 14:23:49 --> Model "Language_model" initialized
+INFO - 2020-03-14 14:23:49 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 14:23:49 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 14:23:49 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 14:23:49 --> Model "Setting_model" initialized
+INFO - 2020-03-14 14:23:49 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 14:23:49 --> Model "Page_model" initialized
+INFO - 2020-03-14 14:23:49 --> Model "Category_model" initialized
+INFO - 2020-03-14 14:23:49 --> Model "Article_model" initialized
+INFO - 2020-03-14 14:23:49 --> Model "User_model" initialized
+INFO - 2020-03-14 14:23:49 --> Model "Article_category_model" initialized
+ERROR - 2020-03-14 14:23:49 --> Could not find the language line "Next"
+ERROR - 2020-03-14 14:23:49 --> Could not find the language line "Other Categories"
+DEBUG - 2020-03-14 14:23:49 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_news_categories.php
+DEBUG - 2020-03-14 14:23:49 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/default/news/listing_news.php
+DEBUG - 2020-03-14 14:23:49 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/top_bar.php
+ERROR - 2020-03-14 14:23:49 --> Could not find the language line "Giới thiệu"
+ERROR - 2020-03-14 14:23:49 --> Could not find the language line "Dịch vụ thương mại"
+ERROR - 2020-03-14 14:23:49 --> Could not find the language line "Lĩnh vực hoạt động"
+ERROR - 2020-03-14 14:23:49 --> Could not find the language line "Services"
+ERROR - 2020-03-14 14:23:49 --> Could not find the language line "Tin Hoạt Động"
+ERROR - 2020-03-14 14:23:49 --> Could not find the language line "Tin Công Nghệ"
+ERROR - 2020-03-14 14:23:49 --> Could not find the language line "Sự Kiện"
+ERROR - 2020-03-14 14:23:49 --> Could not find the language line "Góc báo chí"
+DEBUG - 2020-03-14 14:23:49 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/mega_menu.php
+ERROR - 2020-03-14 14:23:49 --> Could not find the language line "Search"
+ERROR - 2020-03-14 14:23:49 --> Could not find the language line "Tin Hoạt Động"
+ERROR - 2020-03-14 14:23:49 --> Could not find the language line "Tin Hoạt Động"
+ERROR - 2020-03-14 14:23:49 --> Could not find the language line "news"
+DEBUG - 2020-03-14 14:23:49 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/page_header.php
+DEBUG - 2020-03-14 14:23:49 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_header_view.php
+DEBUG - 2020-03-14 14:23:49 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_footer_view.php
+DEBUG - 2020-03-14 14:23:49 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/master_view.php
+INFO - 2020-03-14 14:23:49 --> Final output sent to browser
+DEBUG - 2020-03-14 14:23:49 --> Total execution time: 0.0866
+INFO - 2020-03-14 14:23:49 --> Config Class Initialized
+INFO - 2020-03-14 14:23:49 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:23:49 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:23:49 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:23:49 --> URI Class Initialized
+INFO - 2020-03-14 14:23:49 --> Router Class Initialized
+INFO - 2020-03-14 14:23:49 --> Output Class Initialized
+INFO - 2020-03-14 14:23:49 --> Security Class Initialized
+DEBUG - 2020-03-14 14:23:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:23:49 --> Input Class Initialized
+DEBUG - 2020-03-14 14:23:49 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:23:49 --> Language Class Initialized
+INFO - 2020-03-14 14:23:49 --> Config Class Initialized
+INFO - 2020-03-14 14:23:49 --> Config Class Initialized
+INFO - 2020-03-14 14:23:49 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:23:49 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:23:49 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:23:49 --> Config Class Initialized
+INFO - 2020-03-14 14:23:49 --> Loader Class Initialized
+INFO - 2020-03-14 14:23:49 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:23:49 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:23:49 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:23:49 --> URI Class Initialized
+INFO - 2020-03-14 14:23:49 --> Router Class Initialized
+INFO - 2020-03-14 14:23:49 --> Output Class Initialized
+INFO - 2020-03-14 14:23:49 --> Security Class Initialized
+INFO - 2020-03-14 14:23:49 --> Config Class Initialized
+DEBUG - 2020-03-14 14:23:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:23:49 --> Hooks Class Initialized
+INFO - 2020-03-14 14:23:49 --> URI Class Initialized
+DEBUG - 2020-03-14 14:23:49 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:23:49 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:23:49 --> Config Class Initialized
+INFO - 2020-03-14 14:23:49 --> Hooks Class Initialized
+INFO - 2020-03-14 14:23:49 --> Router Class Initialized
+DEBUG - 2020-03-14 14:23:49 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:23:49 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:23:49 --> Output Class Initialized
+INFO - 2020-03-14 14:23:49 --> URI Class Initialized
+INFO - 2020-03-14 14:23:49 --> Security Class Initialized
+INFO - 2020-03-14 14:23:49 --> Router Class Initialized
+DEBUG - 2020-03-14 14:23:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:23:49 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:23:49 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:23:49 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:23:49 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:23:49 --> Output Class Initialized
+INFO - 2020-03-14 14:23:49 --> Input Class Initialized
+DEBUG - 2020-03-14 14:23:49 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:23:49 --> URI Class Initialized
+INFO - 2020-03-14 14:23:49 --> Language Class Initialized
+INFO - 2020-03-14 14:23:49 --> Security Class Initialized
+DEBUG - 2020-03-14 14:23:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:23:49 --> Input Class Initialized
+DEBUG - 2020-03-14 14:23:49 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:23:49 --> Language Class Initialized
+INFO - 2020-03-14 14:23:49 --> Config Class Initialized
+INFO - 2020-03-14 14:23:49 --> Loader Class Initialized
+INFO - 2020-03-14 14:23:49 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:23:49 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:23:49 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:23:49 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:23:49 --> Controller Class Initialized
+INFO - 2020-03-14 14:23:49 --> Input Class Initialized
+ERROR - 2020-03-14 14:23:49 --> 404 Page Not Found: /index
+INFO - 2020-03-14 14:23:49 --> Config Class Initialized
+INFO - 2020-03-14 14:23:49 --> Loader Class Initialized
+INFO - 2020-03-14 14:23:49 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:23:49 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:23:49 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:23:49 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:23:49 --> Router Class Initialized
+INFO - 2020-03-14 14:23:49 --> Output Class Initialized
+DEBUG - 2020-03-14 14:23:49 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:23:49 --> Security Class Initialized
+INFO - 2020-03-14 14:23:49 --> Language Class Initialized
+INFO - 2020-03-14 14:23:49 --> Config Class Initialized
+INFO - 2020-03-14 14:23:49 --> Loader Class Initialized
+DEBUG - 2020-03-14 14:23:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:23:49 --> Input Class Initialized
+INFO - 2020-03-14 14:23:49 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:23:49 --> Controller Class Initialized
+INFO - 2020-03-14 14:23:49 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:23:49 --> Controller Class Initialized
+INFO - 2020-03-14 14:23:49 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:23:49 --> Database Driver Class Initialized
+DEBUG - 2020-03-14 14:23:49 --> Language_Identifier Class Initialized
+ERROR - 2020-03-14 14:23:49 --> 404 Page Not Found: /index
+INFO - 2020-03-14 14:23:49 --> Language Class Initialized
+INFO - 2020-03-14 14:23:49 --> Config Class Initialized
+ERROR - 2020-03-14 14:23:49 --> 404 Page Not Found: /index
+INFO - 2020-03-14 14:23:49 --> Loader Class Initialized
+INFO - 2020-03-14 14:23:49 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:23:49 --> Controller Class Initialized
+INFO - 2020-03-14 14:23:49 --> Helper loaded: form_helper
+ERROR - 2020-03-14 14:23:49 --> 404 Page Not Found: /index
+INFO - 2020-03-14 14:23:49 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:23:49 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:23:49 --> Controller Class Initialized
+ERROR - 2020-03-14 14:23:49 --> 404 Page Not Found: /index
+INFO - 2020-03-14 14:24:41 --> Config Class Initialized
+INFO - 2020-03-14 14:24:41 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:24:41 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:24:41 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:24:41 --> URI Class Initialized
+INFO - 2020-03-14 14:24:41 --> Router Class Initialized
+INFO - 2020-03-14 14:24:41 --> Output Class Initialized
+INFO - 2020-03-14 14:24:41 --> Security Class Initialized
+DEBUG - 2020-03-14 14:24:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:24:41 --> Input Class Initialized
+DEBUG - 2020-03-14 14:24:41 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:24:41 --> Language Class Initialized
+INFO - 2020-03-14 14:24:41 --> Config Class Initialized
+INFO - 2020-03-14 14:24:41 --> Loader Class Initialized
+INFO - 2020-03-14 14:24:41 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:24:41 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:24:41 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:24:41 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:24:41 --> Controller Class Initialized
+DEBUG - 2020-03-14 14:24:41 --> News MX_Controller Initialized
+INFO - 2020-03-14 14:24:41 --> Helper loaded: html_helper
+INFO - 2020-03-14 14:24:41 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 14:24:41 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 14:24:41 --> Helper loaded: file_helper
+INFO - 2020-03-14 14:24:41 --> MY_Model class loaded
+INFO - 2020-03-14 14:24:41 --> Model "Language_model" initialized
+INFO - 2020-03-14 14:24:41 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 14:24:41 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 14:24:41 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 14:24:41 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 14:24:41 --> Model "Page_model" initialized
+INFO - 2020-03-14 14:24:41 --> Model "Category_model" initialized
+INFO - 2020-03-14 14:24:41 --> Model "Article_model" initialized
+INFO - 2020-03-14 14:24:41 --> Model "User_model" initialized
+INFO - 2020-03-14 14:24:41 --> Model "Article_category_model" initialized
+ERROR - 2020-03-14 14:24:41 --> Could not find the language line "Next"
+DEBUG - 2020-03-14 14:24:41 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_news_categories.php
+DEBUG - 2020-03-14 14:24:41 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/default/news/listing_news.php
+DEBUG - 2020-03-14 14:24:41 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/top_bar.php
+ERROR - 2020-03-14 14:24:41 --> Could not find the language line "Giới thiệu"
+ERROR - 2020-03-14 14:24:41 --> Could not find the language line "Dịch vụ thương mại"
+ERROR - 2020-03-14 14:24:41 --> Could not find the language line "Lĩnh vực hoạt động"
+ERROR - 2020-03-14 14:24:41 --> Could not find the language line "Services"
+ERROR - 2020-03-14 14:24:41 --> Could not find the language line "Tin Hoạt Động"
+ERROR - 2020-03-14 14:24:41 --> Could not find the language line "Tin Công Nghệ"
+ERROR - 2020-03-14 14:24:41 --> Could not find the language line "Sự Kiện"
+ERROR - 2020-03-14 14:24:41 --> Could not find the language line "Góc báo chí"
+DEBUG - 2020-03-14 14:24:41 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/mega_menu.php
+ERROR - 2020-03-14 14:24:41 --> Could not find the language line "Search"
+ERROR - 2020-03-14 14:24:41 --> Could not find the language line "Tin Hoạt Động"
+ERROR - 2020-03-14 14:24:41 --> Could not find the language line "Tin Hoạt Động"
+ERROR - 2020-03-14 14:24:41 --> Could not find the language line "news"
+DEBUG - 2020-03-14 14:24:41 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/page_header.php
+DEBUG - 2020-03-14 14:24:41 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_header_view.php
+DEBUG - 2020-03-14 14:24:41 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_footer_view.php
+DEBUG - 2020-03-14 14:24:41 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/master_view.php
+INFO - 2020-03-14 14:24:41 --> Final output sent to browser
+DEBUG - 2020-03-14 14:24:41 --> Total execution time: 0.1634
+INFO - 2020-03-14 14:24:41 --> Config Class Initialized
+INFO - 2020-03-14 14:24:41 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:24:41 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:24:41 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:24:41 --> URI Class Initialized
+INFO - 2020-03-14 14:24:41 --> Router Class Initialized
+INFO - 2020-03-14 14:24:41 --> Output Class Initialized
+INFO - 2020-03-14 14:24:41 --> Security Class Initialized
+DEBUG - 2020-03-14 14:24:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:24:41 --> Input Class Initialized
+DEBUG - 2020-03-14 14:24:41 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:24:41 --> Language Class Initialized
+INFO - 2020-03-14 14:24:41 --> Config Class Initialized
+INFO - 2020-03-14 14:24:41 --> Loader Class Initialized
+INFO - 2020-03-14 14:24:41 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:24:41 --> Config Class Initialized
+INFO - 2020-03-14 14:24:41 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:24:41 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:24:41 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:24:41 --> URI Class Initialized
+INFO - 2020-03-14 14:24:41 --> Router Class Initialized
+INFO - 2020-03-14 14:24:41 --> Output Class Initialized
+INFO - 2020-03-14 14:24:41 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:24:41 --> Security Class Initialized
+INFO - 2020-03-14 14:24:41 --> Helper loaded: language_helper
+DEBUG - 2020-03-14 14:24:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:24:41 --> Input Class Initialized
+INFO - 2020-03-14 14:24:41 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:24:41 --> Config Class Initialized
+INFO - 2020-03-14 14:24:41 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:24:41 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:24:41 --> Utf8 Class Initialized
+DEBUG - 2020-03-14 14:24:41 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:24:41 --> Language Class Initialized
+INFO - 2020-03-14 14:24:41 --> Config Class Initialized
+INFO - 2020-03-14 14:24:41 --> URI Class Initialized
+INFO - 2020-03-14 14:24:41 --> Config Class Initialized
+INFO - 2020-03-14 14:24:41 --> Hooks Class Initialized
+INFO - 2020-03-14 14:24:41 --> Router Class Initialized
+DEBUG - 2020-03-14 14:24:41 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:24:41 --> Output Class Initialized
+INFO - 2020-03-14 14:24:41 --> Loader Class Initialized
+INFO - 2020-03-14 14:24:41 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:24:41 --> Security Class Initialized
+INFO - 2020-03-14 14:24:41 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:24:41 --> Config Class Initialized
+INFO - 2020-03-14 14:24:41 --> Hooks Class Initialized
+INFO - 2020-03-14 14:24:41 --> Helper loaded: language_helper
+DEBUG - 2020-03-14 14:24:41 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:24:41 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:24:41 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:24:41 --> URI Class Initialized
+INFO - 2020-03-14 14:24:41 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:24:41 --> Controller Class Initialized
+ERROR - 2020-03-14 14:24:41 --> 404 Page Not Found: /index
+INFO - 2020-03-14 14:24:41 --> Router Class Initialized
+INFO - 2020-03-14 14:24:41 --> Output Class Initialized
+INFO - 2020-03-14 14:24:41 --> Security Class Initialized
+DEBUG - 2020-03-14 14:24:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:24:41 --> Input Class Initialized
+DEBUG - 2020-03-14 14:24:41 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:24:41 --> Language Class Initialized
+INFO - 2020-03-14 14:24:41 --> Config Class Initialized
+INFO - 2020-03-14 14:24:41 --> Loader Class Initialized
+INFO - 2020-03-14 14:24:41 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:24:41 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:24:41 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:24:41 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:24:41 --> URI Class Initialized
+INFO - 2020-03-14 14:24:41 --> Router Class Initialized
+INFO - 2020-03-14 14:24:41 --> Output Class Initialized
+INFO - 2020-03-14 14:24:41 --> Security Class Initialized
+INFO - 2020-03-14 14:24:41 --> Controller Class Initialized
+DEBUG - 2020-03-14 14:24:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:24:41 --> Input Class Initialized
+ERROR - 2020-03-14 14:24:41 --> 404 Page Not Found: /index
+INFO - 2020-03-14 14:24:41 --> Controller Class Initialized
+ERROR - 2020-03-14 14:24:41 --> 404 Page Not Found: /index
+DEBUG - 2020-03-14 14:24:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:24:41 --> Input Class Initialized
+DEBUG - 2020-03-14 14:24:41 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:24:41 --> Language Class Initialized
+INFO - 2020-03-14 14:24:41 --> Config Class Initialized
+INFO - 2020-03-14 14:24:41 --> Loader Class Initialized
+INFO - 2020-03-14 14:24:41 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:24:41 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:24:41 --> Helper loaded: language_helper
+DEBUG - 2020-03-14 14:24:41 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:24:41 --> Language Class Initialized
+INFO - 2020-03-14 14:24:41 --> Config Class Initialized
+INFO - 2020-03-14 14:24:41 --> Loader Class Initialized
+INFO - 2020-03-14 14:24:41 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:24:41 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:24:41 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:24:41 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:24:41 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:24:41 --> Controller Class Initialized
+INFO - 2020-03-14 14:24:41 --> Controller Class Initialized
+ERROR - 2020-03-14 14:24:41 --> 404 Page Not Found: /index
+ERROR - 2020-03-14 14:24:41 --> 404 Page Not Found: /index
+INFO - 2020-03-14 14:30:09 --> Config Class Initialized
+INFO - 2020-03-14 14:30:09 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:30:09 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:30:09 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:30:09 --> URI Class Initialized
+INFO - 2020-03-14 14:30:09 --> Router Class Initialized
+INFO - 2020-03-14 14:30:09 --> Output Class Initialized
+INFO - 2020-03-14 14:30:09 --> Security Class Initialized
+DEBUG - 2020-03-14 14:30:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:30:09 --> Input Class Initialized
+DEBUG - 2020-03-14 14:30:09 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:30:09 --> Language Class Initialized
+INFO - 2020-03-14 14:30:09 --> Config Class Initialized
+INFO - 2020-03-14 14:30:09 --> Loader Class Initialized
+INFO - 2020-03-14 14:30:09 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:30:09 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:30:09 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:30:09 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:30:09 --> Controller Class Initialized
+DEBUG - 2020-03-14 14:30:09 --> News MX_Controller Initialized
+INFO - 2020-03-14 14:30:09 --> Helper loaded: html_helper
+INFO - 2020-03-14 14:30:09 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 14:30:09 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 14:30:09 --> Helper loaded: file_helper
+INFO - 2020-03-14 14:30:09 --> MY_Model class loaded
+INFO - 2020-03-14 14:30:09 --> Model "Language_model" initialized
+INFO - 2020-03-14 14:30:09 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 14:30:09 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 14:30:09 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 14:30:09 --> Model "Setting_model" initialized
+INFO - 2020-03-14 14:30:09 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 14:30:09 --> Model "Page_model" initialized
+INFO - 2020-03-14 14:30:09 --> Model "Category_model" initialized
+INFO - 2020-03-14 14:30:09 --> Model "Article_model" initialized
+INFO - 2020-03-14 14:30:09 --> Model "Service_model" initialized
+ERROR - 2020-03-14 14:30:09 --> Severity: error --> Exception: Call to a member function get_all() on null /Volumes/Betrai/www/thienanphu/application/controllers/News.php 16
+INFO - 2020-03-14 14:30:17 --> Config Class Initialized
+INFO - 2020-03-14 14:30:17 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:30:17 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:30:17 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:30:17 --> URI Class Initialized
+INFO - 2020-03-14 14:30:17 --> Router Class Initialized
+INFO - 2020-03-14 14:30:17 --> Output Class Initialized
+INFO - 2020-03-14 14:30:17 --> Security Class Initialized
+DEBUG - 2020-03-14 14:30:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:30:17 --> Input Class Initialized
+DEBUG - 2020-03-14 14:30:17 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:30:17 --> Language Class Initialized
+INFO - 2020-03-14 14:30:17 --> Config Class Initialized
+INFO - 2020-03-14 14:30:17 --> Loader Class Initialized
+INFO - 2020-03-14 14:30:17 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:30:17 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:30:17 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:30:17 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:30:17 --> Controller Class Initialized
+DEBUG - 2020-03-14 14:30:17 --> News MX_Controller Initialized
+INFO - 2020-03-14 14:30:17 --> Helper loaded: html_helper
+INFO - 2020-03-14 14:30:17 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 14:30:17 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 14:30:17 --> Helper loaded: file_helper
+INFO - 2020-03-14 14:30:17 --> MY_Model class loaded
+INFO - 2020-03-14 14:30:17 --> Model "Language_model" initialized
+INFO - 2020-03-14 14:30:17 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 14:30:17 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 14:30:17 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 14:30:17 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 14:30:17 --> Model "Page_model" initialized
+INFO - 2020-03-14 14:30:17 --> Model "Category_model" initialized
+INFO - 2020-03-14 14:30:17 --> Model "Article_model" initialized
+INFO - 2020-03-14 14:30:17 --> Model "Service_model" initialized
+INFO - 2020-03-14 14:30:17 --> Model "User_model" initialized
+INFO - 2020-03-14 14:30:17 --> Model "Article_category_model" initialized
+ERROR - 2020-03-14 14:30:17 --> Could not find the language line "Next"
+DEBUG - 2020-03-14 14:30:17 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_news_categories.php
+DEBUG - 2020-03-14 14:30:17 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/default/news/listing_news.php
+DEBUG - 2020-03-14 14:30:17 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/top_bar.php
+ERROR - 2020-03-14 14:30:17 --> Could not find the language line "Giới thiệu"
+ERROR - 2020-03-14 14:30:17 --> Could not find the language line "Dịch vụ thương mại"
+ERROR - 2020-03-14 14:30:17 --> Could not find the language line "Lĩnh vực hoạt động"
+ERROR - 2020-03-14 14:30:17 --> Could not find the language line "Services"
+ERROR - 2020-03-14 14:30:17 --> Could not find the language line "Tin Hoạt Động"
+ERROR - 2020-03-14 14:30:17 --> Could not find the language line "Tin Công Nghệ"
+ERROR - 2020-03-14 14:30:17 --> Could not find the language line "Sự Kiện"
+ERROR - 2020-03-14 14:30:17 --> Could not find the language line "Góc báo chí"
+DEBUG - 2020-03-14 14:30:17 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/mega_menu.php
+ERROR - 2020-03-14 14:30:17 --> Could not find the language line "Search"
+ERROR - 2020-03-14 14:30:17 --> Could not find the language line "Tin Hoạt Động"
+ERROR - 2020-03-14 14:30:17 --> Could not find the language line "Tin Hoạt Động"
+ERROR - 2020-03-14 14:30:17 --> Could not find the language line "news"
+DEBUG - 2020-03-14 14:30:17 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/page_header.php
+DEBUG - 2020-03-14 14:30:17 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_header_view.php
+DEBUG - 2020-03-14 14:30:17 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_footer_view.php
+DEBUG - 2020-03-14 14:30:17 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/master_view.php
+INFO - 2020-03-14 14:30:17 --> Final output sent to browser
+DEBUG - 2020-03-14 14:30:17 --> Total execution time: 0.1002
+INFO - 2020-03-14 14:30:17 --> Config Class Initialized
+INFO - 2020-03-14 14:30:17 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:30:17 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:30:17 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:30:17 --> URI Class Initialized
+INFO - 2020-03-14 14:30:17 --> Router Class Initialized
+INFO - 2020-03-14 14:30:17 --> Output Class Initialized
+INFO - 2020-03-14 14:30:17 --> Security Class Initialized
+INFO - 2020-03-14 14:30:17 --> Config Class Initialized
+INFO - 2020-03-14 14:30:17 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:30:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:30:17 --> Input Class Initialized
+DEBUG - 2020-03-14 14:30:17 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:30:17 --> Utf8 Class Initialized
+DEBUG - 2020-03-14 14:30:17 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:30:17 --> Language Class Initialized
+INFO - 2020-03-14 14:30:17 --> Config Class Initialized
+INFO - 2020-03-14 14:30:17 --> URI Class Initialized
+INFO - 2020-03-14 14:30:17 --> Router Class Initialized
+INFO - 2020-03-14 14:30:17 --> Config Class Initialized
+INFO - 2020-03-14 14:30:17 --> Hooks Class Initialized
+INFO - 2020-03-14 14:30:17 --> Output Class Initialized
+DEBUG - 2020-03-14 14:30:17 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:30:17 --> Config Class Initialized
+INFO - 2020-03-14 14:30:17 --> Security Class Initialized
+INFO - 2020-03-14 14:30:17 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:30:17 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-03-14 14:30:17 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:30:17 --> Loader Class Initialized
+INFO - 2020-03-14 14:30:17 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:30:17 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:30:17 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:30:17 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:30:17 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:30:17 --> Input Class Initialized
+INFO - 2020-03-14 14:30:17 --> URI Class Initialized
+DEBUG - 2020-03-14 14:30:17 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:30:17 --> Language Class Initialized
+INFO - 2020-03-14 14:30:17 --> Config Class Initialized
+INFO - 2020-03-14 14:30:17 --> Router Class Initialized
+INFO - 2020-03-14 14:30:17 --> Loader Class Initialized
+INFO - 2020-03-14 14:30:17 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:30:17 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:30:17 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:30:17 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:30:17 --> Output Class Initialized
+INFO - 2020-03-14 14:30:17 --> Security Class Initialized
+DEBUG - 2020-03-14 14:30:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:30:17 --> Input Class Initialized
+DEBUG - 2020-03-14 14:30:17 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:30:17 --> Language Class Initialized
+INFO - 2020-03-14 14:30:17 --> Config Class Initialized
+INFO - 2020-03-14 14:30:17 --> Loader Class Initialized
+INFO - 2020-03-14 14:30:17 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:30:17 --> URI Class Initialized
+INFO - 2020-03-14 14:30:17 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:30:17 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:30:17 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:30:17 --> Router Class Initialized
+INFO - 2020-03-14 14:30:17 --> Output Class Initialized
+INFO - 2020-03-14 14:30:17 --> Config Class Initialized
+INFO - 2020-03-14 14:30:17 --> Hooks Class Initialized
+INFO - 2020-03-14 14:30:17 --> Security Class Initialized
+DEBUG - 2020-03-14 14:30:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:30:17 --> Controller Class Initialized
+INFO - 2020-03-14 14:30:17 --> Input Class Initialized
+INFO - 2020-03-14 14:30:17 --> Database Driver Class Initialized
+DEBUG - 2020-03-14 14:30:17 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:30:17 --> Language Class Initialized
+INFO - 2020-03-14 14:30:17 --> Config Class Initialized
+INFO - 2020-03-14 14:30:17 --> Loader Class Initialized
+INFO - 2020-03-14 14:30:17 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:30:17 --> Controller Class Initialized
+INFO - 2020-03-14 14:30:17 --> Helper loaded: form_helper
+ERROR - 2020-03-14 14:30:17 --> 404 Page Not Found: /index
+DEBUG - 2020-03-14 14:30:17 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:30:17 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:30:17 --> URI Class Initialized
+INFO - 2020-03-14 14:30:17 --> Router Class Initialized
+INFO - 2020-03-14 14:30:17 --> Output Class Initialized
+INFO - 2020-03-14 14:30:17 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:30:17 --> Controller Class Initialized
+ERROR - 2020-03-14 14:30:17 --> 404 Page Not Found: /index
+ERROR - 2020-03-14 14:30:17 --> 404 Page Not Found: /index
+INFO - 2020-03-14 14:30:17 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:30:17 --> Security Class Initialized
+DEBUG - 2020-03-14 14:30:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:30:17 --> Input Class Initialized
+INFO - 2020-03-14 14:30:17 --> Controller Class Initialized
+ERROR - 2020-03-14 14:30:17 --> 404 Page Not Found: /index
+DEBUG - 2020-03-14 14:30:17 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:30:17 --> Language Class Initialized
+INFO - 2020-03-14 14:30:17 --> Config Class Initialized
+INFO - 2020-03-14 14:30:17 --> Loader Class Initialized
+INFO - 2020-03-14 14:30:17 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:30:17 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:30:17 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:30:17 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:30:17 --> Controller Class Initialized
+ERROR - 2020-03-14 14:30:17 --> 404 Page Not Found: /index
+INFO - 2020-03-14 14:32:10 --> Config Class Initialized
+INFO - 2020-03-14 14:32:10 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:32:10 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:32:10 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:32:10 --> URI Class Initialized
+INFO - 2020-03-14 14:32:10 --> Router Class Initialized
+INFO - 2020-03-14 14:32:10 --> Output Class Initialized
+INFO - 2020-03-14 14:32:10 --> Security Class Initialized
+DEBUG - 2020-03-14 14:32:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:32:10 --> Input Class Initialized
+DEBUG - 2020-03-14 14:32:10 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:32:10 --> Language Class Initialized
+INFO - 2020-03-14 14:32:10 --> Config Class Initialized
+INFO - 2020-03-14 14:32:10 --> Loader Class Initialized
+INFO - 2020-03-14 14:32:10 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:32:10 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:32:10 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:32:10 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:32:10 --> Controller Class Initialized
+DEBUG - 2020-03-14 14:32:10 --> News MX_Controller Initialized
+INFO - 2020-03-14 14:32:10 --> Helper loaded: html_helper
+INFO - 2020-03-14 14:32:10 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 14:32:10 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 14:32:10 --> Helper loaded: file_helper
+INFO - 2020-03-14 14:32:10 --> MY_Model class loaded
+INFO - 2020-03-14 14:32:10 --> Model "Language_model" initialized
+INFO - 2020-03-14 14:32:10 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 14:32:10 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 14:32:10 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 14:32:10 --> Model "Setting_model" initialized
+INFO - 2020-03-14 14:32:10 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 14:32:10 --> Model "Page_model" initialized
+INFO - 2020-03-14 14:32:10 --> Model "Category_model" initialized
+INFO - 2020-03-14 14:32:10 --> Model "Article_model" initialized
+INFO - 2020-03-14 14:32:10 --> Model "Service_model" initialized
+INFO - 2020-03-14 14:32:10 --> Model "User_model" initialized
+INFO - 2020-03-14 14:32:10 --> Model "Article_category_model" initialized
+ERROR - 2020-03-14 14:32:10 --> Could not find the language line "Next"
+DEBUG - 2020-03-14 14:32:10 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_news_categories.php
+DEBUG - 2020-03-14 14:32:10 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/default/news/listing_news.php
+DEBUG - 2020-03-14 14:32:10 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/top_bar.php
+ERROR - 2020-03-14 14:32:10 --> Could not find the language line "Giới thiệu"
+ERROR - 2020-03-14 14:32:10 --> Could not find the language line "Dịch vụ thương mại"
+ERROR - 2020-03-14 14:32:10 --> Could not find the language line "Lĩnh vực hoạt động"
+ERROR - 2020-03-14 14:32:10 --> Could not find the language line "Services"
+ERROR - 2020-03-14 14:32:10 --> Could not find the language line "Tin Hoạt Động"
+ERROR - 2020-03-14 14:32:10 --> Could not find the language line "Tin Công Nghệ"
+ERROR - 2020-03-14 14:32:10 --> Could not find the language line "Sự Kiện"
+ERROR - 2020-03-14 14:32:10 --> Could not find the language line "Góc báo chí"
+DEBUG - 2020-03-14 14:32:10 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/mega_menu.php
+ERROR - 2020-03-14 14:32:10 --> Could not find the language line "Search"
+ERROR - 2020-03-14 14:32:10 --> Could not find the language line "Tin Hoạt Động"
+ERROR - 2020-03-14 14:32:10 --> Could not find the language line "Tin Hoạt Động"
+ERROR - 2020-03-14 14:32:10 --> Could not find the language line "news"
+DEBUG - 2020-03-14 14:32:10 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/page_header.php
+DEBUG - 2020-03-14 14:32:10 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_header_view.php
+DEBUG - 2020-03-14 14:32:10 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_footer_view.php
+DEBUG - 2020-03-14 14:32:10 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/master_view.php
+INFO - 2020-03-14 14:32:10 --> Final output sent to browser
+DEBUG - 2020-03-14 14:32:10 --> Total execution time: 0.3062
+INFO - 2020-03-14 14:32:10 --> Config Class Initialized
+INFO - 2020-03-14 14:32:10 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:32:10 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:32:10 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:32:10 --> URI Class Initialized
+INFO - 2020-03-14 14:32:10 --> Router Class Initialized
+INFO - 2020-03-14 14:32:10 --> Output Class Initialized
+INFO - 2020-03-14 14:32:10 --> Security Class Initialized
+DEBUG - 2020-03-14 14:32:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:32:10 --> Input Class Initialized
+DEBUG - 2020-03-14 14:32:10 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:32:10 --> Language Class Initialized
+INFO - 2020-03-14 14:32:10 --> Config Class Initialized
+INFO - 2020-03-14 14:32:10 --> Loader Class Initialized
+INFO - 2020-03-14 14:32:10 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:32:10 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:32:10 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:32:10 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:32:10 --> Config Class Initialized
+INFO - 2020-03-14 14:32:10 --> Hooks Class Initialized
+INFO - 2020-03-14 14:32:10 --> Config Class Initialized
+INFO - 2020-03-14 14:32:10 --> Hooks Class Initialized
+INFO - 2020-03-14 14:32:10 --> Config Class Initialized
+INFO - 2020-03-14 14:32:10 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:32:10 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:32:10 --> Utf8 Class Initialized
+DEBUG - 2020-03-14 14:32:10 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:32:10 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:32:10 --> URI Class Initialized
+INFO - 2020-03-14 14:32:10 --> URI Class Initialized
+INFO - 2020-03-14 14:32:10 --> Router Class Initialized
+INFO - 2020-03-14 14:32:10 --> Config Class Initialized
+INFO - 2020-03-14 14:32:10 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:32:10 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:32:10 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:32:10 --> URI Class Initialized
+INFO - 2020-03-14 14:32:10 --> Router Class Initialized
+INFO - 2020-03-14 14:32:10 --> Output Class Initialized
+INFO - 2020-03-14 14:32:10 --> Security Class Initialized
+DEBUG - 2020-03-14 14:32:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:32:10 --> Input Class Initialized
+DEBUG - 2020-03-14 14:32:10 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:32:10 --> Router Class Initialized
+INFO - 2020-03-14 14:32:10 --> Output Class Initialized
+INFO - 2020-03-14 14:32:10 --> Security Class Initialized
+INFO - 2020-03-14 14:32:10 --> Language Class Initialized
+INFO - 2020-03-14 14:32:10 --> Config Class Initialized
+DEBUG - 2020-03-14 14:32:10 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:32:10 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:32:10 --> Loader Class Initialized
+INFO - 2020-03-14 14:32:10 --> URI Class Initialized
+INFO - 2020-03-14 14:32:10 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:32:10 --> Router Class Initialized
+INFO - 2020-03-14 14:32:10 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:32:10 --> Output Class Initialized
+DEBUG - 2020-03-14 14:32:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:32:10 --> Security Class Initialized
+INFO - 2020-03-14 14:32:10 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:32:10 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:32:10 --> Input Class Initialized
+DEBUG - 2020-03-14 14:32:10 --> Language_Identifier Class Initialized
+DEBUG - 2020-03-14 14:32:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:32:10 --> Language Class Initialized
+INFO - 2020-03-14 14:32:10 --> Output Class Initialized
+INFO - 2020-03-14 14:32:10 --> Config Class Initialized
+INFO - 2020-03-14 14:32:10 --> Security Class Initialized
+INFO - 2020-03-14 14:32:10 --> Input Class Initialized
+DEBUG - 2020-03-14 14:32:10 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:32:10 --> Language Class Initialized
+INFO - 2020-03-14 14:32:10 --> Config Class Initialized
+INFO - 2020-03-14 14:32:10 --> Loader Class Initialized
+INFO - 2020-03-14 14:32:10 --> Controller Class Initialized
+DEBUG - 2020-03-14 14:32:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:32:10 --> Input Class Initialized
+INFO - 2020-03-14 14:32:10 --> Controller Class Initialized
+DEBUG - 2020-03-14 14:32:10 --> Language_Identifier Class Initialized
+ERROR - 2020-03-14 14:32:10 --> 404 Page Not Found: /index
+INFO - 2020-03-14 14:32:10 --> Language Class Initialized
+INFO - 2020-03-14 14:32:10 --> Config Class Initialized
+INFO - 2020-03-14 14:32:10 --> Loader Class Initialized
+INFO - 2020-03-14 14:32:10 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:32:10 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:32:10 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:32:10 --> Database Driver Class Initialized
+ERROR - 2020-03-14 14:32:10 --> 404 Page Not Found: /index
+INFO - 2020-03-14 14:32:10 --> Loader Class Initialized
+INFO - 2020-03-14 14:32:10 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:32:10 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:32:10 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:32:10 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:32:10 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:32:10 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:32:10 --> Controller Class Initialized
+INFO - 2020-03-14 14:32:10 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:32:10 --> Database Driver Class Initialized
+ERROR - 2020-03-14 14:32:10 --> 404 Page Not Found: /index
+INFO - 2020-03-14 14:32:10 --> Controller Class Initialized
+INFO - 2020-03-14 14:32:10 --> Controller Class Initialized
+ERROR - 2020-03-14 14:32:10 --> 404 Page Not Found: /index
+ERROR - 2020-03-14 14:32:10 --> 404 Page Not Found: /index
+INFO - 2020-03-14 14:32:28 --> Config Class Initialized
+INFO - 2020-03-14 14:32:28 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:32:28 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:32:28 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:32:28 --> URI Class Initialized
+INFO - 2020-03-14 14:32:28 --> Router Class Initialized
+INFO - 2020-03-14 14:32:28 --> Output Class Initialized
+INFO - 2020-03-14 14:32:28 --> Security Class Initialized
+DEBUG - 2020-03-14 14:32:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:32:28 --> Input Class Initialized
+DEBUG - 2020-03-14 14:32:28 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:32:28 --> Language Class Initialized
+INFO - 2020-03-14 14:32:28 --> Config Class Initialized
+INFO - 2020-03-14 14:32:28 --> Loader Class Initialized
+INFO - 2020-03-14 14:32:28 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:32:28 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:32:28 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:32:28 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:32:28 --> Controller Class Initialized
+DEBUG - 2020-03-14 14:32:28 --> News MX_Controller Initialized
+INFO - 2020-03-14 14:32:28 --> Helper loaded: html_helper
+INFO - 2020-03-14 14:32:28 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 14:32:28 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 14:32:28 --> Helper loaded: file_helper
+INFO - 2020-03-14 14:32:28 --> MY_Model class loaded
+INFO - 2020-03-14 14:32:28 --> Model "Language_model" initialized
+INFO - 2020-03-14 14:32:28 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 14:32:28 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 14:32:28 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 14:32:28 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 14:32:28 --> Model "Page_model" initialized
+INFO - 2020-03-14 14:32:28 --> Model "Category_model" initialized
+INFO - 2020-03-14 14:32:28 --> Model "Article_model" initialized
+INFO - 2020-03-14 14:32:28 --> Model "Service_model" initialized
+INFO - 2020-03-14 14:32:28 --> Model "User_model" initialized
+INFO - 2020-03-14 14:32:28 --> Model "Article_category_model" initialized
+ERROR - 2020-03-14 14:32:28 --> Could not find the language line "Next"
+DEBUG - 2020-03-14 14:32:28 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_news_categories.php
+DEBUG - 2020-03-14 14:32:28 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/default/news/listing_news.php
+DEBUG - 2020-03-14 14:32:28 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/top_bar.php
+ERROR - 2020-03-14 14:32:28 --> Could not find the language line "Giới thiệu"
+ERROR - 2020-03-14 14:32:28 --> Could not find the language line "Dịch vụ thương mại"
+ERROR - 2020-03-14 14:32:28 --> Could not find the language line "Lĩnh vực hoạt động"
+ERROR - 2020-03-14 14:32:28 --> Could not find the language line "Services"
+ERROR - 2020-03-14 14:32:28 --> Could not find the language line "Tin Hoạt Động"
+ERROR - 2020-03-14 14:32:28 --> Could not find the language line "Tin Công Nghệ"
+ERROR - 2020-03-14 14:32:28 --> Could not find the language line "Sự Kiện"
+ERROR - 2020-03-14 14:32:28 --> Could not find the language line "Góc báo chí"
+DEBUG - 2020-03-14 14:32:28 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/mega_menu.php
+ERROR - 2020-03-14 14:32:28 --> Could not find the language line "Search"
+ERROR - 2020-03-14 14:32:28 --> Could not find the language line "Tin Hoạt Động"
+ERROR - 2020-03-14 14:32:28 --> Could not find the language line "Tin Hoạt Động"
+ERROR - 2020-03-14 14:32:28 --> Could not find the language line "news"
+DEBUG - 2020-03-14 14:32:28 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/page_header.php
+DEBUG - 2020-03-14 14:32:28 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_header_view.php
+DEBUG - 2020-03-14 14:32:28 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_footer_view.php
+DEBUG - 2020-03-14 14:32:28 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/master_view.php
+INFO - 2020-03-14 14:32:28 --> Final output sent to browser
+DEBUG - 2020-03-14 14:32:28 --> Total execution time: 0.0922
+INFO - 2020-03-14 14:32:28 --> Config Class Initialized
+INFO - 2020-03-14 14:32:28 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:32:28 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:32:28 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:32:28 --> URI Class Initialized
+INFO - 2020-03-14 14:32:28 --> Router Class Initialized
+INFO - 2020-03-14 14:32:28 --> Output Class Initialized
+INFO - 2020-03-14 14:32:28 --> Config Class Initialized
+INFO - 2020-03-14 14:32:28 --> Hooks Class Initialized
+INFO - 2020-03-14 14:32:28 --> Config Class Initialized
+INFO - 2020-03-14 14:32:28 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:32:28 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:32:28 --> Security Class Initialized
+INFO - 2020-03-14 14:32:28 --> Utf8 Class Initialized
+DEBUG - 2020-03-14 14:32:28 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-03-14 14:32:28 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:32:28 --> URI Class Initialized
+INFO - 2020-03-14 14:32:28 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:32:28 --> URI Class Initialized
+INFO - 2020-03-14 14:32:28 --> Router Class Initialized
+INFO - 2020-03-14 14:32:28 --> Output Class Initialized
+INFO - 2020-03-14 14:32:28 --> Router Class Initialized
+INFO - 2020-03-14 14:32:28 --> Config Class Initialized
+INFO - 2020-03-14 14:32:28 --> Hooks Class Initialized
+INFO - 2020-03-14 14:32:28 --> Output Class Initialized
+DEBUG - 2020-03-14 14:32:28 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:32:28 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:32:28 --> URI Class Initialized
+INFO - 2020-03-14 14:32:28 --> Security Class Initialized
+INFO - 2020-03-14 14:32:28 --> Router Class Initialized
+INFO - 2020-03-14 14:32:28 --> Security Class Initialized
+INFO - 2020-03-14 14:32:28 --> Output Class Initialized
+INFO - 2020-03-14 14:32:28 --> Security Class Initialized
+DEBUG - 2020-03-14 14:32:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:32:28 --> Input Class Initialized
+DEBUG - 2020-03-14 14:32:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:32:28 --> Input Class Initialized
+DEBUG - 2020-03-14 14:32:28 --> Language_Identifier Class Initialized
+DEBUG - 2020-03-14 14:32:28 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:32:28 --> Language Class Initialized
+INFO - 2020-03-14 14:32:28 --> Config Class Initialized
+INFO - 2020-03-14 14:32:28 --> Language Class Initialized
+INFO - 2020-03-14 14:32:28 --> Config Class Initialized
+DEBUG - 2020-03-14 14:32:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:32:28 --> Input Class Initialized
+INFO - 2020-03-14 14:32:28 --> Loader Class Initialized
+INFO - 2020-03-14 14:32:28 --> Loader Class Initialized
+INFO - 2020-03-14 14:32:28 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:32:28 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:32:28 --> Helper loaded: form_helper
+DEBUG - 2020-03-14 14:32:28 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:32:28 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:32:28 --> Language Class Initialized
+INFO - 2020-03-14 14:32:28 --> Config Class Initialized
+INFO - 2020-03-14 14:32:28 --> Config Class Initialized
+INFO - 2020-03-14 14:32:28 --> Hooks Class Initialized
+INFO - 2020-03-14 14:32:28 --> Loader Class Initialized
+DEBUG - 2020-03-14 14:32:28 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:32:28 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:32:28 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:32:28 --> URI Class Initialized
+INFO - 2020-03-14 14:32:28 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:32:28 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:32:28 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:32:28 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:32:28 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:32:28 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:32:28 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:32:28 --> Input Class Initialized
+INFO - 2020-03-14 14:32:28 --> Router Class Initialized
+INFO - 2020-03-14 14:32:28 --> Controller Class Initialized
+INFO - 2020-03-14 14:32:28 --> Output Class Initialized
+INFO - 2020-03-14 14:32:28 --> Security Class Initialized
+INFO - 2020-03-14 14:32:28 --> Controller Class Initialized
+DEBUG - 2020-03-14 14:32:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:32:28 --> Input Class Initialized
+ERROR - 2020-03-14 14:32:28 --> 404 Page Not Found: /index
+DEBUG - 2020-03-14 14:32:28 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:32:28 --> Language Class Initialized
+INFO - 2020-03-14 14:32:28 --> Config Class Initialized
+INFO - 2020-03-14 14:32:28 --> Loader Class Initialized
+INFO - 2020-03-14 14:32:28 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:32:28 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:32:28 --> Helper loaded: language_helper
+ERROR - 2020-03-14 14:32:28 --> 404 Page Not Found: /index
+INFO - 2020-03-14 14:32:28 --> Database Driver Class Initialized
+DEBUG - 2020-03-14 14:32:28 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:32:28 --> Language Class Initialized
+INFO - 2020-03-14 14:32:29 --> Config Class Initialized
+INFO - 2020-03-14 14:32:29 --> Controller Class Initialized
+ERROR - 2020-03-14 14:32:29 --> 404 Page Not Found: /index
+INFO - 2020-03-14 14:32:29 --> Loader Class Initialized
+INFO - 2020-03-14 14:32:29 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:32:29 --> Controller Class Initialized
+INFO - 2020-03-14 14:32:29 --> Helper loaded: form_helper
+ERROR - 2020-03-14 14:32:29 --> 404 Page Not Found: /index
+INFO - 2020-03-14 14:32:29 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:32:29 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:32:29 --> Controller Class Initialized
+ERROR - 2020-03-14 14:32:29 --> 404 Page Not Found: /index
+INFO - 2020-03-14 14:32:56 --> Config Class Initialized
+INFO - 2020-03-14 14:32:56 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:32:56 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:32:56 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:32:56 --> URI Class Initialized
+INFO - 2020-03-14 14:32:56 --> Router Class Initialized
+INFO - 2020-03-14 14:32:56 --> Output Class Initialized
+INFO - 2020-03-14 14:32:56 --> Security Class Initialized
+DEBUG - 2020-03-14 14:32:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:32:56 --> Input Class Initialized
+DEBUG - 2020-03-14 14:32:56 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:32:56 --> Language Class Initialized
+INFO - 2020-03-14 14:32:56 --> Config Class Initialized
+INFO - 2020-03-14 14:32:56 --> Loader Class Initialized
+INFO - 2020-03-14 14:32:56 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:32:56 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:32:56 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:32:56 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:32:56 --> Controller Class Initialized
+DEBUG - 2020-03-14 14:32:56 --> News MX_Controller Initialized
+INFO - 2020-03-14 14:32:56 --> Helper loaded: html_helper
+INFO - 2020-03-14 14:32:56 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 14:32:56 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 14:32:56 --> Helper loaded: file_helper
+INFO - 2020-03-14 14:32:56 --> MY_Model class loaded
+INFO - 2020-03-14 14:32:56 --> Model "Language_model" initialized
+INFO - 2020-03-14 14:32:56 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 14:32:56 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 14:32:56 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 14:32:56 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 14:32:56 --> Model "Page_model" initialized
+INFO - 2020-03-14 14:32:56 --> Model "Category_model" initialized
+INFO - 2020-03-14 14:32:56 --> Model "Article_model" initialized
+INFO - 2020-03-14 14:32:56 --> Model "Service_model" initialized
+INFO - 2020-03-14 14:32:56 --> Model "User_model" initialized
+INFO - 2020-03-14 14:32:56 --> Model "Article_category_model" initialized
+ERROR - 2020-03-14 14:32:56 --> Severity: error --> Exception: syntax error, unexpected '?>', expecting ',' or ')' /Volumes/Betrai/www/thienanphu/application/views/default/news/listing_news.php 89
+INFO - 2020-03-14 14:33:10 --> Config Class Initialized
+INFO - 2020-03-14 14:33:10 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:33:10 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:33:10 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:33:10 --> URI Class Initialized
+INFO - 2020-03-14 14:33:10 --> Router Class Initialized
+INFO - 2020-03-14 14:33:10 --> Output Class Initialized
+INFO - 2020-03-14 14:33:10 --> Security Class Initialized
+DEBUG - 2020-03-14 14:33:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:33:10 --> Input Class Initialized
+DEBUG - 2020-03-14 14:33:10 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:33:10 --> Language Class Initialized
+INFO - 2020-03-14 14:33:10 --> Config Class Initialized
+INFO - 2020-03-14 14:33:10 --> Loader Class Initialized
+INFO - 2020-03-14 14:33:10 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:33:10 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:33:10 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:33:10 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:33:10 --> Controller Class Initialized
+DEBUG - 2020-03-14 14:33:10 --> News MX_Controller Initialized
+INFO - 2020-03-14 14:33:10 --> Helper loaded: html_helper
+INFO - 2020-03-14 14:33:10 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 14:33:10 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 14:33:10 --> Helper loaded: file_helper
+INFO - 2020-03-14 14:33:10 --> MY_Model class loaded
+INFO - 2020-03-14 14:33:10 --> Model "Language_model" initialized
+INFO - 2020-03-14 14:33:10 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 14:33:10 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 14:33:10 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 14:33:10 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 14:33:10 --> Model "Page_model" initialized
+INFO - 2020-03-14 14:33:10 --> Model "Category_model" initialized
+INFO - 2020-03-14 14:33:10 --> Model "Article_model" initialized
+INFO - 2020-03-14 14:33:10 --> Model "Service_model" initialized
+INFO - 2020-03-14 14:33:10 --> Model "User_model" initialized
+INFO - 2020-03-14 14:33:10 --> Model "Article_category_model" initialized
+ERROR - 2020-03-14 14:33:10 --> Could not find the language line "Next"
+DEBUG - 2020-03-14 14:33:10 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_news_categories.php
+INFO - 2020-03-14 14:33:24 --> Config Class Initialized
+INFO - 2020-03-14 14:33:24 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:33:24 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:33:24 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:33:24 --> URI Class Initialized
+INFO - 2020-03-14 14:33:24 --> Router Class Initialized
+INFO - 2020-03-14 14:33:24 --> Output Class Initialized
+INFO - 2020-03-14 14:33:24 --> Security Class Initialized
+DEBUG - 2020-03-14 14:33:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:33:24 --> Input Class Initialized
+DEBUG - 2020-03-14 14:33:24 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:33:24 --> Language Class Initialized
+INFO - 2020-03-14 14:33:24 --> Config Class Initialized
+INFO - 2020-03-14 14:33:24 --> Loader Class Initialized
+INFO - 2020-03-14 14:33:24 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:33:24 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:33:24 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:33:24 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:33:24 --> Controller Class Initialized
+DEBUG - 2020-03-14 14:33:24 --> News MX_Controller Initialized
+INFO - 2020-03-14 14:33:24 --> Helper loaded: html_helper
+INFO - 2020-03-14 14:33:24 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 14:33:24 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 14:33:24 --> Helper loaded: file_helper
+INFO - 2020-03-14 14:33:24 --> MY_Model class loaded
+INFO - 2020-03-14 14:33:24 --> Model "Language_model" initialized
+INFO - 2020-03-14 14:33:24 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 14:33:24 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 14:33:24 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 14:33:24 --> Model "Setting_model" initialized
+INFO - 2020-03-14 14:33:24 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 14:33:24 --> Model "Page_model" initialized
+INFO - 2020-03-14 14:33:24 --> Model "Category_model" initialized
+INFO - 2020-03-14 14:33:24 --> Model "Article_model" initialized
+INFO - 2020-03-14 14:33:24 --> Model "Service_model" initialized
+INFO - 2020-03-14 14:33:24 --> Model "User_model" initialized
+INFO - 2020-03-14 14:33:24 --> Model "Article_category_model" initialized
+ERROR - 2020-03-14 14:33:24 --> Could not find the language line "Next"
+DEBUG - 2020-03-14 14:33:24 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_news_categories.php
+ERROR - 2020-03-14 14:33:24 --> Could not find the language line "Services"
+DEBUG - 2020-03-14 14:33:24 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_services.php
+DEBUG - 2020-03-14 14:33:24 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/default/news/listing_news.php
+DEBUG - 2020-03-14 14:33:24 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/top_bar.php
+ERROR - 2020-03-14 14:33:24 --> Could not find the language line "Giới thiệu"
+ERROR - 2020-03-14 14:33:24 --> Could not find the language line "Dịch vụ thương mại"
+ERROR - 2020-03-14 14:33:24 --> Could not find the language line "Lĩnh vực hoạt động"
+ERROR - 2020-03-14 14:33:24 --> Could not find the language line "Services"
+ERROR - 2020-03-14 14:33:24 --> Could not find the language line "Tin Hoạt Động"
+ERROR - 2020-03-14 14:33:24 --> Could not find the language line "Tin Công Nghệ"
+ERROR - 2020-03-14 14:33:24 --> Could not find the language line "Sự Kiện"
+ERROR - 2020-03-14 14:33:24 --> Could not find the language line "Góc báo chí"
+DEBUG - 2020-03-14 14:33:24 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/mega_menu.php
+ERROR - 2020-03-14 14:33:24 --> Could not find the language line "Search"
+ERROR - 2020-03-14 14:33:24 --> Could not find the language line "Tin Hoạt Động"
+ERROR - 2020-03-14 14:33:24 --> Could not find the language line "Tin Hoạt Động"
+ERROR - 2020-03-14 14:33:24 --> Could not find the language line "news"
+DEBUG - 2020-03-14 14:33:24 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/page_header.php
+DEBUG - 2020-03-14 14:33:24 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_header_view.php
+DEBUG - 2020-03-14 14:33:24 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_footer_view.php
+DEBUG - 2020-03-14 14:33:24 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/master_view.php
+INFO - 2020-03-14 14:33:24 --> Final output sent to browser
+DEBUG - 2020-03-14 14:33:24 --> Total execution time: 0.1120
+INFO - 2020-03-14 14:33:24 --> Config Class Initialized
+INFO - 2020-03-14 14:33:24 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:33:24 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:33:24 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:33:24 --> URI Class Initialized
+INFO - 2020-03-14 14:33:24 --> Router Class Initialized
+INFO - 2020-03-14 14:33:24 --> Output Class Initialized
+INFO - 2020-03-14 14:33:24 --> Config Class Initialized
+INFO - 2020-03-14 14:33:24 --> Hooks Class Initialized
+INFO - 2020-03-14 14:33:24 --> Config Class Initialized
+INFO - 2020-03-14 14:33:24 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:33:24 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:33:24 --> Config Class Initialized
+INFO - 2020-03-14 14:33:24 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:33:24 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:33:24 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:33:24 --> URI Class Initialized
+DEBUG - 2020-03-14 14:33:24 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:33:24 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:33:24 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:33:24 --> URI Class Initialized
+INFO - 2020-03-14 14:33:24 --> Router Class Initialized
+INFO - 2020-03-14 14:33:24 --> Security Class Initialized
+INFO - 2020-03-14 14:33:24 --> Config Class Initialized
+INFO - 2020-03-14 14:33:24 --> Router Class Initialized
+INFO - 2020-03-14 14:33:24 --> URI Class Initialized
+INFO - 2020-03-14 14:33:24 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:33:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:33:24 --> Output Class Initialized
+INFO - 2020-03-14 14:33:24 --> Input Class Initialized
+INFO - 2020-03-14 14:33:24 --> Output Class Initialized
+INFO - 2020-03-14 14:33:24 --> Security Class Initialized
+DEBUG - 2020-03-14 14:33:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:33:24 --> Input Class Initialized
+DEBUG - 2020-03-14 14:33:24 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:33:24 --> Language Class Initialized
+INFO - 2020-03-14 14:33:24 --> Config Class Initialized
+INFO - 2020-03-14 14:33:24 --> Loader Class Initialized
+INFO - 2020-03-14 14:33:24 --> Router Class Initialized
+INFO - 2020-03-14 14:33:24 --> Output Class Initialized
+INFO - 2020-03-14 14:33:24 --> Helper loaded: url_helper
+DEBUG - 2020-03-14 14:33:24 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:33:24 --> Security Class Initialized
+INFO - 2020-03-14 14:33:24 --> Language Class Initialized
+INFO - 2020-03-14 14:33:24 --> Config Class Initialized
+DEBUG - 2020-03-14 14:33:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:33:24 --> Input Class Initialized
+INFO - 2020-03-14 14:33:24 --> Loader Class Initialized
+DEBUG - 2020-03-14 14:33:24 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:33:24 --> Language Class Initialized
+INFO - 2020-03-14 14:33:24 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:33:24 --> Config Class Initialized
+INFO - 2020-03-14 14:33:24 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:33:24 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:33:24 --> Loader Class Initialized
+INFO - 2020-03-14 14:33:24 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:33:24 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:33:24 --> Security Class Initialized
+DEBUG - 2020-03-14 14:33:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:33:24 --> Input Class Initialized
+INFO - 2020-03-14 14:33:24 --> Helper loaded: form_helper
+DEBUG - 2020-03-14 14:33:24 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:33:24 --> Language Class Initialized
+INFO - 2020-03-14 14:33:24 --> Config Class Initialized
+INFO - 2020-03-14 14:33:24 --> Loader Class Initialized
+INFO - 2020-03-14 14:33:24 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:33:24 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:33:24 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:33:24 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:33:24 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:33:24 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:33:24 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:33:24 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:33:24 --> Database Driver Class Initialized
+DEBUG - 2020-03-14 14:33:24 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:33:24 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:33:24 --> Controller Class Initialized
+INFO - 2020-03-14 14:33:24 --> Controller Class Initialized
+ERROR - 2020-03-14 14:33:24 --> 404 Page Not Found: /index
+ERROR - 2020-03-14 14:33:24 --> 404 Page Not Found: /index
+INFO - 2020-03-14 14:33:24 --> URI Class Initialized
+INFO - 2020-03-14 14:33:24 --> Controller Class Initialized
+INFO - 2020-03-14 14:33:24 --> Controller Class Initialized
+ERROR - 2020-03-14 14:33:24 --> 404 Page Not Found: /index
+INFO - 2020-03-14 14:33:24 --> Router Class Initialized
+ERROR - 2020-03-14 14:33:24 --> 404 Page Not Found: /index
+INFO - 2020-03-14 14:33:24 --> Output Class Initialized
+INFO - 2020-03-14 14:33:24 --> Security Class Initialized
+DEBUG - 2020-03-14 14:33:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:33:24 --> Input Class Initialized
+DEBUG - 2020-03-14 14:33:24 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:33:24 --> Language Class Initialized
+INFO - 2020-03-14 14:33:24 --> Config Class Initialized
+INFO - 2020-03-14 14:33:24 --> Loader Class Initialized
+INFO - 2020-03-14 14:33:24 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:33:24 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:33:24 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:33:24 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:33:24 --> Controller Class Initialized
+ERROR - 2020-03-14 14:33:24 --> 404 Page Not Found: /index
+INFO - 2020-03-14 14:34:55 --> Config Class Initialized
+INFO - 2020-03-14 14:34:55 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:34:55 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:34:55 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:34:55 --> URI Class Initialized
+INFO - 2020-03-14 14:34:55 --> Router Class Initialized
+INFO - 2020-03-14 14:34:55 --> Output Class Initialized
+INFO - 2020-03-14 14:34:55 --> Security Class Initialized
+DEBUG - 2020-03-14 14:34:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:34:55 --> Input Class Initialized
+DEBUG - 2020-03-14 14:34:55 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:34:55 --> Language Class Initialized
+INFO - 2020-03-14 14:34:55 --> Config Class Initialized
+INFO - 2020-03-14 14:34:55 --> Loader Class Initialized
+INFO - 2020-03-14 14:34:55 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:34:55 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:34:55 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:34:55 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:34:55 --> Controller Class Initialized
+DEBUG - 2020-03-14 14:34:55 --> News MX_Controller Initialized
+INFO - 2020-03-14 14:34:55 --> Helper loaded: html_helper
+INFO - 2020-03-14 14:34:55 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 14:34:55 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 14:34:55 --> Helper loaded: file_helper
+INFO - 2020-03-14 14:34:55 --> MY_Model class loaded
+INFO - 2020-03-14 14:34:55 --> Model "Language_model" initialized
+INFO - 2020-03-14 14:34:55 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 14:34:55 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 14:34:55 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 14:34:55 --> Model "Setting_model" initialized
+INFO - 2020-03-14 14:34:55 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 14:34:55 --> Model "Page_model" initialized
+INFO - 2020-03-14 14:34:55 --> Model "Category_model" initialized
+INFO - 2020-03-14 14:34:55 --> Model "Article_model" initialized
+INFO - 2020-03-14 14:34:55 --> Model "Service_model" initialized
+INFO - 2020-03-14 14:34:55 --> Model "User_model" initialized
+INFO - 2020-03-14 14:34:55 --> Model "Article_category_model" initialized
+ERROR - 2020-03-14 14:34:55 --> Could not find the language line "Next"
+DEBUG - 2020-03-14 14:34:55 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_news_categories.php
+ERROR - 2020-03-14 14:34:55 --> Could not find the language line "Services"
+DEBUG - 2020-03-14 14:34:55 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_services.php
+DEBUG - 2020-03-14 14:34:55 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/default/news/listing_news.php
+DEBUG - 2020-03-14 14:34:55 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/top_bar.php
+ERROR - 2020-03-14 14:34:55 --> Could not find the language line "Giới thiệu"
+ERROR - 2020-03-14 14:34:55 --> Could not find the language line "Dịch vụ thương mại"
+ERROR - 2020-03-14 14:34:55 --> Could not find the language line "Lĩnh vực hoạt động"
+ERROR - 2020-03-14 14:34:55 --> Could not find the language line "Services"
+ERROR - 2020-03-14 14:34:55 --> Could not find the language line "Tin Hoạt Động"
+ERROR - 2020-03-14 14:34:55 --> Could not find the language line "Tin Công Nghệ"
+ERROR - 2020-03-14 14:34:55 --> Could not find the language line "Sự Kiện"
+ERROR - 2020-03-14 14:34:55 --> Could not find the language line "Góc báo chí"
+DEBUG - 2020-03-14 14:34:55 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/mega_menu.php
+ERROR - 2020-03-14 14:34:55 --> Could not find the language line "Search"
+ERROR - 2020-03-14 14:34:55 --> Could not find the language line "Tin Hoạt Động"
+ERROR - 2020-03-14 14:34:55 --> Could not find the language line "Tin Hoạt Động"
+ERROR - 2020-03-14 14:34:55 --> Could not find the language line "news"
+DEBUG - 2020-03-14 14:34:55 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/page_header.php
+DEBUG - 2020-03-14 14:34:55 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_header_view.php
+DEBUG - 2020-03-14 14:34:55 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_footer_view.php
+DEBUG - 2020-03-14 14:34:55 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/master_view.php
+INFO - 2020-03-14 14:34:55 --> Final output sent to browser
+DEBUG - 2020-03-14 14:34:55 --> Total execution time: 0.2642
+INFO - 2020-03-14 14:34:55 --> Config Class Initialized
+INFO - 2020-03-14 14:34:55 --> Config Class Initialized
+INFO - 2020-03-14 14:34:55 --> Hooks Class Initialized
+INFO - 2020-03-14 14:34:55 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:34:55 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:34:55 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:34:55 --> URI Class Initialized
+INFO - 2020-03-14 14:34:55 --> Router Class Initialized
+INFO - 2020-03-14 14:34:55 --> Output Class Initialized
+INFO - 2020-03-14 14:34:55 --> Security Class Initialized
+DEBUG - 2020-03-14 14:34:55 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:34:55 --> Config Class Initialized
+INFO - 2020-03-14 14:34:55 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:34:55 --> Hooks Class Initialized
+INFO - 2020-03-14 14:34:55 --> URI Class Initialized
+DEBUG - 2020-03-14 14:34:55 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-03-14 14:34:55 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:34:55 --> Input Class Initialized
+INFO - 2020-03-14 14:34:55 --> Config Class Initialized
+INFO - 2020-03-14 14:34:55 --> Hooks Class Initialized
+INFO - 2020-03-14 14:34:55 --> Router Class Initialized
+DEBUG - 2020-03-14 14:34:55 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:34:55 --> Output Class Initialized
+INFO - 2020-03-14 14:34:55 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:34:55 --> Security Class Initialized
+INFO - 2020-03-14 14:34:55 --> URI Class Initialized
+DEBUG - 2020-03-14 14:34:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:34:55 --> Input Class Initialized
+INFO - 2020-03-14 14:34:55 --> Config Class Initialized
+DEBUG - 2020-03-14 14:34:55 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:34:55 --> Router Class Initialized
+INFO - 2020-03-14 14:34:55 --> Language Class Initialized
+INFO - 2020-03-14 14:34:55 --> Output Class Initialized
+INFO - 2020-03-14 14:34:55 --> Security Class Initialized
+DEBUG - 2020-03-14 14:34:55 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-03-14 14:34:55 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:34:55 --> Language Class Initialized
+INFO - 2020-03-14 14:34:55 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:34:55 --> Hooks Class Initialized
+INFO - 2020-03-14 14:34:55 --> Config Class Initialized
+INFO - 2020-03-14 14:34:55 --> Input Class Initialized
+INFO - 2020-03-14 14:34:55 --> URI Class Initialized
+INFO - 2020-03-14 14:34:55 --> Loader Class Initialized
+DEBUG - 2020-03-14 14:34:55 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:34:55 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:34:55 --> Language Class Initialized
+INFO - 2020-03-14 14:34:55 --> Config Class Initialized
+INFO - 2020-03-14 14:34:55 --> Router Class Initialized
+INFO - 2020-03-14 14:34:55 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:34:55 --> Output Class Initialized
+INFO - 2020-03-14 14:34:55 --> Config Class Initialized
+DEBUG - 2020-03-14 14:34:55 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:34:55 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:34:55 --> Loader Class Initialized
+INFO - 2020-03-14 14:34:55 --> Loader Class Initialized
+INFO - 2020-03-14 14:34:55 --> URI Class Initialized
+INFO - 2020-03-14 14:34:55 --> Security Class Initialized
+INFO - 2020-03-14 14:34:55 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:34:55 --> Helper loaded: language_helper
+DEBUG - 2020-03-14 14:34:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:34:55 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:34:55 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:34:55 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:34:55 --> Router Class Initialized
+INFO - 2020-03-14 14:34:55 --> Input Class Initialized
+INFO - 2020-03-14 14:34:55 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:34:55 --> Output Class Initialized
+DEBUG - 2020-03-14 14:34:55 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:34:55 --> Language Class Initialized
+INFO - 2020-03-14 14:34:55 --> Config Class Initialized
+INFO - 2020-03-14 14:34:55 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:34:55 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:34:55 --> Security Class Initialized
+INFO - 2020-03-14 14:34:55 --> Loader Class Initialized
+INFO - 2020-03-14 14:34:55 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:34:55 --> Database Driver Class Initialized
+DEBUG - 2020-03-14 14:34:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:34:55 --> Controller Class Initialized
+INFO - 2020-03-14 14:34:55 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:34:55 --> Input Class Initialized
+ERROR - 2020-03-14 14:34:55 --> 404 Page Not Found: /index
+INFO - 2020-03-14 14:34:55 --> Controller Class Initialized
+DEBUG - 2020-03-14 14:34:55 --> Language_Identifier Class Initialized
+ERROR - 2020-03-14 14:34:55 --> 404 Page Not Found: /index
+INFO - 2020-03-14 14:34:55 --> Language Class Initialized
+INFO - 2020-03-14 14:34:55 --> Config Class Initialized
+INFO - 2020-03-14 14:34:55 --> Loader Class Initialized
+INFO - 2020-03-14 14:34:55 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:34:55 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:34:55 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:34:55 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:34:55 --> Controller Class Initialized
+ERROR - 2020-03-14 14:34:55 --> 404 Page Not Found: /index
+INFO - 2020-03-14 14:34:55 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:34:55 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:34:55 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:34:55 --> Controller Class Initialized
+INFO - 2020-03-14 14:34:55 --> Controller Class Initialized
+ERROR - 2020-03-14 14:34:55 --> 404 Page Not Found: /index
+ERROR - 2020-03-14 14:34:55 --> 404 Page Not Found: /index
+INFO - 2020-03-14 14:35:02 --> Config Class Initialized
+INFO - 2020-03-14 14:35:02 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:35:02 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:35:02 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:35:02 --> URI Class Initialized
+INFO - 2020-03-14 14:35:02 --> Router Class Initialized
+INFO - 2020-03-14 14:35:02 --> Output Class Initialized
+INFO - 2020-03-14 14:35:02 --> Security Class Initialized
+DEBUG - 2020-03-14 14:35:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:35:02 --> Input Class Initialized
+DEBUG - 2020-03-14 14:35:02 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:35:02 --> Language Class Initialized
+INFO - 2020-03-14 14:35:02 --> Config Class Initialized
+INFO - 2020-03-14 14:35:02 --> Loader Class Initialized
+INFO - 2020-03-14 14:35:02 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:35:02 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:35:02 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:35:02 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:35:02 --> Controller Class Initialized
+DEBUG - 2020-03-14 14:35:02 --> News MX_Controller Initialized
+INFO - 2020-03-14 14:35:02 --> Helper loaded: html_helper
+INFO - 2020-03-14 14:35:02 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 14:35:02 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 14:35:02 --> Helper loaded: file_helper
+INFO - 2020-03-14 14:35:02 --> MY_Model class loaded
+INFO - 2020-03-14 14:35:02 --> Model "Language_model" initialized
+INFO - 2020-03-14 14:35:02 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 14:35:02 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 14:35:02 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 14:35:02 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 14:35:02 --> Model "Page_model" initialized
+INFO - 2020-03-14 14:35:02 --> Model "Category_model" initialized
+INFO - 2020-03-14 14:35:02 --> Model "Article_model" initialized
+INFO - 2020-03-14 14:35:02 --> Model "Service_model" initialized
+INFO - 2020-03-14 14:35:02 --> Model "User_model" initialized
+INFO - 2020-03-14 14:35:02 --> Model "Article_category_model" initialized
+ERROR - 2020-03-14 14:35:02 --> Could not find the language line "Next"
+DEBUG - 2020-03-14 14:35:02 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_news_categories.php
+ERROR - 2020-03-14 14:35:02 --> Could not find the language line "Services"
+DEBUG - 2020-03-14 14:35:02 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_services.php
+DEBUG - 2020-03-14 14:35:02 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/default/news/listing_news.php
+DEBUG - 2020-03-14 14:35:02 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/top_bar.php
+ERROR - 2020-03-14 14:35:02 --> Could not find the language line "Giới thiệu"
+ERROR - 2020-03-14 14:35:02 --> Could not find the language line "Dịch vụ thương mại"
+ERROR - 2020-03-14 14:35:02 --> Could not find the language line "Lĩnh vực hoạt động"
+ERROR - 2020-03-14 14:35:02 --> Could not find the language line "Services"
+ERROR - 2020-03-14 14:35:02 --> Could not find the language line "Tin Hoạt Động"
+ERROR - 2020-03-14 14:35:02 --> Could not find the language line "Tin Công Nghệ"
+ERROR - 2020-03-14 14:35:02 --> Could not find the language line "Sự Kiện"
+ERROR - 2020-03-14 14:35:02 --> Could not find the language line "Góc báo chí"
+DEBUG - 2020-03-14 14:35:02 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/mega_menu.php
+ERROR - 2020-03-14 14:35:02 --> Could not find the language line "Search"
+ERROR - 2020-03-14 14:35:02 --> Could not find the language line "Tin Hoạt Động"
+ERROR - 2020-03-14 14:35:02 --> Could not find the language line "Tin Hoạt Động"
+ERROR - 2020-03-14 14:35:02 --> Could not find the language line "news"
+DEBUG - 2020-03-14 14:35:02 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/page_header.php
+DEBUG - 2020-03-14 14:35:02 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_header_view.php
+DEBUG - 2020-03-14 14:35:02 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_footer_view.php
+DEBUG - 2020-03-14 14:35:02 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/master_view.php
+INFO - 2020-03-14 14:35:02 --> Final output sent to browser
+DEBUG - 2020-03-14 14:35:02 --> Total execution time: 0.0970
+INFO - 2020-03-14 14:35:02 --> Config Class Initialized
+INFO - 2020-03-14 14:35:02 --> Hooks Class Initialized
+INFO - 2020-03-14 14:35:02 --> Config Class Initialized
+INFO - 2020-03-14 14:35:02 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:35:02 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:35:02 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:35:02 --> URI Class Initialized
+INFO - 2020-03-14 14:35:02 --> Router Class Initialized
+INFO - 2020-03-14 14:35:02 --> Output Class Initialized
+INFO - 2020-03-14 14:35:02 --> Security Class Initialized
+DEBUG - 2020-03-14 14:35:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:35:02 --> Input Class Initialized
+DEBUG - 2020-03-14 14:35:02 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:35:02 --> Language Class Initialized
+INFO - 2020-03-14 14:35:02 --> Config Class Initialized
+INFO - 2020-03-14 14:35:02 --> Loader Class Initialized
+INFO - 2020-03-14 14:35:02 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:35:02 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:35:02 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:35:02 --> Database Driver Class Initialized
+DEBUG - 2020-03-14 14:35:02 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:35:02 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:35:02 --> URI Class Initialized
+INFO - 2020-03-14 14:35:02 --> Router Class Initialized
+INFO - 2020-03-14 14:35:02 --> Output Class Initialized
+INFO - 2020-03-14 14:35:02 --> Config Class Initialized
+INFO - 2020-03-14 14:35:02 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:35:02 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:35:02 --> Config Class Initialized
+INFO - 2020-03-14 14:35:02 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:35:02 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:35:02 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:35:02 --> URI Class Initialized
+INFO - 2020-03-14 14:35:02 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:35:02 --> Router Class Initialized
+INFO - 2020-03-14 14:35:02 --> Config Class Initialized
+INFO - 2020-03-14 14:35:02 --> URI Class Initialized
+INFO - 2020-03-14 14:35:02 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:35:02 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:35:02 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:35:02 --> URI Class Initialized
+INFO - 2020-03-14 14:35:02 --> Router Class Initialized
+INFO - 2020-03-14 14:35:02 --> Output Class Initialized
+INFO - 2020-03-14 14:35:02 --> Output Class Initialized
+INFO - 2020-03-14 14:35:02 --> Security Class Initialized
+INFO - 2020-03-14 14:35:02 --> Security Class Initialized
+DEBUG - 2020-03-14 14:35:02 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-03-14 14:35:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:35:02 --> Input Class Initialized
+INFO - 2020-03-14 14:35:02 --> Input Class Initialized
+DEBUG - 2020-03-14 14:35:02 --> Language_Identifier Class Initialized
+DEBUG - 2020-03-14 14:35:02 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:35:02 --> Language Class Initialized
+INFO - 2020-03-14 14:35:02 --> Config Class Initialized
+INFO - 2020-03-14 14:35:02 --> Router Class Initialized
+INFO - 2020-03-14 14:35:02 --> Language Class Initialized
+INFO - 2020-03-14 14:35:02 --> Config Class Initialized
+INFO - 2020-03-14 14:35:02 --> Loader Class Initialized
+INFO - 2020-03-14 14:35:02 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:35:02 --> Output Class Initialized
+INFO - 2020-03-14 14:35:02 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:35:02 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:35:02 --> Loader Class Initialized
+INFO - 2020-03-14 14:35:02 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:35:02 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:35:02 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:35:02 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:35:02 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:35:02 --> Controller Class Initialized
+INFO - 2020-03-14 14:35:02 --> Controller Class Initialized
+INFO - 2020-03-14 14:35:02 --> Security Class Initialized
+ERROR - 2020-03-14 14:35:02 --> 404 Page Not Found: /index
+DEBUG - 2020-03-14 14:35:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:35:02 --> Input Class Initialized
+DEBUG - 2020-03-14 14:35:02 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:35:02 --> Language Class Initialized
+INFO - 2020-03-14 14:35:02 --> Config Class Initialized
+INFO - 2020-03-14 14:35:02 --> Loader Class Initialized
+INFO - 2020-03-14 14:35:02 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:35:02 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:35:02 --> Security Class Initialized
+INFO - 2020-03-14 14:35:02 --> Controller Class Initialized
+DEBUG - 2020-03-14 14:35:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:35:02 --> Input Class Initialized
+ERROR - 2020-03-14 14:35:02 --> 404 Page Not Found: /index
+DEBUG - 2020-03-14 14:35:02 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:35:02 --> Language Class Initialized
+INFO - 2020-03-14 14:35:02 --> Config Class Initialized
+INFO - 2020-03-14 14:35:02 --> Loader Class Initialized
+INFO - 2020-03-14 14:35:02 --> Helper loaded: url_helper
+ERROR - 2020-03-14 14:35:02 --> 404 Page Not Found: /index
+INFO - 2020-03-14 14:35:02 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:35:02 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:35:02 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:35:02 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:35:02 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:35:02 --> Controller Class Initialized
+ERROR - 2020-03-14 14:35:02 --> 404 Page Not Found: /index
+INFO - 2020-03-14 14:35:02 --> Controller Class Initialized
+ERROR - 2020-03-14 14:35:02 --> 404 Page Not Found: /index
+INFO - 2020-03-14 14:35:56 --> Config Class Initialized
+INFO - 2020-03-14 14:35:56 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:35:56 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:35:56 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:35:56 --> URI Class Initialized
+INFO - 2020-03-14 14:35:56 --> Router Class Initialized
+INFO - 2020-03-14 14:35:56 --> Output Class Initialized
+INFO - 2020-03-14 14:35:56 --> Security Class Initialized
+DEBUG - 2020-03-14 14:35:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:35:56 --> Input Class Initialized
+DEBUG - 2020-03-14 14:35:56 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:35:56 --> Language Class Initialized
+INFO - 2020-03-14 14:35:56 --> Config Class Initialized
+INFO - 2020-03-14 14:35:56 --> Loader Class Initialized
+INFO - 2020-03-14 14:35:56 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:35:56 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:35:56 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:35:56 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:35:56 --> Controller Class Initialized
+DEBUG - 2020-03-14 14:35:56 --> News MX_Controller Initialized
+INFO - 2020-03-14 14:35:56 --> Helper loaded: html_helper
+INFO - 2020-03-14 14:35:56 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 14:35:56 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 14:35:56 --> Helper loaded: file_helper
+INFO - 2020-03-14 14:35:56 --> MY_Model class loaded
+INFO - 2020-03-14 14:35:56 --> Model "Language_model" initialized
+INFO - 2020-03-14 14:35:56 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 14:35:56 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 14:35:56 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 14:35:56 --> Model "Setting_model" initialized
+INFO - 2020-03-14 14:35:56 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 14:35:56 --> Model "Page_model" initialized
+INFO - 2020-03-14 14:35:56 --> Model "Category_model" initialized
+INFO - 2020-03-14 14:35:56 --> Model "Article_model" initialized
+INFO - 2020-03-14 14:35:56 --> Model "Service_model" initialized
+INFO - 2020-03-14 14:35:56 --> Model "User_model" initialized
+INFO - 2020-03-14 14:35:56 --> Model "Article_category_model" initialized
+ERROR - 2020-03-14 14:35:56 --> Could not find the language line "Next"
+DEBUG - 2020-03-14 14:35:56 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_news_categories.php
+ERROR - 2020-03-14 14:35:56 --> Could not find the language line "Services"
+DEBUG - 2020-03-14 14:35:56 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_services.php
+DEBUG - 2020-03-14 14:35:56 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/default/news/listing_news.php
+DEBUG - 2020-03-14 14:35:56 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/top_bar.php
+ERROR - 2020-03-14 14:35:56 --> Could not find the language line "Giới thiệu"
+ERROR - 2020-03-14 14:35:56 --> Could not find the language line "Dịch vụ thương mại"
+ERROR - 2020-03-14 14:35:56 --> Could not find the language line "Lĩnh vực hoạt động"
+ERROR - 2020-03-14 14:35:56 --> Could not find the language line "Services"
+ERROR - 2020-03-14 14:35:56 --> Could not find the language line "Tin Hoạt Động"
+ERROR - 2020-03-14 14:35:56 --> Could not find the language line "Tin Công Nghệ"
+ERROR - 2020-03-14 14:35:56 --> Could not find the language line "Sự Kiện"
+ERROR - 2020-03-14 14:35:56 --> Could not find the language line "Góc báo chí"
+DEBUG - 2020-03-14 14:35:56 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/mega_menu.php
+ERROR - 2020-03-14 14:35:56 --> Could not find the language line "Search"
+ERROR - 2020-03-14 14:35:56 --> Could not find the language line "Tin Hoạt Động"
+ERROR - 2020-03-14 14:35:56 --> Could not find the language line "Tin Hoạt Động"
+ERROR - 2020-03-14 14:35:56 --> Could not find the language line "news"
+DEBUG - 2020-03-14 14:35:56 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/page_header.php
+DEBUG - 2020-03-14 14:35:56 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_header_view.php
+DEBUG - 2020-03-14 14:35:56 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_footer_view.php
+DEBUG - 2020-03-14 14:35:56 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/master_view.php
+INFO - 2020-03-14 14:35:56 --> Final output sent to browser
+DEBUG - 2020-03-14 14:35:56 --> Total execution time: 0.1301
+INFO - 2020-03-14 14:35:56 --> Config Class Initialized
+INFO - 2020-03-14 14:35:56 --> Hooks Class Initialized
+INFO - 2020-03-14 14:35:56 --> Config Class Initialized
+INFO - 2020-03-14 14:35:56 --> Config Class Initialized
+INFO - 2020-03-14 14:35:56 --> Hooks Class Initialized
+INFO - 2020-03-14 14:35:56 --> Config Class Initialized
+INFO - 2020-03-14 14:35:56 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:35:56 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:35:56 --> Utf8 Class Initialized
+DEBUG - 2020-03-14 14:35:56 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:35:56 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:35:56 --> Hooks Class Initialized
+INFO - 2020-03-14 14:35:56 --> URI Class Initialized
+DEBUG - 2020-03-14 14:35:56 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:35:56 --> Utf8 Class Initialized
+DEBUG - 2020-03-14 14:35:56 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:35:56 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:35:56 --> URI Class Initialized
+INFO - 2020-03-14 14:35:56 --> URI Class Initialized
+INFO - 2020-03-14 14:35:56 --> URI Class Initialized
+INFO - 2020-03-14 14:35:56 --> Router Class Initialized
+INFO - 2020-03-14 14:35:56 --> Router Class Initialized
+INFO - 2020-03-14 14:35:56 --> Output Class Initialized
+INFO - 2020-03-14 14:35:56 --> Output Class Initialized
+INFO - 2020-03-14 14:35:56 --> Security Class Initialized
+INFO - 2020-03-14 14:35:56 --> Router Class Initialized
+INFO - 2020-03-14 14:35:56 --> Router Class Initialized
+INFO - 2020-03-14 14:35:56 --> Output Class Initialized
+INFO - 2020-03-14 14:35:56 --> Security Class Initialized
+INFO - 2020-03-14 14:35:56 --> Security Class Initialized
+INFO - 2020-03-14 14:35:56 --> Config Class Initialized
+INFO - 2020-03-14 14:35:56 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:35:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:35:56 --> Input Class Initialized
+DEBUG - 2020-03-14 14:35:56 --> Language_Identifier Class Initialized
+DEBUG - 2020-03-14 14:35:56 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:35:56 --> Output Class Initialized
+INFO - 2020-03-14 14:35:56 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:35:56 --> Security Class Initialized
+INFO - 2020-03-14 14:35:56 --> URI Class Initialized
+DEBUG - 2020-03-14 14:35:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:35:56 --> Input Class Initialized
+DEBUG - 2020-03-14 14:35:56 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:35:56 --> Router Class Initialized
+DEBUG - 2020-03-14 14:35:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:35:56 --> Input Class Initialized
+DEBUG - 2020-03-14 14:35:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-03-14 14:35:56 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:35:56 --> Input Class Initialized
+INFO - 2020-03-14 14:35:56 --> Language Class Initialized
+INFO - 2020-03-14 14:35:56 --> Config Class Initialized
+DEBUG - 2020-03-14 14:35:56 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:35:56 --> Loader Class Initialized
+INFO - 2020-03-14 14:35:56 --> Language Class Initialized
+INFO - 2020-03-14 14:35:56 --> Config Class Initialized
+INFO - 2020-03-14 14:35:56 --> Language Class Initialized
+INFO - 2020-03-14 14:35:56 --> Config Class Initialized
+INFO - 2020-03-14 14:35:56 --> Loader Class Initialized
+INFO - 2020-03-14 14:35:56 --> Loader Class Initialized
+INFO - 2020-03-14 14:35:56 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:35:56 --> Output Class Initialized
+INFO - 2020-03-14 14:35:56 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:35:56 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:35:56 --> Security Class Initialized
+INFO - 2020-03-14 14:35:56 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:35:56 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:35:56 --> Database Driver Class Initialized
+DEBUG - 2020-03-14 14:35:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:35:56 --> Language Class Initialized
+INFO - 2020-03-14 14:35:56 --> Input Class Initialized
+INFO - 2020-03-14 14:35:56 --> Config Class Initialized
+INFO - 2020-03-14 14:35:56 --> Loader Class Initialized
+DEBUG - 2020-03-14 14:35:56 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:35:56 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:35:56 --> Language Class Initialized
+INFO - 2020-03-14 14:35:56 --> Config Class Initialized
+INFO - 2020-03-14 14:35:56 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:35:56 --> Loader Class Initialized
+INFO - 2020-03-14 14:35:56 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:35:56 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:35:56 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:35:56 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:35:56 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:35:56 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:35:56 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:35:56 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:35:56 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:35:56 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:35:56 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:35:56 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:35:56 --> Controller Class Initialized
+ERROR - 2020-03-14 14:35:56 --> 404 Page Not Found: /index
+INFO - 2020-03-14 14:35:56 --> Controller Class Initialized
+INFO - 2020-03-14 14:35:56 --> Controller Class Initialized
+ERROR - 2020-03-14 14:35:56 --> 404 Page Not Found: /index
+ERROR - 2020-03-14 14:35:56 --> 404 Page Not Found: /index
+INFO - 2020-03-14 14:35:56 --> Controller Class Initialized
+ERROR - 2020-03-14 14:35:56 --> 404 Page Not Found: /index
+INFO - 2020-03-14 14:35:56 --> Controller Class Initialized
+ERROR - 2020-03-14 14:35:56 --> 404 Page Not Found: /index
+INFO - 2020-03-14 14:36:21 --> Config Class Initialized
+INFO - 2020-03-14 14:36:21 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:36:21 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:36:21 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:36:21 --> URI Class Initialized
+INFO - 2020-03-14 14:36:21 --> Router Class Initialized
+INFO - 2020-03-14 14:36:21 --> Output Class Initialized
+INFO - 2020-03-14 14:36:21 --> Security Class Initialized
+DEBUG - 2020-03-14 14:36:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:36:22 --> Input Class Initialized
+DEBUG - 2020-03-14 14:36:22 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:36:22 --> Language Class Initialized
+INFO - 2020-03-14 14:36:22 --> Config Class Initialized
+INFO - 2020-03-14 14:36:22 --> Loader Class Initialized
+INFO - 2020-03-14 14:36:22 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:36:22 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:36:22 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:36:22 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:36:22 --> Controller Class Initialized
+DEBUG - 2020-03-14 14:36:22 --> Services MX_Controller Initialized
+INFO - 2020-03-14 14:36:22 --> Helper loaded: html_helper
+INFO - 2020-03-14 14:36:22 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 14:36:22 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 14:36:22 --> Helper loaded: file_helper
+INFO - 2020-03-14 14:36:22 --> MY_Model class loaded
+INFO - 2020-03-14 14:36:22 --> Model "Language_model" initialized
+ERROR - 2020-03-14 14:36:22 --> Language file contains no data: language/vietnamese/services_lang.php
+INFO - 2020-03-14 14:36:22 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 14:36:22 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 14:36:22 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 14:36:22 --> Model "Page_model" initialized
+INFO - 2020-03-14 14:36:22 --> Model "Category_model" initialized
+INFO - 2020-03-14 14:36:22 --> Model "Service_model" initialized
+ERROR - 2020-03-14 14:36:22 --> Language file contains no data: language/vietnamese/services_lang.php
+ERROR - 2020-03-14 14:36:22 --> Could not find the language line "Find out"
+ERROR - 2020-03-14 14:36:22 --> Could not find the language line "Find out"
+ERROR - 2020-03-14 14:36:22 --> Could not find the language line "Find out"
+ERROR - 2020-03-14 14:36:22 --> Could not find the language line "Find out"
+DEBUG - 2020-03-14 14:36:22 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/default/services/service_view.php
+DEBUG - 2020-03-14 14:36:22 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/top_bar.php
+ERROR - 2020-03-14 14:36:22 --> Could not find the language line "Giới thiệu"
+ERROR - 2020-03-14 14:36:22 --> Could not find the language line "Dịch vụ thương mại"
+ERROR - 2020-03-14 14:36:22 --> Could not find the language line "Lĩnh vực hoạt động"
+ERROR - 2020-03-14 14:36:22 --> Could not find the language line "Services"
+ERROR - 2020-03-14 14:36:22 --> Could not find the language line "Tin Hoạt Động"
+ERROR - 2020-03-14 14:36:22 --> Could not find the language line "Tin Công Nghệ"
+ERROR - 2020-03-14 14:36:22 --> Could not find the language line "Sự Kiện"
+ERROR - 2020-03-14 14:36:22 --> Could not find the language line "Góc báo chí"
+DEBUG - 2020-03-14 14:36:22 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/mega_menu.php
+ERROR - 2020-03-14 14:36:22 --> Could not find the language line "Search"
+ERROR - 2020-03-14 14:36:22 --> Could not find the language line "services"
+DEBUG - 2020-03-14 14:36:22 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/page_header.php
+DEBUG - 2020-03-14 14:36:22 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_header_view.php
+DEBUG - 2020-03-14 14:36:22 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_footer_view.php
+DEBUG - 2020-03-14 14:36:22 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/master_view.php
+INFO - 2020-03-14 14:36:22 --> Final output sent to browser
+DEBUG - 2020-03-14 14:36:22 --> Total execution time: 0.4596
+INFO - 2020-03-14 14:36:22 --> Config Class Initialized
+INFO - 2020-03-14 14:36:22 --> Hooks Class Initialized
+INFO - 2020-03-14 14:36:22 --> Config Class Initialized
+DEBUG - 2020-03-14 14:36:22 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:36:22 --> Hooks Class Initialized
+INFO - 2020-03-14 14:36:22 --> Utf8 Class Initialized
+DEBUG - 2020-03-14 14:36:22 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:36:22 --> URI Class Initialized
+INFO - 2020-03-14 14:36:22 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:36:22 --> Router Class Initialized
+INFO - 2020-03-14 14:36:22 --> URI Class Initialized
+INFO - 2020-03-14 14:36:22 --> Output Class Initialized
+INFO - 2020-03-14 14:36:22 --> Security Class Initialized
+DEBUG - 2020-03-14 14:36:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:36:22 --> Router Class Initialized
+INFO - 2020-03-14 14:36:22 --> Input Class Initialized
+INFO - 2020-03-14 14:36:22 --> Output Class Initialized
+INFO - 2020-03-14 14:36:22 --> Security Class Initialized
+DEBUG - 2020-03-14 14:36:22 --> Language_Identifier Class Initialized
+DEBUG - 2020-03-14 14:36:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:36:22 --> Language Class Initialized
+INFO - 2020-03-14 14:36:22 --> Input Class Initialized
+INFO - 2020-03-14 14:36:22 --> Config Class Initialized
+DEBUG - 2020-03-14 14:36:22 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:36:22 --> Loader Class Initialized
+INFO - 2020-03-14 14:36:22 --> Language Class Initialized
+INFO - 2020-03-14 14:36:22 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:36:22 --> Config Class Initialized
+INFO - 2020-03-14 14:36:22 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:36:22 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:36:22 --> Loader Class Initialized
+INFO - 2020-03-14 14:36:22 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:36:22 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:36:22 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:36:22 --> Controller Class Initialized
+INFO - 2020-03-14 14:36:22 --> Helper loaded: language_helper
+ERROR - 2020-03-14 14:36:22 --> 404 Page Not Found: /index
+INFO - 2020-03-14 14:36:22 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:36:22 --> Controller Class Initialized
+ERROR - 2020-03-14 14:36:22 --> 404 Page Not Found: /index
+INFO - 2020-03-14 14:36:51 --> Config Class Initialized
+INFO - 2020-03-14 14:36:51 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:36:51 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:36:51 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:36:51 --> URI Class Initialized
+INFO - 2020-03-14 14:36:51 --> Router Class Initialized
+INFO - 2020-03-14 14:36:51 --> Output Class Initialized
+INFO - 2020-03-14 14:36:51 --> Security Class Initialized
+DEBUG - 2020-03-14 14:36:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:36:51 --> Input Class Initialized
+DEBUG - 2020-03-14 14:36:51 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:36:51 --> Language Class Initialized
+INFO - 2020-03-14 14:36:51 --> Config Class Initialized
+INFO - 2020-03-14 14:36:51 --> Loader Class Initialized
+INFO - 2020-03-14 14:36:51 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:36:51 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:36:51 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:36:51 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:36:51 --> Controller Class Initialized
+DEBUG - 2020-03-14 14:36:51 --> Services MX_Controller Initialized
+INFO - 2020-03-14 14:36:51 --> Helper loaded: html_helper
+INFO - 2020-03-14 14:36:51 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 14:36:51 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 14:36:51 --> Helper loaded: file_helper
+INFO - 2020-03-14 14:36:51 --> MY_Model class loaded
+INFO - 2020-03-14 14:36:51 --> Model "Language_model" initialized
+INFO - 2020-03-14 14:36:51 --> Language file loaded: language/vietnamese/services_lang.php
+INFO - 2020-03-14 14:36:51 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 14:36:51 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 14:36:51 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 14:36:51 --> Model "Page_model" initialized
+INFO - 2020-03-14 14:36:51 --> Model "Category_model" initialized
+INFO - 2020-03-14 14:36:51 --> Model "Service_model" initialized
+ERROR - 2020-03-14 14:36:51 --> Could not find the language line "Find out"
+ERROR - 2020-03-14 14:36:51 --> Could not find the language line "Find out"
+ERROR - 2020-03-14 14:36:51 --> Could not find the language line "Find out"
+ERROR - 2020-03-14 14:36:51 --> Could not find the language line "Find out"
+DEBUG - 2020-03-14 14:36:51 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/default/services/service_view.php
+DEBUG - 2020-03-14 14:36:51 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/top_bar.php
+ERROR - 2020-03-14 14:36:51 --> Could not find the language line "Giới thiệu"
+ERROR - 2020-03-14 14:36:51 --> Could not find the language line "Dịch vụ thương mại"
+ERROR - 2020-03-14 14:36:51 --> Could not find the language line "Lĩnh vực hoạt động"
+ERROR - 2020-03-14 14:36:51 --> Could not find the language line "Services"
+ERROR - 2020-03-14 14:36:51 --> Could not find the language line "Tin Hoạt Động"
+ERROR - 2020-03-14 14:36:51 --> Could not find the language line "Tin Công Nghệ"
+ERROR - 2020-03-14 14:36:51 --> Could not find the language line "Sự Kiện"
+ERROR - 2020-03-14 14:36:51 --> Could not find the language line "Góc báo chí"
+DEBUG - 2020-03-14 14:36:51 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/mega_menu.php
+ERROR - 2020-03-14 14:36:51 --> Could not find the language line "Search"
+ERROR - 2020-03-14 14:36:51 --> Could not find the language line "services"
+DEBUG - 2020-03-14 14:36:51 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/page_header.php
+DEBUG - 2020-03-14 14:36:51 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_header_view.php
+DEBUG - 2020-03-14 14:36:51 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_footer_view.php
+DEBUG - 2020-03-14 14:36:51 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/master_view.php
+INFO - 2020-03-14 14:36:51 --> Final output sent to browser
+DEBUG - 2020-03-14 14:36:51 --> Total execution time: 0.1394
+INFO - 2020-03-14 14:36:51 --> Config Class Initialized
+INFO - 2020-03-14 14:36:51 --> Hooks Class Initialized
+INFO - 2020-03-14 14:36:51 --> Config Class Initialized
+DEBUG - 2020-03-14 14:36:51 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:36:51 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:36:51 --> URI Class Initialized
+INFO - 2020-03-14 14:36:51 --> Router Class Initialized
+INFO - 2020-03-14 14:36:51 --> Output Class Initialized
+INFO - 2020-03-14 14:36:51 --> Security Class Initialized
+DEBUG - 2020-03-14 14:36:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:36:51 --> Input Class Initialized
+DEBUG - 2020-03-14 14:36:51 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:36:51 --> Language Class Initialized
+INFO - 2020-03-14 14:36:51 --> Config Class Initialized
+INFO - 2020-03-14 14:36:51 --> Loader Class Initialized
+INFO - 2020-03-14 14:36:51 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:36:51 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:36:51 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:36:51 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:36:51 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:36:51 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:36:51 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:36:51 --> Controller Class Initialized
+ERROR - 2020-03-14 14:36:51 --> 404 Page Not Found: /index
+INFO - 2020-03-14 14:36:51 --> URI Class Initialized
+INFO - 2020-03-14 14:36:51 --> Router Class Initialized
+INFO - 2020-03-14 14:36:51 --> Output Class Initialized
+INFO - 2020-03-14 14:36:51 --> Security Class Initialized
+DEBUG - 2020-03-14 14:36:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:36:51 --> Input Class Initialized
+DEBUG - 2020-03-14 14:36:51 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:36:51 --> Language Class Initialized
+INFO - 2020-03-14 14:36:51 --> Config Class Initialized
+INFO - 2020-03-14 14:36:51 --> Loader Class Initialized
+INFO - 2020-03-14 14:36:51 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:36:51 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:36:51 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:36:51 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:36:51 --> Controller Class Initialized
+ERROR - 2020-03-14 14:36:51 --> 404 Page Not Found: /index
+INFO - 2020-03-14 14:37:17 --> Config Class Initialized
+INFO - 2020-03-14 14:37:17 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:37:17 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:37:17 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:37:17 --> URI Class Initialized
+INFO - 2020-03-14 14:37:17 --> Router Class Initialized
+INFO - 2020-03-14 14:37:17 --> Output Class Initialized
+INFO - 2020-03-14 14:37:17 --> Security Class Initialized
+DEBUG - 2020-03-14 14:37:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:37:17 --> Input Class Initialized
+DEBUG - 2020-03-14 14:37:17 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:37:17 --> Language Class Initialized
+INFO - 2020-03-14 14:37:17 --> Config Class Initialized
+INFO - 2020-03-14 14:37:17 --> Loader Class Initialized
+INFO - 2020-03-14 14:37:17 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:37:17 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:37:17 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:37:17 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:37:17 --> Controller Class Initialized
+DEBUG - 2020-03-14 14:37:17 --> Services MX_Controller Initialized
+INFO - 2020-03-14 14:37:17 --> Helper loaded: html_helper
+INFO - 2020-03-14 14:37:17 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 14:37:17 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 14:37:17 --> Helper loaded: file_helper
+INFO - 2020-03-14 14:37:17 --> MY_Model class loaded
+INFO - 2020-03-14 14:37:17 --> Model "Language_model" initialized
+INFO - 2020-03-14 14:37:17 --> Language file loaded: language/vietnamese/services_lang.php
+INFO - 2020-03-14 14:37:17 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 14:37:17 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 14:37:17 --> Model "Setting_model" initialized
+INFO - 2020-03-14 14:37:18 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 14:37:18 --> Model "Page_model" initialized
+INFO - 2020-03-14 14:37:18 --> Model "Category_model" initialized
+INFO - 2020-03-14 14:37:18 --> Model "Service_model" initialized
+DEBUG - 2020-03-14 14:37:18 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/default/services/service_view.php
+DEBUG - 2020-03-14 14:37:18 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/top_bar.php
+ERROR - 2020-03-14 14:37:18 --> Could not find the language line "Giới thiệu"
+ERROR - 2020-03-14 14:37:18 --> Could not find the language line "Dịch vụ thương mại"
+ERROR - 2020-03-14 14:37:18 --> Could not find the language line "Lĩnh vực hoạt động"
+ERROR - 2020-03-14 14:37:18 --> Could not find the language line "Services"
+ERROR - 2020-03-14 14:37:18 --> Could not find the language line "Tin Hoạt Động"
+ERROR - 2020-03-14 14:37:18 --> Could not find the language line "Tin Công Nghệ"
+ERROR - 2020-03-14 14:37:18 --> Could not find the language line "Sự Kiện"
+ERROR - 2020-03-14 14:37:18 --> Could not find the language line "Góc báo chí"
+DEBUG - 2020-03-14 14:37:18 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/mega_menu.php
+ERROR - 2020-03-14 14:37:18 --> Could not find the language line "Search"
+ERROR - 2020-03-14 14:37:18 --> Could not find the language line "services"
+DEBUG - 2020-03-14 14:37:18 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/page_header.php
+DEBUG - 2020-03-14 14:37:18 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_header_view.php
+DEBUG - 2020-03-14 14:37:18 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_footer_view.php
+DEBUG - 2020-03-14 14:37:18 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/master_view.php
+INFO - 2020-03-14 14:37:18 --> Final output sent to browser
+DEBUG - 2020-03-14 14:37:18 --> Total execution time: 0.2049
+INFO - 2020-03-14 14:37:18 --> Config Class Initialized
+INFO - 2020-03-14 14:37:18 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:37:18 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:37:18 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:37:18 --> URI Class Initialized
+INFO - 2020-03-14 14:37:18 --> Router Class Initialized
+INFO - 2020-03-14 14:37:18 --> Output Class Initialized
+INFO - 2020-03-14 14:37:18 --> Security Class Initialized
+INFO - 2020-03-14 14:37:18 --> Config Class Initialized
+DEBUG - 2020-03-14 14:37:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:37:18 --> Input Class Initialized
+DEBUG - 2020-03-14 14:37:18 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:37:18 --> Language Class Initialized
+INFO - 2020-03-14 14:37:18 --> Config Class Initialized
+INFO - 2020-03-14 14:37:18 --> Loader Class Initialized
+INFO - 2020-03-14 14:37:18 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:37:18 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:37:18 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:37:18 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:37:18 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:37:18 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:37:18 --> URI Class Initialized
+INFO - 2020-03-14 14:37:18 --> Router Class Initialized
+INFO - 2020-03-14 14:37:18 --> Output Class Initialized
+INFO - 2020-03-14 14:37:18 --> Security Class Initialized
+DEBUG - 2020-03-14 14:37:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:37:18 --> Input Class Initialized
+DEBUG - 2020-03-14 14:37:18 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:37:18 --> Language Class Initialized
+INFO - 2020-03-14 14:37:18 --> Config Class Initialized
+INFO - 2020-03-14 14:37:18 --> Loader Class Initialized
+INFO - 2020-03-14 14:37:18 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:37:18 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:37:18 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:37:18 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:37:18 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:37:18 --> Controller Class Initialized
+ERROR - 2020-03-14 14:37:18 --> 404 Page Not Found: /index
+INFO - 2020-03-14 14:37:18 --> Controller Class Initialized
+ERROR - 2020-03-14 14:37:18 --> 404 Page Not Found: /index
+INFO - 2020-03-14 14:41:32 --> Config Class Initialized
+INFO - 2020-03-14 14:41:32 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:41:32 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:41:32 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:41:32 --> URI Class Initialized
+INFO - 2020-03-14 14:41:32 --> Router Class Initialized
+INFO - 2020-03-14 14:41:32 --> Output Class Initialized
+INFO - 2020-03-14 14:41:32 --> Security Class Initialized
+DEBUG - 2020-03-14 14:41:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:41:32 --> Input Class Initialized
+DEBUG - 2020-03-14 14:41:32 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:41:32 --> Language Class Initialized
+INFO - 2020-03-14 14:41:32 --> Config Class Initialized
+INFO - 2020-03-14 14:41:32 --> Loader Class Initialized
+INFO - 2020-03-14 14:41:32 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:41:32 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:41:32 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:41:32 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:41:32 --> Controller Class Initialized
+DEBUG - 2020-03-14 14:41:32 --> Services MX_Controller Initialized
+INFO - 2020-03-14 14:41:32 --> Helper loaded: html_helper
+INFO - 2020-03-14 14:41:32 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 14:41:32 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 14:41:32 --> Helper loaded: file_helper
+INFO - 2020-03-14 14:41:32 --> MY_Model class loaded
+INFO - 2020-03-14 14:41:32 --> Model "Language_model" initialized
+INFO - 2020-03-14 14:41:32 --> Language file loaded: language/vietnamese/services_lang.php
+INFO - 2020-03-14 14:41:32 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 14:41:32 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 14:41:32 --> Model "Setting_model" initialized
+INFO - 2020-03-14 14:41:32 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 14:41:32 --> Model "Page_model" initialized
+INFO - 2020-03-14 14:41:32 --> Model "Category_model" initialized
+INFO - 2020-03-14 14:41:32 --> Model "Service_model" initialized
+DEBUG - 2020-03-14 14:41:32 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/default/services/service_view.php
+DEBUG - 2020-03-14 14:41:32 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/top_bar.php
+ERROR - 2020-03-14 14:41:32 --> Could not find the language line "Giới thiệu"
+ERROR - 2020-03-14 14:41:32 --> Could not find the language line "Dịch vụ thương mại"
+ERROR - 2020-03-14 14:41:32 --> Could not find the language line "Lĩnh vực hoạt động"
+ERROR - 2020-03-14 14:41:32 --> Could not find the language line "Services"
+ERROR - 2020-03-14 14:41:32 --> Could not find the language line "Tin Hoạt Động"
+ERROR - 2020-03-14 14:41:32 --> Could not find the language line "Tin Công Nghệ"
+ERROR - 2020-03-14 14:41:32 --> Could not find the language line "Sự Kiện"
+ERROR - 2020-03-14 14:41:32 --> Could not find the language line "Góc báo chí"
+DEBUG - 2020-03-14 14:41:32 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/mega_menu.php
+ERROR - 2020-03-14 14:41:32 --> Could not find the language line "Search"
+ERROR - 2020-03-14 14:41:32 --> Could not find the language line "services"
+DEBUG - 2020-03-14 14:41:32 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/page_header.php
+DEBUG - 2020-03-14 14:41:32 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_header_view.php
+DEBUG - 2020-03-14 14:41:32 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_footer_view.php
+DEBUG - 2020-03-14 14:41:32 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/master_view.php
+INFO - 2020-03-14 14:41:32 --> Final output sent to browser
+DEBUG - 2020-03-14 14:41:32 --> Total execution time: 0.1821
+INFO - 2020-03-14 14:41:32 --> Config Class Initialized
+INFO - 2020-03-14 14:41:32 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:41:32 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:41:32 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:41:32 --> URI Class Initialized
+INFO - 2020-03-14 14:41:32 --> Router Class Initialized
+INFO - 2020-03-14 14:41:32 --> Output Class Initialized
+INFO - 2020-03-14 14:41:32 --> Config Class Initialized
+INFO - 2020-03-14 14:41:32 --> Hooks Class Initialized
+INFO - 2020-03-14 14:41:32 --> Security Class Initialized
+DEBUG - 2020-03-14 14:41:32 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-03-14 14:41:32 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:41:32 --> Input Class Initialized
+INFO - 2020-03-14 14:41:32 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:41:32 --> URI Class Initialized
+INFO - 2020-03-14 14:41:32 --> Router Class Initialized
+DEBUG - 2020-03-14 14:41:32 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:41:32 --> Output Class Initialized
+INFO - 2020-03-14 14:41:32 --> Security Class Initialized
+INFO - 2020-03-14 14:41:32 --> Language Class Initialized
+INFO - 2020-03-14 14:41:32 --> Config Class Initialized
+INFO - 2020-03-14 14:41:32 --> Loader Class Initialized
+DEBUG - 2020-03-14 14:41:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:41:32 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:41:32 --> Input Class Initialized
+INFO - 2020-03-14 14:41:32 --> Helper loaded: form_helper
+DEBUG - 2020-03-14 14:41:32 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:41:32 --> Language Class Initialized
+INFO - 2020-03-14 14:41:32 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:41:32 --> Config Class Initialized
+INFO - 2020-03-14 14:41:32 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:41:32 --> Loader Class Initialized
+INFO - 2020-03-14 14:41:32 --> Controller Class Initialized
+ERROR - 2020-03-14 14:41:32 --> 404 Page Not Found: /index
+INFO - 2020-03-14 14:41:32 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:41:32 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:41:32 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:41:32 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:41:32 --> Controller Class Initialized
+ERROR - 2020-03-14 14:41:32 --> 404 Page Not Found: /index
+INFO - 2020-03-14 14:41:34 --> Config Class Initialized
+INFO - 2020-03-14 14:41:34 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:41:34 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:41:34 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:41:34 --> URI Class Initialized
+INFO - 2020-03-14 14:41:34 --> Router Class Initialized
+INFO - 2020-03-14 14:41:34 --> Output Class Initialized
+INFO - 2020-03-14 14:41:34 --> Security Class Initialized
+DEBUG - 2020-03-14 14:41:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:41:34 --> Input Class Initialized
+DEBUG - 2020-03-14 14:41:34 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:41:34 --> Language Class Initialized
+INFO - 2020-03-14 14:41:34 --> Config Class Initialized
+INFO - 2020-03-14 14:41:34 --> Loader Class Initialized
+INFO - 2020-03-14 14:41:34 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:41:34 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:41:34 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:41:34 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:41:34 --> Controller Class Initialized
+DEBUG - 2020-03-14 14:41:34 --> News MX_Controller Initialized
+INFO - 2020-03-14 14:41:34 --> Helper loaded: html_helper
+INFO - 2020-03-14 14:41:34 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 14:41:34 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 14:41:34 --> Helper loaded: file_helper
+INFO - 2020-03-14 14:41:34 --> MY_Model class loaded
+INFO - 2020-03-14 14:41:34 --> Model "Language_model" initialized
+INFO - 2020-03-14 14:41:34 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 14:41:34 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 14:41:34 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 14:41:34 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 14:41:34 --> Model "Page_model" initialized
+INFO - 2020-03-14 14:41:34 --> Model "Category_model" initialized
+INFO - 2020-03-14 14:41:34 --> Model "Article_model" initialized
+INFO - 2020-03-14 14:41:34 --> Model "Service_model" initialized
+INFO - 2020-03-14 14:41:34 --> Model "User_model" initialized
+INFO - 2020-03-14 14:41:34 --> Model "Article_category_model" initialized
+ERROR - 2020-03-14 14:41:34 --> Severity: error --> Exception: syntax error, unexpected '?>', expecting ',' or ')' /Volumes/Betrai/www/thienanphu/application/views/default/news/listing_news.php 82
+INFO - 2020-03-14 14:41:56 --> Config Class Initialized
+INFO - 2020-03-14 14:41:56 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:41:56 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:41:56 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:41:56 --> URI Class Initialized
+INFO - 2020-03-14 14:41:56 --> Router Class Initialized
+INFO - 2020-03-14 14:41:56 --> Output Class Initialized
+INFO - 2020-03-14 14:41:56 --> Security Class Initialized
+DEBUG - 2020-03-14 14:41:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:41:56 --> Input Class Initialized
+DEBUG - 2020-03-14 14:41:56 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:41:56 --> Language Class Initialized
+INFO - 2020-03-14 14:41:56 --> Config Class Initialized
+INFO - 2020-03-14 14:41:56 --> Loader Class Initialized
+INFO - 2020-03-14 14:41:56 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:41:56 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:41:56 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:41:56 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:41:56 --> Controller Class Initialized
+DEBUG - 2020-03-14 14:41:56 --> News MX_Controller Initialized
+INFO - 2020-03-14 14:41:56 --> Helper loaded: html_helper
+INFO - 2020-03-14 14:41:56 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 14:41:56 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 14:41:56 --> Helper loaded: file_helper
+INFO - 2020-03-14 14:41:56 --> MY_Model class loaded
+INFO - 2020-03-14 14:41:56 --> Model "Language_model" initialized
+INFO - 2020-03-14 14:41:56 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 14:41:56 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 14:41:56 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 14:41:56 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 14:41:56 --> Model "Page_model" initialized
+INFO - 2020-03-14 14:41:56 --> Model "Category_model" initialized
+INFO - 2020-03-14 14:41:56 --> Model "Article_model" initialized
+INFO - 2020-03-14 14:41:56 --> Model "Service_model" initialized
+INFO - 2020-03-14 14:41:56 --> Model "User_model" initialized
+INFO - 2020-03-14 14:41:56 --> Model "Article_category_model" initialized
+ERROR - 2020-03-14 14:41:56 --> Could not find the language line "Next"
+DEBUG - 2020-03-14 14:41:56 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_search.php
+DEBUG - 2020-03-14 14:41:56 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_news_categories.php
+ERROR - 2020-03-14 14:41:56 --> Could not find the language line "Services"
+DEBUG - 2020-03-14 14:41:56 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_services.php
+DEBUG - 2020-03-14 14:41:56 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_solutions.php
+DEBUG - 2020-03-14 14:41:56 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_tags.php
+DEBUG - 2020-03-14 14:41:56 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/default/news/listing_news.php
+DEBUG - 2020-03-14 14:41:56 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/top_bar.php
+ERROR - 2020-03-14 14:41:56 --> Could not find the language line "Giới thiệu"
+ERROR - 2020-03-14 14:41:56 --> Could not find the language line "Dịch vụ thương mại"
+ERROR - 2020-03-14 14:41:56 --> Could not find the language line "Lĩnh vực hoạt động"
+ERROR - 2020-03-14 14:41:56 --> Could not find the language line "Services"
+ERROR - 2020-03-14 14:41:56 --> Could not find the language line "Tin Hoạt Động"
+ERROR - 2020-03-14 14:41:56 --> Could not find the language line "Tin Công Nghệ"
+ERROR - 2020-03-14 14:41:56 --> Could not find the language line "Sự Kiện"
+ERROR - 2020-03-14 14:41:56 --> Could not find the language line "Góc báo chí"
+DEBUG - 2020-03-14 14:41:56 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/mega_menu.php
+ERROR - 2020-03-14 14:41:56 --> Could not find the language line "Search"
+ERROR - 2020-03-14 14:41:56 --> Could not find the language line "Tin Hoạt Động"
+ERROR - 2020-03-14 14:41:56 --> Could not find the language line "Tin Hoạt Động"
+ERROR - 2020-03-14 14:41:56 --> Could not find the language line "news"
+DEBUG - 2020-03-14 14:41:56 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/page_header.php
+DEBUG - 2020-03-14 14:41:56 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_header_view.php
+DEBUG - 2020-03-14 14:41:56 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_footer_view.php
+DEBUG - 2020-03-14 14:41:56 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/master_view.php
+INFO - 2020-03-14 14:41:56 --> Final output sent to browser
+DEBUG - 2020-03-14 14:41:56 --> Total execution time: 0.1059
+INFO - 2020-03-14 14:41:56 --> Config Class Initialized
+INFO - 2020-03-14 14:41:56 --> Hooks Class Initialized
+INFO - 2020-03-14 14:41:56 --> Config Class Initialized
+INFO - 2020-03-14 14:41:56 --> Hooks Class Initialized
+INFO - 2020-03-14 14:41:56 --> Config Class Initialized
+DEBUG - 2020-03-14 14:41:56 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:41:56 --> Hooks Class Initialized
+INFO - 2020-03-14 14:41:56 --> Config Class Initialized
+INFO - 2020-03-14 14:41:56 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:41:56 --> Hooks Class Initialized
+INFO - 2020-03-14 14:41:56 --> URI Class Initialized
+DEBUG - 2020-03-14 14:41:56 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:41:56 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:41:56 --> URI Class Initialized
+INFO - 2020-03-14 14:41:56 --> Router Class Initialized
+DEBUG - 2020-03-14 14:41:56 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:41:56 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:41:56 --> Output Class Initialized
+INFO - 2020-03-14 14:41:56 --> Security Class Initialized
+INFO - 2020-03-14 14:41:56 --> URI Class Initialized
+DEBUG - 2020-03-14 14:41:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:41:56 --> Input Class Initialized
+DEBUG - 2020-03-14 14:41:56 --> Language_Identifier Class Initialized
+DEBUG - 2020-03-14 14:41:56 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:41:56 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:41:56 --> Router Class Initialized
+INFO - 2020-03-14 14:41:56 --> Output Class Initialized
+INFO - 2020-03-14 14:41:56 --> Security Class Initialized
+INFO - 2020-03-14 14:41:56 --> URI Class Initialized
+INFO - 2020-03-14 14:41:56 --> Router Class Initialized
+INFO - 2020-03-14 14:41:56 --> Output Class Initialized
+INFO - 2020-03-14 14:41:56 --> Router Class Initialized
+INFO - 2020-03-14 14:41:56 --> Language Class Initialized
+INFO - 2020-03-14 14:41:56 --> Config Class Initialized
+INFO - 2020-03-14 14:41:56 --> Output Class Initialized
+INFO - 2020-03-14 14:41:56 --> Loader Class Initialized
+INFO - 2020-03-14 14:41:56 --> Security Class Initialized
+INFO - 2020-03-14 14:41:56 --> Helper loaded: url_helper
+DEBUG - 2020-03-14 14:41:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:41:56 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:41:56 --> Input Class Initialized
+INFO - 2020-03-14 14:41:56 --> Helper loaded: language_helper
+DEBUG - 2020-03-14 14:41:56 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:41:56 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:41:56 --> Language Class Initialized
+INFO - 2020-03-14 14:41:56 --> Config Class Initialized
+DEBUG - 2020-03-14 14:41:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:41:56 --> Loader Class Initialized
+INFO - 2020-03-14 14:41:56 --> Input Class Initialized
+INFO - 2020-03-14 14:41:56 --> Helper loaded: url_helper
+DEBUG - 2020-03-14 14:41:56 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:41:56 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:41:56 --> Language Class Initialized
+INFO - 2020-03-14 14:41:56 --> Config Class Initialized
+INFO - 2020-03-14 14:41:56 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:41:56 --> Loader Class Initialized
+INFO - 2020-03-14 14:41:56 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:41:56 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:41:56 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:41:56 --> Security Class Initialized
+DEBUG - 2020-03-14 14:41:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:41:56 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:41:56 --> Controller Class Initialized
+INFO - 2020-03-14 14:41:56 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:41:56 --> Input Class Initialized
+DEBUG - 2020-03-14 14:41:56 --> News MX_Controller Initialized
+DEBUG - 2020-03-14 14:41:56 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:41:56 --> Helper loaded: html_helper
+INFO - 2020-03-14 14:41:56 --> Language Class Initialized
+INFO - 2020-03-14 14:41:56 --> Controller Class Initialized
+INFO - 2020-03-14 14:41:56 --> Config Class Initialized
+DEBUG - 2020-03-14 14:41:56 --> News MX_Controller Initialized
+INFO - 2020-03-14 14:41:56 --> Loader Class Initialized
+INFO - 2020-03-14 14:41:56 --> Helper loaded: html_helper
+INFO - 2020-03-14 14:41:56 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 14:41:56 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:41:56 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:41:56 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:41:56 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 14:41:56 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:41:56 --> Helper loaded: file_helper
+INFO - 2020-03-14 14:41:56 --> MY_Model class loaded
+INFO - 2020-03-14 14:41:56 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 14:41:56 --> Model "Language_model" initialized
+INFO - 2020-03-14 14:41:56 --> Controller Class Initialized
+INFO - 2020-03-14 14:41:56 --> Controller Class Initialized
+INFO - 2020-03-14 14:41:56 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 14:41:56 --> Language file loaded: language/vietnamese/global_lang.php
+DEBUG - 2020-03-14 14:41:56 --> News MX_Controller Initialized
+INFO - 2020-03-14 14:41:56 --> Helper loaded: html_helper
+INFO - 2020-03-14 14:41:56 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 14:41:56 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 14:41:56 --> Model "Public_menu_model" initialized
+DEBUG - 2020-03-14 14:41:56 --> News MX_Controller Initialized
+INFO - 2020-03-14 14:41:56 --> Model "Page_model" initialized
+INFO - 2020-03-14 14:41:56 --> Helper loaded: html_helper
+INFO - 2020-03-14 14:41:56 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 14:41:56 --> Config Class Initialized
+INFO - 2020-03-14 14:41:56 --> Model "Category_model" initialized
+INFO - 2020-03-14 14:41:56 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:41:56 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:41:56 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:41:56 --> Model "Article_model" initialized
+INFO - 2020-03-14 14:41:56 --> Model "Service_model" initialized
+INFO - 2020-03-14 14:41:56 --> URI Class Initialized
+INFO - 2020-03-14 14:41:56 --> Router Class Initialized
+INFO - 2020-03-14 14:41:56 --> Output Class Initialized
+INFO - 2020-03-14 14:41:56 --> Security Class Initialized
+ERROR - 2020-03-14 14:41:56 --> Severity: Warning --> A non-numeric value encountered /Volumes/Betrai/www/thienanphu/application/controllers/News.php 22
+DEBUG - 2020-03-14 14:41:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:41:57 --> Input Class Initialized
+DEBUG - 2020-03-14 14:41:57 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:41:57 --> Language Class Initialized
+INFO - 2020-03-14 14:41:57 --> Config Class Initialized
+INFO - 2020-03-14 14:41:57 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 14:41:57 --> Helper loaded: file_helper
+INFO - 2020-03-14 14:41:57 --> Loader Class Initialized
+INFO - 2020-03-14 14:41:57 --> MY_Model class loaded
+INFO - 2020-03-14 14:41:57 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:41:57 --> Model "Language_model" initialized
+INFO - 2020-03-14 14:41:57 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:41:57 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 14:41:57 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:41:57 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 14:41:57 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:41:57 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 14:41:57 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 14:41:57 --> Model "Page_model" initialized
+INFO - 2020-03-14 14:41:57 --> Controller Class Initialized
+INFO - 2020-03-14 14:41:57 --> Model "Category_model" initialized
+DEBUG - 2020-03-14 14:41:57 --> News MX_Controller Initialized
+INFO - 2020-03-14 14:41:57 --> Helper loaded: html_helper
+INFO - 2020-03-14 14:41:57 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 14:41:57 --> Model "Article_model" initialized
+INFO - 2020-03-14 14:41:57 --> Model "Service_model" initialized
+ERROR - 2020-03-14 14:41:57 --> Severity: Warning --> A non-numeric value encountered /Volumes/Betrai/www/thienanphu/application/controllers/News.php 22
+INFO - 2020-03-14 14:41:57 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 14:41:57 --> Helper loaded: file_helper
+INFO - 2020-03-14 14:41:57 --> MY_Model class loaded
+INFO - 2020-03-14 14:41:57 --> Model "Language_model" initialized
+INFO - 2020-03-14 14:41:57 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 14:41:57 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 14:41:57 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 14:41:57 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 14:41:57 --> Model "Page_model" initialized
+INFO - 2020-03-14 14:41:57 --> Model "Category_model" initialized
+INFO - 2020-03-14 14:41:57 --> Model "Article_model" initialized
+INFO - 2020-03-14 14:41:57 --> Model "Service_model" initialized
+ERROR - 2020-03-14 14:41:57 --> Severity: Warning --> A non-numeric value encountered /Volumes/Betrai/www/thienanphu/application/controllers/News.php 22
+INFO - 2020-03-14 14:41:57 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 14:41:57 --> Helper loaded: file_helper
+INFO - 2020-03-14 14:41:57 --> MY_Model class loaded
+INFO - 2020-03-14 14:41:57 --> Model "Language_model" initialized
+INFO - 2020-03-14 14:41:57 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 14:41:57 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 14:41:57 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 14:41:57 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 14:41:57 --> Model "Page_model" initialized
+INFO - 2020-03-14 14:41:57 --> Model "Category_model" initialized
+INFO - 2020-03-14 14:41:57 --> Model "Article_model" initialized
+INFO - 2020-03-14 14:41:57 --> Model "Service_model" initialized
+ERROR - 2020-03-14 14:41:57 --> Severity: Warning --> A non-numeric value encountered /Volumes/Betrai/www/thienanphu/application/controllers/News.php 22
+INFO - 2020-03-14 14:41:57 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 14:41:57 --> Helper loaded: file_helper
+INFO - 2020-03-14 14:41:57 --> MY_Model class loaded
+INFO - 2020-03-14 14:41:57 --> Model "Language_model" initialized
+INFO - 2020-03-14 14:41:57 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 14:41:57 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 14:41:57 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 14:41:57 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 14:41:57 --> Model "Page_model" initialized
+INFO - 2020-03-14 14:41:57 --> Model "Category_model" initialized
+INFO - 2020-03-14 14:41:57 --> Model "Article_model" initialized
+INFO - 2020-03-14 14:41:57 --> Model "Service_model" initialized
+ERROR - 2020-03-14 14:41:57 --> Severity: Warning --> A non-numeric value encountered /Volumes/Betrai/www/thienanphu/application/controllers/News.php 22
+INFO - 2020-03-14 14:42:09 --> Config Class Initialized
+INFO - 2020-03-14 14:42:09 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:42:10 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:42:10 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:42:10 --> URI Class Initialized
+INFO - 2020-03-14 14:42:10 --> Router Class Initialized
+INFO - 2020-03-14 14:42:10 --> Output Class Initialized
+INFO - 2020-03-14 14:42:10 --> Security Class Initialized
+DEBUG - 2020-03-14 14:42:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:42:10 --> Input Class Initialized
+DEBUG - 2020-03-14 14:42:10 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:42:10 --> Language Class Initialized
+INFO - 2020-03-14 14:42:10 --> Config Class Initialized
+INFO - 2020-03-14 14:42:10 --> Loader Class Initialized
+INFO - 2020-03-14 14:42:10 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:42:10 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:42:10 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:42:10 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:42:10 --> Controller Class Initialized
+DEBUG - 2020-03-14 14:42:10 --> News MX_Controller Initialized
+INFO - 2020-03-14 14:42:10 --> Helper loaded: html_helper
+INFO - 2020-03-14 14:42:10 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 14:42:10 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 14:42:10 --> Helper loaded: file_helper
+INFO - 2020-03-14 14:42:10 --> MY_Model class loaded
+INFO - 2020-03-14 14:42:10 --> Model "Language_model" initialized
+INFO - 2020-03-14 14:42:10 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 14:42:10 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 14:42:10 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 14:42:10 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 14:42:10 --> Model "Page_model" initialized
+INFO - 2020-03-14 14:42:10 --> Model "Category_model" initialized
+INFO - 2020-03-14 14:42:10 --> Model "Article_model" initialized
+INFO - 2020-03-14 14:42:10 --> Model "Service_model" initialized
+INFO - 2020-03-14 14:42:10 --> Model "User_model" initialized
+INFO - 2020-03-14 14:42:10 --> Model "Article_category_model" initialized
+ERROR - 2020-03-14 14:42:10 --> Could not find the language line "Next"
+DEBUG - 2020-03-14 14:42:10 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_search.php
+DEBUG - 2020-03-14 14:42:10 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_news_categories.php
+ERROR - 2020-03-14 14:42:10 --> Could not find the language line "Services"
+DEBUG - 2020-03-14 14:42:10 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_services.php
+DEBUG - 2020-03-14 14:42:10 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_solutions.php
+DEBUG - 2020-03-14 14:42:10 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_tags.php
+DEBUG - 2020-03-14 14:42:10 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/default/news/listing_news.php
+DEBUG - 2020-03-14 14:42:10 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/top_bar.php
+ERROR - 2020-03-14 14:42:10 --> Could not find the language line "Giới thiệu"
+ERROR - 2020-03-14 14:42:10 --> Could not find the language line "Dịch vụ thương mại"
+ERROR - 2020-03-14 14:42:10 --> Could not find the language line "Lĩnh vực hoạt động"
+ERROR - 2020-03-14 14:42:10 --> Could not find the language line "Services"
+ERROR - 2020-03-14 14:42:10 --> Could not find the language line "Tin Hoạt Động"
+ERROR - 2020-03-14 14:42:10 --> Could not find the language line "Tin Công Nghệ"
+ERROR - 2020-03-14 14:42:10 --> Could not find the language line "Sự Kiện"
+ERROR - 2020-03-14 14:42:10 --> Could not find the language line "Góc báo chí"
+DEBUG - 2020-03-14 14:42:10 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/mega_menu.php
+ERROR - 2020-03-14 14:42:10 --> Could not find the language line "Search"
+ERROR - 2020-03-14 14:42:10 --> Could not find the language line "Tin Công Nghệ"
+ERROR - 2020-03-14 14:42:10 --> Could not find the language line "Tin Công Nghệ"
+ERROR - 2020-03-14 14:42:10 --> Could not find the language line "news"
+DEBUG - 2020-03-14 14:42:10 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/page_header.php
+DEBUG - 2020-03-14 14:42:10 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_header_view.php
+DEBUG - 2020-03-14 14:42:10 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_footer_view.php
+DEBUG - 2020-03-14 14:42:10 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/master_view.php
+INFO - 2020-03-14 14:42:10 --> Final output sent to browser
+DEBUG - 2020-03-14 14:42:10 --> Total execution time: 0.3951
+INFO - 2020-03-14 14:42:10 --> Config Class Initialized
+INFO - 2020-03-14 14:42:10 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:42:10 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:42:10 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:42:10 --> URI Class Initialized
+INFO - 2020-03-14 14:42:10 --> Router Class Initialized
+INFO - 2020-03-14 14:42:10 --> Output Class Initialized
+INFO - 2020-03-14 14:42:10 --> Config Class Initialized
+INFO - 2020-03-14 14:42:10 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:42:10 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:42:10 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:42:10 --> URI Class Initialized
+INFO - 2020-03-14 14:42:10 --> Router Class Initialized
+INFO - 2020-03-14 14:42:10 --> Output Class Initialized
+INFO - 2020-03-14 14:42:10 --> Security Class Initialized
+DEBUG - 2020-03-14 14:42:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:42:10 --> Input Class Initialized
+DEBUG - 2020-03-14 14:42:10 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:42:10 --> Language Class Initialized
+INFO - 2020-03-14 14:42:10 --> Config Class Initialized
+INFO - 2020-03-14 14:42:10 --> Loader Class Initialized
+INFO - 2020-03-14 14:42:10 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:42:10 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:42:10 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:42:10 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:42:10 --> Security Class Initialized
+DEBUG - 2020-03-14 14:42:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:42:10 --> Input Class Initialized
+DEBUG - 2020-03-14 14:42:10 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:42:10 --> Language Class Initialized
+INFO - 2020-03-14 14:42:10 --> Config Class Initialized
+INFO - 2020-03-14 14:42:10 --> Loader Class Initialized
+INFO - 2020-03-14 14:42:10 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:42:10 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:42:10 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:42:10 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:42:10 --> Config Class Initialized
+INFO - 2020-03-14 14:42:10 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:42:10 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:42:10 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:42:10 --> URI Class Initialized
+INFO - 2020-03-14 14:42:10 --> Router Class Initialized
+INFO - 2020-03-14 14:42:10 --> Output Class Initialized
+INFO - 2020-03-14 14:42:10 --> Security Class Initialized
+DEBUG - 2020-03-14 14:42:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:42:10 --> Input Class Initialized
+DEBUG - 2020-03-14 14:42:10 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:42:10 --> Language Class Initialized
+INFO - 2020-03-14 14:42:10 --> Config Class Initialized
+INFO - 2020-03-14 14:42:10 --> Loader Class Initialized
+INFO - 2020-03-14 14:42:10 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:42:10 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:42:10 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:42:10 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:42:10 --> Config Class Initialized
+INFO - 2020-03-14 14:42:10 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:42:10 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:42:10 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:42:10 --> URI Class Initialized
+INFO - 2020-03-14 14:42:10 --> Router Class Initialized
+INFO - 2020-03-14 14:42:10 --> Config Class Initialized
+INFO - 2020-03-14 14:42:10 --> Output Class Initialized
+INFO - 2020-03-14 14:42:10 --> Security Class Initialized
+DEBUG - 2020-03-14 14:42:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:42:10 --> Input Class Initialized
+DEBUG - 2020-03-14 14:42:10 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:42:10 --> Language Class Initialized
+INFO - 2020-03-14 14:42:10 --> Hooks Class Initialized
+INFO - 2020-03-14 14:42:10 --> Config Class Initialized
+DEBUG - 2020-03-14 14:42:10 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:42:10 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:42:10 --> URI Class Initialized
+INFO - 2020-03-14 14:42:10 --> Router Class Initialized
+INFO - 2020-03-14 14:42:10 --> Output Class Initialized
+INFO - 2020-03-14 14:42:10 --> Controller Class Initialized
+INFO - 2020-03-14 14:42:10 --> Controller Class Initialized
+DEBUG - 2020-03-14 14:42:10 --> News MX_Controller Initialized
+DEBUG - 2020-03-14 14:42:10 --> News MX_Controller Initialized
+INFO - 2020-03-14 14:42:10 --> Helper loaded: html_helper
+INFO - 2020-03-14 14:42:10 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 14:42:10 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 14:42:10 --> Helper loaded: file_helper
+INFO - 2020-03-14 14:42:10 --> MY_Model class loaded
+INFO - 2020-03-14 14:42:10 --> Model "Language_model" initialized
+INFO - 2020-03-14 14:42:10 --> Controller Class Initialized
+DEBUG - 2020-03-14 14:42:10 --> News MX_Controller Initialized
+INFO - 2020-03-14 14:42:10 --> Helper loaded: html_helper
+INFO - 2020-03-14 14:42:10 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 14:42:10 --> Helper loaded: html_helper
+INFO - 2020-03-14 14:42:10 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 14:42:10 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 14:42:10 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 14:42:10 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 14:42:10 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 14:42:10 --> Model "Page_model" initialized
+INFO - 2020-03-14 14:42:10 --> Security Class Initialized
+INFO - 2020-03-14 14:42:10 --> Model "Category_model" initialized
+INFO - 2020-03-14 14:42:10 --> Loader Class Initialized
+INFO - 2020-03-14 14:42:10 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:42:10 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:42:10 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:42:10 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:42:10 --> Model "Article_model" initialized
+DEBUG - 2020-03-14 14:42:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:42:10 --> Input Class Initialized
+INFO - 2020-03-14 14:42:10 --> Model "Service_model" initialized
+DEBUG - 2020-03-14 14:42:10 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:42:10 --> Language Class Initialized
+INFO - 2020-03-14 14:42:10 --> Config Class Initialized
+INFO - 2020-03-14 14:42:10 --> Loader Class Initialized
+INFO - 2020-03-14 14:42:10 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:42:10 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:42:10 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:42:10 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:42:10 --> Controller Class Initialized
+DEBUG - 2020-03-14 14:42:10 --> News MX_Controller Initialized
+INFO - 2020-03-14 14:42:10 --> Helper loaded: html_helper
+INFO - 2020-03-14 14:42:10 --> Controller Class Initialized
+DEBUG - 2020-03-14 14:42:10 --> News MX_Controller Initialized
+INFO - 2020-03-14 14:42:10 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 14:42:10 --> Helper loaded: html_helper
+ERROR - 2020-03-14 14:42:10 --> Severity: Warning --> A non-numeric value encountered /Volumes/Betrai/www/thienanphu/application/controllers/News.php 22
+INFO - 2020-03-14 14:42:10 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 14:42:10 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 14:42:10 --> Helper loaded: file_helper
+INFO - 2020-03-14 14:42:10 --> MY_Model class loaded
+INFO - 2020-03-14 14:42:10 --> Model "Language_model" initialized
+INFO - 2020-03-14 14:42:10 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 14:42:10 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 14:42:10 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 14:42:10 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 14:42:10 --> Model "Page_model" initialized
+INFO - 2020-03-14 14:42:10 --> Model "Category_model" initialized
+INFO - 2020-03-14 14:42:10 --> Model "Article_model" initialized
+INFO - 2020-03-14 14:42:10 --> Model "Service_model" initialized
+ERROR - 2020-03-14 14:42:10 --> Severity: Warning --> A non-numeric value encountered /Volumes/Betrai/www/thienanphu/application/controllers/News.php 22
+INFO - 2020-03-14 14:42:10 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 14:42:10 --> Helper loaded: file_helper
+INFO - 2020-03-14 14:42:10 --> MY_Model class loaded
+INFO - 2020-03-14 14:42:10 --> Model "Language_model" initialized
+INFO - 2020-03-14 14:42:10 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 14:42:10 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 14:42:10 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 14:42:10 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 14:42:10 --> Model "Page_model" initialized
+INFO - 2020-03-14 14:42:10 --> Model "Category_model" initialized
+INFO - 2020-03-14 14:42:10 --> Model "Article_model" initialized
+INFO - 2020-03-14 14:42:10 --> Model "Service_model" initialized
+ERROR - 2020-03-14 14:42:10 --> Severity: Warning --> A non-numeric value encountered /Volumes/Betrai/www/thienanphu/application/controllers/News.php 22
+INFO - 2020-03-14 14:42:10 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 14:42:10 --> Helper loaded: file_helper
+INFO - 2020-03-14 14:42:10 --> MY_Model class loaded
+INFO - 2020-03-14 14:42:10 --> Model "Language_model" initialized
+INFO - 2020-03-14 14:42:10 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 14:42:10 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 14:42:10 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 14:42:10 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 14:42:10 --> Model "Page_model" initialized
+INFO - 2020-03-14 14:42:10 --> Model "Category_model" initialized
+INFO - 2020-03-14 14:42:10 --> Model "Article_model" initialized
+INFO - 2020-03-14 14:42:10 --> Model "Service_model" initialized
+ERROR - 2020-03-14 14:42:10 --> Severity: Warning --> A non-numeric value encountered /Volumes/Betrai/www/thienanphu/application/controllers/News.php 22
+INFO - 2020-03-14 14:42:10 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 14:42:10 --> Helper loaded: file_helper
+INFO - 2020-03-14 14:42:10 --> MY_Model class loaded
+INFO - 2020-03-14 14:42:10 --> Model "Language_model" initialized
+INFO - 2020-03-14 14:42:10 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 14:42:10 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 14:42:10 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 14:42:10 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 14:42:10 --> Model "Page_model" initialized
+INFO - 2020-03-14 14:42:10 --> Model "Category_model" initialized
+INFO - 2020-03-14 14:42:10 --> Model "Article_model" initialized
+INFO - 2020-03-14 14:42:10 --> Model "Service_model" initialized
+ERROR - 2020-03-14 14:42:10 --> Severity: Warning --> A non-numeric value encountered /Volumes/Betrai/www/thienanphu/application/controllers/News.php 22
+INFO - 2020-03-14 14:42:12 --> Config Class Initialized
+INFO - 2020-03-14 14:42:12 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:42:12 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:42:12 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:42:12 --> URI Class Initialized
+INFO - 2020-03-14 14:42:12 --> Router Class Initialized
+INFO - 2020-03-14 14:42:12 --> Output Class Initialized
+INFO - 2020-03-14 14:42:12 --> Security Class Initialized
+DEBUG - 2020-03-14 14:42:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:42:12 --> Input Class Initialized
+DEBUG - 2020-03-14 14:42:12 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:42:12 --> Language Class Initialized
+INFO - 2020-03-14 14:42:12 --> Config Class Initialized
+INFO - 2020-03-14 14:42:13 --> Loader Class Initialized
+INFO - 2020-03-14 14:42:13 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:42:13 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:42:13 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:42:13 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:42:13 --> Controller Class Initialized
+DEBUG - 2020-03-14 14:42:13 --> News MX_Controller Initialized
+INFO - 2020-03-14 14:42:13 --> Helper loaded: html_helper
+INFO - 2020-03-14 14:42:13 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 14:42:13 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 14:42:13 --> Helper loaded: file_helper
+INFO - 2020-03-14 14:42:13 --> MY_Model class loaded
+INFO - 2020-03-14 14:42:13 --> Model "Language_model" initialized
+INFO - 2020-03-14 14:42:13 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 14:42:13 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 14:42:13 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 14:42:13 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 14:42:13 --> Model "Page_model" initialized
+INFO - 2020-03-14 14:42:13 --> Model "Category_model" initialized
+INFO - 2020-03-14 14:42:13 --> Model "Article_model" initialized
+INFO - 2020-03-14 14:42:13 --> Model "Service_model" initialized
+INFO - 2020-03-14 14:42:13 --> Model "User_model" initialized
+INFO - 2020-03-14 14:42:13 --> Model "Article_category_model" initialized
+ERROR - 2020-03-14 14:42:13 --> Could not find the language line "Next"
+DEBUG - 2020-03-14 14:42:13 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_search.php
+DEBUG - 2020-03-14 14:42:13 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_news_categories.php
+ERROR - 2020-03-14 14:42:13 --> Could not find the language line "Services"
+DEBUG - 2020-03-14 14:42:13 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_services.php
+DEBUG - 2020-03-14 14:42:13 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_solutions.php
+DEBUG - 2020-03-14 14:42:13 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_tags.php
+DEBUG - 2020-03-14 14:42:13 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/default/news/listing_news.php
+DEBUG - 2020-03-14 14:42:13 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/top_bar.php
+ERROR - 2020-03-14 14:42:13 --> Could not find the language line "Giới thiệu"
+ERROR - 2020-03-14 14:42:13 --> Could not find the language line "Dịch vụ thương mại"
+ERROR - 2020-03-14 14:42:13 --> Could not find the language line "Lĩnh vực hoạt động"
+ERROR - 2020-03-14 14:42:13 --> Could not find the language line "Services"
+ERROR - 2020-03-14 14:42:13 --> Could not find the language line "Tin Hoạt Động"
+ERROR - 2020-03-14 14:42:13 --> Could not find the language line "Tin Công Nghệ"
+ERROR - 2020-03-14 14:42:13 --> Could not find the language line "Sự Kiện"
+ERROR - 2020-03-14 14:42:13 --> Could not find the language line "Góc báo chí"
+DEBUG - 2020-03-14 14:42:13 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/mega_menu.php
+ERROR - 2020-03-14 14:42:13 --> Could not find the language line "Search"
+ERROR - 2020-03-14 14:42:13 --> Could not find the language line "Sự Kiện"
+ERROR - 2020-03-14 14:42:13 --> Could not find the language line "Tin sự kiện"
+ERROR - 2020-03-14 14:42:13 --> Could not find the language line "news"
+DEBUG - 2020-03-14 14:42:13 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/page_header.php
+DEBUG - 2020-03-14 14:42:13 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_header_view.php
+DEBUG - 2020-03-14 14:42:13 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_footer_view.php
+DEBUG - 2020-03-14 14:42:13 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/master_view.php
+INFO - 2020-03-14 14:42:13 --> Final output sent to browser
+DEBUG - 2020-03-14 14:42:13 --> Total execution time: 0.1137
+INFO - 2020-03-14 14:42:13 --> Config Class Initialized
+INFO - 2020-03-14 14:42:13 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:42:13 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:42:13 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:42:13 --> URI Class Initialized
+INFO - 2020-03-14 14:42:13 --> Router Class Initialized
+INFO - 2020-03-14 14:42:13 --> Config Class Initialized
+INFO - 2020-03-14 14:42:13 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:42:13 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:42:13 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:42:13 --> URI Class Initialized
+INFO - 2020-03-14 14:42:13 --> Router Class Initialized
+INFO - 2020-03-14 14:42:13 --> Output Class Initialized
+INFO - 2020-03-14 14:42:13 --> Security Class Initialized
+DEBUG - 2020-03-14 14:42:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:42:13 --> Input Class Initialized
+DEBUG - 2020-03-14 14:42:13 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:42:13 --> Language Class Initialized
+INFO - 2020-03-14 14:42:13 --> Config Class Initialized
+INFO - 2020-03-14 14:42:13 --> Loader Class Initialized
+INFO - 2020-03-14 14:42:13 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:42:13 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:42:13 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:42:13 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:42:13 --> Config Class Initialized
+INFO - 2020-03-14 14:42:13 --> Config Class Initialized
+INFO - 2020-03-14 14:42:13 --> Hooks Class Initialized
+INFO - 2020-03-14 14:42:13 --> Hooks Class Initialized
+INFO - 2020-03-14 14:42:13 --> Config Class Initialized
+DEBUG - 2020-03-14 14:42:13 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:42:13 --> Hooks Class Initialized
+INFO - 2020-03-14 14:42:13 --> Output Class Initialized
+DEBUG - 2020-03-14 14:42:13 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:42:13 --> Security Class Initialized
+INFO - 2020-03-14 14:42:13 --> Utf8 Class Initialized
+DEBUG - 2020-03-14 14:42:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:42:13 --> URI Class Initialized
+INFO - 2020-03-14 14:42:13 --> Input Class Initialized
+INFO - 2020-03-14 14:42:13 --> Controller Class Initialized
+DEBUG - 2020-03-14 14:42:13 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:42:13 --> Language Class Initialized
+INFO - 2020-03-14 14:42:13 --> Config Class Initialized
+INFO - 2020-03-14 14:42:13 --> Router Class Initialized
+INFO - 2020-03-14 14:42:13 --> Loader Class Initialized
+INFO - 2020-03-14 14:42:13 --> Output Class Initialized
+INFO - 2020-03-14 14:42:13 --> Security Class Initialized
+INFO - 2020-03-14 14:42:13 --> Helper loaded: url_helper
+DEBUG - 2020-03-14 14:42:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:42:13 --> Input Class Initialized
+INFO - 2020-03-14 14:42:13 --> Helper loaded: form_helper
+DEBUG - 2020-03-14 14:42:13 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:42:13 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:42:13 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:42:13 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:42:13 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:42:13 --> URI Class Initialized
+DEBUG - 2020-03-14 14:42:13 --> News MX_Controller Initialized
+INFO - 2020-03-14 14:42:13 --> URI Class Initialized
+INFO - 2020-03-14 14:42:13 --> Helper loaded: html_helper
+INFO - 2020-03-14 14:42:13 --> Router Class Initialized
+INFO - 2020-03-14 14:42:13 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 14:42:13 --> Output Class Initialized
+INFO - 2020-03-14 14:42:13 --> Router Class Initialized
+INFO - 2020-03-14 14:42:13 --> Security Class Initialized
+INFO - 2020-03-14 14:42:13 --> Output Class Initialized
+DEBUG - 2020-03-14 14:42:13 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:42:13 --> Language Class Initialized
+INFO - 2020-03-14 14:42:13 --> Config Class Initialized
+INFO - 2020-03-14 14:42:13 --> Security Class Initialized
+INFO - 2020-03-14 14:42:13 --> Loader Class Initialized
+DEBUG - 2020-03-14 14:42:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:42:13 --> Helper loaded: url_helper
+DEBUG - 2020-03-14 14:42:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:42:13 --> Controller Class Initialized
+INFO - 2020-03-14 14:42:13 --> Input Class Initialized
+DEBUG - 2020-03-14 14:42:13 --> News MX_Controller Initialized
+INFO - 2020-03-14 14:42:13 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 14:42:13 --> Helper loaded: html_helper
+INFO - 2020-03-14 14:42:13 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:42:13 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:42:13 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 14:42:13 --> Input Class Initialized
+DEBUG - 2020-03-14 14:42:13 --> Language_Identifier Class Initialized
+DEBUG - 2020-03-14 14:42:13 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:42:13 --> Language Class Initialized
+INFO - 2020-03-14 14:42:13 --> Language Class Initialized
+INFO - 2020-03-14 14:42:13 --> Config Class Initialized
+INFO - 2020-03-14 14:42:13 --> Config Class Initialized
+INFO - 2020-03-14 14:42:13 --> Helper loaded: file_helper
+INFO - 2020-03-14 14:42:13 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:42:13 --> Loader Class Initialized
+INFO - 2020-03-14 14:42:13 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:42:13 --> Loader Class Initialized
+INFO - 2020-03-14 14:42:13 --> MY_Model class loaded
+INFO - 2020-03-14 14:42:13 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:42:13 --> Model "Language_model" initialized
+INFO - 2020-03-14 14:42:13 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:42:13 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:42:13 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:42:13 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:42:13 --> Controller Class Initialized
+INFO - 2020-03-14 14:42:13 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 14:42:13 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:42:13 --> Language file loaded: language/vietnamese/global_lang.php
+DEBUG - 2020-03-14 14:42:13 --> News MX_Controller Initialized
+INFO - 2020-03-14 14:42:13 --> Controller Class Initialized
+INFO - 2020-03-14 14:42:13 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:42:13 --> Helper loaded: html_helper
+INFO - 2020-03-14 14:42:13 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 14:42:13 --> Model "Public_menu_model" initialized
+DEBUG - 2020-03-14 14:42:13 --> News MX_Controller Initialized
+INFO - 2020-03-14 14:42:13 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 14:42:13 --> Helper loaded: html_helper
+INFO - 2020-03-14 14:42:13 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 14:42:13 --> Controller Class Initialized
+DEBUG - 2020-03-14 14:42:13 --> News MX_Controller Initialized
+INFO - 2020-03-14 14:42:13 --> Model "Page_model" initialized
+INFO - 2020-03-14 14:42:13 --> Helper loaded: html_helper
+INFO - 2020-03-14 14:42:13 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 14:42:13 --> Model "Category_model" initialized
+INFO - 2020-03-14 14:42:13 --> Model "Article_model" initialized
+INFO - 2020-03-14 14:42:13 --> Model "Service_model" initialized
+ERROR - 2020-03-14 14:42:13 --> Severity: Warning --> A non-numeric value encountered /Volumes/Betrai/www/thienanphu/application/controllers/News.php 22
+INFO - 2020-03-14 14:42:13 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 14:42:13 --> Helper loaded: file_helper
+INFO - 2020-03-14 14:42:13 --> MY_Model class loaded
+INFO - 2020-03-14 14:42:13 --> Model "Language_model" initialized
+INFO - 2020-03-14 14:42:13 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 14:42:13 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 14:42:13 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 14:42:13 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 14:42:13 --> Model "Page_model" initialized
+INFO - 2020-03-14 14:42:13 --> Model "Category_model" initialized
+INFO - 2020-03-14 14:42:13 --> Model "Article_model" initialized
+INFO - 2020-03-14 14:42:13 --> Model "Service_model" initialized
+ERROR - 2020-03-14 14:42:13 --> Severity: Warning --> A non-numeric value encountered /Volumes/Betrai/www/thienanphu/application/controllers/News.php 22
+INFO - 2020-03-14 14:42:13 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 14:42:13 --> Helper loaded: file_helper
+INFO - 2020-03-14 14:42:13 --> MY_Model class loaded
+INFO - 2020-03-14 14:42:13 --> Model "Language_model" initialized
+INFO - 2020-03-14 14:42:13 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 14:42:13 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 14:42:13 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 14:42:13 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 14:42:13 --> Model "Page_model" initialized
+INFO - 2020-03-14 14:42:13 --> Model "Category_model" initialized
+INFO - 2020-03-14 14:42:13 --> Model "Article_model" initialized
+INFO - 2020-03-14 14:42:13 --> Model "Service_model" initialized
+ERROR - 2020-03-14 14:42:13 --> Severity: Warning --> A non-numeric value encountered /Volumes/Betrai/www/thienanphu/application/controllers/News.php 22
+INFO - 2020-03-14 14:42:13 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 14:42:13 --> Helper loaded: file_helper
+INFO - 2020-03-14 14:42:13 --> MY_Model class loaded
+INFO - 2020-03-14 14:42:13 --> Model "Language_model" initialized
+INFO - 2020-03-14 14:42:13 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 14:42:13 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 14:42:13 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 14:42:13 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 14:42:13 --> Model "Page_model" initialized
+INFO - 2020-03-14 14:42:13 --> Model "Category_model" initialized
+INFO - 2020-03-14 14:42:13 --> Model "Article_model" initialized
+INFO - 2020-03-14 14:42:13 --> Model "Service_model" initialized
+ERROR - 2020-03-14 14:42:13 --> Severity: Warning --> A non-numeric value encountered /Volumes/Betrai/www/thienanphu/application/controllers/News.php 22
+INFO - 2020-03-14 14:42:13 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 14:42:13 --> Helper loaded: file_helper
+INFO - 2020-03-14 14:42:13 --> MY_Model class loaded
+INFO - 2020-03-14 14:42:13 --> Model "Language_model" initialized
+INFO - 2020-03-14 14:42:13 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 14:42:13 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 14:42:13 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 14:42:13 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 14:42:13 --> Model "Page_model" initialized
+INFO - 2020-03-14 14:42:13 --> Model "Category_model" initialized
+INFO - 2020-03-14 14:42:13 --> Model "Article_model" initialized
+INFO - 2020-03-14 14:42:13 --> Model "Service_model" initialized
+ERROR - 2020-03-14 14:42:13 --> Severity: Warning --> A non-numeric value encountered /Volumes/Betrai/www/thienanphu/application/controllers/News.php 22
+INFO - 2020-03-14 14:42:16 --> Config Class Initialized
+INFO - 2020-03-14 14:42:16 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:42:16 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:42:16 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:42:16 --> URI Class Initialized
+INFO - 2020-03-14 14:42:16 --> Router Class Initialized
+INFO - 2020-03-14 14:42:16 --> Output Class Initialized
+INFO - 2020-03-14 14:42:16 --> Security Class Initialized
+DEBUG - 2020-03-14 14:42:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:42:16 --> Input Class Initialized
+DEBUG - 2020-03-14 14:42:16 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:42:16 --> Language Class Initialized
+INFO - 2020-03-14 14:42:16 --> Config Class Initialized
+INFO - 2020-03-14 14:42:16 --> Loader Class Initialized
+INFO - 2020-03-14 14:42:16 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:42:16 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:42:16 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:42:16 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:42:16 --> Controller Class Initialized
+DEBUG - 2020-03-14 14:42:16 --> News MX_Controller Initialized
+INFO - 2020-03-14 14:42:16 --> Helper loaded: html_helper
+INFO - 2020-03-14 14:42:16 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 14:42:16 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 14:42:16 --> Helper loaded: file_helper
+INFO - 2020-03-14 14:42:16 --> MY_Model class loaded
+INFO - 2020-03-14 14:42:16 --> Model "Language_model" initialized
+INFO - 2020-03-14 14:42:16 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 14:42:16 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 14:42:16 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 14:42:16 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 14:42:16 --> Model "Page_model" initialized
+INFO - 2020-03-14 14:42:16 --> Model "Category_model" initialized
+INFO - 2020-03-14 14:42:16 --> Model "Article_model" initialized
+INFO - 2020-03-14 14:42:16 --> Model "Service_model" initialized
+INFO - 2020-03-14 14:42:16 --> Model "User_model" initialized
+INFO - 2020-03-14 14:42:16 --> Model "Article_category_model" initialized
+ERROR - 2020-03-14 14:42:16 --> Could not find the language line "Next"
+DEBUG - 2020-03-14 14:42:16 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_search.php
+DEBUG - 2020-03-14 14:42:16 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_news_categories.php
+ERROR - 2020-03-14 14:42:16 --> Could not find the language line "Services"
+DEBUG - 2020-03-14 14:42:16 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_services.php
+DEBUG - 2020-03-14 14:42:16 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_solutions.php
+DEBUG - 2020-03-14 14:42:16 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_tags.php
+DEBUG - 2020-03-14 14:42:16 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/default/news/listing_news.php
+DEBUG - 2020-03-14 14:42:16 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/top_bar.php
+ERROR - 2020-03-14 14:42:16 --> Could not find the language line "Giới thiệu"
+ERROR - 2020-03-14 14:42:16 --> Could not find the language line "Dịch vụ thương mại"
+ERROR - 2020-03-14 14:42:16 --> Could not find the language line "Lĩnh vực hoạt động"
+ERROR - 2020-03-14 14:42:16 --> Could not find the language line "Services"
+ERROR - 2020-03-14 14:42:16 --> Could not find the language line "Tin Hoạt Động"
+ERROR - 2020-03-14 14:42:16 --> Could not find the language line "Tin Công Nghệ"
+ERROR - 2020-03-14 14:42:16 --> Could not find the language line "Sự Kiện"
+ERROR - 2020-03-14 14:42:16 --> Could not find the language line "Góc báo chí"
+DEBUG - 2020-03-14 14:42:16 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/mega_menu.php
+ERROR - 2020-03-14 14:42:16 --> Could not find the language line "Search"
+ERROR - 2020-03-14 14:42:16 --> Could not find the language line "Góc báo chí"
+ERROR - 2020-03-14 14:42:16 --> Could not find the language line "Góc báo chi "
+ERROR - 2020-03-14 14:42:16 --> Could not find the language line "news"
+DEBUG - 2020-03-14 14:42:16 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/page_header.php
+DEBUG - 2020-03-14 14:42:16 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_header_view.php
+DEBUG - 2020-03-14 14:42:16 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_footer_view.php
+DEBUG - 2020-03-14 14:42:16 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/master_view.php
+INFO - 2020-03-14 14:42:16 --> Final output sent to browser
+DEBUG - 2020-03-14 14:42:16 --> Total execution time: 0.1061
+INFO - 2020-03-14 14:42:16 --> Config Class Initialized
+INFO - 2020-03-14 14:42:16 --> Config Class Initialized
+INFO - 2020-03-14 14:42:16 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:42:16 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:42:16 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:42:16 --> URI Class Initialized
+INFO - 2020-03-14 14:42:16 --> Config Class Initialized
+INFO - 2020-03-14 14:42:16 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:42:16 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:42:16 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:42:16 --> Router Class Initialized
+INFO - 2020-03-14 14:42:16 --> URI Class Initialized
+INFO - 2020-03-14 14:42:16 --> Output Class Initialized
+INFO - 2020-03-14 14:42:16 --> Security Class Initialized
+INFO - 2020-03-14 14:42:16 --> Config Class Initialized
+DEBUG - 2020-03-14 14:42:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:42:16 --> Router Class Initialized
+INFO - 2020-03-14 14:42:16 --> Input Class Initialized
+INFO - 2020-03-14 14:42:16 --> Config Class Initialized
+INFO - 2020-03-14 14:42:16 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:42:16 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:42:16 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:42:16 --> URI Class Initialized
+DEBUG - 2020-03-14 14:42:16 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:42:16 --> Hooks Class Initialized
+INFO - 2020-03-14 14:42:16 --> Language Class Initialized
+DEBUG - 2020-03-14 14:42:16 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:42:16 --> Config Class Initialized
+INFO - 2020-03-14 14:42:16 --> Loader Class Initialized
+INFO - 2020-03-14 14:42:16 --> Output Class Initialized
+INFO - 2020-03-14 14:42:16 --> Security Class Initialized
+INFO - 2020-03-14 14:42:16 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:42:16 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-03-14 14:42:16 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:42:16 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:42:16 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:42:16 --> URI Class Initialized
+INFO - 2020-03-14 14:42:16 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:42:16 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:42:16 --> Router Class Initialized
+INFO - 2020-03-14 14:42:16 --> Output Class Initialized
+INFO - 2020-03-14 14:42:16 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:42:16 --> Security Class Initialized
+DEBUG - 2020-03-14 14:42:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:42:16 --> Input Class Initialized
+INFO - 2020-03-14 14:42:16 --> Router Class Initialized
+INFO - 2020-03-14 14:42:16 --> Input Class Initialized
+DEBUG - 2020-03-14 14:42:16 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:42:16 --> Language Class Initialized
+INFO - 2020-03-14 14:42:16 --> Config Class Initialized
+INFO - 2020-03-14 14:42:16 --> Loader Class Initialized
+INFO - 2020-03-14 14:42:16 --> Output Class Initialized
+INFO - 2020-03-14 14:42:16 --> Security Class Initialized
+INFO - 2020-03-14 14:42:16 --> Helper loaded: url_helper
+DEBUG - 2020-03-14 14:42:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:42:16 --> Input Class Initialized
+DEBUG - 2020-03-14 14:42:16 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:42:16 --> Language Class Initialized
+INFO - 2020-03-14 14:42:16 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:42:16 --> Config Class Initialized
+INFO - 2020-03-14 14:42:16 --> Loader Class Initialized
+INFO - 2020-03-14 14:42:16 --> Controller Class Initialized
+INFO - 2020-03-14 14:42:16 --> Helper loaded: url_helper
+DEBUG - 2020-03-14 14:42:16 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:42:16 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:42:16 --> Language Class Initialized
+INFO - 2020-03-14 14:42:16 --> Config Class Initialized
+INFO - 2020-03-14 14:42:16 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:42:16 --> Loader Class Initialized
+INFO - 2020-03-14 14:42:16 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:42:16 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:42:16 --> Helper loaded: form_helper
+DEBUG - 2020-03-14 14:42:16 --> News MX_Controller Initialized
+INFO - 2020-03-14 14:42:16 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:42:16 --> Helper loaded: html_helper
+INFO - 2020-03-14 14:42:16 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 14:42:16 --> Controller Class Initialized
+DEBUG - 2020-03-14 14:42:16 --> News MX_Controller Initialized
+INFO - 2020-03-14 14:42:16 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 14:42:16 --> Helper loaded: html_helper
+INFO - 2020-03-14 14:42:16 --> Helper loaded: file_helper
+INFO - 2020-03-14 14:42:16 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 14:42:16 --> MY_Model class loaded
+INFO - 2020-03-14 14:42:16 --> Model "Language_model" initialized
+INFO - 2020-03-14 14:42:16 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:42:16 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:42:16 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:42:16 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 14:42:16 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 14:42:16 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 14:42:16 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 14:42:16 --> Model "Page_model" initialized
+INFO - 2020-03-14 14:42:16 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:42:16 --> URI Class Initialized
+INFO - 2020-03-14 14:42:16 --> Model "Category_model" initialized
+INFO - 2020-03-14 14:42:16 --> Router Class Initialized
+INFO - 2020-03-14 14:42:16 --> Output Class Initialized
+INFO - 2020-03-14 14:42:16 --> Security Class Initialized
+INFO - 2020-03-14 14:42:16 --> Controller Class Initialized
+DEBUG - 2020-03-14 14:42:16 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-03-14 14:42:16 --> News MX_Controller Initialized
+INFO - 2020-03-14 14:42:16 --> Controller Class Initialized
+INFO - 2020-03-14 14:42:16 --> Model "Article_model" initialized
+INFO - 2020-03-14 14:42:16 --> Input Class Initialized
+INFO - 2020-03-14 14:42:16 --> Helper loaded: html_helper
+DEBUG - 2020-03-14 14:42:16 --> News MX_Controller Initialized
+INFO - 2020-03-14 14:42:16 --> Model "Service_model" initialized
+DEBUG - 2020-03-14 14:42:16 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:42:16 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 14:42:16 --> Language Class Initialized
+INFO - 2020-03-14 14:42:16 --> Helper loaded: html_helper
+INFO - 2020-03-14 14:42:16 --> Config Class Initialized
+INFO - 2020-03-14 14:42:16 --> Loader Class Initialized
+INFO - 2020-03-14 14:42:16 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:42:16 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:42:16 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 14:42:16 --> Helper loaded: language_helper
+ERROR - 2020-03-14 14:42:16 --> Severity: Warning --> A non-numeric value encountered /Volumes/Betrai/www/thienanphu/application/controllers/News.php 22
+INFO - 2020-03-14 14:42:16 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:42:16 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 14:42:16 --> Helper loaded: file_helper
+INFO - 2020-03-14 14:42:16 --> Controller Class Initialized
+INFO - 2020-03-14 14:42:16 --> MY_Model class loaded
+DEBUG - 2020-03-14 14:42:16 --> News MX_Controller Initialized
+INFO - 2020-03-14 14:42:16 --> Model "Language_model" initialized
+INFO - 2020-03-14 14:42:16 --> Helper loaded: html_helper
+INFO - 2020-03-14 14:42:16 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 14:42:16 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 14:42:16 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 14:42:16 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 14:42:16 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 14:42:16 --> Model "Page_model" initialized
+INFO - 2020-03-14 14:42:16 --> Model "Category_model" initialized
+INFO - 2020-03-14 14:42:16 --> Model "Article_model" initialized
+INFO - 2020-03-14 14:42:16 --> Model "Service_model" initialized
+ERROR - 2020-03-14 14:42:16 --> Severity: Warning --> A non-numeric value encountered /Volumes/Betrai/www/thienanphu/application/controllers/News.php 22
+INFO - 2020-03-14 14:42:16 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 14:42:16 --> Helper loaded: file_helper
+INFO - 2020-03-14 14:42:16 --> MY_Model class loaded
+INFO - 2020-03-14 14:42:16 --> Model "Language_model" initialized
+INFO - 2020-03-14 14:42:16 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 14:42:16 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 14:42:16 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 14:42:16 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 14:42:16 --> Model "Page_model" initialized
+INFO - 2020-03-14 14:42:16 --> Model "Category_model" initialized
+INFO - 2020-03-14 14:42:16 --> Model "Article_model" initialized
+INFO - 2020-03-14 14:42:16 --> Model "Service_model" initialized
+ERROR - 2020-03-14 14:42:16 --> Severity: Warning --> A non-numeric value encountered /Volumes/Betrai/www/thienanphu/application/controllers/News.php 22
+INFO - 2020-03-14 14:42:16 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 14:42:16 --> Helper loaded: file_helper
+INFO - 2020-03-14 14:42:16 --> MY_Model class loaded
+INFO - 2020-03-14 14:42:16 --> Model "Language_model" initialized
+INFO - 2020-03-14 14:42:16 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 14:42:16 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 14:42:16 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 14:42:16 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 14:42:17 --> Model "Page_model" initialized
+INFO - 2020-03-14 14:42:17 --> Model "Category_model" initialized
+INFO - 2020-03-14 14:42:17 --> Model "Article_model" initialized
+INFO - 2020-03-14 14:42:17 --> Model "Service_model" initialized
+ERROR - 2020-03-14 14:42:17 --> Severity: Warning --> A non-numeric value encountered /Volumes/Betrai/www/thienanphu/application/controllers/News.php 22
+INFO - 2020-03-14 14:42:17 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 14:42:17 --> Helper loaded: file_helper
+INFO - 2020-03-14 14:42:17 --> MY_Model class loaded
+INFO - 2020-03-14 14:42:17 --> Model "Language_model" initialized
+INFO - 2020-03-14 14:42:17 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 14:42:17 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 14:42:17 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 14:42:17 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 14:42:17 --> Model "Page_model" initialized
+INFO - 2020-03-14 14:42:17 --> Model "Category_model" initialized
+INFO - 2020-03-14 14:42:17 --> Model "Article_model" initialized
+INFO - 2020-03-14 14:42:17 --> Model "Service_model" initialized
+ERROR - 2020-03-14 14:42:17 --> Severity: Warning --> A non-numeric value encountered /Volumes/Betrai/www/thienanphu/application/controllers/News.php 22
+INFO - 2020-03-14 14:43:01 --> Config Class Initialized
+INFO - 2020-03-14 14:43:01 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:43:01 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:43:01 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:43:01 --> URI Class Initialized
+INFO - 2020-03-14 14:43:01 --> Router Class Initialized
+INFO - 2020-03-14 14:43:01 --> Output Class Initialized
+INFO - 2020-03-14 14:43:01 --> Security Class Initialized
+DEBUG - 2020-03-14 14:43:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:43:01 --> Input Class Initialized
+DEBUG - 2020-03-14 14:43:01 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:43:01 --> Language Class Initialized
+INFO - 2020-03-14 14:43:01 --> Config Class Initialized
+INFO - 2020-03-14 14:43:01 --> Loader Class Initialized
+INFO - 2020-03-14 14:43:01 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:43:01 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:43:01 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:43:01 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:43:01 --> Controller Class Initialized
+DEBUG - 2020-03-14 14:43:01 --> Services MX_Controller Initialized
+INFO - 2020-03-14 14:43:01 --> Helper loaded: html_helper
+INFO - 2020-03-14 14:43:01 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 14:43:01 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 14:43:01 --> Helper loaded: file_helper
+INFO - 2020-03-14 14:43:01 --> MY_Model class loaded
+INFO - 2020-03-14 14:43:01 --> Model "Language_model" initialized
+INFO - 2020-03-14 14:43:01 --> Language file loaded: language/vietnamese/services_lang.php
+INFO - 2020-03-14 14:43:01 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 14:43:01 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 14:43:01 --> Model "Setting_model" initialized
+INFO - 2020-03-14 14:43:01 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 14:43:01 --> Model "Page_model" initialized
+INFO - 2020-03-14 14:43:01 --> Model "Category_model" initialized
+INFO - 2020-03-14 14:43:01 --> Model "Service_model" initialized
+DEBUG - 2020-03-14 14:43:01 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/default/services/service_view.php
+DEBUG - 2020-03-14 14:43:01 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/top_bar.php
+ERROR - 2020-03-14 14:43:02 --> Could not find the language line "Giới thiệu"
+ERROR - 2020-03-14 14:43:02 --> Could not find the language line "Dịch vụ thương mại"
+ERROR - 2020-03-14 14:43:02 --> Could not find the language line "Lĩnh vực hoạt động"
+ERROR - 2020-03-14 14:43:02 --> Could not find the language line "Services"
+ERROR - 2020-03-14 14:43:02 --> Could not find the language line "Tin Hoạt Động"
+ERROR - 2020-03-14 14:43:02 --> Could not find the language line "Tin Công Nghệ"
+ERROR - 2020-03-14 14:43:02 --> Could not find the language line "Sự Kiện"
+ERROR - 2020-03-14 14:43:02 --> Could not find the language line "Góc báo chí"
+DEBUG - 2020-03-14 14:43:02 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/mega_menu.php
+ERROR - 2020-03-14 14:43:02 --> Could not find the language line "Search"
+ERROR - 2020-03-14 14:43:02 --> Could not find the language line "services"
+DEBUG - 2020-03-14 14:43:02 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/page_header.php
+DEBUG - 2020-03-14 14:43:02 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_header_view.php
+DEBUG - 2020-03-14 14:43:02 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_footer_view.php
+DEBUG - 2020-03-14 14:43:02 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/master_view.php
+INFO - 2020-03-14 14:43:02 --> Final output sent to browser
+DEBUG - 2020-03-14 14:43:02 --> Total execution time: 0.4349
+INFO - 2020-03-14 14:43:02 --> Config Class Initialized
+INFO - 2020-03-14 14:43:02 --> Config Class Initialized
+INFO - 2020-03-14 14:43:02 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:43:02 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:43:02 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:43:02 --> Hooks Class Initialized
+INFO - 2020-03-14 14:43:02 --> URI Class Initialized
+DEBUG - 2020-03-14 14:43:02 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:43:02 --> Router Class Initialized
+INFO - 2020-03-14 14:43:02 --> Output Class Initialized
+INFO - 2020-03-14 14:43:02 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:43:02 --> Security Class Initialized
+INFO - 2020-03-14 14:43:02 --> URI Class Initialized
+DEBUG - 2020-03-14 14:43:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:43:02 --> Input Class Initialized
+INFO - 2020-03-14 14:43:02 --> Router Class Initialized
+DEBUG - 2020-03-14 14:43:02 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:43:02 --> Output Class Initialized
+INFO - 2020-03-14 14:43:02 --> Language Class Initialized
+INFO - 2020-03-14 14:43:02 --> Security Class Initialized
+INFO - 2020-03-14 14:43:02 --> Config Class Initialized
+INFO - 2020-03-14 14:43:02 --> Loader Class Initialized
+INFO - 2020-03-14 14:43:02 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:43:02 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:43:02 --> Helper loaded: language_helper
+DEBUG - 2020-03-14 14:43:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:43:02 --> Input Class Initialized
+INFO - 2020-03-14 14:43:02 --> Database Driver Class Initialized
+DEBUG - 2020-03-14 14:43:02 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:43:02 --> Controller Class Initialized
+INFO - 2020-03-14 14:43:02 --> Language Class Initialized
+INFO - 2020-03-14 14:43:02 --> Config Class Initialized
+ERROR - 2020-03-14 14:43:02 --> 404 Page Not Found: /index
+INFO - 2020-03-14 14:43:02 --> Loader Class Initialized
+INFO - 2020-03-14 14:43:02 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:43:02 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:43:02 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:43:02 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:43:02 --> Controller Class Initialized
+ERROR - 2020-03-14 14:43:02 --> 404 Page Not Found: /index
+INFO - 2020-03-14 14:43:42 --> Config Class Initialized
+INFO - 2020-03-14 14:43:42 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:43:42 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:43:42 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:43:42 --> URI Class Initialized
+INFO - 2020-03-14 14:43:42 --> Router Class Initialized
+INFO - 2020-03-14 14:43:42 --> Output Class Initialized
+INFO - 2020-03-14 14:43:42 --> Security Class Initialized
+DEBUG - 2020-03-14 14:43:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:43:42 --> Input Class Initialized
+DEBUG - 2020-03-14 14:43:42 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:43:42 --> Language Class Initialized
+INFO - 2020-03-14 14:43:42 --> Config Class Initialized
+INFO - 2020-03-14 14:43:42 --> Loader Class Initialized
+INFO - 2020-03-14 14:43:42 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:43:42 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:43:42 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:43:42 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:43:42 --> Controller Class Initialized
+DEBUG - 2020-03-14 14:43:42 --> Services MX_Controller Initialized
+INFO - 2020-03-14 14:43:42 --> Helper loaded: html_helper
+INFO - 2020-03-14 14:43:42 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 14:43:42 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 14:43:42 --> Helper loaded: file_helper
+INFO - 2020-03-14 14:43:42 --> MY_Model class loaded
+INFO - 2020-03-14 14:43:42 --> Model "Language_model" initialized
+INFO - 2020-03-14 14:43:42 --> Language file loaded: language/vietnamese/services_lang.php
+INFO - 2020-03-14 14:43:42 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 14:43:42 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 14:43:42 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 14:43:42 --> Model "Page_model" initialized
+INFO - 2020-03-14 14:43:42 --> Model "Category_model" initialized
+INFO - 2020-03-14 14:43:42 --> Model "Service_model" initialized
+DEBUG - 2020-03-14 14:43:42 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/default/services/service_view.php
+DEBUG - 2020-03-14 14:43:42 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/top_bar.php
+ERROR - 2020-03-14 14:43:42 --> Could not find the language line "Giới thiệu"
+ERROR - 2020-03-14 14:43:42 --> Could not find the language line "Dịch vụ thương mại"
+ERROR - 2020-03-14 14:43:42 --> Could not find the language line "Lĩnh vực hoạt động"
+ERROR - 2020-03-14 14:43:42 --> Could not find the language line "Tin Hoạt Động"
+ERROR - 2020-03-14 14:43:42 --> Could not find the language line "Tin Công Nghệ"
+ERROR - 2020-03-14 14:43:42 --> Could not find the language line "Sự Kiện"
+ERROR - 2020-03-14 14:43:42 --> Could not find the language line "Góc báo chí"
+DEBUG - 2020-03-14 14:43:42 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/mega_menu.php
+ERROR - 2020-03-14 14:43:42 --> Could not find the language line "Search"
+ERROR - 2020-03-14 14:43:42 --> Could not find the language line "Service"
+ERROR - 2020-03-14 14:43:42 --> Could not find the language line "services"
+DEBUG - 2020-03-14 14:43:42 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/page_header.php
+DEBUG - 2020-03-14 14:43:42 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_header_view.php
+DEBUG - 2020-03-14 14:43:42 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_footer_view.php
+DEBUG - 2020-03-14 14:43:42 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/master_view.php
+INFO - 2020-03-14 14:43:42 --> Final output sent to browser
+DEBUG - 2020-03-14 14:43:42 --> Total execution time: 0.0576
+INFO - 2020-03-14 14:43:42 --> Config Class Initialized
+INFO - 2020-03-14 14:43:42 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:43:42 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:43:42 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:43:42 --> URI Class Initialized
+INFO - 2020-03-14 14:43:42 --> Router Class Initialized
+INFO - 2020-03-14 14:43:42 --> Config Class Initialized
+INFO - 2020-03-14 14:43:42 --> Hooks Class Initialized
+INFO - 2020-03-14 14:43:42 --> Output Class Initialized
+DEBUG - 2020-03-14 14:43:42 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:43:42 --> Security Class Initialized
+INFO - 2020-03-14 14:43:42 --> Utf8 Class Initialized
+DEBUG - 2020-03-14 14:43:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:43:42 --> URI Class Initialized
+INFO - 2020-03-14 14:43:42 --> Input Class Initialized
+INFO - 2020-03-14 14:43:42 --> Router Class Initialized
+DEBUG - 2020-03-14 14:43:42 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:43:42 --> Output Class Initialized
+INFO - 2020-03-14 14:43:42 --> Language Class Initialized
+INFO - 2020-03-14 14:43:42 --> Security Class Initialized
+INFO - 2020-03-14 14:43:42 --> Config Class Initialized
+INFO - 2020-03-14 14:43:42 --> Loader Class Initialized
+INFO - 2020-03-14 14:43:42 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:43:42 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:43:42 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:43:42 --> Database Driver Class Initialized
+DEBUG - 2020-03-14 14:43:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:43:42 --> Input Class Initialized
+DEBUG - 2020-03-14 14:43:42 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:43:42 --> Controller Class Initialized
+INFO - 2020-03-14 14:43:42 --> Language Class Initialized
+INFO - 2020-03-14 14:43:42 --> Config Class Initialized
+ERROR - 2020-03-14 14:43:42 --> 404 Page Not Found: /index
+INFO - 2020-03-14 14:43:42 --> Loader Class Initialized
+INFO - 2020-03-14 14:43:42 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:43:42 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:43:42 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:43:42 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:43:42 --> Controller Class Initialized
+ERROR - 2020-03-14 14:43:42 --> 404 Page Not Found: /index
+INFO - 2020-03-14 14:43:50 --> Config Class Initialized
+INFO - 2020-03-14 14:43:50 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:43:50 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:43:50 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:43:50 --> URI Class Initialized
+INFO - 2020-03-14 14:43:50 --> Router Class Initialized
+INFO - 2020-03-14 14:43:50 --> Output Class Initialized
+INFO - 2020-03-14 14:43:50 --> Security Class Initialized
+DEBUG - 2020-03-14 14:43:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:43:50 --> Input Class Initialized
+DEBUG - 2020-03-14 14:43:50 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:43:50 --> Language Class Initialized
+INFO - 2020-03-14 14:43:50 --> Config Class Initialized
+INFO - 2020-03-14 14:43:50 --> Loader Class Initialized
+INFO - 2020-03-14 14:43:50 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:43:50 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:43:50 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:43:50 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:43:50 --> Controller Class Initialized
+DEBUG - 2020-03-14 14:43:50 --> News MX_Controller Initialized
+INFO - 2020-03-14 14:43:50 --> Helper loaded: html_helper
+INFO - 2020-03-14 14:43:50 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 14:43:50 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 14:43:50 --> Helper loaded: file_helper
+INFO - 2020-03-14 14:43:50 --> MY_Model class loaded
+INFO - 2020-03-14 14:43:50 --> Model "Language_model" initialized
+INFO - 2020-03-14 14:43:50 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 14:43:50 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 14:43:50 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 14:43:50 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 14:43:50 --> Model "Page_model" initialized
+INFO - 2020-03-14 14:43:50 --> Model "Category_model" initialized
+INFO - 2020-03-14 14:43:50 --> Model "Article_model" initialized
+INFO - 2020-03-14 14:43:50 --> Model "Service_model" initialized
+INFO - 2020-03-14 14:43:50 --> Model "User_model" initialized
+INFO - 2020-03-14 14:43:50 --> Model "Article_category_model" initialized
+ERROR - 2020-03-14 14:43:50 --> Could not find the language line "Next"
+DEBUG - 2020-03-14 14:43:50 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_search.php
+DEBUG - 2020-03-14 14:43:50 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_news_categories.php
+DEBUG - 2020-03-14 14:43:50 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_services.php
+DEBUG - 2020-03-14 14:43:50 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_solutions.php
+DEBUG - 2020-03-14 14:43:50 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_tags.php
+DEBUG - 2020-03-14 14:43:50 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/default/news/listing_news.php
+DEBUG - 2020-03-14 14:43:50 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/top_bar.php
+ERROR - 2020-03-14 14:43:50 --> Could not find the language line "Giới thiệu"
+ERROR - 2020-03-14 14:43:50 --> Could not find the language line "Dịch vụ thương mại"
+ERROR - 2020-03-14 14:43:50 --> Could not find the language line "Lĩnh vực hoạt động"
+ERROR - 2020-03-14 14:43:50 --> Could not find the language line "Tin Hoạt Động"
+ERROR - 2020-03-14 14:43:50 --> Could not find the language line "Tin Công Nghệ"
+ERROR - 2020-03-14 14:43:50 --> Could not find the language line "Sự Kiện"
+ERROR - 2020-03-14 14:43:50 --> Could not find the language line "Góc báo chí"
+DEBUG - 2020-03-14 14:43:50 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/mega_menu.php
+ERROR - 2020-03-14 14:43:50 --> Could not find the language line "Search"
+ERROR - 2020-03-14 14:43:50 --> Could not find the language line "Sự Kiện"
+ERROR - 2020-03-14 14:43:50 --> Could not find the language line "Tin sự kiện"
+ERROR - 2020-03-14 14:43:50 --> Could not find the language line "news"
+DEBUG - 2020-03-14 14:43:50 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/page_header.php
+DEBUG - 2020-03-14 14:43:50 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_header_view.php
+DEBUG - 2020-03-14 14:43:50 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_footer_view.php
+DEBUG - 2020-03-14 14:43:50 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/master_view.php
+INFO - 2020-03-14 14:43:51 --> Config Class Initialized
+INFO - 2020-03-14 14:43:51 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:43:51 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:43:51 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:43:51 --> Config Class Initialized
+INFO - 2020-03-14 14:43:51 --> URI Class Initialized
+INFO - 2020-03-14 14:43:51 --> Router Class Initialized
+INFO - 2020-03-14 14:43:51 --> Output Class Initialized
+INFO - 2020-03-14 14:43:51 --> Security Class Initialized
+INFO - 2020-03-14 14:43:51 --> Config Class Initialized
+INFO - 2020-03-14 14:43:51 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:43:51 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:43:51 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:43:51 --> URI Class Initialized
+DEBUG - 2020-03-14 14:43:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:43:51 --> Input Class Initialized
+DEBUG - 2020-03-14 14:43:51 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:43:51 --> Language Class Initialized
+INFO - 2020-03-14 14:43:51 --> Config Class Initialized
+INFO - 2020-03-14 14:43:51 --> Loader Class Initialized
+INFO - 2020-03-14 14:43:51 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:43:51 --> Config Class Initialized
+INFO - 2020-03-14 14:43:51 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:43:51 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:43:51 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:43:51 --> Config Class Initialized
+INFO - 2020-03-14 14:43:51 --> Hooks Class Initialized
+INFO - 2020-03-14 14:43:51 --> Final output sent to browser
+INFO - 2020-03-14 14:43:51 --> URI Class Initialized
+DEBUG - 2020-03-14 14:43:51 --> Total execution time: 0.2857
+INFO - 2020-03-14 14:43:51 --> Router Class Initialized
+INFO - 2020-03-14 14:43:51 --> Output Class Initialized
+INFO - 2020-03-14 14:43:51 --> Security Class Initialized
+DEBUG - 2020-03-14 14:43:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:43:51 --> Input Class Initialized
+DEBUG - 2020-03-14 14:43:51 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:43:51 --> Language Class Initialized
+INFO - 2020-03-14 14:43:51 --> Config Class Initialized
+INFO - 2020-03-14 14:43:51 --> Loader Class Initialized
+INFO - 2020-03-14 14:43:51 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:43:51 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:43:51 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:43:51 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:43:51 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:43:51 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:43:51 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:43:51 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:43:51 --> UTF-8 Support Enabled
+DEBUG - 2020-03-14 14:43:51 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:43:51 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:43:51 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:43:51 --> URI Class Initialized
+INFO - 2020-03-14 14:43:51 --> Router Class Initialized
+INFO - 2020-03-14 14:43:51 --> URI Class Initialized
+INFO - 2020-03-14 14:43:51 --> Output Class Initialized
+INFO - 2020-03-14 14:43:51 --> Security Class Initialized
+DEBUG - 2020-03-14 14:43:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:43:51 --> Input Class Initialized
+DEBUG - 2020-03-14 14:43:51 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:43:51 --> Language Class Initialized
+INFO - 2020-03-14 14:43:51 --> Config Class Initialized
+INFO - 2020-03-14 14:43:51 --> Loader Class Initialized
+INFO - 2020-03-14 14:43:51 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:43:51 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:43:51 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:43:51 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:43:51 --> Router Class Initialized
+INFO - 2020-03-14 14:43:51 --> Router Class Initialized
+INFO - 2020-03-14 14:43:51 --> Output Class Initialized
+INFO - 2020-03-14 14:43:51 --> Controller Class Initialized
+INFO - 2020-03-14 14:43:51 --> Output Class Initialized
+DEBUG - 2020-03-14 14:43:51 --> News MX_Controller Initialized
+INFO - 2020-03-14 14:43:51 --> Controller Class Initialized
+INFO - 2020-03-14 14:43:51 --> Security Class Initialized
+INFO - 2020-03-14 14:43:51 --> Security Class Initialized
+INFO - 2020-03-14 14:43:51 --> Controller Class Initialized
+DEBUG - 2020-03-14 14:43:51 --> News MX_Controller Initialized
+DEBUG - 2020-03-14 14:43:51 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-03-14 14:43:51 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-03-14 14:43:51 --> News MX_Controller Initialized
+INFO - 2020-03-14 14:43:51 --> Helper loaded: html_helper
+INFO - 2020-03-14 14:43:51 --> Input Class Initialized
+INFO - 2020-03-14 14:43:51 --> Helper loaded: html_helper
+INFO - 2020-03-14 14:43:51 --> Helper loaded: html_helper
+INFO - 2020-03-14 14:43:51 --> Input Class Initialized
+DEBUG - 2020-03-14 14:43:51 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:43:51 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 14:43:51 --> Language Class Initialized
+INFO - 2020-03-14 14:43:51 --> Helper loaded: cookie_helper
+DEBUG - 2020-03-14 14:43:51 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:43:51 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 14:43:51 --> Language Class Initialized
+INFO - 2020-03-14 14:43:51 --> Config Class Initialized
+INFO - 2020-03-14 14:43:51 --> Loader Class Initialized
+INFO - 2020-03-14 14:43:51 --> Config Class Initialized
+INFO - 2020-03-14 14:43:51 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 14:43:51 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:43:51 --> Loader Class Initialized
+INFO - 2020-03-14 14:43:51 --> Helper loaded: file_helper
+INFO - 2020-03-14 14:43:51 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:43:51 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:43:51 --> MY_Model class loaded
+INFO - 2020-03-14 14:43:51 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:43:51 --> Model "Language_model" initialized
+INFO - 2020-03-14 14:43:51 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:43:51 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:43:51 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:43:51 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 14:43:51 --> Controller Class Initialized
+INFO - 2020-03-14 14:43:51 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 14:43:51 --> Database Driver Class Initialized
+DEBUG - 2020-03-14 14:43:51 --> News MX_Controller Initialized
+INFO - 2020-03-14 14:43:51 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 14:43:51 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 14:43:51 --> Helper loaded: html_helper
+INFO - 2020-03-14 14:43:51 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 14:43:51 --> Controller Class Initialized
+DEBUG - 2020-03-14 14:43:51 --> News MX_Controller Initialized
+INFO - 2020-03-14 14:43:51 --> Helper loaded: html_helper
+INFO - 2020-03-14 14:43:51 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 14:43:51 --> Model "Page_model" initialized
+INFO - 2020-03-14 14:43:51 --> Model "Category_model" initialized
+INFO - 2020-03-14 14:43:51 --> Model "Article_model" initialized
+INFO - 2020-03-14 14:43:51 --> Model "Service_model" initialized
+ERROR - 2020-03-14 14:43:51 --> Severity: Warning --> A non-numeric value encountered /Volumes/Betrai/www/thienanphu/application/controllers/News.php 22
+INFO - 2020-03-14 14:43:51 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 14:43:51 --> Helper loaded: file_helper
+INFO - 2020-03-14 14:43:51 --> MY_Model class loaded
+INFO - 2020-03-14 14:43:51 --> Model "Language_model" initialized
+INFO - 2020-03-14 14:43:51 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 14:43:51 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 14:43:51 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 14:43:51 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 14:43:51 --> Model "Page_model" initialized
+INFO - 2020-03-14 14:43:51 --> Model "Category_model" initialized
+INFO - 2020-03-14 14:43:51 --> Model "Article_model" initialized
+INFO - 2020-03-14 14:43:51 --> Model "Service_model" initialized
+ERROR - 2020-03-14 14:43:51 --> Severity: Warning --> A non-numeric value encountered /Volumes/Betrai/www/thienanphu/application/controllers/News.php 22
+INFO - 2020-03-14 14:43:51 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 14:43:51 --> Helper loaded: file_helper
+INFO - 2020-03-14 14:43:51 --> MY_Model class loaded
+INFO - 2020-03-14 14:43:51 --> Model "Language_model" initialized
+INFO - 2020-03-14 14:43:51 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 14:43:51 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 14:43:51 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 14:43:51 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 14:43:51 --> Model "Page_model" initialized
+INFO - 2020-03-14 14:43:51 --> Model "Category_model" initialized
+INFO - 2020-03-14 14:43:51 --> Model "Article_model" initialized
+INFO - 2020-03-14 14:43:51 --> Model "Service_model" initialized
+ERROR - 2020-03-14 14:43:51 --> Severity: Warning --> A non-numeric value encountered /Volumes/Betrai/www/thienanphu/application/controllers/News.php 22
+INFO - 2020-03-14 14:43:51 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 14:43:51 --> Helper loaded: file_helper
+INFO - 2020-03-14 14:43:51 --> MY_Model class loaded
+INFO - 2020-03-14 14:43:51 --> Model "Language_model" initialized
+INFO - 2020-03-14 14:43:51 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 14:43:51 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 14:43:51 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 14:43:51 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 14:43:51 --> Model "Page_model" initialized
+INFO - 2020-03-14 14:43:51 --> Model "Category_model" initialized
+INFO - 2020-03-14 14:43:51 --> Model "Article_model" initialized
+INFO - 2020-03-14 14:43:51 --> Model "Service_model" initialized
+ERROR - 2020-03-14 14:43:51 --> Severity: Warning --> A non-numeric value encountered /Volumes/Betrai/www/thienanphu/application/controllers/News.php 22
+INFO - 2020-03-14 14:43:51 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 14:43:51 --> Helper loaded: file_helper
+INFO - 2020-03-14 14:43:51 --> MY_Model class loaded
+INFO - 2020-03-14 14:43:51 --> Model "Language_model" initialized
+INFO - 2020-03-14 14:43:51 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 14:43:51 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 14:43:51 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 14:43:51 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 14:43:51 --> Model "Page_model" initialized
+INFO - 2020-03-14 14:43:51 --> Model "Category_model" initialized
+INFO - 2020-03-14 14:43:51 --> Model "Article_model" initialized
+INFO - 2020-03-14 14:43:51 --> Model "Service_model" initialized
+ERROR - 2020-03-14 14:43:51 --> Severity: Warning --> A non-numeric value encountered /Volumes/Betrai/www/thienanphu/application/controllers/News.php 22
+INFO - 2020-03-14 14:49:13 --> Config Class Initialized
+INFO - 2020-03-14 14:49:13 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:49:13 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:49:13 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:49:13 --> URI Class Initialized
+INFO - 2020-03-14 14:49:13 --> Router Class Initialized
+INFO - 2020-03-14 14:49:13 --> Output Class Initialized
+INFO - 2020-03-14 14:49:13 --> Security Class Initialized
+DEBUG - 2020-03-14 14:49:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:49:13 --> Input Class Initialized
+DEBUG - 2020-03-14 14:49:13 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:49:13 --> Language Class Initialized
+INFO - 2020-03-14 14:49:13 --> Config Class Initialized
+INFO - 2020-03-14 14:49:13 --> Loader Class Initialized
+INFO - 2020-03-14 14:49:13 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:49:13 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:49:13 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:49:13 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:49:13 --> Controller Class Initialized
+DEBUG - 2020-03-14 14:49:13 --> News MX_Controller Initialized
+INFO - 2020-03-14 14:49:13 --> Helper loaded: html_helper
+INFO - 2020-03-14 14:49:13 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 14:49:13 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 14:49:13 --> Helper loaded: file_helper
+INFO - 2020-03-14 14:49:13 --> MY_Model class loaded
+INFO - 2020-03-14 14:49:13 --> Model "Language_model" initialized
+INFO - 2020-03-14 14:49:13 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 14:49:13 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 14:49:13 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 14:49:13 --> Model "Setting_model" initialized
+INFO - 2020-03-14 14:49:13 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 14:49:13 --> Model "Page_model" initialized
+INFO - 2020-03-14 14:49:13 --> Model "Category_model" initialized
+INFO - 2020-03-14 14:49:13 --> Model "Article_model" initialized
+INFO - 2020-03-14 14:49:13 --> Model "Service_model" initialized
+INFO - 2020-03-14 14:49:13 --> Model "User_model" initialized
+INFO - 2020-03-14 14:49:13 --> Model "Article_category_model" initialized
+ERROR - 2020-03-14 14:49:13 --> Could not find the language line "Next"
+DEBUG - 2020-03-14 14:49:13 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_search.php
+DEBUG - 2020-03-14 14:49:13 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_news_categories.php
+DEBUG - 2020-03-14 14:49:13 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_services.php
+DEBUG - 2020-03-14 14:49:13 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_solutions.php
+DEBUG - 2020-03-14 14:49:13 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_tags.php
+DEBUG - 2020-03-14 14:49:13 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/default/news/listing_news.php
+DEBUG - 2020-03-14 14:49:13 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/top_bar.php
+ERROR - 2020-03-14 14:49:13 --> Could not find the language line "Giới thiệu"
+ERROR - 2020-03-14 14:49:13 --> Could not find the language line "Dịch vụ thương mại"
+ERROR - 2020-03-14 14:49:13 --> Could not find the language line "Lĩnh vực hoạt động"
+ERROR - 2020-03-14 14:49:13 --> Could not find the language line "Tin Hoạt Động"
+ERROR - 2020-03-14 14:49:13 --> Could not find the language line "Tin Công Nghệ"
+ERROR - 2020-03-14 14:49:13 --> Could not find the language line "Sự Kiện"
+ERROR - 2020-03-14 14:49:13 --> Could not find the language line "Góc báo chí"
+DEBUG - 2020-03-14 14:49:13 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/mega_menu.php
+ERROR - 2020-03-14 14:49:13 --> Could not find the language line "Search"
+ERROR - 2020-03-14 14:49:13 --> Could not find the language line "Tin Công Nghệ"
+ERROR - 2020-03-14 14:49:13 --> Could not find the language line "Tin Công Nghệ"
+ERROR - 2020-03-14 14:49:13 --> Could not find the language line "news"
+DEBUG - 2020-03-14 14:49:13 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/page_header.php
+DEBUG - 2020-03-14 14:49:13 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_header_view.php
+DEBUG - 2020-03-14 14:49:13 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_footer_view.php
+DEBUG - 2020-03-14 14:49:13 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/master_view.php
+INFO - 2020-03-14 14:49:13 --> Final output sent to browser
+DEBUG - 2020-03-14 14:49:13 --> Total execution time: 0.2584
+INFO - 2020-03-14 14:49:13 --> Config Class Initialized
+INFO - 2020-03-14 14:49:13 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:49:13 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:49:13 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:49:13 --> URI Class Initialized
+INFO - 2020-03-14 14:49:13 --> Router Class Initialized
+INFO - 2020-03-14 14:49:13 --> Output Class Initialized
+INFO - 2020-03-14 14:49:13 --> Security Class Initialized
+DEBUG - 2020-03-14 14:49:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:49:13 --> Input Class Initialized
+DEBUG - 2020-03-14 14:49:13 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:49:13 --> Language Class Initialized
+INFO - 2020-03-14 14:49:13 --> Config Class Initialized
+INFO - 2020-03-14 14:49:13 --> Config Class Initialized
+INFO - 2020-03-14 14:49:13 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:49:13 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:49:13 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:49:13 --> URI Class Initialized
+INFO - 2020-03-14 14:49:13 --> Router Class Initialized
+INFO - 2020-03-14 14:49:13 --> Output Class Initialized
+INFO - 2020-03-14 14:49:13 --> Security Class Initialized
+DEBUG - 2020-03-14 14:49:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:49:13 --> Input Class Initialized
+DEBUG - 2020-03-14 14:49:13 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:49:13 --> Language Class Initialized
+INFO - 2020-03-14 14:49:13 --> Config Class Initialized
+INFO - 2020-03-14 14:49:13 --> Loader Class Initialized
+INFO - 2020-03-14 14:49:13 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:49:13 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:49:13 --> Config Class Initialized
+INFO - 2020-03-14 14:49:13 --> Hooks Class Initialized
+INFO - 2020-03-14 14:49:13 --> Loader Class Initialized
+INFO - 2020-03-14 14:49:13 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:49:13 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:49:13 --> Config Class Initialized
+INFO - 2020-03-14 14:49:13 --> Hooks Class Initialized
+INFO - 2020-03-14 14:49:13 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:49:13 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:49:13 --> Helper loaded: language_helper
+DEBUG - 2020-03-14 14:49:13 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:49:13 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:49:13 --> Utf8 Class Initialized
+DEBUG - 2020-03-14 14:49:13 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:49:13 --> URI Class Initialized
+INFO - 2020-03-14 14:49:13 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:49:13 --> Controller Class Initialized
+INFO - 2020-03-14 14:49:13 --> Controller Class Initialized
+INFO - 2020-03-14 14:49:13 --> URI Class Initialized
+DEBUG - 2020-03-14 14:49:13 --> News MX_Controller Initialized
+DEBUG - 2020-03-14 14:49:13 --> News MX_Controller Initialized
+INFO - 2020-03-14 14:49:13 --> Helper loaded: html_helper
+INFO - 2020-03-14 14:49:13 --> Helper loaded: html_helper
+INFO - 2020-03-14 14:49:13 --> Router Class Initialized
+INFO - 2020-03-14 14:49:13 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 14:49:13 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 14:49:13 --> Output Class Initialized
+INFO - 2020-03-14 14:49:13 --> Security Class Initialized
+DEBUG - 2020-03-14 14:49:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:49:13 --> Input Class Initialized
+INFO - 2020-03-14 14:49:13 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 14:49:13 --> Router Class Initialized
+DEBUG - 2020-03-14 14:49:13 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:49:13 --> Helper loaded: file_helper
+INFO - 2020-03-14 14:49:13 --> Output Class Initialized
+INFO - 2020-03-14 14:49:13 --> Security Class Initialized
+INFO - 2020-03-14 14:49:13 --> MY_Model class loaded
+INFO - 2020-03-14 14:49:13 --> Language Class Initialized
+DEBUG - 2020-03-14 14:49:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:49:13 --> Model "Language_model" initialized
+INFO - 2020-03-14 14:49:13 --> Config Class Initialized
+INFO - 2020-03-14 14:49:13 --> Input Class Initialized
+INFO - 2020-03-14 14:49:13 --> Config Class Initialized
+INFO - 2020-03-14 14:49:13 --> Loader Class Initialized
+INFO - 2020-03-14 14:49:13 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:49:13 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:49:13 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:49:13 --> Language file loaded: language/vietnamese/news_lang.php
+DEBUG - 2020-03-14 14:49:13 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:49:13 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:49:13 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 14:49:13 --> Language Class Initialized
+INFO - 2020-03-14 14:49:13 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:49:13 --> Config Class Initialized
+INFO - 2020-03-14 14:49:13 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 14:49:13 --> URI Class Initialized
+INFO - 2020-03-14 14:49:13 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 14:49:13 --> Loader Class Initialized
+INFO - 2020-03-14 14:49:13 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:49:13 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:49:13 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:49:13 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:49:13 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:49:13 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:49:13 --> Model "Page_model" initialized
+INFO - 2020-03-14 14:49:13 --> Router Class Initialized
+INFO - 2020-03-14 14:49:13 --> Output Class Initialized
+INFO - 2020-03-14 14:49:13 --> Controller Class Initialized
+INFO - 2020-03-14 14:49:13 --> Model "Category_model" initialized
+INFO - 2020-03-14 14:49:13 --> Controller Class Initialized
+INFO - 2020-03-14 14:49:13 --> Security Class Initialized
+DEBUG - 2020-03-14 14:49:13 --> News MX_Controller Initialized
+DEBUG - 2020-03-14 14:49:13 --> News MX_Controller Initialized
+DEBUG - 2020-03-14 14:49:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:49:13 --> Model "Article_model" initialized
+INFO - 2020-03-14 14:49:13 --> Helper loaded: html_helper
+INFO - 2020-03-14 14:49:13 --> Input Class Initialized
+INFO - 2020-03-14 14:49:13 --> Model "Service_model" initialized
+INFO - 2020-03-14 14:49:13 --> Helper loaded: html_helper
+INFO - 2020-03-14 14:49:13 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 14:49:13 --> Helper loaded: cookie_helper
+DEBUG - 2020-03-14 14:49:13 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:49:13 --> Language Class Initialized
+INFO - 2020-03-14 14:49:13 --> Config Class Initialized
+ERROR - 2020-03-14 14:49:13 --> Severity: Warning --> A non-numeric value encountered /Volumes/Betrai/www/thienanphu/application/controllers/News.php 22
+INFO - 2020-03-14 14:49:13 --> Loader Class Initialized
+INFO - 2020-03-14 14:49:13 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:49:13 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:49:13 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 14:49:13 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:49:13 --> Helper loaded: file_helper
+INFO - 2020-03-14 14:49:13 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:49:13 --> MY_Model class loaded
+INFO - 2020-03-14 14:49:13 --> Model "Language_model" initialized
+INFO - 2020-03-14 14:49:13 --> Controller Class Initialized
+DEBUG - 2020-03-14 14:49:13 --> News MX_Controller Initialized
+INFO - 2020-03-14 14:49:13 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 14:49:13 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 14:49:13 --> Helper loaded: html_helper
+INFO - 2020-03-14 14:49:13 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 14:49:13 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 14:49:13 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 14:49:13 --> Model "Page_model" initialized
+INFO - 2020-03-14 14:49:13 --> Model "Category_model" initialized
+INFO - 2020-03-14 14:49:13 --> Model "Article_model" initialized
+INFO - 2020-03-14 14:49:13 --> Model "Service_model" initialized
+ERROR - 2020-03-14 14:49:13 --> Severity: Warning --> A non-numeric value encountered /Volumes/Betrai/www/thienanphu/application/controllers/News.php 22
+INFO - 2020-03-14 14:49:13 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 14:49:13 --> Helper loaded: file_helper
+INFO - 2020-03-14 14:49:13 --> MY_Model class loaded
+INFO - 2020-03-14 14:49:13 --> Model "Language_model" initialized
+INFO - 2020-03-14 14:49:13 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 14:49:13 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 14:49:13 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 14:49:13 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 14:49:13 --> Model "Page_model" initialized
+INFO - 2020-03-14 14:49:13 --> Model "Category_model" initialized
+INFO - 2020-03-14 14:49:13 --> Model "Article_model" initialized
+INFO - 2020-03-14 14:49:13 --> Model "Service_model" initialized
+ERROR - 2020-03-14 14:49:13 --> Severity: Warning --> A non-numeric value encountered /Volumes/Betrai/www/thienanphu/application/controllers/News.php 22
+INFO - 2020-03-14 14:49:13 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 14:49:13 --> Helper loaded: file_helper
+INFO - 2020-03-14 14:49:13 --> MY_Model class loaded
+INFO - 2020-03-14 14:49:13 --> Model "Language_model" initialized
+INFO - 2020-03-14 14:49:13 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 14:49:13 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 14:49:13 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 14:49:13 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 14:49:13 --> Model "Page_model" initialized
+INFO - 2020-03-14 14:49:13 --> Model "Category_model" initialized
+INFO - 2020-03-14 14:49:13 --> Model "Article_model" initialized
+INFO - 2020-03-14 14:49:13 --> Model "Service_model" initialized
+ERROR - 2020-03-14 14:49:13 --> Severity: Warning --> A non-numeric value encountered /Volumes/Betrai/www/thienanphu/application/controllers/News.php 22
+INFO - 2020-03-14 14:49:13 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 14:49:13 --> Helper loaded: file_helper
+INFO - 2020-03-14 14:49:13 --> MY_Model class loaded
+INFO - 2020-03-14 14:49:13 --> Model "Language_model" initialized
+INFO - 2020-03-14 14:49:13 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 14:49:13 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 14:49:13 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 14:49:13 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 14:49:13 --> Model "Page_model" initialized
+INFO - 2020-03-14 14:49:13 --> Model "Category_model" initialized
+INFO - 2020-03-14 14:49:13 --> Model "Article_model" initialized
+INFO - 2020-03-14 14:49:13 --> Model "Service_model" initialized
+ERROR - 2020-03-14 14:49:13 --> Severity: Warning --> A non-numeric value encountered /Volumes/Betrai/www/thienanphu/application/controllers/News.php 22
+INFO - 2020-03-14 14:49:23 --> Config Class Initialized
+INFO - 2020-03-14 14:49:23 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:49:23 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:49:23 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:49:23 --> URI Class Initialized
+INFO - 2020-03-14 14:49:23 --> Router Class Initialized
+INFO - 2020-03-14 14:49:23 --> Output Class Initialized
+INFO - 2020-03-14 14:49:23 --> Security Class Initialized
+DEBUG - 2020-03-14 14:49:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:49:23 --> Input Class Initialized
+INFO - 2020-03-14 14:49:23 --> Config Class Initialized
+INFO - 2020-03-14 14:49:23 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:49:23 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:49:23 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:49:23 --> URI Class Initialized
+INFO - 2020-03-14 14:49:23 --> Router Class Initialized
+INFO - 2020-03-14 14:49:23 --> Output Class Initialized
+INFO - 2020-03-14 14:49:23 --> Security Class Initialized
+DEBUG - 2020-03-14 14:49:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:49:23 --> Input Class Initialized
+DEBUG - 2020-03-14 14:49:23 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:49:23 --> Language Class Initialized
+INFO - 2020-03-14 14:49:23 --> Config Class Initialized
+INFO - 2020-03-14 14:49:23 --> Loader Class Initialized
+INFO - 2020-03-14 14:49:23 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:49:23 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:49:23 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:49:23 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:49:23 --> Controller Class Initialized
+ERROR - 2020-03-14 14:49:23 --> 404 Page Not Found: /index
+INFO - 2020-03-14 14:50:15 --> Config Class Initialized
+INFO - 2020-03-14 14:50:15 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:50:15 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:50:15 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:50:15 --> URI Class Initialized
+INFO - 2020-03-14 14:50:15 --> Router Class Initialized
+INFO - 2020-03-14 14:50:15 --> Output Class Initialized
+INFO - 2020-03-14 14:50:15 --> Security Class Initialized
+DEBUG - 2020-03-14 14:50:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:50:15 --> Input Class Initialized
+DEBUG - 2020-03-14 14:50:15 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:50:15 --> Language Class Initialized
+INFO - 2020-03-14 14:50:15 --> Config Class Initialized
+INFO - 2020-03-14 14:50:15 --> Loader Class Initialized
+INFO - 2020-03-14 14:50:15 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:50:15 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:50:15 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:50:15 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:50:15 --> Controller Class Initialized
+DEBUG - 2020-03-14 14:50:15 --> News MX_Controller Initialized
+INFO - 2020-03-14 14:50:15 --> Helper loaded: html_helper
+INFO - 2020-03-14 14:50:15 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 14:50:16 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 14:50:16 --> Helper loaded: file_helper
+INFO - 2020-03-14 14:50:16 --> MY_Model class loaded
+INFO - 2020-03-14 14:50:16 --> Model "Language_model" initialized
+INFO - 2020-03-14 14:50:16 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 14:50:16 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 14:50:16 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 14:50:16 --> Model "Setting_model" initialized
+INFO - 2020-03-14 14:50:16 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 14:50:16 --> Model "Page_model" initialized
+INFO - 2020-03-14 14:50:16 --> Model "Category_model" initialized
+INFO - 2020-03-14 14:50:16 --> Model "Article_model" initialized
+INFO - 2020-03-14 14:50:16 --> Model "Service_model" initialized
+INFO - 2020-03-14 14:50:16 --> Model "User_model" initialized
+INFO - 2020-03-14 14:50:16 --> Model "Article_category_model" initialized
+ERROR - 2020-03-14 14:50:16 --> Could not find the language line "Next"
+DEBUG - 2020-03-14 14:50:16 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_search.php
+DEBUG - 2020-03-14 14:50:16 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_news_categories.php
+DEBUG - 2020-03-14 14:50:16 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_services.php
+DEBUG - 2020-03-14 14:50:16 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_solutions.php
+DEBUG - 2020-03-14 14:50:16 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_tags.php
+DEBUG - 2020-03-14 14:50:16 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/default/news/listing_news.php
+DEBUG - 2020-03-14 14:50:16 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/top_bar.php
+ERROR - 2020-03-14 14:50:16 --> Could not find the language line "Giới thiệu"
+ERROR - 2020-03-14 14:50:16 --> Could not find the language line "Dịch vụ thương mại"
+ERROR - 2020-03-14 14:50:16 --> Could not find the language line "Lĩnh vực hoạt động"
+ERROR - 2020-03-14 14:50:16 --> Could not find the language line "Tin Hoạt Động"
+ERROR - 2020-03-14 14:50:16 --> Could not find the language line "Tin Công Nghệ"
+ERROR - 2020-03-14 14:50:16 --> Could not find the language line "Sự Kiện"
+ERROR - 2020-03-14 14:50:16 --> Could not find the language line "Góc báo chí"
+DEBUG - 2020-03-14 14:50:16 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/mega_menu.php
+ERROR - 2020-03-14 14:50:16 --> Could not find the language line "Search"
+ERROR - 2020-03-14 14:50:16 --> Could not find the language line "Tin Công Nghệ"
+ERROR - 2020-03-14 14:50:16 --> Could not find the language line "Tin Công Nghệ"
+ERROR - 2020-03-14 14:50:16 --> Could not find the language line "news"
+DEBUG - 2020-03-14 14:50:16 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/page_header.php
+DEBUG - 2020-03-14 14:50:16 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_header_view.php
+DEBUG - 2020-03-14 14:50:16 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_footer_view.php
+DEBUG - 2020-03-14 14:50:16 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/master_view.php
+INFO - 2020-03-14 14:50:16 --> Final output sent to browser
+DEBUG - 2020-03-14 14:50:16 --> Total execution time: 0.5625
+INFO - 2020-03-14 14:50:16 --> Config Class Initialized
+INFO - 2020-03-14 14:50:16 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:50:16 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:50:16 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:50:16 --> URI Class Initialized
+INFO - 2020-03-14 14:50:16 --> Config Class Initialized
+INFO - 2020-03-14 14:50:16 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:50:16 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:50:16 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:50:16 --> URI Class Initialized
+INFO - 2020-03-14 14:50:16 --> Config Class Initialized
+INFO - 2020-03-14 14:50:16 --> Router Class Initialized
+INFO - 2020-03-14 14:50:16 --> Config Class Initialized
+INFO - 2020-03-14 14:50:16 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:50:16 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:50:16 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:50:16 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:50:16 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:50:16 --> Router Class Initialized
+INFO - 2020-03-14 14:50:16 --> Output Class Initialized
+INFO - 2020-03-14 14:50:16 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:50:16 --> Security Class Initialized
+INFO - 2020-03-14 14:50:16 --> URI Class Initialized
+INFO - 2020-03-14 14:50:16 --> Router Class Initialized
+INFO - 2020-03-14 14:50:16 --> Output Class Initialized
+INFO - 2020-03-14 14:50:16 --> Config Class Initialized
+INFO - 2020-03-14 14:50:16 --> Hooks Class Initialized
+INFO - 2020-03-14 14:50:16 --> Security Class Initialized
+DEBUG - 2020-03-14 14:50:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:50:16 --> Input Class Initialized
+DEBUG - 2020-03-14 14:50:16 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:50:16 --> Language Class Initialized
+DEBUG - 2020-03-14 14:50:16 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:50:16 --> Config Class Initialized
+INFO - 2020-03-14 14:50:16 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:50:16 --> Loader Class Initialized
+INFO - 2020-03-14 14:50:16 --> URI Class Initialized
+INFO - 2020-03-14 14:50:16 --> URI Class Initialized
+INFO - 2020-03-14 14:50:16 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:50:16 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:50:16 --> Router Class Initialized
+INFO - 2020-03-14 14:50:16 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:50:16 --> Router Class Initialized
+DEBUG - 2020-03-14 14:50:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:50:16 --> Output Class Initialized
+INFO - 2020-03-14 14:50:16 --> Security Class Initialized
+DEBUG - 2020-03-14 14:50:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:50:16 --> Input Class Initialized
+INFO - 2020-03-14 14:50:16 --> Database Driver Class Initialized
+DEBUG - 2020-03-14 14:50:16 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:50:16 --> Output Class Initialized
+INFO - 2020-03-14 14:50:16 --> Input Class Initialized
+INFO - 2020-03-14 14:50:16 --> Security Class Initialized
+INFO - 2020-03-14 14:50:16 --> Output Class Initialized
+INFO - 2020-03-14 14:50:16 --> Security Class Initialized
+INFO - 2020-03-14 14:50:16 --> Language Class Initialized
+INFO - 2020-03-14 14:50:16 --> Config Class Initialized
+DEBUG - 2020-03-14 14:50:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:50:16 --> Loader Class Initialized
+INFO - 2020-03-14 14:50:16 --> Input Class Initialized
+INFO - 2020-03-14 14:50:16 --> Helper loaded: url_helper
+DEBUG - 2020-03-14 14:50:16 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:50:16 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:50:16 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:50:16 --> Language Class Initialized
+INFO - 2020-03-14 14:50:16 --> Config Class Initialized
+INFO - 2020-03-14 14:50:16 --> Database Driver Class Initialized
+DEBUG - 2020-03-14 14:50:16 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:50:16 --> Loader Class Initialized
+INFO - 2020-03-14 14:50:16 --> Language Class Initialized
+INFO - 2020-03-14 14:50:16 --> Config Class Initialized
+INFO - 2020-03-14 14:50:16 --> Controller Class Initialized
+INFO - 2020-03-14 14:50:16 --> Loader Class Initialized
+DEBUG - 2020-03-14 14:50:16 --> News MX_Controller Initialized
+INFO - 2020-03-14 14:50:16 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:50:16 --> Helper loaded: html_helper
+INFO - 2020-03-14 14:50:16 --> Helper loaded: cookie_helper
+DEBUG - 2020-03-14 14:50:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:50:16 --> Input Class Initialized
+INFO - 2020-03-14 14:50:16 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:50:16 --> Helper loaded: form_helper
+DEBUG - 2020-03-14 14:50:16 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:50:16 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:50:16 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:50:16 --> Controller Class Initialized
+INFO - 2020-03-14 14:50:16 --> Language Class Initialized
+INFO - 2020-03-14 14:50:16 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 14:50:16 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:50:16 --> Config Class Initialized
+INFO - 2020-03-14 14:50:16 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:50:16 --> Loader Class Initialized
+INFO - 2020-03-14 14:50:16 --> Helper loaded: file_helper
+INFO - 2020-03-14 14:50:16 --> Database Driver Class Initialized
+DEBUG - 2020-03-14 14:50:16 --> News MX_Controller Initialized
+INFO - 2020-03-14 14:50:16 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:50:16 --> MY_Model class loaded
+INFO - 2020-03-14 14:50:16 --> Helper loaded: html_helper
+INFO - 2020-03-14 14:50:16 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:50:16 --> Controller Class Initialized
+INFO - 2020-03-14 14:50:16 --> Model "Language_model" initialized
+INFO - 2020-03-14 14:50:16 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 14:50:16 --> Helper loaded: language_helper
+DEBUG - 2020-03-14 14:50:16 --> News MX_Controller Initialized
+INFO - 2020-03-14 14:50:16 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:50:16 --> Helper loaded: html_helper
+INFO - 2020-03-14 14:50:16 --> Controller Class Initialized
+INFO - 2020-03-14 14:50:16 --> Helper loaded: cookie_helper
+DEBUG - 2020-03-14 14:50:16 --> News MX_Controller Initialized
+INFO - 2020-03-14 14:50:16 --> Helper loaded: html_helper
+INFO - 2020-03-14 14:50:16 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 14:50:16 --> Controller Class Initialized
+INFO - 2020-03-14 14:50:16 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 14:50:16 --> Language file loaded: language/vietnamese/global_lang.php
+DEBUG - 2020-03-14 14:50:16 --> News MX_Controller Initialized
+INFO - 2020-03-14 14:50:16 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 14:50:16 --> Helper loaded: html_helper
+INFO - 2020-03-14 14:50:16 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 14:50:16 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 14:50:16 --> Model "Page_model" initialized
+INFO - 2020-03-14 14:50:16 --> Model "Category_model" initialized
+INFO - 2020-03-14 14:50:16 --> Model "Article_model" initialized
+INFO - 2020-03-14 14:50:16 --> Model "Service_model" initialized
+ERROR - 2020-03-14 14:50:16 --> Severity: Warning --> A non-numeric value encountered /Volumes/Betrai/www/thienanphu/application/controllers/News.php 22
+INFO - 2020-03-14 14:50:16 --> Model "User_model" initialized
+INFO - 2020-03-14 14:50:16 --> Model "Article_category_model" initialized
+ERROR - 2020-03-14 14:50:16 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-5, 5' at line 5 - Invalid query: SELECT *, `id`, `created_by`
+FROM `articles`
+WHERE `articles`.`active` = 'Y'
+ORDER BY `created_at` DESC
+ LIMIT -5, 5
+ERROR - 2020-03-14 14:50:16 --> Language file contains no data: language/vietnamese/db_lang.php
+ERROR - 2020-03-14 14:50:16 --> Could not find the language line "db_error_heading"
+INFO - 2020-03-14 14:50:16 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 14:50:16 --> Helper loaded: file_helper
+INFO - 2020-03-14 14:50:16 --> MY_Model class loaded
+INFO - 2020-03-14 14:50:16 --> Model "Language_model" initialized
+INFO - 2020-03-14 14:50:16 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 14:50:16 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 14:50:16 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 14:50:16 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 14:50:16 --> Model "Page_model" initialized
+INFO - 2020-03-14 14:50:16 --> Model "Category_model" initialized
+INFO - 2020-03-14 14:50:16 --> Model "Article_model" initialized
+INFO - 2020-03-14 14:50:16 --> Model "Service_model" initialized
+ERROR - 2020-03-14 14:50:16 --> Severity: Warning --> A non-numeric value encountered /Volumes/Betrai/www/thienanphu/application/controllers/News.php 22
+INFO - 2020-03-14 14:50:16 --> Model "User_model" initialized
+INFO - 2020-03-14 14:50:16 --> Model "Article_category_model" initialized
+ERROR - 2020-03-14 14:50:16 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-5, 5' at line 5 - Invalid query: SELECT *, `id`, `created_by`
+FROM `articles`
+WHERE `articles`.`active` = 'Y'
+ORDER BY `created_at` DESC
+ LIMIT -5, 5
+ERROR - 2020-03-14 14:50:16 --> Language file contains no data: language/vietnamese/db_lang.php
+ERROR - 2020-03-14 14:50:16 --> Could not find the language line "db_error_heading"
+INFO - 2020-03-14 14:50:16 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 14:50:16 --> Helper loaded: file_helper
+INFO - 2020-03-14 14:50:16 --> MY_Model class loaded
+INFO - 2020-03-14 14:50:16 --> Model "Language_model" initialized
+INFO - 2020-03-14 14:50:16 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 14:50:16 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 14:50:16 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 14:50:16 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 14:50:16 --> Model "Page_model" initialized
+INFO - 2020-03-14 14:50:16 --> Model "Category_model" initialized
+INFO - 2020-03-14 14:50:16 --> Model "Article_model" initialized
+INFO - 2020-03-14 14:50:16 --> Model "Service_model" initialized
+ERROR - 2020-03-14 14:50:16 --> Severity: Warning --> A non-numeric value encountered /Volumes/Betrai/www/thienanphu/application/controllers/News.php 22
+INFO - 2020-03-14 14:50:16 --> Model "User_model" initialized
+INFO - 2020-03-14 14:50:16 --> Model "Article_category_model" initialized
+ERROR - 2020-03-14 14:50:16 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-5, 5' at line 5 - Invalid query: SELECT *, `id`, `created_by`
+FROM `articles`
+WHERE `articles`.`active` = 'Y'
+ORDER BY `created_at` DESC
+ LIMIT -5, 5
+ERROR - 2020-03-14 14:50:16 --> Language file contains no data: language/vietnamese/db_lang.php
+ERROR - 2020-03-14 14:50:16 --> Could not find the language line "db_error_heading"
+INFO - 2020-03-14 14:50:16 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 14:50:16 --> Helper loaded: file_helper
+INFO - 2020-03-14 14:50:16 --> MY_Model class loaded
+INFO - 2020-03-14 14:50:16 --> Model "Language_model" initialized
+INFO - 2020-03-14 14:50:16 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 14:50:16 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 14:50:16 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 14:50:16 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 14:50:16 --> Model "Page_model" initialized
+INFO - 2020-03-14 14:50:16 --> Model "Category_model" initialized
+INFO - 2020-03-14 14:50:16 --> Model "Article_model" initialized
+INFO - 2020-03-14 14:50:16 --> Model "Service_model" initialized
+ERROR - 2020-03-14 14:50:16 --> Severity: Warning --> A non-numeric value encountered /Volumes/Betrai/www/thienanphu/application/controllers/News.php 22
+INFO - 2020-03-14 14:50:16 --> Model "User_model" initialized
+INFO - 2020-03-14 14:50:16 --> Model "Article_category_model" initialized
+ERROR - 2020-03-14 14:50:16 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-5, 5' at line 5 - Invalid query: SELECT *, `id`, `created_by`
+FROM `articles`
+WHERE `articles`.`active` = 'Y'
+ORDER BY `created_at` DESC
+ LIMIT -5, 5
+ERROR - 2020-03-14 14:50:16 --> Language file contains no data: language/vietnamese/db_lang.php
+ERROR - 2020-03-14 14:50:16 --> Could not find the language line "db_error_heading"
+INFO - 2020-03-14 14:50:16 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 14:50:16 --> Helper loaded: file_helper
+INFO - 2020-03-14 14:50:16 --> MY_Model class loaded
+INFO - 2020-03-14 14:50:16 --> Model "Language_model" initialized
+INFO - 2020-03-14 14:50:16 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 14:50:16 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 14:50:16 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 14:50:16 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 14:50:16 --> Model "Page_model" initialized
+INFO - 2020-03-14 14:50:16 --> Model "Category_model" initialized
+INFO - 2020-03-14 14:50:16 --> Model "Article_model" initialized
+INFO - 2020-03-14 14:50:16 --> Model "Service_model" initialized
+ERROR - 2020-03-14 14:50:16 --> Severity: Warning --> A non-numeric value encountered /Volumes/Betrai/www/thienanphu/application/controllers/News.php 22
+INFO - 2020-03-14 14:50:16 --> Model "User_model" initialized
+INFO - 2020-03-14 14:50:16 --> Model "Article_category_model" initialized
+ERROR - 2020-03-14 14:50:16 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-5, 5' at line 5 - Invalid query: SELECT *, `id`, `created_by`
+FROM `articles`
+WHERE `articles`.`active` = 'Y'
+ORDER BY `created_at` DESC
+ LIMIT -5, 5
+ERROR - 2020-03-14 14:50:16 --> Language file contains no data: language/vietnamese/db_lang.php
+ERROR - 2020-03-14 14:50:16 --> Could not find the language line "db_error_heading"
+INFO - 2020-03-14 14:50:25 --> Config Class Initialized
+INFO - 2020-03-14 14:50:25 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:50:25 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:50:25 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:50:25 --> URI Class Initialized
+INFO - 2020-03-14 14:50:25 --> Router Class Initialized
+INFO - 2020-03-14 14:50:25 --> Output Class Initialized
+INFO - 2020-03-14 14:50:25 --> Security Class Initialized
+DEBUG - 2020-03-14 14:50:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:50:25 --> Input Class Initialized
+DEBUG - 2020-03-14 14:50:25 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:50:25 --> Language Class Initialized
+INFO - 2020-03-14 14:50:25 --> Config Class Initialized
+INFO - 2020-03-14 14:50:25 --> Loader Class Initialized
+INFO - 2020-03-14 14:50:25 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:50:25 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:50:25 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:50:25 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:50:25 --> Controller Class Initialized
+DEBUG - 2020-03-14 14:50:25 --> News MX_Controller Initialized
+INFO - 2020-03-14 14:50:25 --> Helper loaded: html_helper
+INFO - 2020-03-14 14:50:25 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 14:50:25 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 14:50:25 --> Helper loaded: file_helper
+INFO - 2020-03-14 14:50:25 --> MY_Model class loaded
+INFO - 2020-03-14 14:50:25 --> Model "Language_model" initialized
+INFO - 2020-03-14 14:50:25 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 14:50:25 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 14:50:25 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 14:50:25 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 14:50:25 --> Model "Page_model" initialized
+INFO - 2020-03-14 14:50:25 --> Model "Category_model" initialized
+INFO - 2020-03-14 14:50:25 --> Model "Article_model" initialized
+INFO - 2020-03-14 14:50:25 --> Model "Service_model" initialized
+INFO - 2020-03-14 14:50:25 --> Model "User_model" initialized
+INFO - 2020-03-14 14:50:25 --> Model "Article_category_model" initialized
+ERROR - 2020-03-14 14:50:25 --> Could not find the language line "Next"
+DEBUG - 2020-03-14 14:50:25 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_search.php
+DEBUG - 2020-03-14 14:50:25 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_news_categories.php
+DEBUG - 2020-03-14 14:50:25 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_services.php
+DEBUG - 2020-03-14 14:50:25 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_solutions.php
+DEBUG - 2020-03-14 14:50:25 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_tags.php
+DEBUG - 2020-03-14 14:50:25 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/default/news/detail_news.php
+DEBUG - 2020-03-14 14:50:25 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/top_bar.php
+ERROR - 2020-03-14 14:50:25 --> Could not find the language line "Giới thiệu"
+ERROR - 2020-03-14 14:50:25 --> Could not find the language line "Dịch vụ thương mại"
+ERROR - 2020-03-14 14:50:25 --> Could not find the language line "Lĩnh vực hoạt động"
+ERROR - 2020-03-14 14:50:25 --> Could not find the language line "Tin Hoạt Động"
+ERROR - 2020-03-14 14:50:25 --> Could not find the language line "Tin Công Nghệ"
+ERROR - 2020-03-14 14:50:25 --> Could not find the language line "Sự Kiện"
+ERROR - 2020-03-14 14:50:25 --> Could not find the language line "Góc báo chí"
+DEBUG - 2020-03-14 14:50:25 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/mega_menu.php
+ERROR - 2020-03-14 14:50:25 --> Could not find the language line "Search"
+ERROR - 2020-03-14 14:50:25 --> Could not find the language line "Tin Công Nghệ"
+ERROR - 2020-03-14 14:50:25 --> Could not find the language line "Tin Công Nghệ"
+ERROR - 2020-03-14 14:50:25 --> Could not find the language line "news"
+DEBUG - 2020-03-14 14:50:25 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/page_header.php
+DEBUG - 2020-03-14 14:50:25 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_header_view.php
+DEBUG - 2020-03-14 14:50:25 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_footer_view.php
+DEBUG - 2020-03-14 14:50:25 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/master_view.php
+INFO - 2020-03-14 14:50:25 --> Final output sent to browser
+DEBUG - 2020-03-14 14:50:25 --> Total execution time: 0.5522
+INFO - 2020-03-14 14:50:25 --> Config Class Initialized
+INFO - 2020-03-14 14:50:25 --> Hooks Class Initialized
+INFO - 2020-03-14 14:50:25 --> Config Class Initialized
+INFO - 2020-03-14 14:50:25 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:50:25 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:50:25 --> Utf8 Class Initialized
+DEBUG - 2020-03-14 14:50:25 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:50:25 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:50:25 --> URI Class Initialized
+INFO - 2020-03-14 14:50:25 --> Router Class Initialized
+INFO - 2020-03-14 14:50:25 --> Output Class Initialized
+INFO - 2020-03-14 14:50:25 --> Security Class Initialized
+DEBUG - 2020-03-14 14:50:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:50:25 --> Input Class Initialized
+DEBUG - 2020-03-14 14:50:25 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:50:25 --> Language Class Initialized
+INFO - 2020-03-14 14:50:25 --> Config Class Initialized
+INFO - 2020-03-14 14:50:25 --> Config Class Initialized
+INFO - 2020-03-14 14:50:25 --> Hooks Class Initialized
+INFO - 2020-03-14 14:50:25 --> Loader Class Initialized
+INFO - 2020-03-14 14:50:25 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:50:25 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:50:25 --> URI Class Initialized
+INFO - 2020-03-14 14:50:25 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:50:25 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:50:25 --> Router Class Initialized
+INFO - 2020-03-14 14:50:25 --> Output Class Initialized
+INFO - 2020-03-14 14:50:25 --> Security Class Initialized
+INFO - 2020-03-14 14:50:25 --> Config Class Initialized
+INFO - 2020-03-14 14:50:25 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:50:25 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-03-14 14:50:25 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:50:25 --> Input Class Initialized
+DEBUG - 2020-03-14 14:50:25 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:50:25 --> Language Class Initialized
+INFO - 2020-03-14 14:50:25 --> Config Class Initialized
+INFO - 2020-03-14 14:50:25 --> Config Class Initialized
+INFO - 2020-03-14 14:50:25 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:50:25 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:50:25 --> Utf8 Class Initialized
+DEBUG - 2020-03-14 14:50:25 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:50:25 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:50:25 --> URI Class Initialized
+INFO - 2020-03-14 14:50:25 --> Router Class Initialized
+INFO - 2020-03-14 14:50:25 --> URI Class Initialized
+INFO - 2020-03-14 14:50:25 --> Router Class Initialized
+INFO - 2020-03-14 14:50:25 --> Output Class Initialized
+INFO - 2020-03-14 14:50:25 --> Security Class Initialized
+DEBUG - 2020-03-14 14:50:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:50:25 --> Input Class Initialized
+INFO - 2020-03-14 14:50:25 --> Utf8 Class Initialized
+DEBUG - 2020-03-14 14:50:25 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:50:25 --> URI Class Initialized
+INFO - 2020-03-14 14:50:25 --> Output Class Initialized
+INFO - 2020-03-14 14:50:25 --> Security Class Initialized
+INFO - 2020-03-14 14:50:25 --> Router Class Initialized
+DEBUG - 2020-03-14 14:50:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:50:25 --> Output Class Initialized
+INFO - 2020-03-14 14:50:25 --> Input Class Initialized
+INFO - 2020-03-14 14:50:25 --> Security Class Initialized
+DEBUG - 2020-03-14 14:50:25 --> Language_Identifier Class Initialized
+DEBUG - 2020-03-14 14:50:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:50:25 --> Input Class Initialized
+INFO - 2020-03-14 14:50:25 --> Language Class Initialized
+INFO - 2020-03-14 14:50:25 --> Config Class Initialized
+INFO - 2020-03-14 14:50:25 --> Loader Class Initialized
+INFO - 2020-03-14 14:50:25 --> Controller Class Initialized
+INFO - 2020-03-14 14:50:25 --> Helper loaded: url_helper
+DEBUG - 2020-03-14 14:50:25 --> News MX_Controller Initialized
+INFO - 2020-03-14 14:50:25 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:50:25 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:50:25 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:50:25 --> Helper loaded: html_helper
+INFO - 2020-03-14 14:50:25 --> Loader Class Initialized
+INFO - 2020-03-14 14:50:25 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:50:25 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:50:25 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 14:50:25 --> Language Class Initialized
+INFO - 2020-03-14 14:50:25 --> Config Class Initialized
+INFO - 2020-03-14 14:50:25 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:50:25 --> Loader Class Initialized
+INFO - 2020-03-14 14:50:25 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:50:25 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:50:25 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:50:25 --> Helper loaded: language_helper
+DEBUG - 2020-03-14 14:50:25 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:50:25 --> Language Class Initialized
+INFO - 2020-03-14 14:50:25 --> Config Class Initialized
+INFO - 2020-03-14 14:50:25 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 14:50:25 --> Loader Class Initialized
+INFO - 2020-03-14 14:50:25 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:50:25 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:50:25 --> Helper loaded: file_helper
+INFO - 2020-03-14 14:50:25 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:50:25 --> MY_Model class loaded
+INFO - 2020-03-14 14:50:25 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:50:25 --> Controller Class Initialized
+DEBUG - 2020-03-14 14:50:25 --> News MX_Controller Initialized
+INFO - 2020-03-14 14:50:25 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:50:25 --> Model "Language_model" initialized
+INFO - 2020-03-14 14:50:25 --> Helper loaded: html_helper
+INFO - 2020-03-14 14:50:25 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 14:50:25 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 14:50:25 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 14:50:25 --> Controller Class Initialized
+DEBUG - 2020-03-14 14:50:25 --> News MX_Controller Initialized
+INFO - 2020-03-14 14:50:25 --> Controller Class Initialized
+DEBUG - 2020-03-14 14:50:25 --> News MX_Controller Initialized
+INFO - 2020-03-14 14:50:25 --> Helper loaded: html_helper
+INFO - 2020-03-14 14:50:25 --> Helper loaded: html_helper
+INFO - 2020-03-14 14:50:25 --> Controller Class Initialized
+INFO - 2020-03-14 14:50:25 --> Helper loaded: cookie_helper
+DEBUG - 2020-03-14 14:50:25 --> News MX_Controller Initialized
+INFO - 2020-03-14 14:50:25 --> Helper loaded: html_helper
+INFO - 2020-03-14 14:50:25 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 14:50:25 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 14:50:25 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 14:50:25 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 14:50:25 --> Model "Page_model" initialized
+INFO - 2020-03-14 14:50:25 --> Model "Category_model" initialized
+INFO - 2020-03-14 14:50:25 --> Model "Article_model" initialized
+INFO - 2020-03-14 14:50:25 --> Model "Service_model" initialized
+ERROR - 2020-03-14 14:50:25 --> Severity: Warning --> A non-numeric value encountered /Volumes/Betrai/www/thienanphu/application/controllers/News.php 22
+INFO - 2020-03-14 14:50:25 --> Model "User_model" initialized
+INFO - 2020-03-14 14:50:25 --> Model "Article_category_model" initialized
+ERROR - 2020-03-14 14:50:25 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-5, 5' at line 5 - Invalid query: SELECT *, `id`, `created_by`
+FROM `articles`
+WHERE `articles`.`active` = 'Y'
+ORDER BY `created_at` DESC
+ LIMIT -5, 5
+ERROR - 2020-03-14 14:50:25 --> Language file contains no data: language/vietnamese/db_lang.php
+ERROR - 2020-03-14 14:50:25 --> Could not find the language line "db_error_heading"
+INFO - 2020-03-14 14:50:25 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 14:50:25 --> Helper loaded: file_helper
+INFO - 2020-03-14 14:50:25 --> MY_Model class loaded
+INFO - 2020-03-14 14:50:25 --> Model "Language_model" initialized
+INFO - 2020-03-14 14:50:25 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 14:50:25 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 14:50:25 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 14:50:25 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 14:50:25 --> Model "Page_model" initialized
+INFO - 2020-03-14 14:50:25 --> Model "Category_model" initialized
+INFO - 2020-03-14 14:50:25 --> Model "Article_model" initialized
+INFO - 2020-03-14 14:50:25 --> Model "Service_model" initialized
+ERROR - 2020-03-14 14:50:25 --> Severity: Warning --> A non-numeric value encountered /Volumes/Betrai/www/thienanphu/application/controllers/News.php 22
+INFO - 2020-03-14 14:50:25 --> Model "User_model" initialized
+INFO - 2020-03-14 14:50:25 --> Model "Article_category_model" initialized
+ERROR - 2020-03-14 14:50:25 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-5, 5' at line 5 - Invalid query: SELECT *, `id`, `created_by`
+FROM `articles`
+WHERE `articles`.`active` = 'Y'
+ORDER BY `created_at` DESC
+ LIMIT -5, 5
+ERROR - 2020-03-14 14:50:25 --> Language file contains no data: language/vietnamese/db_lang.php
+ERROR - 2020-03-14 14:50:25 --> Could not find the language line "db_error_heading"
+INFO - 2020-03-14 14:50:25 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 14:50:25 --> Helper loaded: file_helper
+INFO - 2020-03-14 14:50:25 --> MY_Model class loaded
+INFO - 2020-03-14 14:50:25 --> Model "Language_model" initialized
+INFO - 2020-03-14 14:50:25 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 14:50:25 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 14:50:25 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 14:50:25 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 14:50:25 --> Model "Page_model" initialized
+INFO - 2020-03-14 14:50:25 --> Model "Category_model" initialized
+INFO - 2020-03-14 14:50:25 --> Model "Article_model" initialized
+INFO - 2020-03-14 14:50:25 --> Model "Service_model" initialized
+ERROR - 2020-03-14 14:50:26 --> Severity: Warning --> A non-numeric value encountered /Volumes/Betrai/www/thienanphu/application/controllers/News.php 22
+INFO - 2020-03-14 14:50:26 --> Model "User_model" initialized
+INFO - 2020-03-14 14:50:26 --> Model "Article_category_model" initialized
+ERROR - 2020-03-14 14:50:26 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-5, 5' at line 5 - Invalid query: SELECT *, `id`, `created_by`
+FROM `articles`
+WHERE `articles`.`active` = 'Y'
+ORDER BY `created_at` DESC
+ LIMIT -5, 5
+ERROR - 2020-03-14 14:50:26 --> Language file contains no data: language/vietnamese/db_lang.php
+ERROR - 2020-03-14 14:50:26 --> Could not find the language line "db_error_heading"
+INFO - 2020-03-14 14:50:26 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 14:50:26 --> Helper loaded: file_helper
+INFO - 2020-03-14 14:50:26 --> MY_Model class loaded
+INFO - 2020-03-14 14:50:26 --> Model "Language_model" initialized
+INFO - 2020-03-14 14:50:26 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 14:50:26 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 14:50:26 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 14:50:26 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 14:50:26 --> Model "Page_model" initialized
+INFO - 2020-03-14 14:50:26 --> Model "Category_model" initialized
+INFO - 2020-03-14 14:50:26 --> Model "Article_model" initialized
+INFO - 2020-03-14 14:50:26 --> Model "Service_model" initialized
+ERROR - 2020-03-14 14:50:26 --> Severity: Warning --> A non-numeric value encountered /Volumes/Betrai/www/thienanphu/application/controllers/News.php 22
+INFO - 2020-03-14 14:50:26 --> Model "User_model" initialized
+INFO - 2020-03-14 14:50:26 --> Model "Article_category_model" initialized
+ERROR - 2020-03-14 14:50:26 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-5, 5' at line 5 - Invalid query: SELECT *, `id`, `created_by`
+FROM `articles`
+WHERE `articles`.`active` = 'Y'
+ORDER BY `created_at` DESC
+ LIMIT -5, 5
+ERROR - 2020-03-14 14:50:26 --> Language file contains no data: language/vietnamese/db_lang.php
+ERROR - 2020-03-14 14:50:26 --> Could not find the language line "db_error_heading"
+INFO - 2020-03-14 14:50:26 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 14:50:26 --> Helper loaded: file_helper
+INFO - 2020-03-14 14:50:26 --> MY_Model class loaded
+INFO - 2020-03-14 14:50:26 --> Model "Language_model" initialized
+INFO - 2020-03-14 14:50:26 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 14:50:26 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 14:50:26 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 14:50:26 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 14:50:26 --> Model "Page_model" initialized
+INFO - 2020-03-14 14:50:26 --> Model "Category_model" initialized
+INFO - 2020-03-14 14:50:26 --> Model "Article_model" initialized
+INFO - 2020-03-14 14:50:26 --> Model "Service_model" initialized
+ERROR - 2020-03-14 14:50:26 --> Severity: Warning --> A non-numeric value encountered /Volumes/Betrai/www/thienanphu/application/controllers/News.php 22
+INFO - 2020-03-14 14:50:26 --> Model "User_model" initialized
+INFO - 2020-03-14 14:50:26 --> Model "Article_category_model" initialized
+ERROR - 2020-03-14 14:50:26 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-5, 5' at line 5 - Invalid query: SELECT *, `id`, `created_by`
+FROM `articles`
+WHERE `articles`.`active` = 'Y'
+ORDER BY `created_at` DESC
+ LIMIT -5, 5
+ERROR - 2020-03-14 14:50:26 --> Language file contains no data: language/vietnamese/db_lang.php
+ERROR - 2020-03-14 14:50:26 --> Could not find the language line "db_error_heading"
+INFO - 2020-03-14 14:50:37 --> Config Class Initialized
+INFO - 2020-03-14 14:50:37 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:50:37 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:50:37 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:50:37 --> URI Class Initialized
+INFO - 2020-03-14 14:50:37 --> Router Class Initialized
+INFO - 2020-03-14 14:50:37 --> Output Class Initialized
+INFO - 2020-03-14 14:50:37 --> Security Class Initialized
+DEBUG - 2020-03-14 14:50:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:50:37 --> Input Class Initialized
+DEBUG - 2020-03-14 14:50:37 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:50:37 --> Language Class Initialized
+INFO - 2020-03-14 14:50:37 --> Config Class Initialized
+INFO - 2020-03-14 14:50:37 --> Loader Class Initialized
+INFO - 2020-03-14 14:50:37 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:50:37 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:50:37 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:50:37 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:50:37 --> Controller Class Initialized
+DEBUG - 2020-03-14 14:50:37 --> News MX_Controller Initialized
+INFO - 2020-03-14 14:50:37 --> Helper loaded: html_helper
+INFO - 2020-03-14 14:50:37 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 14:50:37 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 14:50:37 --> Helper loaded: file_helper
+INFO - 2020-03-14 14:50:37 --> MY_Model class loaded
+INFO - 2020-03-14 14:50:37 --> Model "Language_model" initialized
+INFO - 2020-03-14 14:50:37 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 14:50:37 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 14:50:37 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 14:50:37 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 14:50:37 --> Model "Page_model" initialized
+INFO - 2020-03-14 14:50:37 --> Model "Category_model" initialized
+INFO - 2020-03-14 14:50:37 --> Model "Article_model" initialized
+INFO - 2020-03-14 14:50:37 --> Model "Service_model" initialized
+INFO - 2020-03-14 14:50:37 --> Model "User_model" initialized
+INFO - 2020-03-14 14:50:37 --> Model "Article_category_model" initialized
+ERROR - 2020-03-14 14:50:37 --> Could not find the language line "Previous"
+ERROR - 2020-03-14 14:50:37 --> Could not find the language line "Next"
+DEBUG - 2020-03-14 14:50:37 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_search.php
+DEBUG - 2020-03-14 14:50:37 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_news_categories.php
+DEBUG - 2020-03-14 14:50:37 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_services.php
+DEBUG - 2020-03-14 14:50:37 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_solutions.php
+DEBUG - 2020-03-14 14:50:37 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_tags.php
+DEBUG - 2020-03-14 14:50:37 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/default/news/detail_news.php
+DEBUG - 2020-03-14 14:50:37 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/top_bar.php
+ERROR - 2020-03-14 14:50:37 --> Could not find the language line "Giới thiệu"
+ERROR - 2020-03-14 14:50:37 --> Could not find the language line "Dịch vụ thương mại"
+ERROR - 2020-03-14 14:50:37 --> Could not find the language line "Lĩnh vực hoạt động"
+ERROR - 2020-03-14 14:50:37 --> Could not find the language line "Tin Hoạt Động"
+ERROR - 2020-03-14 14:50:37 --> Could not find the language line "Tin Công Nghệ"
+ERROR - 2020-03-14 14:50:37 --> Could not find the language line "Sự Kiện"
+ERROR - 2020-03-14 14:50:37 --> Could not find the language line "Góc báo chí"
+DEBUG - 2020-03-14 14:50:37 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/mega_menu.php
+ERROR - 2020-03-14 14:50:37 --> Could not find the language line "Search"
+ERROR - 2020-03-14 14:50:37 --> Could not find the language line "Tin Công Nghệ"
+ERROR - 2020-03-14 14:50:37 --> Could not find the language line "Tin Công Nghệ"
+ERROR - 2020-03-14 14:50:37 --> Could not find the language line "news"
+DEBUG - 2020-03-14 14:50:37 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/page_header.php
+DEBUG - 2020-03-14 14:50:37 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_header_view.php
+DEBUG - 2020-03-14 14:50:37 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_footer_view.php
+DEBUG - 2020-03-14 14:50:37 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/master_view.php
+INFO - 2020-03-14 14:50:37 --> Final output sent to browser
+DEBUG - 2020-03-14 14:50:37 --> Total execution time: 0.4639
+INFO - 2020-03-14 14:50:37 --> Config Class Initialized
+INFO - 2020-03-14 14:50:37 --> Config Class Initialized
+INFO - 2020-03-14 14:50:37 --> Hooks Class Initialized
+INFO - 2020-03-14 14:50:37 --> Config Class Initialized
+DEBUG - 2020-03-14 14:50:37 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:50:37 --> Hooks Class Initialized
+INFO - 2020-03-14 14:50:37 --> Utf8 Class Initialized
+DEBUG - 2020-03-14 14:50:37 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:50:37 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:50:37 --> URI Class Initialized
+INFO - 2020-03-14 14:50:37 --> Hooks Class Initialized
+INFO - 2020-03-14 14:50:37 --> Router Class Initialized
+INFO - 2020-03-14 14:50:37 --> Output Class Initialized
+DEBUG - 2020-03-14 14:50:37 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:50:37 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:50:37 --> Security Class Initialized
+INFO - 2020-03-14 14:50:37 --> URI Class Initialized
+DEBUG - 2020-03-14 14:50:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:50:37 --> URI Class Initialized
+INFO - 2020-03-14 14:50:37 --> Config Class Initialized
+INFO - 2020-03-14 14:50:37 --> Hooks Class Initialized
+INFO - 2020-03-14 14:50:37 --> Config Class Initialized
+INFO - 2020-03-14 14:50:37 --> Router Class Initialized
+INFO - 2020-03-14 14:50:37 --> Output Class Initialized
+INFO - 2020-03-14 14:50:37 --> Security Class Initialized
+DEBUG - 2020-03-14 14:50:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:50:37 --> Hooks Class Initialized
+INFO - 2020-03-14 14:50:37 --> Input Class Initialized
+DEBUG - 2020-03-14 14:50:37 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:50:37 --> Language Class Initialized
+INFO - 2020-03-14 14:50:37 --> Config Class Initialized
+INFO - 2020-03-14 14:50:37 --> Loader Class Initialized
+INFO - 2020-03-14 14:50:38 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:50:38 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:50:38 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:50:38 --> Database Driver Class Initialized
+DEBUG - 2020-03-14 14:50:38 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:50:38 --> Input Class Initialized
+INFO - 2020-03-14 14:50:38 --> Utf8 Class Initialized
+DEBUG - 2020-03-14 14:50:38 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:50:38 --> Language Class Initialized
+INFO - 2020-03-14 14:50:38 --> Config Class Initialized
+INFO - 2020-03-14 14:50:38 --> URI Class Initialized
+INFO - 2020-03-14 14:50:38 --> Loader Class Initialized
+INFO - 2020-03-14 14:50:38 --> Router Class Initialized
+INFO - 2020-03-14 14:50:38 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:50:38 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:50:38 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:50:38 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:50:38 --> Output Class Initialized
+INFO - 2020-03-14 14:50:38 --> Router Class Initialized
+INFO - 2020-03-14 14:50:38 --> Output Class Initialized
+INFO - 2020-03-14 14:50:38 --> Security Class Initialized
+INFO - 2020-03-14 14:50:38 --> Security Class Initialized
+DEBUG - 2020-03-14 14:50:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:50:38 --> Input Class Initialized
+DEBUG - 2020-03-14 14:50:38 --> UTF-8 Support Enabled
+DEBUG - 2020-03-14 14:50:38 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:50:38 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:50:38 --> URI Class Initialized
+INFO - 2020-03-14 14:50:38 --> Router Class Initialized
+INFO - 2020-03-14 14:50:38 --> Output Class Initialized
+INFO - 2020-03-14 14:50:38 --> Security Class Initialized
+DEBUG - 2020-03-14 14:50:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:50:38 --> Input Class Initialized
+DEBUG - 2020-03-14 14:50:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:50:38 --> Input Class Initialized
+DEBUG - 2020-03-14 14:50:38 --> Language_Identifier Class Initialized
+DEBUG - 2020-03-14 14:50:38 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:50:38 --> Language Class Initialized
+INFO - 2020-03-14 14:50:38 --> Controller Class Initialized
+INFO - 2020-03-14 14:50:38 --> Controller Class Initialized
+DEBUG - 2020-03-14 14:50:38 --> News MX_Controller Initialized
+DEBUG - 2020-03-14 14:50:38 --> News MX_Controller Initialized
+INFO - 2020-03-14 14:50:38 --> Helper loaded: html_helper
+INFO - 2020-03-14 14:50:38 --> Language Class Initialized
+INFO - 2020-03-14 14:50:38 --> Config Class Initialized
+INFO - 2020-03-14 14:50:38 --> Helper loaded: html_helper
+INFO - 2020-03-14 14:50:38 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 14:50:38 --> Language Class Initialized
+INFO - 2020-03-14 14:50:38 --> Config Class Initialized
+INFO - 2020-03-14 14:50:38 --> Loader Class Initialized
+INFO - 2020-03-14 14:50:38 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 14:50:38 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 14:50:38 --> Helper loaded: file_helper
+INFO - 2020-03-14 14:50:38 --> MY_Model class loaded
+INFO - 2020-03-14 14:50:38 --> Loader Class Initialized
+INFO - 2020-03-14 14:50:38 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:50:38 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:50:38 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:50:38 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:50:38 --> Config Class Initialized
+INFO - 2020-03-14 14:50:38 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:50:38 --> Loader Class Initialized
+INFO - 2020-03-14 14:50:38 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:50:38 --> Model "Language_model" initialized
+INFO - 2020-03-14 14:50:38 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:50:38 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:50:38 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:50:38 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:50:38 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:50:38 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:50:38 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 14:50:38 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 14:50:38 --> Controller Class Initialized
+DEBUG - 2020-03-14 14:50:38 --> News MX_Controller Initialized
+INFO - 2020-03-14 14:50:38 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 14:50:38 --> Controller Class Initialized
+INFO - 2020-03-14 14:50:38 --> Helper loaded: html_helper
+DEBUG - 2020-03-14 14:50:38 --> News MX_Controller Initialized
+INFO - 2020-03-14 14:50:38 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 14:50:38 --> Helper loaded: html_helper
+INFO - 2020-03-14 14:50:38 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 14:50:38 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 14:50:38 --> Controller Class Initialized
+DEBUG - 2020-03-14 14:50:38 --> News MX_Controller Initialized
+INFO - 2020-03-14 14:50:38 --> Model "Page_model" initialized
+INFO - 2020-03-14 14:50:38 --> Helper loaded: html_helper
+INFO - 2020-03-14 14:50:38 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 14:50:38 --> Model "Category_model" initialized
+INFO - 2020-03-14 14:50:38 --> Model "Article_model" initialized
+INFO - 2020-03-14 14:50:38 --> Model "Service_model" initialized
+ERROR - 2020-03-14 14:50:38 --> Severity: Warning --> A non-numeric value encountered /Volumes/Betrai/www/thienanphu/application/controllers/News.php 22
+INFO - 2020-03-14 14:50:38 --> Model "User_model" initialized
+INFO - 2020-03-14 14:50:38 --> Model "Article_category_model" initialized
+ERROR - 2020-03-14 14:50:38 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-5, 5' at line 5 - Invalid query: SELECT *, `id`, `created_by`
+FROM `articles`
+WHERE `articles`.`active` = 'Y'
+ORDER BY `created_at` DESC
+ LIMIT -5, 5
+ERROR - 2020-03-14 14:50:38 --> Language file contains no data: language/vietnamese/db_lang.php
+ERROR - 2020-03-14 14:50:38 --> Could not find the language line "db_error_heading"
+INFO - 2020-03-14 14:50:38 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 14:50:38 --> Helper loaded: file_helper
+INFO - 2020-03-14 14:50:38 --> MY_Model class loaded
+INFO - 2020-03-14 14:50:38 --> Model "Language_model" initialized
+INFO - 2020-03-14 14:50:38 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 14:50:38 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 14:50:38 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 14:50:38 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 14:50:38 --> Model "Page_model" initialized
+INFO - 2020-03-14 14:50:38 --> Model "Category_model" initialized
+INFO - 2020-03-14 14:50:38 --> Model "Article_model" initialized
+INFO - 2020-03-14 14:50:38 --> Model "Service_model" initialized
+ERROR - 2020-03-14 14:50:38 --> Severity: Warning --> A non-numeric value encountered /Volumes/Betrai/www/thienanphu/application/controllers/News.php 22
+INFO - 2020-03-14 14:50:38 --> Model "User_model" initialized
+INFO - 2020-03-14 14:50:38 --> Model "Article_category_model" initialized
+ERROR - 2020-03-14 14:50:38 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-5, 5' at line 5 - Invalid query: SELECT *, `id`, `created_by`
+FROM `articles`
+WHERE `articles`.`active` = 'Y'
+ORDER BY `created_at` DESC
+ LIMIT -5, 5
+ERROR - 2020-03-14 14:50:38 --> Language file contains no data: language/vietnamese/db_lang.php
+ERROR - 2020-03-14 14:50:38 --> Could not find the language line "db_error_heading"
+INFO - 2020-03-14 14:50:38 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 14:50:38 --> Helper loaded: file_helper
+INFO - 2020-03-14 14:50:38 --> MY_Model class loaded
+INFO - 2020-03-14 14:50:38 --> Model "Language_model" initialized
+INFO - 2020-03-14 14:50:38 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 14:50:38 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 14:50:38 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 14:50:38 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 14:50:38 --> Model "Page_model" initialized
+INFO - 2020-03-14 14:50:38 --> Model "Category_model" initialized
+INFO - 2020-03-14 14:50:38 --> Model "Article_model" initialized
+INFO - 2020-03-14 14:50:38 --> Model "Service_model" initialized
+ERROR - 2020-03-14 14:50:38 --> Severity: Warning --> A non-numeric value encountered /Volumes/Betrai/www/thienanphu/application/controllers/News.php 22
+INFO - 2020-03-14 14:50:38 --> Model "User_model" initialized
+INFO - 2020-03-14 14:50:38 --> Model "Article_category_model" initialized
+ERROR - 2020-03-14 14:50:38 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-5, 5' at line 5 - Invalid query: SELECT *, `id`, `created_by`
+FROM `articles`
+WHERE `articles`.`active` = 'Y'
+ORDER BY `created_at` DESC
+ LIMIT -5, 5
+ERROR - 2020-03-14 14:50:38 --> Language file contains no data: language/vietnamese/db_lang.php
+ERROR - 2020-03-14 14:50:38 --> Could not find the language line "db_error_heading"
+INFO - 2020-03-14 14:50:38 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 14:50:38 --> Helper loaded: file_helper
+INFO - 2020-03-14 14:50:38 --> MY_Model class loaded
+INFO - 2020-03-14 14:50:38 --> Model "Language_model" initialized
+INFO - 2020-03-14 14:50:38 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 14:50:38 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 14:50:38 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 14:50:38 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 14:50:38 --> Model "Page_model" initialized
+INFO - 2020-03-14 14:50:38 --> Model "Category_model" initialized
+INFO - 2020-03-14 14:50:38 --> Model "Article_model" initialized
+INFO - 2020-03-14 14:50:38 --> Model "Service_model" initialized
+ERROR - 2020-03-14 14:50:38 --> Severity: Warning --> A non-numeric value encountered /Volumes/Betrai/www/thienanphu/application/controllers/News.php 22
+INFO - 2020-03-14 14:50:38 --> Model "User_model" initialized
+INFO - 2020-03-14 14:50:38 --> Model "Article_category_model" initialized
+ERROR - 2020-03-14 14:50:38 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-5, 5' at line 5 - Invalid query: SELECT *, `id`, `created_by`
+FROM `articles`
+WHERE `articles`.`active` = 'Y'
+ORDER BY `created_at` DESC
+ LIMIT -5, 5
+ERROR - 2020-03-14 14:50:38 --> Language file contains no data: language/vietnamese/db_lang.php
+ERROR - 2020-03-14 14:50:38 --> Could not find the language line "db_error_heading"
+INFO - 2020-03-14 14:50:38 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 14:50:38 --> Helper loaded: file_helper
+INFO - 2020-03-14 14:50:38 --> MY_Model class loaded
+INFO - 2020-03-14 14:50:38 --> Model "Language_model" initialized
+INFO - 2020-03-14 14:50:38 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 14:50:38 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 14:50:38 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 14:50:38 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 14:50:38 --> Model "Page_model" initialized
+INFO - 2020-03-14 14:50:38 --> Model "Category_model" initialized
+INFO - 2020-03-14 14:50:38 --> Model "Article_model" initialized
+INFO - 2020-03-14 14:50:38 --> Model "Service_model" initialized
+ERROR - 2020-03-14 14:50:38 --> Severity: Warning --> A non-numeric value encountered /Volumes/Betrai/www/thienanphu/application/controllers/News.php 22
+INFO - 2020-03-14 14:50:38 --> Model "User_model" initialized
+INFO - 2020-03-14 14:50:38 --> Model "Article_category_model" initialized
+ERROR - 2020-03-14 14:50:38 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-5, 5' at line 5 - Invalid query: SELECT *, `id`, `created_by`
+FROM `articles`
+WHERE `articles`.`active` = 'Y'
+ORDER BY `created_at` DESC
+ LIMIT -5, 5
+ERROR - 2020-03-14 14:50:38 --> Language file contains no data: language/vietnamese/db_lang.php
+ERROR - 2020-03-14 14:50:38 --> Could not find the language line "db_error_heading"
+INFO - 2020-03-14 14:50:44 --> Config Class Initialized
+INFO - 2020-03-14 14:50:44 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:50:44 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:50:44 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:50:44 --> URI Class Initialized
+INFO - 2020-03-14 14:50:44 --> Router Class Initialized
+INFO - 2020-03-14 14:50:44 --> Output Class Initialized
+INFO - 2020-03-14 14:50:44 --> Security Class Initialized
+DEBUG - 2020-03-14 14:50:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:50:44 --> Input Class Initialized
+DEBUG - 2020-03-14 14:50:44 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:50:44 --> Language Class Initialized
+INFO - 2020-03-14 14:50:44 --> Config Class Initialized
+INFO - 2020-03-14 14:50:44 --> Loader Class Initialized
+INFO - 2020-03-14 14:50:44 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:50:44 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:50:44 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:50:44 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:50:44 --> Controller Class Initialized
+DEBUG - 2020-03-14 14:50:44 --> News MX_Controller Initialized
+INFO - 2020-03-14 14:50:44 --> Helper loaded: html_helper
+INFO - 2020-03-14 14:50:44 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 14:50:44 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 14:50:44 --> Helper loaded: file_helper
+INFO - 2020-03-14 14:50:44 --> MY_Model class loaded
+INFO - 2020-03-14 14:50:44 --> Model "Language_model" initialized
+INFO - 2020-03-14 14:50:44 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 14:50:44 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 14:50:44 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 14:50:44 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 14:50:44 --> Model "Page_model" initialized
+INFO - 2020-03-14 14:50:44 --> Model "Category_model" initialized
+INFO - 2020-03-14 14:50:44 --> Model "Article_model" initialized
+INFO - 2020-03-14 14:50:44 --> Model "Service_model" initialized
+INFO - 2020-03-14 14:50:44 --> Model "User_model" initialized
+INFO - 2020-03-14 14:50:44 --> Model "Article_category_model" initialized
+ERROR - 2020-03-14 14:50:44 --> Could not find the language line "Previous"
+ERROR - 2020-03-14 14:50:44 --> Could not find the language line "Next"
+DEBUG - 2020-03-14 14:50:44 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_search.php
+DEBUG - 2020-03-14 14:50:44 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_news_categories.php
+DEBUG - 2020-03-14 14:50:44 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_services.php
+DEBUG - 2020-03-14 14:50:44 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_solutions.php
+DEBUG - 2020-03-14 14:50:44 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_tags.php
+DEBUG - 2020-03-14 14:50:44 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/default/news/detail_news.php
+DEBUG - 2020-03-14 14:50:44 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/top_bar.php
+ERROR - 2020-03-14 14:50:44 --> Could not find the language line "Giới thiệu"
+ERROR - 2020-03-14 14:50:44 --> Could not find the language line "Dịch vụ thương mại"
+ERROR - 2020-03-14 14:50:44 --> Could not find the language line "Lĩnh vực hoạt động"
+ERROR - 2020-03-14 14:50:44 --> Could not find the language line "Tin Hoạt Động"
+ERROR - 2020-03-14 14:50:44 --> Could not find the language line "Tin Công Nghệ"
+ERROR - 2020-03-14 14:50:44 --> Could not find the language line "Sự Kiện"
+ERROR - 2020-03-14 14:50:44 --> Could not find the language line "Góc báo chí"
+DEBUG - 2020-03-14 14:50:44 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/mega_menu.php
+ERROR - 2020-03-14 14:50:44 --> Could not find the language line "Search"
+ERROR - 2020-03-14 14:50:44 --> Could not find the language line "Tin Công Nghệ"
+ERROR - 2020-03-14 14:50:44 --> Could not find the language line "Tin Công Nghệ"
+ERROR - 2020-03-14 14:50:44 --> Could not find the language line "news"
+DEBUG - 2020-03-14 14:50:44 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/page_header.php
+DEBUG - 2020-03-14 14:50:44 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_header_view.php
+DEBUG - 2020-03-14 14:50:44 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_footer_view.php
+DEBUG - 2020-03-14 14:50:44 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/master_view.php
+INFO - 2020-03-14 14:50:44 --> Final output sent to browser
+DEBUG - 2020-03-14 14:50:44 --> Total execution time: 0.0931
+INFO - 2020-03-14 14:50:44 --> Config Class Initialized
+INFO - 2020-03-14 14:50:44 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:50:44 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:50:44 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:50:44 --> URI Class Initialized
+INFO - 2020-03-14 14:50:44 --> Router Class Initialized
+INFO - 2020-03-14 14:50:44 --> Config Class Initialized
+INFO - 2020-03-14 14:50:44 --> Hooks Class Initialized
+INFO - 2020-03-14 14:50:44 --> Config Class Initialized
+INFO - 2020-03-14 14:50:44 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:50:44 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:50:44 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:50:44 --> URI Class Initialized
+DEBUG - 2020-03-14 14:50:44 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:50:44 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:50:44 --> Output Class Initialized
+INFO - 2020-03-14 14:50:44 --> URI Class Initialized
+INFO - 2020-03-14 14:50:44 --> Security Class Initialized
+DEBUG - 2020-03-14 14:50:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:50:44 --> Input Class Initialized
+DEBUG - 2020-03-14 14:50:44 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:50:44 --> Router Class Initialized
+INFO - 2020-03-14 14:50:44 --> Language Class Initialized
+INFO - 2020-03-14 14:50:44 --> Config Class Initialized
+INFO - 2020-03-14 14:50:44 --> Output Class Initialized
+INFO - 2020-03-14 14:50:44 --> Loader Class Initialized
+INFO - 2020-03-14 14:50:44 --> Security Class Initialized
+INFO - 2020-03-14 14:50:44 --> Helper loaded: url_helper
+DEBUG - 2020-03-14 14:50:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:50:44 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:50:44 --> Input Class Initialized
+INFO - 2020-03-14 14:50:44 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:50:44 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:50:44 --> Router Class Initialized
+INFO - 2020-03-14 14:50:44 --> Output Class Initialized
+INFO - 2020-03-14 14:50:44 --> Security Class Initialized
+INFO - 2020-03-14 14:50:44 --> Config Class Initialized
+INFO - 2020-03-14 14:50:44 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:50:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:50:44 --> Input Class Initialized
+INFO - 2020-03-14 14:50:44 --> Config Class Initialized
+INFO - 2020-03-14 14:50:44 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:50:44 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:50:44 --> Utf8 Class Initialized
+DEBUG - 2020-03-14 14:50:44 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:50:44 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:50:44 --> URI Class Initialized
+DEBUG - 2020-03-14 14:50:44 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:50:44 --> Language Class Initialized
+INFO - 2020-03-14 14:50:44 --> Config Class Initialized
+DEBUG - 2020-03-14 14:50:44 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:50:44 --> Language Class Initialized
+INFO - 2020-03-14 14:50:44 --> Config Class Initialized
+INFO - 2020-03-14 14:50:44 --> Loader Class Initialized
+INFO - 2020-03-14 14:50:44 --> Loader Class Initialized
+INFO - 2020-03-14 14:50:44 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:50:44 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:50:44 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:50:44 --> Router Class Initialized
+INFO - 2020-03-14 14:50:44 --> Controller Class Initialized
+INFO - 2020-03-14 14:50:44 --> Output Class Initialized
+DEBUG - 2020-03-14 14:50:44 --> News MX_Controller Initialized
+INFO - 2020-03-14 14:50:44 --> Security Class Initialized
+INFO - 2020-03-14 14:50:44 --> Helper loaded: html_helper
+INFO - 2020-03-14 14:50:44 --> Helper loaded: cookie_helper
+DEBUG - 2020-03-14 14:50:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:50:44 --> Input Class Initialized
+DEBUG - 2020-03-14 14:50:44 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:50:44 --> Language Class Initialized
+INFO - 2020-03-14 14:50:44 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 14:50:44 --> Config Class Initialized
+INFO - 2020-03-14 14:50:44 --> Loader Class Initialized
+INFO - 2020-03-14 14:50:44 --> Helper loaded: file_helper
+INFO - 2020-03-14 14:50:44 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:50:44 --> MY_Model class loaded
+INFO - 2020-03-14 14:50:44 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:50:44 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:50:44 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:50:44 --> Model "Language_model" initialized
+INFO - 2020-03-14 14:50:44 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:50:44 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:50:44 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:50:44 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:50:44 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 14:50:44 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:50:44 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 14:50:44 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 14:50:44 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 14:50:44 --> URI Class Initialized
+INFO - 2020-03-14 14:50:44 --> Router Class Initialized
+INFO - 2020-03-14 14:50:44 --> Controller Class Initialized
+INFO - 2020-03-14 14:50:44 --> Output Class Initialized
+DEBUG - 2020-03-14 14:50:44 --> News MX_Controller Initialized
+INFO - 2020-03-14 14:50:44 --> Security Class Initialized
+INFO - 2020-03-14 14:50:44 --> Controller Class Initialized
+DEBUG - 2020-03-14 14:50:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:50:44 --> Input Class Initialized
+INFO - 2020-03-14 14:50:44 --> Model "Page_model" initialized
+DEBUG - 2020-03-14 14:50:44 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:50:44 --> Language Class Initialized
+INFO - 2020-03-14 14:50:44 --> Config Class Initialized
+INFO - 2020-03-14 14:50:44 --> Helper loaded: html_helper
+INFO - 2020-03-14 14:50:44 --> Controller Class Initialized
+INFO - 2020-03-14 14:50:44 --> Helper loaded: cookie_helper
+DEBUG - 2020-03-14 14:50:44 --> News MX_Controller Initialized
+INFO - 2020-03-14 14:50:44 --> Helper loaded: html_helper
+INFO - 2020-03-14 14:50:44 --> Model "Category_model" initialized
+INFO - 2020-03-14 14:50:44 --> Loader Class Initialized
+INFO - 2020-03-14 14:50:44 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 14:50:44 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:50:44 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:50:44 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:50:44 --> Database Driver Class Initialized
+DEBUG - 2020-03-14 14:50:44 --> News MX_Controller Initialized
+INFO - 2020-03-14 14:50:44 --> Helper loaded: html_helper
+INFO - 2020-03-14 14:50:44 --> Model "Article_model" initialized
+INFO - 2020-03-14 14:50:44 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 14:50:44 --> Controller Class Initialized
+INFO - 2020-03-14 14:50:44 --> Model "Service_model" initialized
+DEBUG - 2020-03-14 14:50:44 --> News MX_Controller Initialized
+INFO - 2020-03-14 14:50:44 --> Helper loaded: html_helper
+INFO - 2020-03-14 14:50:44 --> Helper loaded: cookie_helper
+ERROR - 2020-03-14 14:50:44 --> Severity: Warning --> A non-numeric value encountered /Volumes/Betrai/www/thienanphu/application/controllers/News.php 22
+INFO - 2020-03-14 14:50:44 --> Model "User_model" initialized
+INFO - 2020-03-14 14:50:44 --> Model "Article_category_model" initialized
+ERROR - 2020-03-14 14:50:44 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-5, 5' at line 5 - Invalid query: SELECT *, `id`, `created_by`
+FROM `articles`
+WHERE `articles`.`active` = 'Y'
+ORDER BY `created_at` DESC
+ LIMIT -5, 5
+ERROR - 2020-03-14 14:50:44 --> Language file contains no data: language/vietnamese/db_lang.php
+ERROR - 2020-03-14 14:50:44 --> Could not find the language line "db_error_heading"
+INFO - 2020-03-14 14:50:44 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 14:50:44 --> Helper loaded: file_helper
+INFO - 2020-03-14 14:50:44 --> MY_Model class loaded
+INFO - 2020-03-14 14:50:44 --> Model "Language_model" initialized
+INFO - 2020-03-14 14:50:44 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 14:50:44 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 14:50:44 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 14:50:44 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 14:50:44 --> Model "Page_model" initialized
+INFO - 2020-03-14 14:50:44 --> Model "Category_model" initialized
+INFO - 2020-03-14 14:50:44 --> Model "Article_model" initialized
+INFO - 2020-03-14 14:50:44 --> Model "Service_model" initialized
+ERROR - 2020-03-14 14:50:44 --> Severity: Warning --> A non-numeric value encountered /Volumes/Betrai/www/thienanphu/application/controllers/News.php 22
+INFO - 2020-03-14 14:50:44 --> Model "User_model" initialized
+INFO - 2020-03-14 14:50:44 --> Model "Article_category_model" initialized
+ERROR - 2020-03-14 14:50:44 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-5, 5' at line 5 - Invalid query: SELECT *, `id`, `created_by`
+FROM `articles`
+WHERE `articles`.`active` = 'Y'
+ORDER BY `created_at` DESC
+ LIMIT -5, 5
+ERROR - 2020-03-14 14:50:44 --> Language file contains no data: language/vietnamese/db_lang.php
+ERROR - 2020-03-14 14:50:44 --> Could not find the language line "db_error_heading"
+INFO - 2020-03-14 14:50:44 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 14:50:44 --> Helper loaded: file_helper
+INFO - 2020-03-14 14:50:44 --> MY_Model class loaded
+INFO - 2020-03-14 14:50:44 --> Model "Language_model" initialized
+INFO - 2020-03-14 14:50:44 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 14:50:44 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 14:50:44 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 14:50:44 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 14:50:44 --> Model "Page_model" initialized
+INFO - 2020-03-14 14:50:44 --> Model "Category_model" initialized
+INFO - 2020-03-14 14:50:44 --> Model "Article_model" initialized
+INFO - 2020-03-14 14:50:44 --> Model "Service_model" initialized
+ERROR - 2020-03-14 14:50:44 --> Severity: Warning --> A non-numeric value encountered /Volumes/Betrai/www/thienanphu/application/controllers/News.php 22
+INFO - 2020-03-14 14:50:44 --> Model "User_model" initialized
+INFO - 2020-03-14 14:50:44 --> Model "Article_category_model" initialized
+ERROR - 2020-03-14 14:50:44 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-5, 5' at line 5 - Invalid query: SELECT *, `id`, `created_by`
+FROM `articles`
+WHERE `articles`.`active` = 'Y'
+ORDER BY `created_at` DESC
+ LIMIT -5, 5
+ERROR - 2020-03-14 14:50:44 --> Language file contains no data: language/vietnamese/db_lang.php
+ERROR - 2020-03-14 14:50:44 --> Could not find the language line "db_error_heading"
+INFO - 2020-03-14 14:50:44 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 14:50:44 --> Helper loaded: file_helper
+INFO - 2020-03-14 14:50:44 --> MY_Model class loaded
+INFO - 2020-03-14 14:50:44 --> Model "Language_model" initialized
+INFO - 2020-03-14 14:50:44 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 14:50:44 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 14:50:44 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 14:50:44 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 14:50:44 --> Model "Page_model" initialized
+INFO - 2020-03-14 14:50:44 --> Model "Category_model" initialized
+INFO - 2020-03-14 14:50:44 --> Model "Article_model" initialized
+INFO - 2020-03-14 14:50:44 --> Model "Service_model" initialized
+ERROR - 2020-03-14 14:50:44 --> Severity: Warning --> A non-numeric value encountered /Volumes/Betrai/www/thienanphu/application/controllers/News.php 22
+INFO - 2020-03-14 14:50:44 --> Model "User_model" initialized
+INFO - 2020-03-14 14:50:44 --> Model "Article_category_model" initialized
+ERROR - 2020-03-14 14:50:44 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-5, 5' at line 5 - Invalid query: SELECT *, `id`, `created_by`
+FROM `articles`
+WHERE `articles`.`active` = 'Y'
+ORDER BY `created_at` DESC
+ LIMIT -5, 5
+ERROR - 2020-03-14 14:50:44 --> Language file contains no data: language/vietnamese/db_lang.php
+ERROR - 2020-03-14 14:50:44 --> Could not find the language line "db_error_heading"
+INFO - 2020-03-14 14:50:44 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 14:50:44 --> Helper loaded: file_helper
+INFO - 2020-03-14 14:50:44 --> MY_Model class loaded
+INFO - 2020-03-14 14:50:44 --> Model "Language_model" initialized
+INFO - 2020-03-14 14:50:44 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 14:50:44 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 14:50:44 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 14:50:44 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 14:50:44 --> Model "Page_model" initialized
+INFO - 2020-03-14 14:50:44 --> Model "Category_model" initialized
+INFO - 2020-03-14 14:50:44 --> Model "Article_model" initialized
+INFO - 2020-03-14 14:50:44 --> Model "Service_model" initialized
+ERROR - 2020-03-14 14:50:44 --> Severity: Warning --> A non-numeric value encountered /Volumes/Betrai/www/thienanphu/application/controllers/News.php 22
+INFO - 2020-03-14 14:50:44 --> Model "User_model" initialized
+INFO - 2020-03-14 14:50:44 --> Model "Article_category_model" initialized
+ERROR - 2020-03-14 14:50:44 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-5, 5' at line 5 - Invalid query: SELECT *, `id`, `created_by`
+FROM `articles`
+WHERE `articles`.`active` = 'Y'
+ORDER BY `created_at` DESC
+ LIMIT -5, 5
+ERROR - 2020-03-14 14:50:44 --> Language file contains no data: language/vietnamese/db_lang.php
+ERROR - 2020-03-14 14:50:44 --> Could not find the language line "db_error_heading"
+INFO - 2020-03-14 14:50:48 --> Config Class Initialized
+INFO - 2020-03-14 14:50:48 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:50:48 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:50:48 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:50:48 --> URI Class Initialized
+INFO - 2020-03-14 14:50:48 --> Router Class Initialized
+INFO - 2020-03-14 14:50:48 --> Output Class Initialized
+INFO - 2020-03-14 14:50:48 --> Security Class Initialized
+DEBUG - 2020-03-14 14:50:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:50:48 --> Input Class Initialized
+DEBUG - 2020-03-14 14:50:48 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:50:48 --> Language Class Initialized
+INFO - 2020-03-14 14:50:48 --> Config Class Initialized
+INFO - 2020-03-14 14:50:48 --> Loader Class Initialized
+INFO - 2020-03-14 14:50:48 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:50:48 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:50:48 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:50:48 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:50:48 --> Controller Class Initialized
+DEBUG - 2020-03-14 14:50:48 --> News MX_Controller Initialized
+INFO - 2020-03-14 14:50:48 --> Helper loaded: html_helper
+INFO - 2020-03-14 14:50:48 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 14:50:48 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 14:50:48 --> Helper loaded: file_helper
+INFO - 2020-03-14 14:50:48 --> MY_Model class loaded
+INFO - 2020-03-14 14:50:48 --> Model "Language_model" initialized
+INFO - 2020-03-14 14:50:48 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 14:50:48 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 14:50:48 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 14:50:48 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 14:50:48 --> Model "Page_model" initialized
+INFO - 2020-03-14 14:50:48 --> Model "Category_model" initialized
+INFO - 2020-03-14 14:50:48 --> Model "Article_model" initialized
+INFO - 2020-03-14 14:50:48 --> Model "Service_model" initialized
+INFO - 2020-03-14 14:50:48 --> Model "User_model" initialized
+INFO - 2020-03-14 14:50:48 --> Model "Article_category_model" initialized
+ERROR - 2020-03-14 14:50:48 --> Could not find the language line "Previous"
+ERROR - 2020-03-14 14:50:48 --> Could not find the language line "Next"
+DEBUG - 2020-03-14 14:50:48 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_search.php
+DEBUG - 2020-03-14 14:50:48 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_news_categories.php
+DEBUG - 2020-03-14 14:50:48 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_services.php
+DEBUG - 2020-03-14 14:50:48 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_solutions.php
+DEBUG - 2020-03-14 14:50:48 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_tags.php
+DEBUG - 2020-03-14 14:50:48 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/default/news/detail_news.php
+DEBUG - 2020-03-14 14:50:48 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/top_bar.php
+ERROR - 2020-03-14 14:50:48 --> Could not find the language line "Giới thiệu"
+ERROR - 2020-03-14 14:50:48 --> Could not find the language line "Dịch vụ thương mại"
+ERROR - 2020-03-14 14:50:48 --> Could not find the language line "Lĩnh vực hoạt động"
+ERROR - 2020-03-14 14:50:48 --> Could not find the language line "Tin Hoạt Động"
+ERROR - 2020-03-14 14:50:48 --> Could not find the language line "Tin Công Nghệ"
+ERROR - 2020-03-14 14:50:48 --> Could not find the language line "Sự Kiện"
+ERROR - 2020-03-14 14:50:48 --> Could not find the language line "Góc báo chí"
+DEBUG - 2020-03-14 14:50:48 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/mega_menu.php
+ERROR - 2020-03-14 14:50:48 --> Could not find the language line "Search"
+ERROR - 2020-03-14 14:50:48 --> Could not find the language line "Tin Công Nghệ"
+ERROR - 2020-03-14 14:50:48 --> Could not find the language line "Tin Công Nghệ"
+ERROR - 2020-03-14 14:50:48 --> Could not find the language line "news"
+DEBUG - 2020-03-14 14:50:48 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/page_header.php
+DEBUG - 2020-03-14 14:50:48 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_header_view.php
+DEBUG - 2020-03-14 14:50:48 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_footer_view.php
+DEBUG - 2020-03-14 14:50:48 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/master_view.php
+INFO - 2020-03-14 14:50:48 --> Final output sent to browser
+DEBUG - 2020-03-14 14:50:48 --> Total execution time: 0.0990
+INFO - 2020-03-14 14:50:49 --> Config Class Initialized
+INFO - 2020-03-14 14:50:49 --> Hooks Class Initialized
+INFO - 2020-03-14 14:50:49 --> Config Class Initialized
+INFO - 2020-03-14 14:50:49 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:50:49 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:50:49 --> Utf8 Class Initialized
+DEBUG - 2020-03-14 14:50:49 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:50:49 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:50:49 --> URI Class Initialized
+INFO - 2020-03-14 14:50:49 --> URI Class Initialized
+INFO - 2020-03-14 14:50:49 --> Router Class Initialized
+INFO - 2020-03-14 14:50:49 --> Output Class Initialized
+INFO - 2020-03-14 14:50:49 --> Router Class Initialized
+INFO - 2020-03-14 14:50:49 --> Security Class Initialized
+INFO - 2020-03-14 14:50:49 --> Output Class Initialized
+INFO - 2020-03-14 14:50:49 --> Security Class Initialized
+DEBUG - 2020-03-14 14:50:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:50:49 --> Input Class Initialized
+DEBUG - 2020-03-14 14:50:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:50:49 --> Input Class Initialized
+DEBUG - 2020-03-14 14:50:49 --> Language_Identifier Class Initialized
+DEBUG - 2020-03-14 14:50:49 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:50:49 --> Language Class Initialized
+INFO - 2020-03-14 14:50:49 --> Config Class Initialized
+INFO - 2020-03-14 14:50:49 --> Language Class Initialized
+INFO - 2020-03-14 14:50:49 --> Config Class Initialized
+INFO - 2020-03-14 14:50:49 --> Config Class Initialized
+INFO - 2020-03-14 14:50:49 --> Hooks Class Initialized
+INFO - 2020-03-14 14:50:49 --> Loader Class Initialized
+DEBUG - 2020-03-14 14:50:49 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:50:49 --> Hooks Class Initialized
+INFO - 2020-03-14 14:50:49 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:50:49 --> URI Class Initialized
+DEBUG - 2020-03-14 14:50:49 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:50:49 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:50:49 --> Router Class Initialized
+INFO - 2020-03-14 14:50:49 --> URI Class Initialized
+INFO - 2020-03-14 14:50:49 --> Output Class Initialized
+INFO - 2020-03-14 14:50:49 --> Security Class Initialized
+INFO - 2020-03-14 14:50:49 --> Router Class Initialized
+DEBUG - 2020-03-14 14:50:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:50:49 --> Input Class Initialized
+INFO - 2020-03-14 14:50:49 --> Output Class Initialized
+INFO - 2020-03-14 14:50:49 --> Config Class Initialized
+INFO - 2020-03-14 14:50:49 --> Hooks Class Initialized
+INFO - 2020-03-14 14:50:49 --> Security Class Initialized
+DEBUG - 2020-03-14 14:50:49 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:50:49 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:50:49 --> URI Class Initialized
+INFO - 2020-03-14 14:50:49 --> Router Class Initialized
+DEBUG - 2020-03-14 14:50:49 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-03-14 14:50:49 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:50:49 --> Language Class Initialized
+INFO - 2020-03-14 14:50:49 --> Config Class Initialized
+INFO - 2020-03-14 14:50:49 --> Loader Class Initialized
+INFO - 2020-03-14 14:50:49 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:50:49 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:50:49 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:50:49 --> Output Class Initialized
+INFO - 2020-03-14 14:50:49 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:50:49 --> Security Class Initialized
+INFO - 2020-03-14 14:50:49 --> Database Driver Class Initialized
+DEBUG - 2020-03-14 14:50:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:50:49 --> Config Class Initialized
+INFO - 2020-03-14 14:50:49 --> Input Class Initialized
+INFO - 2020-03-14 14:50:49 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:50:49 --> Input Class Initialized
+INFO - 2020-03-14 14:50:49 --> Helper loaded: language_helper
+DEBUG - 2020-03-14 14:50:49 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:50:49 --> Language Class Initialized
+INFO - 2020-03-14 14:50:49 --> Config Class Initialized
+DEBUG - 2020-03-14 14:50:49 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:50:49 --> Language Class Initialized
+INFO - 2020-03-14 14:50:49 --> Loader Class Initialized
+INFO - 2020-03-14 14:50:49 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:50:49 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:50:49 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:50:49 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:50:49 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:50:49 --> Controller Class Initialized
+DEBUG - 2020-03-14 14:50:49 --> News MX_Controller Initialized
+INFO - 2020-03-14 14:50:49 --> Helper loaded: html_helper
+INFO - 2020-03-14 14:50:49 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 14:50:49 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 14:50:49 --> Helper loaded: file_helper
+INFO - 2020-03-14 14:50:49 --> MY_Model class loaded
+INFO - 2020-03-14 14:50:49 --> Model "Language_model" initialized
+INFO - 2020-03-14 14:50:49 --> Config Class Initialized
+INFO - 2020-03-14 14:50:49 --> Loader Class Initialized
+INFO - 2020-03-14 14:50:49 --> Controller Class Initialized
+INFO - 2020-03-14 14:50:49 --> Helper loaded: url_helper
+DEBUG - 2020-03-14 14:50:49 --> News MX_Controller Initialized
+INFO - 2020-03-14 14:50:49 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:50:49 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:50:49 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:50:49 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 14:50:49 --> Loader Class Initialized
+INFO - 2020-03-14 14:50:49 --> Controller Class Initialized
+DEBUG - 2020-03-14 14:50:49 --> News MX_Controller Initialized
+INFO - 2020-03-14 14:50:49 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:50:49 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:50:49 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:50:49 --> Helper loaded: html_helper
+INFO - 2020-03-14 14:50:49 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:50:49 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 14:50:49 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 14:50:49 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 14:50:49 --> Helper loaded: html_helper
+INFO - 2020-03-14 14:50:49 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 14:50:49 --> Model "Page_model" initialized
+INFO - 2020-03-14 14:50:49 --> Controller Class Initialized
+DEBUG - 2020-03-14 14:50:49 --> News MX_Controller Initialized
+INFO - 2020-03-14 14:50:49 --> Helper loaded: html_helper
+INFO - 2020-03-14 14:50:49 --> Controller Class Initialized
+INFO - 2020-03-14 14:50:49 --> Helper loaded: cookie_helper
+DEBUG - 2020-03-14 14:50:49 --> News MX_Controller Initialized
+INFO - 2020-03-14 14:50:49 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 14:50:49 --> Model "Category_model" initialized
+INFO - 2020-03-14 14:50:49 --> Helper loaded: html_helper
+INFO - 2020-03-14 14:50:49 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 14:50:49 --> Model "Article_model" initialized
+INFO - 2020-03-14 14:50:49 --> Model "Service_model" initialized
+ERROR - 2020-03-14 14:50:49 --> Severity: Warning --> A non-numeric value encountered /Volumes/Betrai/www/thienanphu/application/controllers/News.php 22
+INFO - 2020-03-14 14:50:49 --> Model "User_model" initialized
+INFO - 2020-03-14 14:50:49 --> Model "Article_category_model" initialized
+ERROR - 2020-03-14 14:50:49 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-5, 5' at line 5 - Invalid query: SELECT *, `id`, `created_by`
+FROM `articles`
+WHERE `articles`.`active` = 'Y'
+ORDER BY `created_at` DESC
+ LIMIT -5, 5
+ERROR - 2020-03-14 14:50:49 --> Language file contains no data: language/vietnamese/db_lang.php
+ERROR - 2020-03-14 14:50:49 --> Could not find the language line "db_error_heading"
+INFO - 2020-03-14 14:50:49 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 14:50:49 --> Helper loaded: file_helper
+INFO - 2020-03-14 14:50:49 --> MY_Model class loaded
+INFO - 2020-03-14 14:50:49 --> Model "Language_model" initialized
+INFO - 2020-03-14 14:50:49 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 14:50:49 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 14:50:49 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 14:50:49 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 14:50:49 --> Model "Page_model" initialized
+INFO - 2020-03-14 14:50:49 --> Model "Category_model" initialized
+INFO - 2020-03-14 14:50:49 --> Model "Article_model" initialized
+INFO - 2020-03-14 14:50:49 --> Model "Service_model" initialized
+ERROR - 2020-03-14 14:50:49 --> Severity: Warning --> A non-numeric value encountered /Volumes/Betrai/www/thienanphu/application/controllers/News.php 22
+INFO - 2020-03-14 14:50:49 --> Model "User_model" initialized
+INFO - 2020-03-14 14:50:49 --> Model "Article_category_model" initialized
+ERROR - 2020-03-14 14:50:49 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-5, 5' at line 5 - Invalid query: SELECT *, `id`, `created_by`
+FROM `articles`
+WHERE `articles`.`active` = 'Y'
+ORDER BY `created_at` DESC
+ LIMIT -5, 5
+ERROR - 2020-03-14 14:50:49 --> Language file contains no data: language/vietnamese/db_lang.php
+ERROR - 2020-03-14 14:50:49 --> Could not find the language line "db_error_heading"
+INFO - 2020-03-14 14:50:49 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 14:50:49 --> Helper loaded: file_helper
+INFO - 2020-03-14 14:50:49 --> MY_Model class loaded
+INFO - 2020-03-14 14:50:49 --> Model "Language_model" initialized
+INFO - 2020-03-14 14:50:49 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 14:50:49 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 14:50:49 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 14:50:49 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 14:50:49 --> Model "Page_model" initialized
+INFO - 2020-03-14 14:50:49 --> Model "Category_model" initialized
+INFO - 2020-03-14 14:50:49 --> Model "Article_model" initialized
+INFO - 2020-03-14 14:50:49 --> Model "Service_model" initialized
+ERROR - 2020-03-14 14:50:49 --> Severity: Warning --> A non-numeric value encountered /Volumes/Betrai/www/thienanphu/application/controllers/News.php 22
+INFO - 2020-03-14 14:50:49 --> Model "User_model" initialized
+INFO - 2020-03-14 14:50:49 --> Model "Article_category_model" initialized
+ERROR - 2020-03-14 14:50:49 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-5, 5' at line 5 - Invalid query: SELECT *, `id`, `created_by`
+FROM `articles`
+WHERE `articles`.`active` = 'Y'
+ORDER BY `created_at` DESC
+ LIMIT -5, 5
+ERROR - 2020-03-14 14:50:49 --> Language file contains no data: language/vietnamese/db_lang.php
+ERROR - 2020-03-14 14:50:49 --> Could not find the language line "db_error_heading"
+INFO - 2020-03-14 14:50:49 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 14:50:49 --> Helper loaded: file_helper
+INFO - 2020-03-14 14:50:49 --> MY_Model class loaded
+INFO - 2020-03-14 14:50:49 --> Model "Language_model" initialized
+INFO - 2020-03-14 14:50:49 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 14:50:49 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 14:50:49 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 14:50:49 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 14:50:49 --> Model "Page_model" initialized
+INFO - 2020-03-14 14:50:49 --> Model "Category_model" initialized
+INFO - 2020-03-14 14:50:49 --> Model "Article_model" initialized
+INFO - 2020-03-14 14:50:49 --> Model "Service_model" initialized
+ERROR - 2020-03-14 14:50:49 --> Severity: Warning --> A non-numeric value encountered /Volumes/Betrai/www/thienanphu/application/controllers/News.php 22
+INFO - 2020-03-14 14:50:49 --> Model "User_model" initialized
+INFO - 2020-03-14 14:50:49 --> Model "Article_category_model" initialized
+ERROR - 2020-03-14 14:50:49 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-5, 5' at line 5 - Invalid query: SELECT *, `id`, `created_by`
+FROM `articles`
+WHERE `articles`.`active` = 'Y'
+ORDER BY `created_at` DESC
+ LIMIT -5, 5
+ERROR - 2020-03-14 14:50:49 --> Language file contains no data: language/vietnamese/db_lang.php
+ERROR - 2020-03-14 14:50:49 --> Could not find the language line "db_error_heading"
+INFO - 2020-03-14 14:50:49 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 14:50:49 --> Helper loaded: file_helper
+INFO - 2020-03-14 14:50:49 --> MY_Model class loaded
+INFO - 2020-03-14 14:50:49 --> Model "Language_model" initialized
+INFO - 2020-03-14 14:50:49 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 14:50:49 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 14:50:49 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 14:50:49 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 14:50:49 --> Model "Page_model" initialized
+INFO - 2020-03-14 14:50:49 --> Model "Category_model" initialized
+INFO - 2020-03-14 14:50:49 --> Model "Article_model" initialized
+INFO - 2020-03-14 14:50:49 --> Model "Service_model" initialized
+ERROR - 2020-03-14 14:50:49 --> Severity: Warning --> A non-numeric value encountered /Volumes/Betrai/www/thienanphu/application/controllers/News.php 22
+INFO - 2020-03-14 14:50:49 --> Model "User_model" initialized
+INFO - 2020-03-14 14:50:49 --> Model "Article_category_model" initialized
+ERROR - 2020-03-14 14:50:49 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-5, 5' at line 5 - Invalid query: SELECT *, `id`, `created_by`
+FROM `articles`
+WHERE `articles`.`active` = 'Y'
+ORDER BY `created_at` DESC
+ LIMIT -5, 5
+ERROR - 2020-03-14 14:50:49 --> Language file contains no data: language/vietnamese/db_lang.php
+ERROR - 2020-03-14 14:50:49 --> Could not find the language line "db_error_heading"
+INFO - 2020-03-14 14:52:15 --> Config Class Initialized
+INFO - 2020-03-14 14:52:15 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:52:15 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:52:15 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:52:15 --> URI Class Initialized
+INFO - 2020-03-14 14:52:15 --> Router Class Initialized
+INFO - 2020-03-14 14:52:15 --> Output Class Initialized
+INFO - 2020-03-14 14:52:15 --> Security Class Initialized
+DEBUG - 2020-03-14 14:52:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:52:15 --> Input Class Initialized
+DEBUG - 2020-03-14 14:52:15 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:52:15 --> Language Class Initialized
+INFO - 2020-03-14 14:52:15 --> Config Class Initialized
+INFO - 2020-03-14 14:52:15 --> Loader Class Initialized
+INFO - 2020-03-14 14:52:15 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:52:15 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:52:16 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:52:16 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:52:16 --> Controller Class Initialized
+DEBUG - 2020-03-14 14:52:16 --> News MX_Controller Initialized
+INFO - 2020-03-14 14:52:16 --> Helper loaded: html_helper
+INFO - 2020-03-14 14:52:16 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 14:52:16 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 14:52:16 --> Helper loaded: file_helper
+INFO - 2020-03-14 14:52:16 --> MY_Model class loaded
+INFO - 2020-03-14 14:52:16 --> Model "Language_model" initialized
+INFO - 2020-03-14 14:52:16 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 14:52:16 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 14:52:16 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 14:52:16 --> Model "Setting_model" initialized
+INFO - 2020-03-14 14:52:16 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 14:52:16 --> Model "Page_model" initialized
+INFO - 2020-03-14 14:52:16 --> Model "Category_model" initialized
+INFO - 2020-03-14 14:52:17 --> Model "Article_model" initialized
+INFO - 2020-03-14 14:52:17 --> Model "Service_model" initialized
+INFO - 2020-03-14 14:52:17 --> Model "User_model" initialized
+INFO - 2020-03-14 14:52:17 --> Model "Article_category_model" initialized
+ERROR - 2020-03-14 14:52:17 --> Could not find the language line "Next"
+DEBUG - 2020-03-14 14:52:17 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_search.php
+DEBUG - 2020-03-14 14:52:17 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_news_categories.php
+DEBUG - 2020-03-14 14:52:17 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_services.php
+DEBUG - 2020-03-14 14:52:17 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_solutions.php
+DEBUG - 2020-03-14 14:52:17 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_tags.php
+DEBUG - 2020-03-14 14:52:17 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/default/news/listing_news.php
+DEBUG - 2020-03-14 14:52:17 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/top_bar.php
+ERROR - 2020-03-14 14:52:17 --> Could not find the language line "Giới thiệu"
+ERROR - 2020-03-14 14:52:17 --> Could not find the language line "Dịch vụ thương mại"
+ERROR - 2020-03-14 14:52:17 --> Could not find the language line "Lĩnh vực hoạt động"
+ERROR - 2020-03-14 14:52:17 --> Could not find the language line "Tin Hoạt Động"
+ERROR - 2020-03-14 14:52:17 --> Could not find the language line "Tin Công Nghệ"
+ERROR - 2020-03-14 14:52:17 --> Could not find the language line "Sự Kiện"
+ERROR - 2020-03-14 14:52:17 --> Could not find the language line "Góc báo chí"
+DEBUG - 2020-03-14 14:52:17 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/mega_menu.php
+ERROR - 2020-03-14 14:52:17 --> Could not find the language line "Search"
+ERROR - 2020-03-14 14:52:17 --> Could not find the language line "Tin Công Nghệ"
+ERROR - 2020-03-14 14:52:17 --> Could not find the language line "Tin Công Nghệ"
+ERROR - 2020-03-14 14:52:17 --> Could not find the language line "news"
+DEBUG - 2020-03-14 14:52:17 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/page_header.php
+DEBUG - 2020-03-14 14:52:17 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_header_view.php
+DEBUG - 2020-03-14 14:52:17 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_footer_view.php
+DEBUG - 2020-03-14 14:52:17 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/master_view.php
+INFO - 2020-03-14 14:52:17 --> Final output sent to browser
+DEBUG - 2020-03-14 14:52:17 --> Total execution time: 2.0678
+INFO - 2020-03-14 14:52:17 --> Config Class Initialized
+INFO - 2020-03-14 14:52:17 --> Config Class Initialized
+INFO - 2020-03-14 14:52:17 --> Config Class Initialized
+INFO - 2020-03-14 14:52:17 --> Hooks Class Initialized
+INFO - 2020-03-14 14:52:17 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:52:17 --> UTF-8 Support Enabled
+DEBUG - 2020-03-14 14:52:17 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:52:17 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:52:17 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:52:17 --> URI Class Initialized
+INFO - 2020-03-14 14:52:17 --> URI Class Initialized
+INFO - 2020-03-14 14:52:17 --> Router Class Initialized
+INFO - 2020-03-14 14:52:17 --> Output Class Initialized
+INFO - 2020-03-14 14:52:17 --> Security Class Initialized
+INFO - 2020-03-14 14:52:17 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:52:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:52:17 --> Input Class Initialized
+DEBUG - 2020-03-14 14:52:17 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:52:17 --> Language Class Initialized
+INFO - 2020-03-14 14:52:17 --> Config Class Initialized
+INFO - 2020-03-14 14:52:17 --> Loader Class Initialized
+INFO - 2020-03-14 14:52:17 --> Router Class Initialized
+INFO - 2020-03-14 14:52:17 --> Output Class Initialized
+INFO - 2020-03-14 14:52:17 --> Security Class Initialized
+DEBUG - 2020-03-14 14:52:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:52:17 --> Input Class Initialized
+DEBUG - 2020-03-14 14:52:17 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:52:17 --> Language Class Initialized
+INFO - 2020-03-14 14:52:17 --> Config Class Initialized
+INFO - 2020-03-14 14:52:17 --> Loader Class Initialized
+INFO - 2020-03-14 14:52:17 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:52:17 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:52:17 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:52:17 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:52:17 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:52:17 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:52:17 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:52:17 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:52:17 --> Config Class Initialized
+INFO - 2020-03-14 14:52:17 --> Controller Class Initialized
+INFO - 2020-03-14 14:52:17 --> Controller Class Initialized
+DEBUG - 2020-03-14 14:52:17 --> News MX_Controller Initialized
+DEBUG - 2020-03-14 14:52:17 --> News MX_Controller Initialized
+INFO - 2020-03-14 14:52:17 --> Helper loaded: html_helper
+INFO - 2020-03-14 14:52:17 --> Helper loaded: html_helper
+INFO - 2020-03-14 14:52:17 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 14:52:17 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 14:52:17 --> Session: Class initialized using 'files' driver.
+DEBUG - 2020-03-14 14:52:17 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:52:17 --> Helper loaded: file_helper
+INFO - 2020-03-14 14:52:17 --> Config Class Initialized
+INFO - 2020-03-14 14:52:17 --> Hooks Class Initialized
+INFO - 2020-03-14 14:52:17 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:52:17 --> MY_Model class loaded
+INFO - 2020-03-14 14:52:17 --> Model "Language_model" initialized
+INFO - 2020-03-14 14:52:17 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 14:52:17 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 14:52:17 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 14:52:17 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 14:52:17 --> Model "Page_model" initialized
+INFO - 2020-03-14 14:52:17 --> URI Class Initialized
+INFO - 2020-03-14 14:52:17 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:52:17 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:52:17 --> Router Class Initialized
+INFO - 2020-03-14 14:52:17 --> Model "Category_model" initialized
+DEBUG - 2020-03-14 14:52:17 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:52:17 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:52:17 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:52:17 --> URI Class Initialized
+INFO - 2020-03-14 14:52:17 --> URI Class Initialized
+INFO - 2020-03-14 14:52:17 --> Router Class Initialized
+INFO - 2020-03-14 14:52:17 --> Output Class Initialized
+INFO - 2020-03-14 14:52:17 --> Security Class Initialized
+DEBUG - 2020-03-14 14:52:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:52:17 --> Input Class Initialized
+DEBUG - 2020-03-14 14:52:17 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:52:17 --> Language Class Initialized
+INFO - 2020-03-14 14:52:17 --> Config Class Initialized
+INFO - 2020-03-14 14:52:17 --> Output Class Initialized
+INFO - 2020-03-14 14:52:17 --> Loader Class Initialized
+INFO - 2020-03-14 14:52:17 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:52:17 --> Router Class Initialized
+INFO - 2020-03-14 14:52:17 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:52:17 --> Output Class Initialized
+INFO - 2020-03-14 14:52:17 --> Security Class Initialized
+INFO - 2020-03-14 14:52:17 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:52:17 --> Security Class Initialized
+INFO - 2020-03-14 14:52:17 --> Model "Article_model" initialized
+DEBUG - 2020-03-14 14:52:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:52:17 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:52:17 --> Input Class Initialized
+DEBUG - 2020-03-14 14:52:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:52:17 --> Model "Service_model" initialized
+INFO - 2020-03-14 14:52:17 --> Input Class Initialized
+DEBUG - 2020-03-14 14:52:17 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:52:17 --> Language Class Initialized
+INFO - 2020-03-14 14:52:17 --> Config Class Initialized
+INFO - 2020-03-14 14:52:17 --> Loader Class Initialized
+DEBUG - 2020-03-14 14:52:17 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:52:17 --> Controller Class Initialized
+INFO - 2020-03-14 14:52:17 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:52:17 --> Language Class Initialized
+DEBUG - 2020-03-14 14:52:17 --> News MX_Controller Initialized
+INFO - 2020-03-14 14:52:17 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:52:17 --> Config Class Initialized
+INFO - 2020-03-14 14:52:17 --> Helper loaded: html_helper
+INFO - 2020-03-14 14:52:17 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:52:17 --> Loader Class Initialized
+INFO - 2020-03-14 14:52:17 --> Helper loaded: cookie_helper
+ERROR - 2020-03-14 14:52:17 --> Severity: Warning --> A non-numeric value encountered /Volumes/Betrai/www/thienanphu/application/controllers/News.php 22
+INFO - 2020-03-14 14:52:17 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:52:17 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:52:17 --> Controller Class Initialized
+INFO - 2020-03-14 14:52:17 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 14:52:17 --> Helper loaded: form_helper
+DEBUG - 2020-03-14 14:52:17 --> News MX_Controller Initialized
+INFO - 2020-03-14 14:52:17 --> Helper loaded: file_helper
+INFO - 2020-03-14 14:52:17 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:52:17 --> Helper loaded: html_helper
+INFO - 2020-03-14 14:52:17 --> MY_Model class loaded
+INFO - 2020-03-14 14:52:17 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:52:17 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 14:52:17 --> Model "Language_model" initialized
+INFO - 2020-03-14 14:52:17 --> Controller Class Initialized
+DEBUG - 2020-03-14 14:52:17 --> News MX_Controller Initialized
+INFO - 2020-03-14 14:52:17 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 14:52:17 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 14:52:17 --> Helper loaded: html_helper
+INFO - 2020-03-14 14:52:17 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 14:52:17 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 14:52:17 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 14:52:17 --> Model "Page_model" initialized
+INFO - 2020-03-14 14:52:17 --> Model "Category_model" initialized
+INFO - 2020-03-14 14:52:17 --> Model "Article_model" initialized
+INFO - 2020-03-14 14:52:17 --> Model "Service_model" initialized
+ERROR - 2020-03-14 14:52:17 --> Severity: Warning --> A non-numeric value encountered /Volumes/Betrai/www/thienanphu/application/controllers/News.php 22
+INFO - 2020-03-14 14:52:17 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 14:52:17 --> Helper loaded: file_helper
+INFO - 2020-03-14 14:52:17 --> MY_Model class loaded
+INFO - 2020-03-14 14:52:17 --> Model "Language_model" initialized
+INFO - 2020-03-14 14:52:17 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 14:52:17 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 14:52:17 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 14:52:17 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 14:52:17 --> Model "Page_model" initialized
+INFO - 2020-03-14 14:52:17 --> Model "Category_model" initialized
+INFO - 2020-03-14 14:52:17 --> Model "Article_model" initialized
+INFO - 2020-03-14 14:52:17 --> Model "Service_model" initialized
+ERROR - 2020-03-14 14:52:17 --> Severity: Warning --> A non-numeric value encountered /Volumes/Betrai/www/thienanphu/application/controllers/News.php 22
+INFO - 2020-03-14 14:52:17 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 14:52:17 --> Helper loaded: file_helper
+INFO - 2020-03-14 14:52:17 --> MY_Model class loaded
+INFO - 2020-03-14 14:52:17 --> Model "Language_model" initialized
+INFO - 2020-03-14 14:52:17 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 14:52:17 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 14:52:17 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 14:52:17 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 14:52:17 --> Model "Page_model" initialized
+INFO - 2020-03-14 14:52:17 --> Model "Category_model" initialized
+INFO - 2020-03-14 14:52:17 --> Model "Article_model" initialized
+INFO - 2020-03-14 14:52:17 --> Model "Service_model" initialized
+ERROR - 2020-03-14 14:52:17 --> Severity: Warning --> A non-numeric value encountered /Volumes/Betrai/www/thienanphu/application/controllers/News.php 22
+INFO - 2020-03-14 14:52:17 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 14:52:17 --> Helper loaded: file_helper
+INFO - 2020-03-14 14:52:17 --> MY_Model class loaded
+INFO - 2020-03-14 14:52:17 --> Model "Language_model" initialized
+INFO - 2020-03-14 14:52:17 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 14:52:17 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 14:52:17 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 14:52:17 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 14:52:17 --> Model "Page_model" initialized
+INFO - 2020-03-14 14:52:17 --> Model "Category_model" initialized
+INFO - 2020-03-14 14:52:17 --> Model "Article_model" initialized
+INFO - 2020-03-14 14:52:17 --> Model "Service_model" initialized
+ERROR - 2020-03-14 14:52:17 --> Severity: Warning --> A non-numeric value encountered /Volumes/Betrai/www/thienanphu/application/controllers/News.php 22
+INFO - 2020-03-14 14:52:30 --> Config Class Initialized
+INFO - 2020-03-14 14:52:30 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:52:30 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:52:30 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:52:30 --> URI Class Initialized
+INFO - 2020-03-14 14:52:30 --> Router Class Initialized
+INFO - 2020-03-14 14:52:30 --> Output Class Initialized
+INFO - 2020-03-14 14:52:30 --> Security Class Initialized
+DEBUG - 2020-03-14 14:52:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:52:30 --> Input Class Initialized
+DEBUG - 2020-03-14 14:52:30 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:52:30 --> Language Class Initialized
+INFO - 2020-03-14 14:52:30 --> Config Class Initialized
+INFO - 2020-03-14 14:52:30 --> Loader Class Initialized
+INFO - 2020-03-14 14:52:30 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:52:30 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:52:30 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:52:30 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:52:30 --> Controller Class Initialized
+DEBUG - 2020-03-14 14:52:30 --> News MX_Controller Initialized
+INFO - 2020-03-14 14:52:31 --> Helper loaded: html_helper
+INFO - 2020-03-14 14:52:31 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 14:52:31 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 14:52:31 --> Helper loaded: file_helper
+INFO - 2020-03-14 14:52:31 --> MY_Model class loaded
+INFO - 2020-03-14 14:52:31 --> Model "Language_model" initialized
+INFO - 2020-03-14 14:52:31 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 14:52:31 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 14:52:31 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 14:52:31 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 14:52:31 --> Model "Page_model" initialized
+INFO - 2020-03-14 14:52:31 --> Model "Category_model" initialized
+INFO - 2020-03-14 14:52:31 --> Model "Article_model" initialized
+INFO - 2020-03-14 14:52:31 --> Model "Service_model" initialized
+INFO - 2020-03-14 14:52:31 --> Model "User_model" initialized
+INFO - 2020-03-14 14:52:31 --> Model "Article_category_model" initialized
+ERROR - 2020-03-14 14:52:31 --> Could not find the language line "Next"
+DEBUG - 2020-03-14 14:52:31 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_search.php
+DEBUG - 2020-03-14 14:52:31 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_news_categories.php
+DEBUG - 2020-03-14 14:52:31 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_services.php
+DEBUG - 2020-03-14 14:52:31 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_solutions.php
+DEBUG - 2020-03-14 14:52:31 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_tags.php
+DEBUG - 2020-03-14 14:52:31 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/default/news/listing_news.php
+DEBUG - 2020-03-14 14:52:31 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/top_bar.php
+ERROR - 2020-03-14 14:52:31 --> Could not find the language line "Giới thiệu"
+ERROR - 2020-03-14 14:52:31 --> Could not find the language line "Dịch vụ thương mại"
+ERROR - 2020-03-14 14:52:31 --> Could not find the language line "Lĩnh vực hoạt động"
+ERROR - 2020-03-14 14:52:31 --> Could not find the language line "Tin Hoạt Động"
+ERROR - 2020-03-14 14:52:31 --> Could not find the language line "Tin Công Nghệ"
+ERROR - 2020-03-14 14:52:31 --> Could not find the language line "Sự Kiện"
+ERROR - 2020-03-14 14:52:31 --> Could not find the language line "Góc báo chí"
+DEBUG - 2020-03-14 14:52:31 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/mega_menu.php
+ERROR - 2020-03-14 14:52:31 --> Could not find the language line "Search"
+ERROR - 2020-03-14 14:52:31 --> Could not find the language line "Sự Kiện"
+ERROR - 2020-03-14 14:52:31 --> Could not find the language line "Tin sự kiện"
+ERROR - 2020-03-14 14:52:31 --> Could not find the language line "news"
+DEBUG - 2020-03-14 14:52:31 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/page_header.php
+DEBUG - 2020-03-14 14:52:31 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_header_view.php
+DEBUG - 2020-03-14 14:52:31 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_footer_view.php
+DEBUG - 2020-03-14 14:52:31 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/master_view.php
+INFO - 2020-03-14 14:52:31 --> Final output sent to browser
+DEBUG - 2020-03-14 14:52:31 --> Total execution time: 0.5359
+INFO - 2020-03-14 14:52:31 --> Config Class Initialized
+INFO - 2020-03-14 14:52:31 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:52:31 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:52:31 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:52:31 --> URI Class Initialized
+INFO - 2020-03-14 14:52:31 --> Router Class Initialized
+INFO - 2020-03-14 14:52:31 --> Output Class Initialized
+INFO - 2020-03-14 14:52:31 --> Security Class Initialized
+INFO - 2020-03-14 14:52:31 --> Config Class Initialized
+INFO - 2020-03-14 14:52:31 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:52:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:52:31 --> Config Class Initialized
+INFO - 2020-03-14 14:52:31 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:52:31 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:52:31 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:52:31 --> URI Class Initialized
+INFO - 2020-03-14 14:52:31 --> Router Class Initialized
+INFO - 2020-03-14 14:52:31 --> Output Class Initialized
+INFO - 2020-03-14 14:52:31 --> Config Class Initialized
+INFO - 2020-03-14 14:52:31 --> Security Class Initialized
+INFO - 2020-03-14 14:52:31 --> Input Class Initialized
+DEBUG - 2020-03-14 14:52:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:52:31 --> Input Class Initialized
+DEBUG - 2020-03-14 14:52:31 --> Language_Identifier Class Initialized
+DEBUG - 2020-03-14 14:52:31 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:52:31 --> Language Class Initialized
+INFO - 2020-03-14 14:52:31 --> Config Class Initialized
+INFO - 2020-03-14 14:52:31 --> Config Class Initialized
+INFO - 2020-03-14 14:52:31 --> Hooks Class Initialized
+INFO - 2020-03-14 14:52:31 --> Loader Class Initialized
+DEBUG - 2020-03-14 14:52:31 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:52:31 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:52:31 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:52:31 --> URI Class Initialized
+INFO - 2020-03-14 14:52:31 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:52:31 --> Router Class Initialized
+INFO - 2020-03-14 14:52:31 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:52:31 --> Output Class Initialized
+INFO - 2020-03-14 14:52:31 --> Hooks Class Initialized
+INFO - 2020-03-14 14:52:31 --> Database Driver Class Initialized
+DEBUG - 2020-03-14 14:52:31 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:52:31 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:52:31 --> Security Class Initialized
+DEBUG - 2020-03-14 14:52:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:52:31 --> URI Class Initialized
+INFO - 2020-03-14 14:52:31 --> Input Class Initialized
+INFO - 2020-03-14 14:52:31 --> Router Class Initialized
+DEBUG - 2020-03-14 14:52:31 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:52:31 --> Output Class Initialized
+INFO - 2020-03-14 14:52:31 --> Language Class Initialized
+INFO - 2020-03-14 14:52:31 --> Language Class Initialized
+INFO - 2020-03-14 14:52:31 --> Config Class Initialized
+INFO - 2020-03-14 14:52:31 --> Config Class Initialized
+INFO - 2020-03-14 14:52:31 --> Loader Class Initialized
+INFO - 2020-03-14 14:52:31 --> Loader Class Initialized
+INFO - 2020-03-14 14:52:31 --> Controller Class Initialized
+INFO - 2020-03-14 14:52:31 --> Security Class Initialized
+DEBUG - 2020-03-14 14:52:31 --> News MX_Controller Initialized
+INFO - 2020-03-14 14:52:31 --> Helper loaded: html_helper
+INFO - 2020-03-14 14:52:31 --> Helper loaded: cookie_helper
+DEBUG - 2020-03-14 14:52:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:52:31 --> Input Class Initialized
+INFO - 2020-03-14 14:52:31 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 14:52:31 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:52:31 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:52:31 --> Helper loaded: file_helper
+INFO - 2020-03-14 14:52:31 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:52:31 --> MY_Model class loaded
+INFO - 2020-03-14 14:52:31 --> Model "Language_model" initialized
+INFO - 2020-03-14 14:52:31 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:52:31 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:52:31 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:52:31 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:52:31 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 14:52:31 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:52:31 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 14:52:31 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 14:52:31 --> Model "Public_menu_model" initialized
+DEBUG - 2020-03-14 14:52:31 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:52:31 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:52:31 --> URI Class Initialized
+INFO - 2020-03-14 14:52:31 --> Router Class Initialized
+INFO - 2020-03-14 14:52:31 --> Output Class Initialized
+INFO - 2020-03-14 14:52:31 --> Security Class Initialized
+DEBUG - 2020-03-14 14:52:31 --> Language_Identifier Class Initialized
+DEBUG - 2020-03-14 14:52:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:52:31 --> Input Class Initialized
+INFO - 2020-03-14 14:52:31 --> Language Class Initialized
+DEBUG - 2020-03-14 14:52:31 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:52:31 --> Config Class Initialized
+INFO - 2020-03-14 14:52:31 --> Controller Class Initialized
+INFO - 2020-03-14 14:52:31 --> Controller Class Initialized
+DEBUG - 2020-03-14 14:52:31 --> News MX_Controller Initialized
+INFO - 2020-03-14 14:52:31 --> Loader Class Initialized
+INFO - 2020-03-14 14:52:31 --> Helper loaded: html_helper
+DEBUG - 2020-03-14 14:52:31 --> News MX_Controller Initialized
+INFO - 2020-03-14 14:52:31 --> Model "Page_model" initialized
+INFO - 2020-03-14 14:52:31 --> Language Class Initialized
+INFO - 2020-03-14 14:52:31 --> Helper loaded: html_helper
+INFO - 2020-03-14 14:52:31 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:52:31 --> Config Class Initialized
+INFO - 2020-03-14 14:52:31 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 14:52:31 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:52:31 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 14:52:31 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:52:31 --> Loader Class Initialized
+INFO - 2020-03-14 14:52:31 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:52:31 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:52:31 --> Model "Category_model" initialized
+INFO - 2020-03-14 14:52:31 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:52:31 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:52:31 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:52:31 --> Controller Class Initialized
+INFO - 2020-03-14 14:52:31 --> Model "Article_model" initialized
+DEBUG - 2020-03-14 14:52:31 --> News MX_Controller Initialized
+INFO - 2020-03-14 14:52:31 --> Controller Class Initialized
+INFO - 2020-03-14 14:52:31 --> Helper loaded: html_helper
+DEBUG - 2020-03-14 14:52:31 --> News MX_Controller Initialized
+INFO - 2020-03-14 14:52:31 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 14:52:31 --> Helper loaded: html_helper
+INFO - 2020-03-14 14:52:31 --> Model "Service_model" initialized
+INFO - 2020-03-14 14:52:31 --> Helper loaded: cookie_helper
+ERROR - 2020-03-14 14:52:31 --> Severity: Warning --> A non-numeric value encountered /Volumes/Betrai/www/thienanphu/application/controllers/News.php 22
+INFO - 2020-03-14 14:52:31 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 14:52:31 --> Helper loaded: file_helper
+INFO - 2020-03-14 14:52:31 --> MY_Model class loaded
+INFO - 2020-03-14 14:52:31 --> Model "Language_model" initialized
+INFO - 2020-03-14 14:52:31 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 14:52:31 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 14:52:31 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 14:52:31 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 14:52:31 --> Model "Page_model" initialized
+INFO - 2020-03-14 14:52:31 --> Model "Category_model" initialized
+INFO - 2020-03-14 14:52:31 --> Model "Article_model" initialized
+INFO - 2020-03-14 14:52:31 --> Model "Service_model" initialized
+ERROR - 2020-03-14 14:52:31 --> Severity: Warning --> A non-numeric value encountered /Volumes/Betrai/www/thienanphu/application/controllers/News.php 22
+INFO - 2020-03-14 14:52:31 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 14:52:31 --> Helper loaded: file_helper
+INFO - 2020-03-14 14:52:31 --> MY_Model class loaded
+INFO - 2020-03-14 14:52:31 --> Model "Language_model" initialized
+INFO - 2020-03-14 14:52:31 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 14:52:31 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 14:52:31 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 14:52:31 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 14:52:31 --> Model "Page_model" initialized
+INFO - 2020-03-14 14:52:31 --> Model "Category_model" initialized
+INFO - 2020-03-14 14:52:31 --> Model "Article_model" initialized
+INFO - 2020-03-14 14:52:31 --> Model "Service_model" initialized
+ERROR - 2020-03-14 14:52:31 --> Severity: Warning --> A non-numeric value encountered /Volumes/Betrai/www/thienanphu/application/controllers/News.php 22
+INFO - 2020-03-14 14:52:31 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 14:52:31 --> Helper loaded: file_helper
+INFO - 2020-03-14 14:52:31 --> MY_Model class loaded
+INFO - 2020-03-14 14:52:31 --> Model "Language_model" initialized
+INFO - 2020-03-14 14:52:31 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 14:52:31 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 14:52:31 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 14:52:31 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 14:52:31 --> Model "Page_model" initialized
+INFO - 2020-03-14 14:52:31 --> Model "Category_model" initialized
+INFO - 2020-03-14 14:52:31 --> Model "Article_model" initialized
+INFO - 2020-03-14 14:52:31 --> Model "Service_model" initialized
+ERROR - 2020-03-14 14:52:31 --> Severity: Warning --> A non-numeric value encountered /Volumes/Betrai/www/thienanphu/application/controllers/News.php 22
+INFO - 2020-03-14 14:52:31 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 14:52:31 --> Helper loaded: file_helper
+INFO - 2020-03-14 14:52:31 --> MY_Model class loaded
+INFO - 2020-03-14 14:52:31 --> Model "Language_model" initialized
+INFO - 2020-03-14 14:52:31 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 14:52:31 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 14:52:31 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 14:52:31 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 14:52:31 --> Model "Page_model" initialized
+INFO - 2020-03-14 14:52:31 --> Model "Category_model" initialized
+INFO - 2020-03-14 14:52:31 --> Model "Article_model" initialized
+INFO - 2020-03-14 14:52:31 --> Model "Service_model" initialized
+ERROR - 2020-03-14 14:52:31 --> Severity: Warning --> A non-numeric value encountered /Volumes/Betrai/www/thienanphu/application/controllers/News.php 22
+INFO - 2020-03-14 14:58:24 --> Config Class Initialized
+INFO - 2020-03-14 14:58:24 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:58:24 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:58:24 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:58:24 --> URI Class Initialized
+INFO - 2020-03-14 14:58:24 --> Router Class Initialized
+INFO - 2020-03-14 14:58:24 --> Output Class Initialized
+INFO - 2020-03-14 14:58:24 --> Security Class Initialized
+DEBUG - 2020-03-14 14:58:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:58:24 --> Input Class Initialized
+DEBUG - 2020-03-14 14:58:25 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:58:25 --> Language Class Initialized
+INFO - 2020-03-14 14:58:25 --> Config Class Initialized
+INFO - 2020-03-14 14:58:25 --> Loader Class Initialized
+INFO - 2020-03-14 14:58:25 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:58:25 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:58:25 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:58:25 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:58:25 --> Controller Class Initialized
+DEBUG - 2020-03-14 14:58:25 --> Dashboard MX_Controller Initialized
+INFO - 2020-03-14 14:58:25 --> Helper loaded: html_helper
+INFO - 2020-03-14 14:58:25 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 14:58:25 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 14:58:25 --> Helper loaded: file_helper
+INFO - 2020-03-14 14:58:25 --> MY_Model class loaded
+INFO - 2020-03-14 14:58:25 --> Model "Language_model" initialized
+INFO - 2020-03-14 14:58:25 --> Language file loaded: language/vietnamese/dashboard_lang.php
+INFO - 2020-03-14 14:58:25 --> Language file loaded: language/vietnamese/global_lang.php
+DEBUG - 2020-03-14 14:58:25 --> Config file loaded: /Volumes/Betrai/www/thienanphu/application/config/ion_auth.php
+DEBUG - 2020-03-14 14:58:25 --> Config file loaded: /Volumes/Betrai/www/thienanphu/application/config/development/ion_auth.php
+INFO - 2020-03-14 14:58:25 --> Email Class Initialized
+INFO - 2020-03-14 14:58:25 --> Language file loaded: language/vietnamese/ion_auth_lang.php
+INFO - 2020-03-14 14:58:25 --> Helper loaded: date_helper
+INFO - 2020-03-14 14:58:25 --> Model "Ion_auth_model" initialized
+INFO - 2020-03-14 14:58:25 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 14:58:25 --> Model "Menu_model" initialized
+INFO - 2020-03-14 14:58:25 --> Language file loaded: language/vietnamese/menu_lang.php
+DEBUG - 2020-03-14 14:58:25 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2020-03-14 14:58:25 --> Model "Setting_model" initialized
+INFO - 2020-03-14 14:58:25 --> Model "Widget_model" initialized
+INFO - 2020-03-14 14:58:25 --> Helper loaded: widget_helper
+DEBUG - 2020-03-14 14:58:25 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/admin/elements/flash_message_view.php
+ERROR - 2020-03-14 14:58:25 --> Could not find the language line "Index"
+ERROR - 2020-03-14 14:58:25 --> Could not find the language line "Index"
+DEBUG - 2020-03-14 14:58:25 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/admin/elements/section_header_view.php
+DEBUG - 2020-03-14 14:58:25 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/admin/dashboard/dashboard_view.php
+ERROR - 2020-03-14 14:58:25 --> Could not find the language line "Sign out"
+DEBUG - 2020-03-14 14:58:25 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/admin/elements/user/header_panel_view.php
+DEBUG - 2020-03-14 14:58:25 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/admin_master_header_view.php
+DEBUG - 2020-03-14 14:58:25 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/admin/elements/user/sidebar_view.php
+ERROR - 2020-03-14 14:58:25 --> Could not find the language line "MAIN NAVIGATION"
+ERROR - 2020-03-14 14:58:25 --> Could not find the language line "Category"
+ERROR - 2020-03-14 14:58:25 --> Could not find the language line "Article"
+ERROR - 2020-03-14 14:58:25 --> Could not find the language line "Articles"
+ERROR - 2020-03-14 14:58:25 --> Could not find the language line "Products"
+ERROR - 2020-03-14 14:58:25 --> Could not find the language line "Media"
+ERROR - 2020-03-14 14:58:25 --> Could not find the language line "Service"
+ERROR - 2020-03-14 14:58:25 --> Could not find the language line "Groups"
+ERROR - 2020-03-14 14:58:25 --> Could not find the language line "Users"
+ERROR - 2020-03-14 14:58:25 --> Could not find the language line "Settings"
+ERROR - 2020-03-14 14:58:25 --> Could not find the language line "General"
+ERROR - 2020-03-14 14:58:25 --> Could not find the language line "Information"
+ERROR - 2020-03-14 14:58:25 --> Could not find the language line "Email Server"
+DEBUG - 2020-03-14 14:58:25 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/admin/elements/left_sidebar_view.php
+DEBUG - 2020-03-14 14:58:25 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/admin_master_footer_view.php
+DEBUG - 2020-03-14 14:58:25 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/admin_master_view.php
+INFO - 2020-03-14 14:58:25 --> Final output sent to browser
+DEBUG - 2020-03-14 14:58:25 --> Total execution time: 0.8083
+INFO - 2020-03-14 14:58:25 --> Config Class Initialized
+INFO - 2020-03-14 14:58:25 --> Hooks Class Initialized
+INFO - 2020-03-14 14:58:25 --> Config Class Initialized
+INFO - 2020-03-14 14:58:25 --> Config Class Initialized
+INFO - 2020-03-14 14:58:25 --> Hooks Class Initialized
+INFO - 2020-03-14 14:58:25 --> Config Class Initialized
+INFO - 2020-03-14 14:58:25 --> Hooks Class Initialized
+INFO - 2020-03-14 14:58:25 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:58:25 --> UTF-8 Support Enabled
+DEBUG - 2020-03-14 14:58:25 --> UTF-8 Support Enabled
+DEBUG - 2020-03-14 14:58:25 --> UTF-8 Support Enabled
+DEBUG - 2020-03-14 14:58:25 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:58:25 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:58:25 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:58:25 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:58:25 --> Config Class Initialized
+INFO - 2020-03-14 14:58:25 --> URI Class Initialized
+INFO - 2020-03-14 14:58:25 --> Hooks Class Initialized
+INFO - 2020-03-14 14:58:25 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:58:25 --> URI Class Initialized
+INFO - 2020-03-14 14:58:25 --> URI Class Initialized
+DEBUG - 2020-03-14 14:58:25 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:58:25 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:58:25 --> Router Class Initialized
+INFO - 2020-03-14 14:58:25 --> URI Class Initialized
+INFO - 2020-03-14 14:58:25 --> Output Class Initialized
+INFO - 2020-03-14 14:58:25 --> Router Class Initialized
+INFO - 2020-03-14 14:58:25 --> URI Class Initialized
+INFO - 2020-03-14 14:58:25 --> Router Class Initialized
+INFO - 2020-03-14 14:58:25 --> Output Class Initialized
+INFO - 2020-03-14 14:58:25 --> Output Class Initialized
+INFO - 2020-03-14 14:58:25 --> Router Class Initialized
+INFO - 2020-03-14 14:58:25 --> Output Class Initialized
+INFO - 2020-03-14 14:58:25 --> Security Class Initialized
+DEBUG - 2020-03-14 14:58:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:58:25 --> Input Class Initialized
+INFO - 2020-03-14 14:58:25 --> Security Class Initialized
+DEBUG - 2020-03-14 14:58:25 --> Language_Identifier Class Initialized
+DEBUG - 2020-03-14 14:58:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:58:25 --> Input Class Initialized
+DEBUG - 2020-03-14 14:58:25 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:58:25 --> Language Class Initialized
+INFO - 2020-03-14 14:58:25 --> Config Class Initialized
+INFO - 2020-03-14 14:58:25 --> Loader Class Initialized
+INFO - 2020-03-14 14:58:25 --> Security Class Initialized
+INFO - 2020-03-14 14:58:25 --> Language Class Initialized
+INFO - 2020-03-14 14:58:25 --> Config Class Initialized
+INFO - 2020-03-14 14:58:25 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:58:25 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:58:25 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:58:25 --> Security Class Initialized
+INFO - 2020-03-14 14:58:25 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:58:25 --> Router Class Initialized
+INFO - 2020-03-14 14:58:25 --> Output Class Initialized
+DEBUG - 2020-03-14 14:58:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:58:25 --> Input Class Initialized
+INFO - 2020-03-14 14:58:25 --> Security Class Initialized
+DEBUG - 2020-03-14 14:58:25 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-03-14 14:58:25 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:58:25 --> Input Class Initialized
+INFO - 2020-03-14 14:58:25 --> Config Class Initialized
+INFO - 2020-03-14 14:58:25 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:58:25 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-03-14 14:58:25 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:58:25 --> Input Class Initialized
+DEBUG - 2020-03-14 14:58:25 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:58:25 --> Loader Class Initialized
+INFO - 2020-03-14 14:58:25 --> Utf8 Class Initialized
+DEBUG - 2020-03-14 14:58:25 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:58:25 --> Language Class Initialized
+INFO - 2020-03-14 14:58:25 --> Language Class Initialized
+INFO - 2020-03-14 14:58:25 --> Config Class Initialized
+INFO - 2020-03-14 14:58:25 --> Controller Class Initialized
+INFO - 2020-03-14 14:58:25 --> Language Class Initialized
+INFO - 2020-03-14 14:58:25 --> URI Class Initialized
+INFO - 2020-03-14 14:58:25 --> Loader Class Initialized
+INFO - 2020-03-14 14:58:25 --> Config Class Initialized
+INFO - 2020-03-14 14:58:25 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:58:25 --> Config Class Initialized
+INFO - 2020-03-14 14:58:25 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:58:25 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:58:25 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:58:25 --> Loader Class Initialized
+INFO - 2020-03-14 14:58:25 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:58:25 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:58:25 --> Loader Class Initialized
+INFO - 2020-03-14 14:58:25 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:58:25 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:58:25 --> Database Driver Class Initialized
+ERROR - 2020-03-14 14:58:25 --> 404 Page Not Found: /index
+INFO - 2020-03-14 14:58:25 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:58:25 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:58:25 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:58:25 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:58:25 --> Router Class Initialized
+INFO - 2020-03-14 14:58:25 --> Output Class Initialized
+INFO - 2020-03-14 14:58:25 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:58:25 --> Security Class Initialized
+INFO - 2020-03-14 14:58:25 --> Database Driver Class Initialized
+DEBUG - 2020-03-14 14:58:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:58:25 --> Input Class Initialized
+DEBUG - 2020-03-14 14:58:25 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:58:25 --> Controller Class Initialized
+ERROR - 2020-03-14 14:58:25 --> 404 Page Not Found: /index
+INFO - 2020-03-14 14:58:25 --> Controller Class Initialized
+INFO - 2020-03-14 14:58:25 --> Config Class Initialized
+ERROR - 2020-03-14 14:58:25 --> 404 Page Not Found: /index
+INFO - 2020-03-14 14:58:25 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:58:25 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:58:25 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:58:25 --> Controller Class Initialized
+INFO - 2020-03-14 14:58:25 --> URI Class Initialized
+INFO - 2020-03-14 14:58:25 --> Router Class Initialized
+ERROR - 2020-03-14 14:58:25 --> 404 Page Not Found: /index
+INFO - 2020-03-14 14:58:25 --> Output Class Initialized
+INFO - 2020-03-14 14:58:25 --> Security Class Initialized
+DEBUG - 2020-03-14 14:58:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:58:25 --> Input Class Initialized
+DEBUG - 2020-03-14 14:58:25 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:58:25 --> Language Class Initialized
+INFO - 2020-03-14 14:58:25 --> Config Class Initialized
+INFO - 2020-03-14 14:58:25 --> Loader Class Initialized
+INFO - 2020-03-14 14:58:25 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:58:25 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:58:25 --> Config Class Initialized
+INFO - 2020-03-14 14:58:25 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:58:25 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:58:25 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:58:25 --> URI Class Initialized
+INFO - 2020-03-14 14:58:25 --> Config Class Initialized
+INFO - 2020-03-14 14:58:25 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:58:25 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:58:25 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:58:25 --> Config Class Initialized
+INFO - 2020-03-14 14:58:25 --> Hooks Class Initialized
+INFO - 2020-03-14 14:58:25 --> Language Class Initialized
+INFO - 2020-03-14 14:58:25 --> Config Class Initialized
+INFO - 2020-03-14 14:58:25 --> Database Driver Class Initialized
+DEBUG - 2020-03-14 14:58:25 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:58:25 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:58:25 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:58:25 --> Router Class Initialized
+INFO - 2020-03-14 14:58:25 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:58:25 --> URI Class Initialized
+INFO - 2020-03-14 14:58:25 --> URI Class Initialized
+INFO - 2020-03-14 14:58:25 --> Output Class Initialized
+INFO - 2020-03-14 14:58:25 --> Loader Class Initialized
+INFO - 2020-03-14 14:58:25 --> Router Class Initialized
+INFO - 2020-03-14 14:58:25 --> Router Class Initialized
+INFO - 2020-03-14 14:58:25 --> Security Class Initialized
+INFO - 2020-03-14 14:58:25 --> Output Class Initialized
+INFO - 2020-03-14 14:58:25 --> Security Class Initialized
+DEBUG - 2020-03-14 14:58:25 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-03-14 14:58:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:58:25 --> Input Class Initialized
+INFO - 2020-03-14 14:58:25 --> Input Class Initialized
+DEBUG - 2020-03-14 14:58:25 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:58:25 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:58:25 --> Language Class Initialized
+INFO - 2020-03-14 14:58:25 --> Output Class Initialized
+INFO - 2020-03-14 14:58:25 --> Config Class Initialized
+INFO - 2020-03-14 14:58:25 --> Security Class Initialized
+INFO - 2020-03-14 14:58:25 --> Loader Class Initialized
+DEBUG - 2020-03-14 14:58:25 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-03-14 14:58:25 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:58:25 --> Controller Class Initialized
+INFO - 2020-03-14 14:58:25 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:58:25 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:58:25 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:58:25 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:58:25 --> Language Class Initialized
+INFO - 2020-03-14 14:58:25 --> Config Class Initialized
+INFO - 2020-03-14 14:58:25 --> Controller Class Initialized
+INFO - 2020-03-14 14:58:25 --> Loader Class Initialized
+ERROR - 2020-03-14 14:58:25 --> 404 Page Not Found: /index
+INFO - 2020-03-14 14:58:25 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:58:25 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:58:25 --> Input Class Initialized
+DEBUG - 2020-03-14 14:58:25 --> Dashboard MX_Controller Initialized
+INFO - 2020-03-14 14:58:25 --> Helper loaded: html_helper
+DEBUG - 2020-03-14 14:58:25 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:58:25 --> Language Class Initialized
+INFO - 2020-03-14 14:58:25 --> Config Class Initialized
+INFO - 2020-03-14 14:58:25 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:58:25 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:58:25 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:58:25 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:58:25 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 14:58:25 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:58:25 --> Loader Class Initialized
+INFO - 2020-03-14 14:58:25 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:58:25 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:58:25 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:58:25 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:58:25 --> Controller Class Initialized
+INFO - 2020-03-14 14:58:25 --> Controller Class Initialized
+ERROR - 2020-03-14 14:58:25 --> 404 Page Not Found: /index
+ERROR - 2020-03-14 14:58:25 --> 404 Page Not Found: /index
+INFO - 2020-03-14 14:58:25 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 14:58:25 --> Helper loaded: file_helper
+INFO - 2020-03-14 14:58:25 --> MY_Model class loaded
+INFO - 2020-03-14 14:58:25 --> Model "Language_model" initialized
+INFO - 2020-03-14 14:58:25 --> Controller Class Initialized
+INFO - 2020-03-14 14:58:25 --> Controller Class Initialized
+INFO - 2020-03-14 14:58:25 --> Language file loaded: language/vietnamese/dashboard_lang.php
+ERROR - 2020-03-14 14:58:25 --> 404 Page Not Found: /index
+INFO - 2020-03-14 14:58:25 --> Language file loaded: language/vietnamese/global_lang.php
+DEBUG - 2020-03-14 14:58:25 --> Config file loaded: /Volumes/Betrai/www/thienanphu/application/config/ion_auth.php
+DEBUG - 2020-03-14 14:58:25 --> Config file loaded: /Volumes/Betrai/www/thienanphu/application/config/development/ion_auth.php
+ERROR - 2020-03-14 14:58:25 --> 404 Page Not Found: /index
+INFO - 2020-03-14 14:58:25 --> Email Class Initialized
+INFO - 2020-03-14 14:58:25 --> Language file loaded: language/vietnamese/ion_auth_lang.php
+INFO - 2020-03-14 14:58:25 --> Helper loaded: date_helper
+INFO - 2020-03-14 14:58:25 --> Model "Ion_auth_model" initialized
+INFO - 2020-03-14 14:58:25 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 14:58:25 --> Model "Menu_model" initialized
+INFO - 2020-03-14 14:58:26 --> Language file loaded: language/vietnamese/menu_lang.php
+DEBUG - 2020-03-14 14:58:26 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2020-03-14 14:58:26 --> Model "Setting_model" initialized
+INFO - 2020-03-14 14:58:26 --> Model "Widget_model" initialized
+INFO - 2020-03-14 14:58:26 --> Helper loaded: widget_helper
+DEBUG - 2020-03-14 14:58:26 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/admin/elements/flash_message_view.php
+ERROR - 2020-03-14 14:58:26 --> Could not find the language line "Index"
+ERROR - 2020-03-14 14:58:26 --> Could not find the language line "Index"
+DEBUG - 2020-03-14 14:58:26 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/admin/elements/section_header_view.php
+DEBUG - 2020-03-14 14:58:26 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/admin/dashboard/dashboard_view.php
+ERROR - 2020-03-14 14:58:26 --> Could not find the language line "Sign out"
+DEBUG - 2020-03-14 14:58:26 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/admin/elements/user/header_panel_view.php
+DEBUG - 2020-03-14 14:58:26 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/admin_master_header_view.php
+DEBUG - 2020-03-14 14:58:26 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/admin/elements/user/sidebar_view.php
+ERROR - 2020-03-14 14:58:26 --> Could not find the language line "MAIN NAVIGATION"
+ERROR - 2020-03-14 14:58:26 --> Could not find the language line "Category"
+ERROR - 2020-03-14 14:58:26 --> Could not find the language line "Article"
+ERROR - 2020-03-14 14:58:26 --> Could not find the language line "Articles"
+ERROR - 2020-03-14 14:58:26 --> Could not find the language line "Products"
+ERROR - 2020-03-14 14:58:26 --> Could not find the language line "Media"
+ERROR - 2020-03-14 14:58:26 --> Could not find the language line "Service"
+ERROR - 2020-03-14 14:58:26 --> Could not find the language line "Groups"
+ERROR - 2020-03-14 14:58:26 --> Could not find the language line "Users"
+ERROR - 2020-03-14 14:58:26 --> Could not find the language line "Settings"
+ERROR - 2020-03-14 14:58:26 --> Could not find the language line "General"
+ERROR - 2020-03-14 14:58:26 --> Could not find the language line "Information"
+ERROR - 2020-03-14 14:58:26 --> Could not find the language line "Email Server"
+DEBUG - 2020-03-14 14:58:26 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/admin/elements/left_sidebar_view.php
+DEBUG - 2020-03-14 14:58:26 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/admin_master_footer_view.php
+DEBUG - 2020-03-14 14:58:26 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/admin_master_view.php
+INFO - 2020-03-14 14:58:26 --> Final output sent to browser
+DEBUG - 2020-03-14 14:58:26 --> Total execution time: 0.3028
+INFO - 2020-03-14 14:58:26 --> Config Class Initialized
+INFO - 2020-03-14 14:58:26 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:58:26 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:58:26 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:58:26 --> URI Class Initialized
+INFO - 2020-03-14 14:58:26 --> Router Class Initialized
+INFO - 2020-03-14 14:58:26 --> Output Class Initialized
+INFO - 2020-03-14 14:58:26 --> Security Class Initialized
+DEBUG - 2020-03-14 14:58:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:58:26 --> Input Class Initialized
+INFO - 2020-03-14 14:58:26 --> Config Class Initialized
+INFO - 2020-03-14 14:58:26 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:58:26 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:58:26 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:58:26 --> Config Class Initialized
+INFO - 2020-03-14 14:58:26 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:58:26 --> Language_Identifier Class Initialized
+DEBUG - 2020-03-14 14:58:26 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:58:26 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:58:26 --> URI Class Initialized
+INFO - 2020-03-14 14:58:26 --> Router Class Initialized
+INFO - 2020-03-14 14:58:26 --> Output Class Initialized
+INFO - 2020-03-14 14:58:26 --> Security Class Initialized
+DEBUG - 2020-03-14 14:58:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:58:26 --> Input Class Initialized
+DEBUG - 2020-03-14 14:58:26 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:58:26 --> Language Class Initialized
+INFO - 2020-03-14 14:58:26 --> Config Class Initialized
+INFO - 2020-03-14 14:58:26 --> Config Class Initialized
+INFO - 2020-03-14 14:58:26 --> Hooks Class Initialized
+INFO - 2020-03-14 14:58:26 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:58:26 --> UTF-8 Support Enabled
+DEBUG - 2020-03-14 14:58:26 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:58:26 --> Language Class Initialized
+INFO - 2020-03-14 14:58:26 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:58:26 --> Config Class Initialized
+INFO - 2020-03-14 14:58:26 --> URI Class Initialized
+INFO - 2020-03-14 14:58:26 --> Loader Class Initialized
+INFO - 2020-03-14 14:58:26 --> Router Class Initialized
+INFO - 2020-03-14 14:58:26 --> Config Class Initialized
+INFO - 2020-03-14 14:58:26 --> Output Class Initialized
+INFO - 2020-03-14 14:58:26 --> Loader Class Initialized
+INFO - 2020-03-14 14:58:26 --> Security Class Initialized
+INFO - 2020-03-14 14:58:26 --> Helper loaded: url_helper
+DEBUG - 2020-03-14 14:58:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:58:26 --> Input Class Initialized
+INFO - 2020-03-14 14:58:26 --> Helper loaded: form_helper
+DEBUG - 2020-03-14 14:58:26 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:58:26 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:58:26 --> Language Class Initialized
+INFO - 2020-03-14 14:58:26 --> Config Class Initialized
+INFO - 2020-03-14 14:58:26 --> Loader Class Initialized
+INFO - 2020-03-14 14:58:26 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:58:26 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:58:26 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:58:26 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:58:26 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:58:26 --> Controller Class Initialized
+INFO - 2020-03-14 14:58:26 --> Utf8 Class Initialized
+ERROR - 2020-03-14 14:58:26 --> 404 Page Not Found: /index
+INFO - 2020-03-14 14:58:26 --> URI Class Initialized
+INFO - 2020-03-14 14:58:26 --> Router Class Initialized
+INFO - 2020-03-14 14:58:26 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:58:26 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:58:26 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:58:26 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:58:26 --> Config Class Initialized
+INFO - 2020-03-14 14:58:26 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:58:26 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:58:26 --> Config Class Initialized
+INFO - 2020-03-14 14:58:26 --> Output Class Initialized
+INFO - 2020-03-14 14:58:26 --> Controller Class Initialized
+INFO - 2020-03-14 14:58:26 --> Security Class Initialized
+ERROR - 2020-03-14 14:58:26 --> 404 Page Not Found: /index
+DEBUG - 2020-03-14 14:58:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:58:26 --> Input Class Initialized
+DEBUG - 2020-03-14 14:58:26 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:58:26 --> Language Class Initialized
+INFO - 2020-03-14 14:58:26 --> Config Class Initialized
+INFO - 2020-03-14 14:58:26 --> Loader Class Initialized
+INFO - 2020-03-14 14:58:26 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:58:26 --> URI Class Initialized
+INFO - 2020-03-14 14:58:26 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:58:26 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:58:26 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:58:26 --> Router Class Initialized
+INFO - 2020-03-14 14:58:26 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:58:26 --> URI Class Initialized
+INFO - 2020-03-14 14:58:26 --> Controller Class Initialized
+ERROR - 2020-03-14 14:58:26 --> 404 Page Not Found: /index
+INFO - 2020-03-14 14:58:26 --> Hooks Class Initialized
+DEBUG - 2020-03-14 14:58:26 --> UTF-8 Support Enabled
+INFO - 2020-03-14 14:58:26 --> Utf8 Class Initialized
+INFO - 2020-03-14 14:58:26 --> URI Class Initialized
+INFO - 2020-03-14 14:58:26 --> Router Class Initialized
+INFO - 2020-03-14 14:58:26 --> Router Class Initialized
+INFO - 2020-03-14 14:58:26 --> Output Class Initialized
+INFO - 2020-03-14 14:58:26 --> Security Class Initialized
+DEBUG - 2020-03-14 14:58:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:58:26 --> Input Class Initialized
+DEBUG - 2020-03-14 14:58:26 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:58:26 --> Language Class Initialized
+INFO - 2020-03-14 14:58:26 --> Config Class Initialized
+INFO - 2020-03-14 14:58:26 --> Loader Class Initialized
+INFO - 2020-03-14 14:58:26 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:58:26 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:58:26 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:58:26 --> Output Class Initialized
+INFO - 2020-03-14 14:58:26 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:58:26 --> Output Class Initialized
+INFO - 2020-03-14 14:58:26 --> Security Class Initialized
+INFO - 2020-03-14 14:58:26 --> Security Class Initialized
+INFO - 2020-03-14 14:58:26 --> Controller Class Initialized
+DEBUG - 2020-03-14 14:58:26 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2020-03-14 14:58:26 --> 404 Page Not Found: /index
+DEBUG - 2020-03-14 14:58:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 14:58:26 --> Input Class Initialized
+DEBUG - 2020-03-14 14:58:26 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:58:26 --> Input Class Initialized
+DEBUG - 2020-03-14 14:58:26 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 14:58:26 --> Language Class Initialized
+INFO - 2020-03-14 14:58:26 --> Config Class Initialized
+INFO - 2020-03-14 14:58:26 --> Controller Class Initialized
+ERROR - 2020-03-14 14:58:26 --> 404 Page Not Found: /index
+INFO - 2020-03-14 14:58:26 --> Loader Class Initialized
+INFO - 2020-03-14 14:58:26 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:58:26 --> Language Class Initialized
+INFO - 2020-03-14 14:58:26 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:58:26 --> Config Class Initialized
+INFO - 2020-03-14 14:58:26 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:58:26 --> Loader Class Initialized
+INFO - 2020-03-14 14:58:26 --> Database Driver Class Initialized
+INFO - 2020-03-14 14:58:26 --> Helper loaded: url_helper
+INFO - 2020-03-14 14:58:26 --> Helper loaded: form_helper
+INFO - 2020-03-14 14:58:26 --> Helper loaded: language_helper
+INFO - 2020-03-14 14:58:26 --> Controller Class Initialized
+INFO - 2020-03-14 14:58:26 --> Database Driver Class Initialized
+ERROR - 2020-03-14 14:58:26 --> 404 Page Not Found: /index
+INFO - 2020-03-14 14:58:26 --> Controller Class Initialized
+ERROR - 2020-03-14 14:58:26 --> 404 Page Not Found: /index
+INFO - 2020-03-14 15:03:51 --> Config Class Initialized
+INFO - 2020-03-14 15:03:51 --> Hooks Class Initialized
+DEBUG - 2020-03-14 15:03:51 --> UTF-8 Support Enabled
+INFO - 2020-03-14 15:03:51 --> Utf8 Class Initialized
+INFO - 2020-03-14 15:03:51 --> URI Class Initialized
+INFO - 2020-03-14 15:03:51 --> Router Class Initialized
+INFO - 2020-03-14 15:03:51 --> Output Class Initialized
+INFO - 2020-03-14 15:03:51 --> Security Class Initialized
+DEBUG - 2020-03-14 15:03:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 15:03:51 --> Input Class Initialized
+DEBUG - 2020-03-14 15:03:51 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 15:03:51 --> Language Class Initialized
+INFO - 2020-03-14 15:03:51 --> Config Class Initialized
+INFO - 2020-03-14 15:03:51 --> Loader Class Initialized
+INFO - 2020-03-14 15:03:51 --> Helper loaded: url_helper
+INFO - 2020-03-14 15:03:51 --> Helper loaded: form_helper
+INFO - 2020-03-14 15:03:51 --> Helper loaded: language_helper
+INFO - 2020-03-14 15:03:51 --> Database Driver Class Initialized
+INFO - 2020-03-14 15:03:51 --> Controller Class Initialized
+DEBUG - 2020-03-14 15:03:51 --> Settings MX_Controller Initialized
+INFO - 2020-03-14 15:03:51 --> Helper loaded: html_helper
+INFO - 2020-03-14 15:03:51 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 15:03:51 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 15:03:51 --> Helper loaded: file_helper
+INFO - 2020-03-14 15:03:51 --> MY_Model class loaded
+INFO - 2020-03-14 15:03:51 --> Model "Language_model" initialized
+INFO - 2020-03-14 15:03:51 --> Language file loaded: language/vietnamese/settings_lang.php
+INFO - 2020-03-14 15:03:51 --> Language file loaded: language/vietnamese/global_lang.php
+DEBUG - 2020-03-14 15:03:51 --> Config file loaded: /Volumes/Betrai/www/thienanphu/application/config/ion_auth.php
+DEBUG - 2020-03-14 15:03:51 --> Config file loaded: /Volumes/Betrai/www/thienanphu/application/config/development/ion_auth.php
+INFO - 2020-03-14 15:03:51 --> Email Class Initialized
+INFO - 2020-03-14 15:03:51 --> Language file loaded: language/vietnamese/ion_auth_lang.php
+INFO - 2020-03-14 15:03:51 --> Helper loaded: date_helper
+INFO - 2020-03-14 15:03:51 --> Model "Ion_auth_model" initialized
+INFO - 2020-03-14 15:03:51 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 15:03:51 --> Model "Menu_model" initialized
+INFO - 2020-03-14 15:03:51 --> Language file loaded: language/vietnamese/menu_lang.php
+DEBUG - 2020-03-14 15:03:51 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2020-03-14 15:03:51 --> Model "Setting_model" initialized
+INFO - 2020-03-14 15:03:51 --> Helper loaded: ext_form_helper
+INFO - 2020-03-14 15:03:51 --> User Agent Class Initialized
+DEBUG - 2020-03-14 15:03:51 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/admin/elements/flash_message_view.php
+DEBUG - 2020-03-14 15:03:51 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/admin/elements/section_header_view.php
+ERROR - 2020-03-14 15:03:51 --> Could not find the language line "Company name"
+ERROR - 2020-03-14 15:03:51 --> Could not find the language line "Company logo"
+ERROR - 2020-03-14 15:03:51 --> Could not find the language line "Company logo"
+ERROR - 2020-03-14 15:03:51 --> Could not find the language line "remove image"
+ERROR - 2020-03-14 15:03:51 --> Could not find the language line "Upload Image"
+DEBUG - 2020-03-14 15:03:51 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/admin/elements/modules/modal_filemanager_view.php
+DEBUG - 2020-03-14 15:03:51 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/admin/elements/modules/upload_image_view.php
+ERROR - 2020-03-14 15:03:51 --> Could not find the language line "Address"
+ERROR - 2020-03-14 15:03:51 --> Could not find the language line "Facebook "
+ERROR - 2020-03-14 15:03:51 --> Could not find the language line "Company website"
+ERROR - 2020-03-14 15:03:51 --> Could not find the language line "Address 1"
+ERROR - 2020-03-14 15:03:51 --> Could not find the language line "Address 2"
+ERROR - 2020-03-14 15:03:51 --> Could not find the language line "Phone 1"
+ERROR - 2020-03-14 15:03:51 --> Could not find the language line "Phone 2"
+ERROR - 2020-03-14 15:03:51 --> Could not find the language line "Company Email"
+ERROR - 2020-03-14 15:03:51 --> Could not find the language line "Company Year"
+ERROR - 2020-03-14 15:03:51 --> Could not find the language line "Linkedin"
+ERROR - 2020-03-14 15:03:51 --> Could not find the language line "Company Logo Footer"
+ERROR - 2020-03-14 15:03:51 --> Could not find the language line "Company Logo Footer"
+ERROR - 2020-03-14 15:03:51 --> Could not find the language line "remove image"
+ERROR - 2020-03-14 15:03:51 --> Could not find the language line "Upload Image"
+DEBUG - 2020-03-14 15:03:51 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/admin/elements/modules/modal_filemanager_view.php
+DEBUG - 2020-03-14 15:03:51 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/admin/elements/modules/upload_image_view.php
+DEBUG - 2020-03-14 15:03:51 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/admin/settings/settings_view.php
+INFO - 2020-03-14 15:03:51 --> Final output sent to browser
+DEBUG - 2020-03-14 15:03:51 --> Total execution time: 0.4694
+INFO - 2020-03-14 15:03:51 --> Config Class Initialized
+INFO - 2020-03-14 15:03:51 --> Hooks Class Initialized
+DEBUG - 2020-03-14 15:03:51 --> UTF-8 Support Enabled
+INFO - 2020-03-14 15:03:51 --> Utf8 Class Initialized
+INFO - 2020-03-14 15:03:51 --> URI Class Initialized
+INFO - 2020-03-14 15:03:51 --> Router Class Initialized
+INFO - 2020-03-14 15:03:51 --> Output Class Initialized
+INFO - 2020-03-14 15:03:51 --> Security Class Initialized
+DEBUG - 2020-03-14 15:03:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 15:03:51 --> Input Class Initialized
+DEBUG - 2020-03-14 15:03:51 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 15:03:51 --> Language Class Initialized
+INFO - 2020-03-14 15:03:51 --> Config Class Initialized
+INFO - 2020-03-14 15:03:51 --> Loader Class Initialized
+INFO - 2020-03-14 15:03:51 --> Helper loaded: url_helper
+INFO - 2020-03-14 15:03:51 --> Helper loaded: form_helper
+INFO - 2020-03-14 15:03:51 --> Helper loaded: language_helper
+INFO - 2020-03-14 15:03:51 --> Database Driver Class Initialized
+INFO - 2020-03-14 15:03:51 --> Controller Class Initialized
+DEBUG - 2020-03-14 15:03:51 --> Settings MX_Controller Initialized
+INFO - 2020-03-14 15:03:51 --> Helper loaded: html_helper
+INFO - 2020-03-14 15:03:51 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 15:03:51 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 15:03:51 --> Helper loaded: file_helper
+INFO - 2020-03-14 15:03:51 --> MY_Model class loaded
+INFO - 2020-03-14 15:03:51 --> Model "Language_model" initialized
+INFO - 2020-03-14 15:03:51 --> Language file loaded: language/vietnamese/settings_lang.php
+INFO - 2020-03-14 15:03:51 --> Language file loaded: language/vietnamese/global_lang.php
+DEBUG - 2020-03-14 15:03:51 --> Config file loaded: /Volumes/Betrai/www/thienanphu/application/config/ion_auth.php
+DEBUG - 2020-03-14 15:03:51 --> Config file loaded: /Volumes/Betrai/www/thienanphu/application/config/development/ion_auth.php
+INFO - 2020-03-14 15:03:51 --> Email Class Initialized
+INFO - 2020-03-14 15:03:51 --> Language file loaded: language/vietnamese/ion_auth_lang.php
+INFO - 2020-03-14 15:03:51 --> Helper loaded: date_helper
+INFO - 2020-03-14 15:03:51 --> Model "Ion_auth_model" initialized
+INFO - 2020-03-14 15:03:51 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 15:03:51 --> Model "Menu_model" initialized
+INFO - 2020-03-14 15:03:51 --> Language file loaded: language/vietnamese/menu_lang.php
+DEBUG - 2020-03-14 15:03:51 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2020-03-14 15:03:51 --> Model "Setting_model" initialized
+INFO - 2020-03-14 15:03:51 --> Helper loaded: ext_form_helper
+INFO - 2020-03-14 15:03:51 --> User Agent Class Initialized
+DEBUG - 2020-03-14 15:03:51 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/admin/elements/flash_message_view.php
+DEBUG - 2020-03-14 15:03:51 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/admin/elements/section_header_view.php
+ERROR - 2020-03-14 15:03:51 --> Could not find the language line "Company name"
+ERROR - 2020-03-14 15:03:51 --> Could not find the language line "Company logo"
+ERROR - 2020-03-14 15:03:51 --> Could not find the language line "Company logo"
+ERROR - 2020-03-14 15:03:51 --> Could not find the language line "remove image"
+ERROR - 2020-03-14 15:03:51 --> Could not find the language line "Upload Image"
+DEBUG - 2020-03-14 15:03:51 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/admin/elements/modules/modal_filemanager_view.php
+DEBUG - 2020-03-14 15:03:51 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/admin/elements/modules/upload_image_view.php
+ERROR - 2020-03-14 15:03:51 --> Could not find the language line "Address"
+ERROR - 2020-03-14 15:03:51 --> Could not find the language line "Facebook "
+ERROR - 2020-03-14 15:03:51 --> Could not find the language line "Company website"
+ERROR - 2020-03-14 15:03:51 --> Could not find the language line "Address 1"
+ERROR - 2020-03-14 15:03:51 --> Could not find the language line "Address 2"
+ERROR - 2020-03-14 15:03:51 --> Could not find the language line "Phone 1"
+ERROR - 2020-03-14 15:03:51 --> Could not find the language line "Phone 2"
+ERROR - 2020-03-14 15:03:51 --> Could not find the language line "Company Email"
+ERROR - 2020-03-14 15:03:51 --> Could not find the language line "Company Year"
+ERROR - 2020-03-14 15:03:51 --> Could not find the language line "Linkedin"
+ERROR - 2020-03-14 15:03:51 --> Could not find the language line "Company Logo Footer"
+ERROR - 2020-03-14 15:03:51 --> Could not find the language line "Company Logo Footer"
+ERROR - 2020-03-14 15:03:51 --> Could not find the language line "remove image"
+ERROR - 2020-03-14 15:03:51 --> Could not find the language line "Upload Image"
+DEBUG - 2020-03-14 15:03:51 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/admin/elements/modules/modal_filemanager_view.php
+DEBUG - 2020-03-14 15:03:51 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/admin/elements/modules/upload_image_view.php
+DEBUG - 2020-03-14 15:03:51 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/admin/settings/settings_view.php
+ERROR - 2020-03-14 15:03:51 --> Could not find the language line "Sign out"
+DEBUG - 2020-03-14 15:03:51 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/admin/elements/user/header_panel_view.php
+DEBUG - 2020-03-14 15:03:51 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/admin_master_header_view.php
+DEBUG - 2020-03-14 15:03:51 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/admin/elements/user/sidebar_view.php
+ERROR - 2020-03-14 15:03:51 --> Could not find the language line "MAIN NAVIGATION"
+ERROR - 2020-03-14 15:03:51 --> Could not find the language line "Category"
+ERROR - 2020-03-14 15:03:51 --> Could not find the language line "Article"
+ERROR - 2020-03-14 15:03:51 --> Could not find the language line "Articles"
+ERROR - 2020-03-14 15:03:51 --> Could not find the language line "Products"
+ERROR - 2020-03-14 15:03:51 --> Could not find the language line "Media"
+ERROR - 2020-03-14 15:03:51 --> Could not find the language line "Service"
+ERROR - 2020-03-14 15:03:51 --> Could not find the language line "Groups"
+ERROR - 2020-03-14 15:03:51 --> Could not find the language line "Users"
+ERROR - 2020-03-14 15:03:51 --> Could not find the language line "Email Server"
+DEBUG - 2020-03-14 15:03:51 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/admin/elements/left_sidebar_view.php
+DEBUG - 2020-03-14 15:03:51 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/admin_master_footer_view.php
+DEBUG - 2020-03-14 15:03:51 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/admin_master_view.php
+INFO - 2020-03-14 15:03:51 --> Final output sent to browser
+DEBUG - 2020-03-14 15:03:51 --> Total execution time: 0.1288
+INFO - 2020-03-14 15:03:59 --> Config Class Initialized
+INFO - 2020-03-14 15:03:59 --> Config Class Initialized
+INFO - 2020-03-14 15:03:59 --> Hooks Class Initialized
+INFO - 2020-03-14 15:03:59 --> Config Class Initialized
+INFO - 2020-03-14 15:03:59 --> Hooks Class Initialized
+INFO - 2020-03-14 15:03:59 --> Hooks Class Initialized
+DEBUG - 2020-03-14 15:03:59 --> UTF-8 Support Enabled
+INFO - 2020-03-14 15:03:59 --> Utf8 Class Initialized
+INFO - 2020-03-14 15:03:59 --> URI Class Initialized
+DEBUG - 2020-03-14 15:03:59 --> UTF-8 Support Enabled
+DEBUG - 2020-03-14 15:03:59 --> UTF-8 Support Enabled
+INFO - 2020-03-14 15:03:59 --> Utf8 Class Initialized
+INFO - 2020-03-14 15:03:59 --> Config Class Initialized
+INFO - 2020-03-14 15:03:59 --> URI Class Initialized
+INFO - 2020-03-14 15:03:59 --> Hooks Class Initialized
+DEBUG - 2020-03-14 15:03:59 --> UTF-8 Support Enabled
+INFO - 2020-03-14 15:03:59 --> Router Class Initialized
+INFO - 2020-03-14 15:03:59 --> Utf8 Class Initialized
+INFO - 2020-03-14 15:03:59 --> Router Class Initialized
+INFO - 2020-03-14 15:03:59 --> Output Class Initialized
+INFO - 2020-03-14 15:03:59 --> Output Class Initialized
+INFO - 2020-03-14 15:03:59 --> Utf8 Class Initialized
+INFO - 2020-03-14 15:03:59 --> URI Class Initialized
+INFO - 2020-03-14 15:03:59 --> Security Class Initialized
+INFO - 2020-03-14 15:03:59 --> URI Class Initialized
+DEBUG - 2020-03-14 15:03:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 15:03:59 --> Router Class Initialized
+INFO - 2020-03-14 15:03:59 --> Input Class Initialized
+INFO - 2020-03-14 15:03:59 --> Security Class Initialized
+INFO - 2020-03-14 15:03:59 --> Router Class Initialized
+DEBUG - 2020-03-14 15:03:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 15:03:59 --> Output Class Initialized
+INFO - 2020-03-14 15:03:59 --> Output Class Initialized
+INFO - 2020-03-14 15:03:59 --> Input Class Initialized
+INFO - 2020-03-14 15:03:59 --> Config Class Initialized
+INFO - 2020-03-14 15:03:59 --> Hooks Class Initialized
+DEBUG - 2020-03-14 15:03:59 --> UTF-8 Support Enabled
+INFO - 2020-03-14 15:03:59 --> Utf8 Class Initialized
+INFO - 2020-03-14 15:03:59 --> URI Class Initialized
+INFO - 2020-03-14 15:03:59 --> Router Class Initialized
+INFO - 2020-03-14 15:03:59 --> Output Class Initialized
+INFO - 2020-03-14 15:03:59 --> Security Class Initialized
+INFO - 2020-03-14 15:03:59 --> Security Class Initialized
+DEBUG - 2020-03-14 15:03:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 15:03:59 --> Input Class Initialized
+DEBUG - 2020-03-14 15:03:59 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-03-14 15:03:59 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 15:03:59 --> Input Class Initialized
+INFO - 2020-03-14 15:03:59 --> Security Class Initialized
+DEBUG - 2020-03-14 15:03:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 15:03:59 --> Language Class Initialized
+INFO - 2020-03-14 15:03:59 --> Config Class Initialized
+INFO - 2020-03-14 15:03:59 --> Config Class Initialized
+INFO - 2020-03-14 15:03:59 --> Input Class Initialized
+INFO - 2020-03-14 15:03:59 --> Hooks Class Initialized
+INFO - 2020-03-14 15:03:59 --> Loader Class Initialized
+DEBUG - 2020-03-14 15:03:59 --> UTF-8 Support Enabled
+INFO - 2020-03-14 15:03:59 --> Config Class Initialized
+INFO - 2020-03-14 15:03:59 --> Helper loaded: url_helper
+INFO - 2020-03-14 15:03:59 --> Hooks Class Initialized
+INFO - 2020-03-14 15:03:59 --> Utf8 Class Initialized
+DEBUG - 2020-03-14 15:03:59 --> UTF-8 Support Enabled
+INFO - 2020-03-14 15:03:59 --> Helper loaded: form_helper
+INFO - 2020-03-14 15:03:59 --> Utf8 Class Initialized
+INFO - 2020-03-14 15:03:59 --> Helper loaded: language_helper
+INFO - 2020-03-14 15:03:59 --> URI Class Initialized
+INFO - 2020-03-14 15:03:59 --> Config Class Initialized
+INFO - 2020-03-14 15:03:59 --> Hooks Class Initialized
+INFO - 2020-03-14 15:03:59 --> URI Class Initialized
+DEBUG - 2020-03-14 15:03:59 --> UTF-8 Support Enabled
+INFO - 2020-03-14 15:03:59 --> Database Driver Class Initialized
+INFO - 2020-03-14 15:03:59 --> Router Class Initialized
+INFO - 2020-03-14 15:03:59 --> Router Class Initialized
+INFO - 2020-03-14 15:03:59 --> Output Class Initialized
+INFO - 2020-03-14 15:03:59 --> Utf8 Class Initialized
+INFO - 2020-03-14 15:03:59 --> Output Class Initialized
+INFO - 2020-03-14 15:03:59 --> Security Class Initialized
+INFO - 2020-03-14 15:03:59 --> URI Class Initialized
+INFO - 2020-03-14 15:03:59 --> Security Class Initialized
+DEBUG - 2020-03-14 15:03:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 15:03:59 --> Controller Class Initialized
+INFO - 2020-03-14 15:03:59 --> Input Class Initialized
+DEBUG - 2020-03-14 15:03:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 15:03:59 --> Router Class Initialized
+ERROR - 2020-03-14 15:03:59 --> 404 Page Not Found: /index
+DEBUG - 2020-03-14 15:03:59 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 15:03:59 --> Output Class Initialized
+INFO - 2020-03-14 15:03:59 --> Security Class Initialized
+DEBUG - 2020-03-14 15:03:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 15:03:59 --> Input Class Initialized
+INFO - 2020-03-14 15:03:59 --> Input Class Initialized
+INFO - 2020-03-14 15:03:59 --> Language Class Initialized
+DEBUG - 2020-03-14 15:03:59 --> Language_Identifier Class Initialized
+DEBUG - 2020-03-14 15:03:59 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 15:03:59 --> Language Class Initialized
+INFO - 2020-03-14 15:03:59 --> Language Class Initialized
+INFO - 2020-03-14 15:03:59 --> Config Class Initialized
+INFO - 2020-03-14 15:03:59 --> Loader Class Initialized
+INFO - 2020-03-14 15:03:59 --> Helper loaded: url_helper
+INFO - 2020-03-14 15:03:59 --> Config Class Initialized
+INFO - 2020-03-14 15:03:59 --> Helper loaded: form_helper
+INFO - 2020-03-14 15:03:59 --> Helper loaded: language_helper
+INFO - 2020-03-14 15:03:59 --> Config Class Initialized
+INFO - 2020-03-14 15:03:59 --> Database Driver Class Initialized
+INFO - 2020-03-14 15:03:59 --> Loader Class Initialized
+INFO - 2020-03-14 15:03:59 --> Loader Class Initialized
+INFO - 2020-03-14 15:03:59 --> Helper loaded: url_helper
+INFO - 2020-03-14 15:03:59 --> Helper loaded: url_helper
+INFO - 2020-03-14 15:03:59 --> Controller Class Initialized
+INFO - 2020-03-14 15:03:59 --> Helper loaded: form_helper
+ERROR - 2020-03-14 15:03:59 --> 404 Page Not Found: /index
+INFO - 2020-03-14 15:03:59 --> Helper loaded: form_helper
+INFO - 2020-03-14 15:03:59 --> Helper loaded: language_helper
+INFO - 2020-03-14 15:03:59 --> Database Driver Class Initialized
+INFO - 2020-03-14 15:03:59 --> Helper loaded: language_helper
+INFO - 2020-03-14 15:03:59 --> Database Driver Class Initialized
+INFO - 2020-03-14 15:03:59 --> Controller Class Initialized
+INFO - 2020-03-14 15:03:59 --> Controller Class Initialized
+ERROR - 2020-03-14 15:03:59 --> 404 Page Not Found: /index
+ERROR - 2020-03-14 15:03:59 --> 404 Page Not Found: /index
+INFO - 2020-03-14 15:04:08 --> Config Class Initialized
+INFO - 2020-03-14 15:04:08 --> Hooks Class Initialized
+DEBUG - 2020-03-14 15:04:08 --> UTF-8 Support Enabled
+INFO - 2020-03-14 15:04:08 --> Utf8 Class Initialized
+INFO - 2020-03-14 15:04:08 --> URI Class Initialized
+INFO - 2020-03-14 15:04:08 --> Router Class Initialized
+INFO - 2020-03-14 15:04:08 --> Output Class Initialized
+INFO - 2020-03-14 15:04:08 --> Security Class Initialized
+DEBUG - 2020-03-14 15:04:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 15:04:08 --> Input Class Initialized
+DEBUG - 2020-03-14 15:04:08 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 15:04:08 --> Language Class Initialized
+INFO - 2020-03-14 15:04:08 --> Config Class Initialized
+INFO - 2020-03-14 15:04:08 --> Loader Class Initialized
+INFO - 2020-03-14 15:04:08 --> Helper loaded: url_helper
+INFO - 2020-03-14 15:04:08 --> Helper loaded: form_helper
+INFO - 2020-03-14 15:04:08 --> Helper loaded: language_helper
+INFO - 2020-03-14 15:04:08 --> Database Driver Class Initialized
+INFO - 2020-03-14 15:04:08 --> Controller Class Initialized
+DEBUG - 2020-03-14 15:04:08 --> News MX_Controller Initialized
+INFO - 2020-03-14 15:04:08 --> Helper loaded: html_helper
+INFO - 2020-03-14 15:04:08 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 15:04:08 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 15:04:08 --> Helper loaded: file_helper
+INFO - 2020-03-14 15:04:08 --> MY_Model class loaded
+INFO - 2020-03-14 15:04:08 --> Model "Language_model" initialized
+INFO - 2020-03-14 15:04:08 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 15:04:08 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 15:04:08 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 15:04:08 --> Model "Setting_model" initialized
+INFO - 2020-03-14 15:04:09 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 15:04:09 --> Model "Page_model" initialized
+INFO - 2020-03-14 15:04:09 --> Model "Category_model" initialized
+INFO - 2020-03-14 15:04:09 --> Model "Article_model" initialized
+INFO - 2020-03-14 15:04:09 --> Model "Service_model" initialized
+INFO - 2020-03-14 15:04:09 --> Model "User_model" initialized
+INFO - 2020-03-14 15:04:09 --> Model "Article_category_model" initialized
+ERROR - 2020-03-14 15:04:09 --> Could not find the language line "Next"
+DEBUG - 2020-03-14 15:04:09 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_search.php
+DEBUG - 2020-03-14 15:04:09 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_news_categories.php
+DEBUG - 2020-03-14 15:04:09 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_services.php
+DEBUG - 2020-03-14 15:04:09 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_solutions.php
+DEBUG - 2020-03-14 15:04:09 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_tags.php
+DEBUG - 2020-03-14 15:04:09 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/default/news/listing_news.php
+DEBUG - 2020-03-14 15:04:09 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/top_bar.php
+ERROR - 2020-03-14 15:04:09 --> Could not find the language line "Giới thiệu"
+ERROR - 2020-03-14 15:04:09 --> Could not find the language line "Dịch vụ thương mại"
+ERROR - 2020-03-14 15:04:09 --> Could not find the language line "Lĩnh vực hoạt động"
+ERROR - 2020-03-14 15:04:09 --> Could not find the language line "Tin Hoạt Động"
+ERROR - 2020-03-14 15:04:09 --> Could not find the language line "Tin Công Nghệ"
+ERROR - 2020-03-14 15:04:09 --> Could not find the language line "Sự Kiện"
+ERROR - 2020-03-14 15:04:09 --> Could not find the language line "Góc báo chí"
+DEBUG - 2020-03-14 15:04:09 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/mega_menu.php
+ERROR - 2020-03-14 15:04:09 --> Could not find the language line "Search"
+ERROR - 2020-03-14 15:04:09 --> Could not find the language line "Sự Kiện"
+ERROR - 2020-03-14 15:04:09 --> Could not find the language line "Tin sự kiện"
+ERROR - 2020-03-14 15:04:09 --> Could not find the language line "news"
+DEBUG - 2020-03-14 15:04:09 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/page_header.php
+DEBUG - 2020-03-14 15:04:09 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_header_view.php
+ERROR - 2020-03-14 15:04:09 --> Severity: error --> Exception: syntax error, unexpected ')', expecting ']' /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_footer_view.php 39
+INFO - 2020-03-14 15:04:09 --> Config Class Initialized
+INFO - 2020-03-14 15:04:09 --> Hooks Class Initialized
+DEBUG - 2020-03-14 15:04:09 --> UTF-8 Support Enabled
+INFO - 2020-03-14 15:04:09 --> Utf8 Class Initialized
+INFO - 2020-03-14 15:04:09 --> URI Class Initialized
+INFO - 2020-03-14 15:04:09 --> Router Class Initialized
+INFO - 2020-03-14 15:04:09 --> Output Class Initialized
+INFO - 2020-03-14 15:04:09 --> Security Class Initialized
+DEBUG - 2020-03-14 15:04:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 15:04:09 --> Input Class Initialized
+DEBUG - 2020-03-14 15:04:09 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 15:04:09 --> Language Class Initialized
+INFO - 2020-03-14 15:04:09 --> Config Class Initialized
+INFO - 2020-03-14 15:04:09 --> Loader Class Initialized
+INFO - 2020-03-14 15:04:09 --> Helper loaded: url_helper
+INFO - 2020-03-14 15:04:09 --> Helper loaded: form_helper
+INFO - 2020-03-14 15:04:09 --> Config Class Initialized
+INFO - 2020-03-14 15:04:09 --> Helper loaded: language_helper
+INFO - 2020-03-14 15:04:09 --> Hooks Class Initialized
+DEBUG - 2020-03-14 15:04:09 --> UTF-8 Support Enabled
+INFO - 2020-03-14 15:04:09 --> Utf8 Class Initialized
+INFO - 2020-03-14 15:04:09 --> URI Class Initialized
+INFO - 2020-03-14 15:04:09 --> Config Class Initialized
+INFO - 2020-03-14 15:04:09 --> Config Class Initialized
+INFO - 2020-03-14 15:04:09 --> Database Driver Class Initialized
+INFO - 2020-03-14 15:04:09 --> Hooks Class Initialized
+INFO - 2020-03-14 15:04:09 --> Router Class Initialized
+DEBUG - 2020-03-14 15:04:09 --> UTF-8 Support Enabled
+INFO - 2020-03-14 15:04:09 --> Utf8 Class Initialized
+INFO - 2020-03-14 15:04:09 --> Output Class Initialized
+INFO - 2020-03-14 15:04:09 --> Security Class Initialized
+INFO - 2020-03-14 15:04:09 --> Hooks Class Initialized
+DEBUG - 2020-03-14 15:04:09 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-03-14 15:04:09 --> UTF-8 Support Enabled
+INFO - 2020-03-14 15:04:09 --> Input Class Initialized
+INFO - 2020-03-14 15:04:09 --> Utf8 Class Initialized
+DEBUG - 2020-03-14 15:04:09 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 15:04:09 --> URI Class Initialized
+INFO - 2020-03-14 15:04:09 --> Language Class Initialized
+INFO - 2020-03-14 15:04:09 --> Config Class Initialized
+INFO - 2020-03-14 15:04:09 --> Loader Class Initialized
+INFO - 2020-03-14 15:04:09 --> Router Class Initialized
+INFO - 2020-03-14 15:04:09 --> Helper loaded: url_helper
+INFO - 2020-03-14 15:04:09 --> Output Class Initialized
+INFO - 2020-03-14 15:04:09 --> Helper loaded: form_helper
+INFO - 2020-03-14 15:04:09 --> Helper loaded: language_helper
+INFO - 2020-03-14 15:04:09 --> Database Driver Class Initialized
+INFO - 2020-03-14 15:04:09 --> Security Class Initialized
+INFO - 2020-03-14 15:04:09 --> URI Class Initialized
+DEBUG - 2020-03-14 15:04:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 15:04:09 --> Input Class Initialized
+INFO - 2020-03-14 15:04:09 --> Router Class Initialized
+DEBUG - 2020-03-14 15:04:09 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 15:04:09 --> Language Class Initialized
+INFO - 2020-03-14 15:04:09 --> Output Class Initialized
+INFO - 2020-03-14 15:04:09 --> Config Class Initialized
+INFO - 2020-03-14 15:04:09 --> Security Class Initialized
+INFO - 2020-03-14 15:04:09 --> Loader Class Initialized
+INFO - 2020-03-14 15:04:09 --> Controller Class Initialized
+DEBUG - 2020-03-14 15:04:09 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-03-14 15:04:09 --> News MX_Controller Initialized
+INFO - 2020-03-14 15:04:09 --> Controller Class Initialized
+INFO - 2020-03-14 15:04:09 --> Input Class Initialized
+INFO - 2020-03-14 15:04:09 --> Helper loaded: url_helper
+DEBUG - 2020-03-14 15:04:09 --> Language_Identifier Class Initialized
+DEBUG - 2020-03-14 15:04:09 --> News MX_Controller Initialized
+INFO - 2020-03-14 15:04:09 --> Helper loaded: form_helper
+INFO - 2020-03-14 15:04:09 --> Helper loaded: html_helper
+INFO - 2020-03-14 15:04:09 --> Language Class Initialized
+INFO - 2020-03-14 15:04:09 --> Helper loaded: language_helper
+INFO - 2020-03-14 15:04:09 --> Helper loaded: html_helper
+INFO - 2020-03-14 15:04:09 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 15:04:09 --> Database Driver Class Initialized
+INFO - 2020-03-14 15:04:09 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 15:04:09 --> Config Class Initialized
+INFO - 2020-03-14 15:04:09 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 15:04:09 --> Loader Class Initialized
+INFO - 2020-03-14 15:04:09 --> Helper loaded: url_helper
+INFO - 2020-03-14 15:04:09 --> Controller Class Initialized
+INFO - 2020-03-14 15:04:09 --> Helper loaded: file_helper
+INFO - 2020-03-14 15:04:09 --> Helper loaded: form_helper
+DEBUG - 2020-03-14 15:04:09 --> News MX_Controller Initialized
+INFO - 2020-03-14 15:04:09 --> Helper loaded: language_helper
+INFO - 2020-03-14 15:04:09 --> MY_Model class loaded
+INFO - 2020-03-14 15:04:09 --> Helper loaded: html_helper
+INFO - 2020-03-14 15:04:09 --> Database Driver Class Initialized
+INFO - 2020-03-14 15:04:09 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 15:04:09 --> Model "Language_model" initialized
+INFO - 2020-03-14 15:04:09 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 15:04:09 --> Controller Class Initialized
+DEBUG - 2020-03-14 15:04:09 --> News MX_Controller Initialized
+INFO - 2020-03-14 15:04:09 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 15:04:09 --> Helper loaded: html_helper
+INFO - 2020-03-14 15:04:09 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 15:04:09 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 15:04:09 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 15:04:09 --> Model "Page_model" initialized
+INFO - 2020-03-14 15:04:09 --> Model "Category_model" initialized
+INFO - 2020-03-14 15:04:09 --> Model "Article_model" initialized
+INFO - 2020-03-14 15:04:09 --> Model "Service_model" initialized
+ERROR - 2020-03-14 15:04:09 --> Severity: Warning --> A non-numeric value encountered /Volumes/Betrai/www/thienanphu/application/controllers/News.php 22
+INFO - 2020-03-14 15:04:09 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 15:04:09 --> Helper loaded: file_helper
+INFO - 2020-03-14 15:04:09 --> MY_Model class loaded
+INFO - 2020-03-14 15:04:09 --> Model "Language_model" initialized
+INFO - 2020-03-14 15:04:09 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 15:04:09 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 15:04:09 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 15:04:09 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 15:04:09 --> Model "Page_model" initialized
+INFO - 2020-03-14 15:04:09 --> Model "Category_model" initialized
+INFO - 2020-03-14 15:04:09 --> Model "Article_model" initialized
+INFO - 2020-03-14 15:04:09 --> Model "Service_model" initialized
+ERROR - 2020-03-14 15:04:09 --> Severity: Warning --> A non-numeric value encountered /Volumes/Betrai/www/thienanphu/application/controllers/News.php 22
+INFO - 2020-03-14 15:04:09 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 15:04:09 --> Helper loaded: file_helper
+INFO - 2020-03-14 15:04:09 --> MY_Model class loaded
+INFO - 2020-03-14 15:04:09 --> Model "Language_model" initialized
+INFO - 2020-03-14 15:04:09 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 15:04:09 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 15:04:09 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 15:04:09 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 15:04:09 --> Model "Page_model" initialized
+INFO - 2020-03-14 15:04:09 --> Model "Category_model" initialized
+INFO - 2020-03-14 15:04:09 --> Model "Article_model" initialized
+INFO - 2020-03-14 15:04:09 --> Model "Service_model" initialized
+ERROR - 2020-03-14 15:04:09 --> Severity: Warning --> A non-numeric value encountered /Volumes/Betrai/www/thienanphu/application/controllers/News.php 22
+INFO - 2020-03-14 15:04:09 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 15:04:09 --> Helper loaded: file_helper
+INFO - 2020-03-14 15:04:09 --> MY_Model class loaded
+INFO - 2020-03-14 15:04:09 --> Model "Language_model" initialized
+INFO - 2020-03-14 15:04:09 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 15:04:09 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 15:04:09 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 15:04:09 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 15:04:09 --> Model "Page_model" initialized
+INFO - 2020-03-14 15:04:09 --> Model "Category_model" initialized
+INFO - 2020-03-14 15:04:09 --> Model "Article_model" initialized
+INFO - 2020-03-14 15:04:09 --> Model "Service_model" initialized
+ERROR - 2020-03-14 15:04:09 --> Severity: Warning --> A non-numeric value encountered /Volumes/Betrai/www/thienanphu/application/controllers/News.php 22
+INFO - 2020-03-14 15:04:22 --> Config Class Initialized
+INFO - 2020-03-14 15:04:22 --> Hooks Class Initialized
+DEBUG - 2020-03-14 15:04:22 --> UTF-8 Support Enabled
+INFO - 2020-03-14 15:04:22 --> Utf8 Class Initialized
+INFO - 2020-03-14 15:04:22 --> URI Class Initialized
+INFO - 2020-03-14 15:04:22 --> Router Class Initialized
+INFO - 2020-03-14 15:04:22 --> Output Class Initialized
+INFO - 2020-03-14 15:04:22 --> Security Class Initialized
+DEBUG - 2020-03-14 15:04:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 15:04:22 --> Input Class Initialized
+DEBUG - 2020-03-14 15:04:22 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 15:04:22 --> Language Class Initialized
+INFO - 2020-03-14 15:04:22 --> Config Class Initialized
+INFO - 2020-03-14 15:04:22 --> Loader Class Initialized
+INFO - 2020-03-14 15:04:22 --> Helper loaded: url_helper
+INFO - 2020-03-14 15:04:22 --> Helper loaded: form_helper
+INFO - 2020-03-14 15:04:22 --> Helper loaded: language_helper
+INFO - 2020-03-14 15:04:22 --> Database Driver Class Initialized
+INFO - 2020-03-14 15:04:22 --> Controller Class Initialized
+DEBUG - 2020-03-14 15:04:22 --> News MX_Controller Initialized
+INFO - 2020-03-14 15:04:22 --> Helper loaded: html_helper
+INFO - 2020-03-14 15:04:22 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 15:04:22 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 15:04:22 --> Helper loaded: file_helper
+INFO - 2020-03-14 15:04:22 --> MY_Model class loaded
+INFO - 2020-03-14 15:04:22 --> Model "Language_model" initialized
+INFO - 2020-03-14 15:04:22 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 15:04:22 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 15:04:22 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 15:04:22 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 15:04:22 --> Model "Page_model" initialized
+INFO - 2020-03-14 15:04:22 --> Model "Category_model" initialized
+INFO - 2020-03-14 15:04:22 --> Model "Article_model" initialized
+INFO - 2020-03-14 15:04:22 --> Model "Service_model" initialized
+INFO - 2020-03-14 15:04:22 --> Model "User_model" initialized
+INFO - 2020-03-14 15:04:22 --> Model "Article_category_model" initialized
+ERROR - 2020-03-14 15:04:22 --> Could not find the language line "Next"
+DEBUG - 2020-03-14 15:04:22 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_search.php
+DEBUG - 2020-03-14 15:04:22 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_news_categories.php
+DEBUG - 2020-03-14 15:04:22 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_services.php
+DEBUG - 2020-03-14 15:04:22 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_solutions.php
+DEBUG - 2020-03-14 15:04:22 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_tags.php
+DEBUG - 2020-03-14 15:04:22 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/default/news/listing_news.php
+DEBUG - 2020-03-14 15:04:22 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/top_bar.php
+ERROR - 2020-03-14 15:04:22 --> Could not find the language line "Giới thiệu"
+ERROR - 2020-03-14 15:04:22 --> Could not find the language line "Dịch vụ thương mại"
+ERROR - 2020-03-14 15:04:22 --> Could not find the language line "Lĩnh vực hoạt động"
+ERROR - 2020-03-14 15:04:22 --> Could not find the language line "Tin Hoạt Động"
+ERROR - 2020-03-14 15:04:22 --> Could not find the language line "Tin Công Nghệ"
+ERROR - 2020-03-14 15:04:22 --> Could not find the language line "Sự Kiện"
+ERROR - 2020-03-14 15:04:22 --> Could not find the language line "Góc báo chí"
+DEBUG - 2020-03-14 15:04:22 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/mega_menu.php
+ERROR - 2020-03-14 15:04:22 --> Could not find the language line "Search"
+ERROR - 2020-03-14 15:04:22 --> Could not find the language line "Sự Kiện"
+ERROR - 2020-03-14 15:04:22 --> Could not find the language line "Tin sự kiện"
+ERROR - 2020-03-14 15:04:22 --> Could not find the language line "news"
+DEBUG - 2020-03-14 15:04:22 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/page_header.php
+DEBUG - 2020-03-14 15:04:22 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_header_view.php
+ERROR - 2020-03-14 15:04:22 --> Severity: error --> Exception: syntax error, unexpected ']', expecting ')' /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_footer_view.php 39
+INFO - 2020-03-14 15:04:22 --> Config Class Initialized
+INFO - 2020-03-14 15:04:22 --> Config Class Initialized
+INFO - 2020-03-14 15:04:22 --> Hooks Class Initialized
+DEBUG - 2020-03-14 15:04:22 --> UTF-8 Support Enabled
+INFO - 2020-03-14 15:04:22 --> Utf8 Class Initialized
+INFO - 2020-03-14 15:04:22 --> URI Class Initialized
+INFO - 2020-03-14 15:04:22 --> Router Class Initialized
+INFO - 2020-03-14 15:04:22 --> Output Class Initialized
+INFO - 2020-03-14 15:04:22 --> Security Class Initialized
+DEBUG - 2020-03-14 15:04:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 15:04:22 --> Input Class Initialized
+DEBUG - 2020-03-14 15:04:22 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 15:04:22 --> Language Class Initialized
+INFO - 2020-03-14 15:04:22 --> Config Class Initialized
+INFO - 2020-03-14 15:04:22 --> Loader Class Initialized
+INFO - 2020-03-14 15:04:22 --> Helper loaded: url_helper
+INFO - 2020-03-14 15:04:22 --> Helper loaded: form_helper
+INFO - 2020-03-14 15:04:22 --> Helper loaded: language_helper
+INFO - 2020-03-14 15:04:22 --> Database Driver Class Initialized
+INFO - 2020-03-14 15:04:22 --> Config Class Initialized
+INFO - 2020-03-14 15:04:22 --> Controller Class Initialized
+INFO - 2020-03-14 15:04:22 --> Hooks Class Initialized
+DEBUG - 2020-03-14 15:04:22 --> News MX_Controller Initialized
+INFO - 2020-03-14 15:04:22 --> Helper loaded: html_helper
+INFO - 2020-03-14 15:04:22 --> Helper loaded: cookie_helper
+DEBUG - 2020-03-14 15:04:22 --> UTF-8 Support Enabled
+INFO - 2020-03-14 15:04:22 --> Hooks Class Initialized
+INFO - 2020-03-14 15:04:22 --> Utf8 Class Initialized
+DEBUG - 2020-03-14 15:04:22 --> UTF-8 Support Enabled
+INFO - 2020-03-14 15:04:22 --> Utf8 Class Initialized
+INFO - 2020-03-14 15:04:22 --> URI Class Initialized
+INFO - 2020-03-14 15:04:22 --> URI Class Initialized
+INFO - 2020-03-14 15:04:22 --> Router Class Initialized
+INFO - 2020-03-14 15:04:22 --> Config Class Initialized
+INFO - 2020-03-14 15:04:22 --> Hooks Class Initialized
+INFO - 2020-03-14 15:04:22 --> Output Class Initialized
+DEBUG - 2020-03-14 15:04:22 --> UTF-8 Support Enabled
+INFO - 2020-03-14 15:04:22 --> Security Class Initialized
+DEBUG - 2020-03-14 15:04:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 15:04:22 --> Utf8 Class Initialized
+INFO - 2020-03-14 15:04:22 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 15:04:22 --> URI Class Initialized
+INFO - 2020-03-14 15:04:22 --> Helper loaded: file_helper
+INFO - 2020-03-14 15:04:22 --> Router Class Initialized
+INFO - 2020-03-14 15:04:22 --> Input Class Initialized
+INFO - 2020-03-14 15:04:22 --> MY_Model class loaded
+INFO - 2020-03-14 15:04:22 --> Model "Language_model" initialized
+INFO - 2020-03-14 15:04:22 --> Output Class Initialized
+DEBUG - 2020-03-14 15:04:22 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 15:04:22 --> Language Class Initialized
+INFO - 2020-03-14 15:04:22 --> Security Class Initialized
+DEBUG - 2020-03-14 15:04:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 15:04:22 --> Input Class Initialized
+INFO - 2020-03-14 15:04:22 --> Config Class Initialized
+DEBUG - 2020-03-14 15:04:22 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 15:04:22 --> Loader Class Initialized
+INFO - 2020-03-14 15:04:22 --> Language Class Initialized
+INFO - 2020-03-14 15:04:22 --> Router Class Initialized
+INFO - 2020-03-14 15:04:22 --> Helper loaded: url_helper
+INFO - 2020-03-14 15:04:22 --> Output Class Initialized
+INFO - 2020-03-14 15:04:22 --> Helper loaded: form_helper
+INFO - 2020-03-14 15:04:22 --> Security Class Initialized
+INFO - 2020-03-14 15:04:22 --> Helper loaded: language_helper
+DEBUG - 2020-03-14 15:04:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 15:04:22 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 15:04:22 --> Input Class Initialized
+INFO - 2020-03-14 15:04:22 --> Language file loaded: language/vietnamese/global_lang.php
+DEBUG - 2020-03-14 15:04:22 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 15:04:22 --> Language Class Initialized
+INFO - 2020-03-14 15:04:22 --> Config Class Initialized
+INFO - 2020-03-14 15:04:22 --> Loader Class Initialized
+INFO - 2020-03-14 15:04:22 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 15:04:22 --> Config Class Initialized
+INFO - 2020-03-14 15:04:22 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 15:04:22 --> Loader Class Initialized
+INFO - 2020-03-14 15:04:22 --> Helper loaded: url_helper
+INFO - 2020-03-14 15:04:22 --> Helper loaded: url_helper
+INFO - 2020-03-14 15:04:22 --> Helper loaded: form_helper
+INFO - 2020-03-14 15:04:22 --> Database Driver Class Initialized
+INFO - 2020-03-14 15:04:22 --> Helper loaded: language_helper
+INFO - 2020-03-14 15:04:22 --> Database Driver Class Initialized
+INFO - 2020-03-14 15:04:22 --> Helper loaded: form_helper
+INFO - 2020-03-14 15:04:22 --> Helper loaded: language_helper
+INFO - 2020-03-14 15:04:22 --> Model "Page_model" initialized
+INFO - 2020-03-14 15:04:22 --> Database Driver Class Initialized
+INFO - 2020-03-14 15:04:22 --> Controller Class Initialized
+INFO - 2020-03-14 15:04:22 --> Controller Class Initialized
+DEBUG - 2020-03-14 15:04:22 --> News MX_Controller Initialized
+INFO - 2020-03-14 15:04:22 --> Model "Category_model" initialized
+INFO - 2020-03-14 15:04:22 --> Helper loaded: html_helper
+DEBUG - 2020-03-14 15:04:22 --> News MX_Controller Initialized
+INFO - 2020-03-14 15:04:22 --> Controller Class Initialized
+INFO - 2020-03-14 15:04:22 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 15:04:22 --> Helper loaded: html_helper
+DEBUG - 2020-03-14 15:04:22 --> News MX_Controller Initialized
+INFO - 2020-03-14 15:04:22 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 15:04:22 --> Helper loaded: html_helper
+INFO - 2020-03-14 15:04:22 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 15:04:22 --> Model "Article_model" initialized
+INFO - 2020-03-14 15:04:22 --> Model "Service_model" initialized
+ERROR - 2020-03-14 15:04:22 --> Severity: Warning --> A non-numeric value encountered /Volumes/Betrai/www/thienanphu/application/controllers/News.php 22
+INFO - 2020-03-14 15:04:22 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 15:04:22 --> Helper loaded: file_helper
+INFO - 2020-03-14 15:04:22 --> MY_Model class loaded
+INFO - 2020-03-14 15:04:22 --> Model "Language_model" initialized
+INFO - 2020-03-14 15:04:22 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 15:04:22 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 15:04:22 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 15:04:22 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 15:04:22 --> Model "Page_model" initialized
+INFO - 2020-03-14 15:04:22 --> Model "Category_model" initialized
+INFO - 2020-03-14 15:04:22 --> Model "Article_model" initialized
+INFO - 2020-03-14 15:04:22 --> Model "Service_model" initialized
+ERROR - 2020-03-14 15:04:23 --> Severity: Warning --> A non-numeric value encountered /Volumes/Betrai/www/thienanphu/application/controllers/News.php 22
+INFO - 2020-03-14 15:04:23 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 15:04:23 --> Helper loaded: file_helper
+INFO - 2020-03-14 15:04:23 --> MY_Model class loaded
+INFO - 2020-03-14 15:04:23 --> Model "Language_model" initialized
+INFO - 2020-03-14 15:04:23 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 15:04:23 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 15:04:23 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 15:04:23 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 15:04:23 --> Model "Page_model" initialized
+INFO - 2020-03-14 15:04:23 --> Model "Category_model" initialized
+INFO - 2020-03-14 15:04:23 --> Model "Article_model" initialized
+INFO - 2020-03-14 15:04:23 --> Model "Service_model" initialized
+ERROR - 2020-03-14 15:04:23 --> Severity: Warning --> A non-numeric value encountered /Volumes/Betrai/www/thienanphu/application/controllers/News.php 22
+INFO - 2020-03-14 15:04:23 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 15:04:23 --> Helper loaded: file_helper
+INFO - 2020-03-14 15:04:23 --> MY_Model class loaded
+INFO - 2020-03-14 15:04:23 --> Model "Language_model" initialized
+INFO - 2020-03-14 15:04:23 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 15:04:23 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 15:04:23 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 15:04:23 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 15:04:23 --> Model "Page_model" initialized
+INFO - 2020-03-14 15:04:23 --> Model "Category_model" initialized
+INFO - 2020-03-14 15:04:23 --> Model "Article_model" initialized
+INFO - 2020-03-14 15:04:23 --> Model "Service_model" initialized
+ERROR - 2020-03-14 15:04:23 --> Severity: Warning --> A non-numeric value encountered /Volumes/Betrai/www/thienanphu/application/controllers/News.php 22
+INFO - 2020-03-14 15:04:35 --> Config Class Initialized
+INFO - 2020-03-14 15:04:35 --> Hooks Class Initialized
+DEBUG - 2020-03-14 15:04:35 --> UTF-8 Support Enabled
+INFO - 2020-03-14 15:04:35 --> Utf8 Class Initialized
+INFO - 2020-03-14 15:04:35 --> URI Class Initialized
+INFO - 2020-03-14 15:04:35 --> Router Class Initialized
+INFO - 2020-03-14 15:04:35 --> Output Class Initialized
+INFO - 2020-03-14 15:04:35 --> Security Class Initialized
+DEBUG - 2020-03-14 15:04:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 15:04:35 --> Input Class Initialized
+DEBUG - 2020-03-14 15:04:35 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 15:04:35 --> Language Class Initialized
+INFO - 2020-03-14 15:04:35 --> Config Class Initialized
+INFO - 2020-03-14 15:04:35 --> Loader Class Initialized
+INFO - 2020-03-14 15:04:35 --> Helper loaded: url_helper
+INFO - 2020-03-14 15:04:35 --> Helper loaded: form_helper
+INFO - 2020-03-14 15:04:35 --> Helper loaded: language_helper
+INFO - 2020-03-14 15:04:35 --> Database Driver Class Initialized
+INFO - 2020-03-14 15:04:35 --> Controller Class Initialized
+DEBUG - 2020-03-14 15:04:35 --> News MX_Controller Initialized
+INFO - 2020-03-14 15:04:35 --> Helper loaded: html_helper
+INFO - 2020-03-14 15:04:35 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 15:04:35 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 15:04:35 --> Helper loaded: file_helper
+INFO - 2020-03-14 15:04:35 --> MY_Model class loaded
+INFO - 2020-03-14 15:04:35 --> Model "Language_model" initialized
+INFO - 2020-03-14 15:04:35 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 15:04:35 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 15:04:35 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 15:04:35 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 15:04:35 --> Model "Page_model" initialized
+INFO - 2020-03-14 15:04:35 --> Model "Category_model" initialized
+INFO - 2020-03-14 15:04:35 --> Model "Article_model" initialized
+INFO - 2020-03-14 15:04:35 --> Model "Service_model" initialized
+INFO - 2020-03-14 15:04:35 --> Model "User_model" initialized
+INFO - 2020-03-14 15:04:35 --> Model "Article_category_model" initialized
+ERROR - 2020-03-14 15:04:35 --> Could not find the language line "Next"
+DEBUG - 2020-03-14 15:04:35 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_search.php
+DEBUG - 2020-03-14 15:04:35 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_news_categories.php
+DEBUG - 2020-03-14 15:04:35 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_services.php
+DEBUG - 2020-03-14 15:04:35 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_solutions.php
+DEBUG - 2020-03-14 15:04:35 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_tags.php
+DEBUG - 2020-03-14 15:04:35 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/default/news/listing_news.php
+DEBUG - 2020-03-14 15:04:35 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/top_bar.php
+ERROR - 2020-03-14 15:04:35 --> Could not find the language line "Giới thiệu"
+ERROR - 2020-03-14 15:04:35 --> Could not find the language line "Dịch vụ thương mại"
+ERROR - 2020-03-14 15:04:35 --> Could not find the language line "Lĩnh vực hoạt động"
+ERROR - 2020-03-14 15:04:35 --> Could not find the language line "Tin Hoạt Động"
+ERROR - 2020-03-14 15:04:35 --> Could not find the language line "Tin Công Nghệ"
+ERROR - 2020-03-14 15:04:35 --> Could not find the language line "Sự Kiện"
+ERROR - 2020-03-14 15:04:35 --> Could not find the language line "Góc báo chí"
+DEBUG - 2020-03-14 15:04:35 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/mega_menu.php
+ERROR - 2020-03-14 15:04:35 --> Could not find the language line "Search"
+ERROR - 2020-03-14 15:04:35 --> Could not find the language line "Sự Kiện"
+ERROR - 2020-03-14 15:04:35 --> Could not find the language line "Tin sự kiện"
+ERROR - 2020-03-14 15:04:35 --> Could not find the language line "news"
+DEBUG - 2020-03-14 15:04:35 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/page_header.php
+DEBUG - 2020-03-14 15:04:35 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_header_view.php
+DEBUG - 2020-03-14 15:04:35 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_footer_view.php
+DEBUG - 2020-03-14 15:04:35 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/master_view.php
+INFO - 2020-03-14 15:04:35 --> Final output sent to browser
+DEBUG - 2020-03-14 15:04:35 --> Total execution time: 0.1133
+INFO - 2020-03-14 15:04:35 --> Config Class Initialized
+INFO - 2020-03-14 15:04:35 --> Hooks Class Initialized
+DEBUG - 2020-03-14 15:04:35 --> UTF-8 Support Enabled
+INFO - 2020-03-14 15:04:35 --> Utf8 Class Initialized
+INFO - 2020-03-14 15:04:35 --> URI Class Initialized
+INFO - 2020-03-14 15:04:35 --> Router Class Initialized
+INFO - 2020-03-14 15:04:35 --> Config Class Initialized
+INFO - 2020-03-14 15:04:35 --> Hooks Class Initialized
+DEBUG - 2020-03-14 15:04:35 --> UTF-8 Support Enabled
+INFO - 2020-03-14 15:04:35 --> Utf8 Class Initialized
+INFO - 2020-03-14 15:04:35 --> URI Class Initialized
+INFO - 2020-03-14 15:04:35 --> Output Class Initialized
+INFO - 2020-03-14 15:04:35 --> Security Class Initialized
+DEBUG - 2020-03-14 15:04:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 15:04:35 --> Input Class Initialized
+DEBUG - 2020-03-14 15:04:35 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 15:04:35 --> Language Class Initialized
+INFO - 2020-03-14 15:04:35 --> Config Class Initialized
+INFO - 2020-03-14 15:04:35 --> Hooks Class Initialized
+DEBUG - 2020-03-14 15:04:35 --> UTF-8 Support Enabled
+INFO - 2020-03-14 15:04:35 --> Config Class Initialized
+INFO - 2020-03-14 15:04:35 --> Hooks Class Initialized
+INFO - 2020-03-14 15:04:35 --> Utf8 Class Initialized
+INFO - 2020-03-14 15:04:35 --> Config Class Initialized
+INFO - 2020-03-14 15:04:35 --> URI Class Initialized
+INFO - 2020-03-14 15:04:35 --> Loader Class Initialized
+INFO - 2020-03-14 15:04:35 --> Router Class Initialized
+INFO - 2020-03-14 15:04:35 --> Config Class Initialized
+INFO - 2020-03-14 15:04:35 --> Hooks Class Initialized
+DEBUG - 2020-03-14 15:04:35 --> UTF-8 Support Enabled
+INFO - 2020-03-14 15:04:35 --> Utf8 Class Initialized
+INFO - 2020-03-14 15:04:35 --> URI Class Initialized
+INFO - 2020-03-14 15:04:35 --> Helper loaded: url_helper
+INFO - 2020-03-14 15:04:35 --> Helper loaded: form_helper
+INFO - 2020-03-14 15:04:35 --> Router Class Initialized
+INFO - 2020-03-14 15:04:35 --> Helper loaded: language_helper
+DEBUG - 2020-03-14 15:04:35 --> UTF-8 Support Enabled
+INFO - 2020-03-14 15:04:35 --> Utf8 Class Initialized
+INFO - 2020-03-14 15:04:35 --> Database Driver Class Initialized
+INFO - 2020-03-14 15:04:35 --> Output Class Initialized
+INFO - 2020-03-14 15:04:35 --> URI Class Initialized
+INFO - 2020-03-14 15:04:35 --> Security Class Initialized
+DEBUG - 2020-03-14 15:04:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 15:04:35 --> Input Class Initialized
+INFO - 2020-03-14 15:04:35 --> Router Class Initialized
+DEBUG - 2020-03-14 15:04:35 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 15:04:35 --> Output Class Initialized
+INFO - 2020-03-14 15:04:35 --> Language Class Initialized
+INFO - 2020-03-14 15:04:35 --> Output Class Initialized
+INFO - 2020-03-14 15:04:35 --> Config Class Initialized
+INFO - 2020-03-14 15:04:35 --> Security Class Initialized
+INFO - 2020-03-14 15:04:35 --> Router Class Initialized
+INFO - 2020-03-14 15:04:35 --> Loader Class Initialized
+DEBUG - 2020-03-14 15:04:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 15:04:35 --> Controller Class Initialized
+INFO - 2020-03-14 15:04:35 --> Input Class Initialized
+DEBUG - 2020-03-14 15:04:35 --> News MX_Controller Initialized
+DEBUG - 2020-03-14 15:04:35 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 15:04:35 --> Helper loaded: url_helper
+INFO - 2020-03-14 15:04:35 --> Language Class Initialized
+INFO - 2020-03-14 15:04:35 --> Output Class Initialized
+INFO - 2020-03-14 15:04:35 --> Config Class Initialized
+INFO - 2020-03-14 15:04:35 --> Helper loaded: html_helper
+INFO - 2020-03-14 15:04:35 --> Loader Class Initialized
+INFO - 2020-03-14 15:04:35 --> Security Class Initialized
+INFO - 2020-03-14 15:04:35 --> Security Class Initialized
+DEBUG - 2020-03-14 15:04:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 15:04:35 --> Helper loaded: url_helper
+DEBUG - 2020-03-14 15:04:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 15:04:35 --> Input Class Initialized
+INFO - 2020-03-14 15:04:35 --> Input Class Initialized
+INFO - 2020-03-14 15:04:35 --> Helper loaded: form_helper
+DEBUG - 2020-03-14 15:04:35 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 15:04:35 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 15:04:35 --> Helper loaded: language_helper
+INFO - 2020-03-14 15:04:35 --> Language Class Initialized
+INFO - 2020-03-14 15:04:35 --> Config Class Initialized
+INFO - 2020-03-14 15:04:35 --> Helper loaded: form_helper
+INFO - 2020-03-14 15:04:35 --> Loader Class Initialized
+INFO - 2020-03-14 15:04:35 --> Helper loaded: language_helper
+INFO - 2020-03-14 15:04:35 --> Helper loaded: url_helper
+DEBUG - 2020-03-14 15:04:35 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 15:04:35 --> Database Driver Class Initialized
+INFO - 2020-03-14 15:04:35 --> Language Class Initialized
+INFO - 2020-03-14 15:04:35 --> Helper loaded: form_helper
+INFO - 2020-03-14 15:04:35 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 15:04:35 --> Database Driver Class Initialized
+INFO - 2020-03-14 15:04:35 --> Helper loaded: language_helper
+INFO - 2020-03-14 15:04:35 --> Database Driver Class Initialized
+INFO - 2020-03-14 15:04:35 --> Config Class Initialized
+INFO - 2020-03-14 15:04:35 --> Helper loaded: file_helper
+INFO - 2020-03-14 15:04:35 --> Controller Class Initialized
+DEBUG - 2020-03-14 15:04:36 --> News MX_Controller Initialized
+INFO - 2020-03-14 15:04:36 --> Helper loaded: html_helper
+INFO - 2020-03-14 15:04:36 --> Controller Class Initialized
+INFO - 2020-03-14 15:04:36 --> Helper loaded: cookie_helper
+ERROR - 2020-03-14 15:04:36 --> 404 Page Not Found: /index
+INFO - 2020-03-14 15:04:36 --> Loader Class Initialized
+INFO - 2020-03-14 15:04:36 --> Controller Class Initialized
+DEBUG - 2020-03-14 15:04:36 --> News MX_Controller Initialized
+INFO - 2020-03-14 15:04:36 --> Helper loaded: url_helper
+INFO - 2020-03-14 15:04:36 --> Helper loaded: html_helper
+INFO - 2020-03-14 15:04:36 --> Helper loaded: form_helper
+INFO - 2020-03-14 15:04:36 --> Helper loaded: language_helper
+INFO - 2020-03-14 15:04:36 --> Database Driver Class Initialized
+INFO - 2020-03-14 15:04:36 --> MY_Model class loaded
+INFO - 2020-03-14 15:04:36 --> Model "Language_model" initialized
+INFO - 2020-03-14 15:04:36 --> Controller Class Initialized
+INFO - 2020-03-14 15:04:36 --> Helper loaded: cookie_helper
+DEBUG - 2020-03-14 15:04:36 --> News MX_Controller Initialized
+INFO - 2020-03-14 15:04:36 --> Helper loaded: html_helper
+INFO - 2020-03-14 15:04:36 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 15:04:36 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 15:04:36 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 15:04:36 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 15:04:36 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 15:04:36 --> Model "Page_model" initialized
+INFO - 2020-03-14 15:04:36 --> Model "Category_model" initialized
+INFO - 2020-03-14 15:04:36 --> Model "Article_model" initialized
+INFO - 2020-03-14 15:04:36 --> Model "Service_model" initialized
+ERROR - 2020-03-14 15:04:36 --> Severity: Warning --> A non-numeric value encountered /Volumes/Betrai/www/thienanphu/application/controllers/News.php 22
+INFO - 2020-03-14 15:04:36 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 15:04:36 --> Helper loaded: file_helper
+INFO - 2020-03-14 15:04:36 --> MY_Model class loaded
+INFO - 2020-03-14 15:04:36 --> Model "Language_model" initialized
+INFO - 2020-03-14 15:04:36 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 15:04:36 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 15:04:36 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 15:04:36 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 15:04:36 --> Model "Page_model" initialized
+INFO - 2020-03-14 15:04:36 --> Model "Category_model" initialized
+INFO - 2020-03-14 15:04:36 --> Model "Article_model" initialized
+INFO - 2020-03-14 15:04:36 --> Model "Service_model" initialized
+ERROR - 2020-03-14 15:04:36 --> Severity: Warning --> A non-numeric value encountered /Volumes/Betrai/www/thienanphu/application/controllers/News.php 22
+INFO - 2020-03-14 15:04:36 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 15:04:36 --> Helper loaded: file_helper
+INFO - 2020-03-14 15:04:36 --> MY_Model class loaded
+INFO - 2020-03-14 15:04:36 --> Model "Language_model" initialized
+INFO - 2020-03-14 15:04:36 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 15:04:36 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 15:04:36 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 15:04:36 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 15:04:36 --> Model "Page_model" initialized
+INFO - 2020-03-14 15:04:36 --> Model "Category_model" initialized
+INFO - 2020-03-14 15:04:36 --> Model "Article_model" initialized
+INFO - 2020-03-14 15:04:36 --> Model "Service_model" initialized
+ERROR - 2020-03-14 15:04:36 --> Severity: Warning --> A non-numeric value encountered /Volumes/Betrai/www/thienanphu/application/controllers/News.php 22
+INFO - 2020-03-14 15:04:36 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 15:04:36 --> Helper loaded: file_helper
+INFO - 2020-03-14 15:04:36 --> MY_Model class loaded
+INFO - 2020-03-14 15:04:36 --> Model "Language_model" initialized
+INFO - 2020-03-14 15:04:36 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 15:04:36 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 15:04:36 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 15:04:36 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 15:04:36 --> Model "Page_model" initialized
+INFO - 2020-03-14 15:04:36 --> Model "Category_model" initialized
+INFO - 2020-03-14 15:04:36 --> Model "Article_model" initialized
+INFO - 2020-03-14 15:04:36 --> Model "Service_model" initialized
+ERROR - 2020-03-14 15:04:36 --> Severity: Warning --> A non-numeric value encountered /Volumes/Betrai/www/thienanphu/application/controllers/News.php 22
+INFO - 2020-03-14 15:04:44 --> Config Class Initialized
+INFO - 2020-03-14 15:04:44 --> Hooks Class Initialized
+DEBUG - 2020-03-14 15:04:44 --> UTF-8 Support Enabled
+INFO - 2020-03-14 15:04:44 --> Utf8 Class Initialized
+INFO - 2020-03-14 15:04:44 --> URI Class Initialized
+INFO - 2020-03-14 15:04:44 --> Router Class Initialized
+INFO - 2020-03-14 15:04:44 --> Output Class Initialized
+INFO - 2020-03-14 15:04:44 --> Security Class Initialized
+DEBUG - 2020-03-14 15:04:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 15:04:44 --> Input Class Initialized
+DEBUG - 2020-03-14 15:04:44 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 15:04:44 --> Language Class Initialized
+INFO - 2020-03-14 15:04:44 --> Config Class Initialized
+INFO - 2020-03-14 15:04:44 --> Loader Class Initialized
+INFO - 2020-03-14 15:04:44 --> Helper loaded: url_helper
+INFO - 2020-03-14 15:04:44 --> Helper loaded: form_helper
+INFO - 2020-03-14 15:04:44 --> Helper loaded: language_helper
+INFO - 2020-03-14 15:04:44 --> Database Driver Class Initialized
+INFO - 2020-03-14 15:04:44 --> Controller Class Initialized
+DEBUG - 2020-03-14 15:04:44 --> News MX_Controller Initialized
+INFO - 2020-03-14 15:04:44 --> Helper loaded: html_helper
+INFO - 2020-03-14 15:04:44 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 15:04:44 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 15:04:44 --> Helper loaded: file_helper
+INFO - 2020-03-14 15:04:44 --> MY_Model class loaded
+INFO - 2020-03-14 15:04:44 --> Model "Language_model" initialized
+INFO - 2020-03-14 15:04:44 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 15:04:44 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 15:04:44 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 15:04:44 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 15:04:44 --> Model "Page_model" initialized
+INFO - 2020-03-14 15:04:44 --> Model "Category_model" initialized
+INFO - 2020-03-14 15:04:44 --> Model "Article_model" initialized
+INFO - 2020-03-14 15:04:44 --> Model "Service_model" initialized
+INFO - 2020-03-14 15:04:44 --> Model "User_model" initialized
+INFO - 2020-03-14 15:04:44 --> Model "Article_category_model" initialized
+ERROR - 2020-03-14 15:04:44 --> Could not find the language line "Next"
+DEBUG - 2020-03-14 15:04:44 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_search.php
+DEBUG - 2020-03-14 15:04:44 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_news_categories.php
+DEBUG - 2020-03-14 15:04:44 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_services.php
+DEBUG - 2020-03-14 15:04:44 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_solutions.php
+DEBUG - 2020-03-14 15:04:44 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_tags.php
+DEBUG - 2020-03-14 15:04:44 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/default/news/listing_news.php
+DEBUG - 2020-03-14 15:04:44 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/top_bar.php
+ERROR - 2020-03-14 15:04:44 --> Could not find the language line "Giới thiệu"
+ERROR - 2020-03-14 15:04:44 --> Could not find the language line "Dịch vụ thương mại"
+ERROR - 2020-03-14 15:04:44 --> Could not find the language line "Lĩnh vực hoạt động"
+ERROR - 2020-03-14 15:04:44 --> Could not find the language line "Tin Hoạt Động"
+ERROR - 2020-03-14 15:04:44 --> Could not find the language line "Tin Công Nghệ"
+ERROR - 2020-03-14 15:04:44 --> Could not find the language line "Sự Kiện"
+ERROR - 2020-03-14 15:04:44 --> Could not find the language line "Góc báo chí"
+DEBUG - 2020-03-14 15:04:44 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/mega_menu.php
+ERROR - 2020-03-14 15:04:44 --> Could not find the language line "Search"
+ERROR - 2020-03-14 15:04:44 --> Could not find the language line "Sự Kiện"
+ERROR - 2020-03-14 15:04:44 --> Could not find the language line "Tin sự kiện"
+ERROR - 2020-03-14 15:04:44 --> Could not find the language line "news"
+DEBUG - 2020-03-14 15:04:44 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/page_header.php
+DEBUG - 2020-03-14 15:04:44 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_header_view.php
+DEBUG - 2020-03-14 15:04:44 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_footer_view.php
+DEBUG - 2020-03-14 15:04:44 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/master_view.php
+INFO - 2020-03-14 15:04:44 --> Final output sent to browser
+DEBUG - 2020-03-14 15:04:44 --> Total execution time: 0.1478
+INFO - 2020-03-14 15:04:44 --> Config Class Initialized
+INFO - 2020-03-14 15:04:44 --> Config Class Initialized
+INFO - 2020-03-14 15:04:44 --> Hooks Class Initialized
+DEBUG - 2020-03-14 15:04:44 --> UTF-8 Support Enabled
+INFO - 2020-03-14 15:04:44 --> Hooks Class Initialized
+INFO - 2020-03-14 15:04:44 --> Utf8 Class Initialized
+DEBUG - 2020-03-14 15:04:44 --> UTF-8 Support Enabled
+INFO - 2020-03-14 15:04:44 --> Utf8 Class Initialized
+INFO - 2020-03-14 15:04:44 --> URI Class Initialized
+INFO - 2020-03-14 15:04:44 --> URI Class Initialized
+INFO - 2020-03-14 15:04:44 --> Router Class Initialized
+INFO - 2020-03-14 15:04:44 --> Output Class Initialized
+INFO - 2020-03-14 15:04:44 --> Security Class Initialized
+DEBUG - 2020-03-14 15:04:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 15:04:44 --> Input Class Initialized
+DEBUG - 2020-03-14 15:04:44 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 15:04:44 --> Language Class Initialized
+INFO - 2020-03-14 15:04:44 --> Config Class Initialized
+INFO - 2020-03-14 15:04:44 --> Loader Class Initialized
+INFO - 2020-03-14 15:04:44 --> Config Class Initialized
+INFO - 2020-03-14 15:04:44 --> Hooks Class Initialized
+INFO - 2020-03-14 15:04:44 --> Config Class Initialized
+INFO - 2020-03-14 15:04:44 --> Hooks Class Initialized
+DEBUG - 2020-03-14 15:04:44 --> UTF-8 Support Enabled
+INFO - 2020-03-14 15:04:44 --> Utf8 Class Initialized
+DEBUG - 2020-03-14 15:04:44 --> UTF-8 Support Enabled
+INFO - 2020-03-14 15:04:44 --> Helper loaded: url_helper
+INFO - 2020-03-14 15:04:44 --> Helper loaded: form_helper
+INFO - 2020-03-14 15:04:44 --> Helper loaded: language_helper
+INFO - 2020-03-14 15:04:44 --> Router Class Initialized
+INFO - 2020-03-14 15:04:44 --> Utf8 Class Initialized
+INFO - 2020-03-14 15:04:44 --> URI Class Initialized
+INFO - 2020-03-14 15:04:44 --> Output Class Initialized
+INFO - 2020-03-14 15:04:44 --> Router Class Initialized
+INFO - 2020-03-14 15:04:44 --> Security Class Initialized
+INFO - 2020-03-14 15:04:44 --> Output Class Initialized
+DEBUG - 2020-03-14 15:04:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 15:04:44 --> Config Class Initialized
+INFO - 2020-03-14 15:04:44 --> Input Class Initialized
+INFO - 2020-03-14 15:04:44 --> Hooks Class Initialized
+DEBUG - 2020-03-14 15:04:44 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 15:04:44 --> Security Class Initialized
+INFO - 2020-03-14 15:04:44 --> Language Class Initialized
+INFO - 2020-03-14 15:04:44 --> Config Class Initialized
+INFO - 2020-03-14 15:04:44 --> Database Driver Class Initialized
+INFO - 2020-03-14 15:04:44 --> Loader Class Initialized
+DEBUG - 2020-03-14 15:04:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 15:04:44 --> Input Class Initialized
+INFO - 2020-03-14 15:04:44 --> Helper loaded: url_helper
+DEBUG - 2020-03-14 15:04:44 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 15:04:44 --> URI Class Initialized
+INFO - 2020-03-14 15:04:44 --> Helper loaded: form_helper
+INFO - 2020-03-14 15:04:44 --> Helper loaded: language_helper
+INFO - 2020-03-14 15:04:44 --> Database Driver Class Initialized
+INFO - 2020-03-14 15:04:44 --> Router Class Initialized
+INFO - 2020-03-14 15:04:44 --> Output Class Initialized
+INFO - 2020-03-14 15:04:44 --> Security Class Initialized
+DEBUG - 2020-03-14 15:04:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 15:04:44 --> Input Class Initialized
+DEBUG - 2020-03-14 15:04:44 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 15:04:44 --> Language Class Initialized
+INFO - 2020-03-14 15:04:44 --> Config Class Initialized
+INFO - 2020-03-14 15:04:44 --> Language Class Initialized
+INFO - 2020-03-14 15:04:44 --> Loader Class Initialized
+INFO - 2020-03-14 15:04:44 --> Config Class Initialized
+INFO - 2020-03-14 15:04:44 --> Helper loaded: url_helper
+INFO - 2020-03-14 15:04:44 --> Helper loaded: form_helper
+INFO - 2020-03-14 15:04:44 --> Helper loaded: language_helper
+INFO - 2020-03-14 15:04:44 --> Database Driver Class Initialized
+INFO - 2020-03-14 15:04:45 --> Loader Class Initialized
+INFO - 2020-03-14 15:04:45 --> Helper loaded: url_helper
+INFO - 2020-03-14 15:04:45 --> Helper loaded: form_helper
+INFO - 2020-03-14 15:04:45 --> Helper loaded: language_helper
+INFO - 2020-03-14 15:04:45 --> Database Driver Class Initialized
+DEBUG - 2020-03-14 15:04:45 --> UTF-8 Support Enabled
+INFO - 2020-03-14 15:04:45 --> Utf8 Class Initialized
+INFO - 2020-03-14 15:04:45 --> Controller Class Initialized
+DEBUG - 2020-03-14 15:04:45 --> News MX_Controller Initialized
+INFO - 2020-03-14 15:04:45 --> URI Class Initialized
+INFO - 2020-03-14 15:04:45 --> Helper loaded: html_helper
+INFO - 2020-03-14 15:04:45 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 15:04:45 --> Router Class Initialized
+INFO - 2020-03-14 15:04:45 --> Output Class Initialized
+INFO - 2020-03-14 15:04:45 --> Security Class Initialized
+DEBUG - 2020-03-14 15:04:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 15:04:45 --> Input Class Initialized
+DEBUG - 2020-03-14 15:04:45 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 15:04:45 --> Language Class Initialized
+INFO - 2020-03-14 15:04:45 --> Config Class Initialized
+INFO - 2020-03-14 15:04:45 --> Loader Class Initialized
+INFO - 2020-03-14 15:04:45 --> Helper loaded: url_helper
+INFO - 2020-03-14 15:04:45 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 15:04:45 --> Helper loaded: file_helper
+INFO - 2020-03-14 15:04:45 --> Controller Class Initialized
+DEBUG - 2020-03-14 15:04:45 --> News MX_Controller Initialized
+INFO - 2020-03-14 15:04:45 --> Helper loaded: html_helper
+INFO - 2020-03-14 15:04:45 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 15:04:45 --> Helper loaded: form_helper
+INFO - 2020-03-14 15:04:45 --> MY_Model class loaded
+INFO - 2020-03-14 15:04:45 --> Model "Language_model" initialized
+INFO - 2020-03-14 15:04:45 --> Controller Class Initialized
+DEBUG - 2020-03-14 15:04:45 --> News MX_Controller Initialized
+INFO - 2020-03-14 15:04:45 --> Helper loaded: html_helper
+INFO - 2020-03-14 15:04:45 --> Helper loaded: language_helper
+INFO - 2020-03-14 15:04:45 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 15:04:45 --> Database Driver Class Initialized
+INFO - 2020-03-14 15:04:45 --> Controller Class Initialized
+DEBUG - 2020-03-14 15:04:45 --> News MX_Controller Initialized
+INFO - 2020-03-14 15:04:45 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 15:04:45 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 15:04:45 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 15:04:45 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 15:04:45 --> Model "Page_model" initialized
+INFO - 2020-03-14 15:04:45 --> Model "Category_model" initialized
+INFO - 2020-03-14 15:04:45 --> Controller Class Initialized
+ERROR - 2020-03-14 15:04:45 --> 404 Page Not Found: /index
+INFO - 2020-03-14 15:04:45 --> Model "Article_model" initialized
+INFO - 2020-03-14 15:04:45 --> Model "Service_model" initialized
+INFO - 2020-03-14 15:04:45 --> Helper loaded: html_helper
+INFO - 2020-03-14 15:04:45 --> Helper loaded: cookie_helper
+ERROR - 2020-03-14 15:04:45 --> Severity: Warning --> A non-numeric value encountered /Volumes/Betrai/www/thienanphu/application/controllers/News.php 22
+INFO - 2020-03-14 15:04:45 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 15:04:45 --> Helper loaded: file_helper
+INFO - 2020-03-14 15:04:45 --> MY_Model class loaded
+INFO - 2020-03-14 15:04:45 --> Model "Language_model" initialized
+INFO - 2020-03-14 15:04:45 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 15:04:45 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 15:04:45 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 15:04:45 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 15:04:45 --> Model "Page_model" initialized
+INFO - 2020-03-14 15:04:45 --> Model "Category_model" initialized
+INFO - 2020-03-14 15:04:45 --> Model "Article_model" initialized
+INFO - 2020-03-14 15:04:45 --> Model "Service_model" initialized
+ERROR - 2020-03-14 15:04:45 --> Severity: Warning --> A non-numeric value encountered /Volumes/Betrai/www/thienanphu/application/controllers/News.php 22
+INFO - 2020-03-14 15:04:45 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 15:04:45 --> Helper loaded: file_helper
+INFO - 2020-03-14 15:04:45 --> MY_Model class loaded
+INFO - 2020-03-14 15:04:45 --> Model "Language_model" initialized
+INFO - 2020-03-14 15:04:45 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 15:04:45 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 15:04:45 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 15:04:45 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 15:04:45 --> Model "Page_model" initialized
+INFO - 2020-03-14 15:04:45 --> Model "Category_model" initialized
+INFO - 2020-03-14 15:04:45 --> Model "Article_model" initialized
+INFO - 2020-03-14 15:04:45 --> Model "Service_model" initialized
+ERROR - 2020-03-14 15:04:45 --> Severity: Warning --> A non-numeric value encountered /Volumes/Betrai/www/thienanphu/application/controllers/News.php 22
+INFO - 2020-03-14 15:04:45 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 15:04:45 --> Helper loaded: file_helper
+INFO - 2020-03-14 15:04:45 --> MY_Model class loaded
+INFO - 2020-03-14 15:04:45 --> Model "Language_model" initialized
+INFO - 2020-03-14 15:04:45 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 15:04:45 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 15:04:45 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 15:04:45 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 15:04:45 --> Model "Page_model" initialized
+INFO - 2020-03-14 15:04:45 --> Model "Category_model" initialized
+INFO - 2020-03-14 15:04:45 --> Model "Article_model" initialized
+INFO - 2020-03-14 15:04:45 --> Model "Service_model" initialized
+ERROR - 2020-03-14 15:04:45 --> Severity: Warning --> A non-numeric value encountered /Volumes/Betrai/www/thienanphu/application/controllers/News.php 22
+INFO - 2020-03-14 15:06:00 --> Config Class Initialized
+INFO - 2020-03-14 15:06:00 --> Hooks Class Initialized
+DEBUG - 2020-03-14 15:06:00 --> UTF-8 Support Enabled
+INFO - 2020-03-14 15:06:00 --> Utf8 Class Initialized
+INFO - 2020-03-14 15:06:00 --> URI Class Initialized
+INFO - 2020-03-14 15:06:00 --> Router Class Initialized
+INFO - 2020-03-14 15:06:00 --> Output Class Initialized
+INFO - 2020-03-14 15:06:00 --> Security Class Initialized
+DEBUG - 2020-03-14 15:06:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 15:06:00 --> Input Class Initialized
+DEBUG - 2020-03-14 15:06:00 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 15:06:00 --> Language Class Initialized
+INFO - 2020-03-14 15:06:00 --> Config Class Initialized
+INFO - 2020-03-14 15:06:00 --> Loader Class Initialized
+INFO - 2020-03-14 15:06:00 --> Helper loaded: url_helper
+INFO - 2020-03-14 15:06:00 --> Helper loaded: form_helper
+INFO - 2020-03-14 15:06:00 --> Helper loaded: language_helper
+INFO - 2020-03-14 15:06:00 --> Database Driver Class Initialized
+INFO - 2020-03-14 15:06:00 --> Controller Class Initialized
+DEBUG - 2020-03-14 15:06:00 --> News MX_Controller Initialized
+INFO - 2020-03-14 15:06:00 --> Helper loaded: html_helper
+INFO - 2020-03-14 15:06:00 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 15:06:00 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 15:06:00 --> Helper loaded: file_helper
+INFO - 2020-03-14 15:06:00 --> MY_Model class loaded
+INFO - 2020-03-14 15:06:00 --> Model "Language_model" initialized
+INFO - 2020-03-14 15:06:00 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 15:06:00 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 15:06:00 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 15:06:00 --> Model "Setting_model" initialized
+INFO - 2020-03-14 15:06:00 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 15:06:00 --> Model "Page_model" initialized
+INFO - 2020-03-14 15:06:00 --> Model "Category_model" initialized
+INFO - 2020-03-14 15:06:00 --> Model "Article_model" initialized
+INFO - 2020-03-14 15:06:00 --> Model "Service_model" initialized
+INFO - 2020-03-14 15:06:00 --> Model "User_model" initialized
+INFO - 2020-03-14 15:06:00 --> Model "Article_category_model" initialized
+ERROR - 2020-03-14 15:06:00 --> Could not find the language line "Next"
+DEBUG - 2020-03-14 15:06:00 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_search.php
+DEBUG - 2020-03-14 15:06:00 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_news_categories.php
+DEBUG - 2020-03-14 15:06:00 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_services.php
+DEBUG - 2020-03-14 15:06:00 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_solutions.php
+DEBUG - 2020-03-14 15:06:00 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_tags.php
+DEBUG - 2020-03-14 15:06:00 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/default/news/listing_news.php
+DEBUG - 2020-03-14 15:06:00 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/top_bar.php
+ERROR - 2020-03-14 15:06:00 --> Could not find the language line "Giới thiệu"
+ERROR - 2020-03-14 15:06:00 --> Could not find the language line "Dịch vụ thương mại"
+ERROR - 2020-03-14 15:06:00 --> Could not find the language line "Lĩnh vực hoạt động"
+ERROR - 2020-03-14 15:06:00 --> Could not find the language line "Tin Hoạt Động"
+ERROR - 2020-03-14 15:06:00 --> Could not find the language line "Tin Công Nghệ"
+ERROR - 2020-03-14 15:06:00 --> Could not find the language line "Sự Kiện"
+ERROR - 2020-03-14 15:06:00 --> Could not find the language line "Góc báo chí"
+DEBUG - 2020-03-14 15:06:00 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/mega_menu.php
+ERROR - 2020-03-14 15:06:00 --> Could not find the language line "Search"
+ERROR - 2020-03-14 15:06:00 --> Could not find the language line "Sự Kiện"
+ERROR - 2020-03-14 15:06:00 --> Could not find the language line "Tin sự kiện"
+ERROR - 2020-03-14 15:06:00 --> Could not find the language line "news"
+DEBUG - 2020-03-14 15:06:00 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/page_header.php
+DEBUG - 2020-03-14 15:06:00 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_header_view.php
+DEBUG - 2020-03-14 15:06:00 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_footer_view.php
+DEBUG - 2020-03-14 15:06:00 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/master_view.php
+INFO - 2020-03-14 15:06:00 --> Final output sent to browser
+DEBUG - 2020-03-14 15:06:00 --> Total execution time: 0.2039
+INFO - 2020-03-14 15:06:00 --> Config Class Initialized
+INFO - 2020-03-14 15:06:00 --> Hooks Class Initialized
+INFO - 2020-03-14 15:06:00 --> Config Class Initialized
+DEBUG - 2020-03-14 15:06:00 --> UTF-8 Support Enabled
+INFO - 2020-03-14 15:06:00 --> Config Class Initialized
+INFO - 2020-03-14 15:06:00 --> Utf8 Class Initialized
+INFO - 2020-03-14 15:06:00 --> Hooks Class Initialized
+INFO - 2020-03-14 15:06:00 --> URI Class Initialized
+DEBUG - 2020-03-14 15:06:00 --> UTF-8 Support Enabled
+INFO - 2020-03-14 15:06:00 --> Utf8 Class Initialized
+INFO - 2020-03-14 15:06:00 --> Router Class Initialized
+INFO - 2020-03-14 15:06:00 --> Output Class Initialized
+INFO - 2020-03-14 15:06:00 --> Security Class Initialized
+INFO - 2020-03-14 15:06:00 --> URI Class Initialized
+DEBUG - 2020-03-14 15:06:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 15:06:00 --> Input Class Initialized
+INFO - 2020-03-14 15:06:00 --> Router Class Initialized
+INFO - 2020-03-14 15:06:00 --> Output Class Initialized
+INFO - 2020-03-14 15:06:00 --> Hooks Class Initialized
+DEBUG - 2020-03-14 15:06:00 --> UTF-8 Support Enabled
+INFO - 2020-03-14 15:06:00 --> Utf8 Class Initialized
+DEBUG - 2020-03-14 15:06:00 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 15:06:00 --> Language Class Initialized
+INFO - 2020-03-14 15:06:00 --> Config Class Initialized
+INFO - 2020-03-14 15:06:00 --> URI Class Initialized
+INFO - 2020-03-14 15:06:00 --> Loader Class Initialized
+INFO - 2020-03-14 15:06:00 --> Helper loaded: url_helper
+INFO - 2020-03-14 15:06:00 --> Helper loaded: form_helper
+INFO - 2020-03-14 15:06:00 --> Router Class Initialized
+INFO - 2020-03-14 15:06:00 --> Helper loaded: language_helper
+INFO - 2020-03-14 15:06:00 --> Output Class Initialized
+INFO - 2020-03-14 15:06:00 --> Database Driver Class Initialized
+INFO - 2020-03-14 15:06:00 --> Security Class Initialized
+DEBUG - 2020-03-14 15:06:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 15:06:00 --> Input Class Initialized
+DEBUG - 2020-03-14 15:06:00 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 15:06:00 --> Language Class Initialized
+INFO - 2020-03-14 15:06:00 --> Config Class Initialized
+INFO - 2020-03-14 15:06:00 --> Security Class Initialized
+INFO - 2020-03-14 15:06:00 --> Config Class Initialized
+INFO - 2020-03-14 15:06:00 --> Hooks Class Initialized
+INFO - 2020-03-14 15:06:00 --> Config Class Initialized
+INFO - 2020-03-14 15:06:00 --> Hooks Class Initialized
+DEBUG - 2020-03-14 15:06:00 --> UTF-8 Support Enabled
+DEBUG - 2020-03-14 15:06:00 --> UTF-8 Support Enabled
+INFO - 2020-03-14 15:06:00 --> Utf8 Class Initialized
+INFO - 2020-03-14 15:06:00 --> Utf8 Class Initialized
+INFO - 2020-03-14 15:06:00 --> URI Class Initialized
+INFO - 2020-03-14 15:06:00 --> URI Class Initialized
+INFO - 2020-03-14 15:06:00 --> Router Class Initialized
+DEBUG - 2020-03-14 15:06:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 15:06:00 --> Router Class Initialized
+INFO - 2020-03-14 15:06:00 --> Input Class Initialized
+INFO - 2020-03-14 15:06:00 --> Output Class Initialized
+INFO - 2020-03-14 15:06:00 --> Security Class Initialized
+DEBUG - 2020-03-14 15:06:00 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 15:06:00 --> Controller Class Initialized
+DEBUG - 2020-03-14 15:06:00 --> News MX_Controller Initialized
+INFO - 2020-03-14 15:06:00 --> Helper loaded: html_helper
+INFO - 2020-03-14 15:06:00 --> Output Class Initialized
+INFO - 2020-03-14 15:06:00 --> Security Class Initialized
+DEBUG - 2020-03-14 15:06:00 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-03-14 15:06:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 15:06:00 --> Input Class Initialized
+INFO - 2020-03-14 15:06:00 --> Input Class Initialized
+DEBUG - 2020-03-14 15:06:00 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 15:06:00 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 15:06:00 --> Language Class Initialized
+INFO - 2020-03-14 15:06:00 --> Config Class Initialized
+INFO - 2020-03-14 15:06:00 --> Loader Class Initialized
+INFO - 2020-03-14 15:06:00 --> Helper loaded: url_helper
+INFO - 2020-03-14 15:06:00 --> Helper loaded: form_helper
+INFO - 2020-03-14 15:06:00 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 15:06:00 --> Helper loaded: language_helper
+INFO - 2020-03-14 15:06:00 --> Database Driver Class Initialized
+INFO - 2020-03-14 15:06:00 --> Helper loaded: file_helper
+DEBUG - 2020-03-14 15:06:00 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 15:06:00 --> MY_Model class loaded
+INFO - 2020-03-14 15:06:00 --> Language Class Initialized
+INFO - 2020-03-14 15:06:00 --> Model "Language_model" initialized
+INFO - 2020-03-14 15:06:00 --> Loader Class Initialized
+INFO - 2020-03-14 15:06:00 --> Helper loaded: url_helper
+INFO - 2020-03-14 15:06:00 --> Helper loaded: form_helper
+INFO - 2020-03-14 15:06:00 --> Config Class Initialized
+INFO - 2020-03-14 15:06:00 --> Helper loaded: language_helper
+INFO - 2020-03-14 15:06:00 --> Loader Class Initialized
+INFO - 2020-03-14 15:06:00 --> Helper loaded: url_helper
+INFO - 2020-03-14 15:06:00 --> Language Class Initialized
+INFO - 2020-03-14 15:06:00 --> Config Class Initialized
+INFO - 2020-03-14 15:06:00 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 15:06:00 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 15:06:00 --> Helper loaded: form_helper
+INFO - 2020-03-14 15:06:00 --> Helper loaded: language_helper
+INFO - 2020-03-14 15:06:00 --> Database Driver Class Initialized
+INFO - 2020-03-14 15:06:00 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 15:06:00 --> Loader Class Initialized
+INFO - 2020-03-14 15:06:00 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 15:06:00 --> Helper loaded: url_helper
+INFO - 2020-03-14 15:06:00 --> Helper loaded: form_helper
+INFO - 2020-03-14 15:06:00 --> Helper loaded: language_helper
+INFO - 2020-03-14 15:06:00 --> Database Driver Class Initialized
+INFO - 2020-03-14 15:06:00 --> Database Driver Class Initialized
+INFO - 2020-03-14 15:06:00 --> Model "Page_model" initialized
+INFO - 2020-03-14 15:06:00 --> Controller Class Initialized
+INFO - 2020-03-14 15:06:00 --> Controller Class Initialized
+DEBUG - 2020-03-14 15:06:00 --> News MX_Controller Initialized
+INFO - 2020-03-14 15:06:00 --> Controller Class Initialized
+ERROR - 2020-03-14 15:06:00 --> 404 Page Not Found: /index
+INFO - 2020-03-14 15:06:00 --> Model "Category_model" initialized
+DEBUG - 2020-03-14 15:06:00 --> News MX_Controller Initialized
+INFO - 2020-03-14 15:06:00 --> Helper loaded: html_helper
+INFO - 2020-03-14 15:06:00 --> Helper loaded: html_helper
+INFO - 2020-03-14 15:06:00 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 15:06:00 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 15:06:00 --> Controller Class Initialized
+DEBUG - 2020-03-14 15:06:00 --> News MX_Controller Initialized
+INFO - 2020-03-14 15:06:00 --> Helper loaded: html_helper
+INFO - 2020-03-14 15:06:00 --> Model "Article_model" initialized
+INFO - 2020-03-14 15:06:00 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 15:06:00 --> Model "Service_model" initialized
+ERROR - 2020-03-14 15:06:00 --> Severity: Warning --> A non-numeric value encountered /Volumes/Betrai/www/thienanphu/application/controllers/News.php 22
+INFO - 2020-03-14 15:06:00 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 15:06:00 --> Helper loaded: file_helper
+INFO - 2020-03-14 15:06:00 --> MY_Model class loaded
+INFO - 2020-03-14 15:06:00 --> Model "Language_model" initialized
+INFO - 2020-03-14 15:06:00 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 15:06:00 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 15:06:00 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 15:06:00 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 15:06:00 --> Model "Page_model" initialized
+INFO - 2020-03-14 15:06:00 --> Model "Category_model" initialized
+INFO - 2020-03-14 15:06:00 --> Model "Article_model" initialized
+INFO - 2020-03-14 15:06:00 --> Model "Service_model" initialized
+ERROR - 2020-03-14 15:06:00 --> Severity: Warning --> A non-numeric value encountered /Volumes/Betrai/www/thienanphu/application/controllers/News.php 22
+INFO - 2020-03-14 15:06:00 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 15:06:00 --> Helper loaded: file_helper
+INFO - 2020-03-14 15:06:00 --> MY_Model class loaded
+INFO - 2020-03-14 15:06:00 --> Model "Language_model" initialized
+INFO - 2020-03-14 15:06:00 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 15:06:00 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 15:06:00 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 15:06:00 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 15:06:00 --> Model "Page_model" initialized
+INFO - 2020-03-14 15:06:00 --> Model "Category_model" initialized
+INFO - 2020-03-14 15:06:00 --> Model "Article_model" initialized
+INFO - 2020-03-14 15:06:00 --> Model "Service_model" initialized
+ERROR - 2020-03-14 15:06:00 --> Severity: Warning --> A non-numeric value encountered /Volumes/Betrai/www/thienanphu/application/controllers/News.php 22
+INFO - 2020-03-14 15:06:00 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 15:06:00 --> Helper loaded: file_helper
+INFO - 2020-03-14 15:06:00 --> MY_Model class loaded
+INFO - 2020-03-14 15:06:00 --> Model "Language_model" initialized
+INFO - 2020-03-14 15:06:00 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 15:06:00 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 15:06:00 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 15:06:00 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 15:06:00 --> Model "Page_model" initialized
+INFO - 2020-03-14 15:06:00 --> Model "Category_model" initialized
+INFO - 2020-03-14 15:06:00 --> Model "Article_model" initialized
+INFO - 2020-03-14 15:06:00 --> Model "Service_model" initialized
+ERROR - 2020-03-14 15:06:00 --> Severity: Warning --> A non-numeric value encountered /Volumes/Betrai/www/thienanphu/application/controllers/News.php 22
+INFO - 2020-03-14 15:06:38 --> Config Class Initialized
+INFO - 2020-03-14 15:06:38 --> Hooks Class Initialized
+DEBUG - 2020-03-14 15:06:38 --> UTF-8 Support Enabled
+INFO - 2020-03-14 15:06:38 --> Utf8 Class Initialized
+INFO - 2020-03-14 15:06:38 --> URI Class Initialized
+INFO - 2020-03-14 15:06:38 --> Router Class Initialized
+INFO - 2020-03-14 15:06:38 --> Output Class Initialized
+INFO - 2020-03-14 15:06:38 --> Security Class Initialized
+DEBUG - 2020-03-14 15:06:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 15:06:38 --> Input Class Initialized
+DEBUG - 2020-03-14 15:06:38 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 15:06:38 --> Language Class Initialized
+INFO - 2020-03-14 15:06:38 --> Config Class Initialized
+INFO - 2020-03-14 15:06:38 --> Loader Class Initialized
+INFO - 2020-03-14 15:06:38 --> Helper loaded: url_helper
+INFO - 2020-03-14 15:06:38 --> Helper loaded: form_helper
+INFO - 2020-03-14 15:06:38 --> Helper loaded: language_helper
+INFO - 2020-03-14 15:06:38 --> Database Driver Class Initialized
+INFO - 2020-03-14 15:06:38 --> Controller Class Initialized
+DEBUG - 2020-03-14 15:06:38 --> News MX_Controller Initialized
+INFO - 2020-03-14 15:06:38 --> Helper loaded: html_helper
+INFO - 2020-03-14 15:06:38 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 15:06:38 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 15:06:38 --> Helper loaded: file_helper
+INFO - 2020-03-14 15:06:38 --> MY_Model class loaded
+INFO - 2020-03-14 15:06:38 --> Model "Language_model" initialized
+INFO - 2020-03-14 15:06:38 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 15:06:38 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 15:06:38 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 15:06:38 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 15:06:38 --> Model "Page_model" initialized
+INFO - 2020-03-14 15:06:38 --> Model "Category_model" initialized
+INFO - 2020-03-14 15:06:38 --> Model "Article_model" initialized
+INFO - 2020-03-14 15:06:38 --> Model "Service_model" initialized
+INFO - 2020-03-14 15:06:38 --> Model "User_model" initialized
+INFO - 2020-03-14 15:06:38 --> Model "Article_category_model" initialized
+ERROR - 2020-03-14 15:06:38 --> Could not find the language line "Next"
+DEBUG - 2020-03-14 15:06:38 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_search.php
+DEBUG - 2020-03-14 15:06:38 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_news_categories.php
+DEBUG - 2020-03-14 15:06:38 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_services.php
+DEBUG - 2020-03-14 15:06:38 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_solutions.php
+DEBUG - 2020-03-14 15:06:38 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_tags.php
+DEBUG - 2020-03-14 15:06:38 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/default/news/listing_news.php
+DEBUG - 2020-03-14 15:06:38 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/top_bar.php
+ERROR - 2020-03-14 15:06:38 --> Could not find the language line "Giới thiệu"
+ERROR - 2020-03-14 15:06:38 --> Could not find the language line "Dịch vụ thương mại"
+ERROR - 2020-03-14 15:06:38 --> Could not find the language line "Lĩnh vực hoạt động"
+ERROR - 2020-03-14 15:06:38 --> Could not find the language line "Tin Hoạt Động"
+ERROR - 2020-03-14 15:06:38 --> Could not find the language line "Tin Công Nghệ"
+ERROR - 2020-03-14 15:06:38 --> Could not find the language line "Sự Kiện"
+ERROR - 2020-03-14 15:06:38 --> Could not find the language line "Góc báo chí"
+DEBUG - 2020-03-14 15:06:38 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/mega_menu.php
+ERROR - 2020-03-14 15:06:38 --> Could not find the language line "Search"
+ERROR - 2020-03-14 15:06:38 --> Could not find the language line "Sự Kiện"
+ERROR - 2020-03-14 15:06:38 --> Could not find the language line "Tin sự kiện"
+ERROR - 2020-03-14 15:06:38 --> Could not find the language line "news"
+DEBUG - 2020-03-14 15:06:38 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/page_header.php
+DEBUG - 2020-03-14 15:06:38 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_header_view.php
+DEBUG - 2020-03-14 15:06:38 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_footer_view.php
+DEBUG - 2020-03-14 15:06:38 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/master_view.php
+INFO - 2020-03-14 15:06:38 --> Final output sent to browser
+DEBUG - 2020-03-14 15:06:38 --> Total execution time: 0.0833
+INFO - 2020-03-14 15:06:38 --> Config Class Initialized
+INFO - 2020-03-14 15:06:38 --> Hooks Class Initialized
+DEBUG - 2020-03-14 15:06:38 --> UTF-8 Support Enabled
+INFO - 2020-03-14 15:06:38 --> Utf8 Class Initialized
+INFO - 2020-03-14 15:06:38 --> URI Class Initialized
+INFO - 2020-03-14 15:06:38 --> Router Class Initialized
+INFO - 2020-03-14 15:06:38 --> Output Class Initialized
+INFO - 2020-03-14 15:06:38 --> Security Class Initialized
+DEBUG - 2020-03-14 15:06:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 15:06:38 --> Input Class Initialized
+DEBUG - 2020-03-14 15:06:38 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 15:06:38 --> Language Class Initialized
+INFO - 2020-03-14 15:06:38 --> Config Class Initialized
+INFO - 2020-03-14 15:06:38 --> Loader Class Initialized
+INFO - 2020-03-14 15:06:38 --> Helper loaded: url_helper
+INFO - 2020-03-14 15:06:38 --> Helper loaded: form_helper
+INFO - 2020-03-14 15:06:38 --> Helper loaded: language_helper
+INFO - 2020-03-14 15:06:38 --> Database Driver Class Initialized
+INFO - 2020-03-14 15:06:38 --> Config Class Initialized
+INFO - 2020-03-14 15:06:38 --> Hooks Class Initialized
+INFO - 2020-03-14 15:06:38 --> Config Class Initialized
+INFO - 2020-03-14 15:06:38 --> Hooks Class Initialized
+DEBUG - 2020-03-14 15:06:38 --> UTF-8 Support Enabled
+INFO - 2020-03-14 15:06:38 --> Utf8 Class Initialized
+DEBUG - 2020-03-14 15:06:38 --> UTF-8 Support Enabled
+INFO - 2020-03-14 15:06:38 --> Utf8 Class Initialized
+INFO - 2020-03-14 15:06:38 --> URI Class Initialized
+INFO - 2020-03-14 15:06:38 --> URI Class Initialized
+INFO - 2020-03-14 15:06:38 --> Router Class Initialized
+INFO - 2020-03-14 15:06:38 --> Router Class Initialized
+INFO - 2020-03-14 15:06:38 --> Config Class Initialized
+INFO - 2020-03-14 15:06:38 --> Hooks Class Initialized
+INFO - 2020-03-14 15:06:38 --> Output Class Initialized
+DEBUG - 2020-03-14 15:06:38 --> UTF-8 Support Enabled
+INFO - 2020-03-14 15:06:38 --> Security Class Initialized
+DEBUG - 2020-03-14 15:06:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 15:06:38 --> Input Class Initialized
+INFO - 2020-03-14 15:06:38 --> Output Class Initialized
+INFO - 2020-03-14 15:06:38 --> Config Class Initialized
+INFO - 2020-03-14 15:06:38 --> Hooks Class Initialized
+INFO - 2020-03-14 15:06:38 --> Controller Class Initialized
+DEBUG - 2020-03-14 15:06:38 --> UTF-8 Support Enabled
+INFO - 2020-03-14 15:06:38 --> Utf8 Class Initialized
+INFO - 2020-03-14 15:06:38 --> Security Class Initialized
+INFO - 2020-03-14 15:06:38 --> URI Class Initialized
+DEBUG - 2020-03-14 15:06:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 15:06:38 --> Input Class Initialized
+INFO - 2020-03-14 15:06:38 --> Router Class Initialized
+DEBUG - 2020-03-14 15:06:38 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 15:06:38 --> Output Class Initialized
+INFO - 2020-03-14 15:06:38 --> Language Class Initialized
+INFO - 2020-03-14 15:06:38 --> Security Class Initialized
+INFO - 2020-03-14 15:06:38 --> Config Class Initialized
+DEBUG - 2020-03-14 15:06:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 15:06:38 --> Input Class Initialized
+DEBUG - 2020-03-14 15:06:38 --> News MX_Controller Initialized
+INFO - 2020-03-14 15:06:38 --> Helper loaded: html_helper
+INFO - 2020-03-14 15:06:38 --> Utf8 Class Initialized
+INFO - 2020-03-14 15:06:38 --> Helper loaded: cookie_helper
+DEBUG - 2020-03-14 15:06:38 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 15:06:38 --> Language Class Initialized
+INFO - 2020-03-14 15:06:38 --> Config Class Initialized
+INFO - 2020-03-14 15:06:38 --> Loader Class Initialized
+INFO - 2020-03-14 15:06:38 --> Helper loaded: url_helper
+INFO - 2020-03-14 15:06:38 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 15:06:38 --> Helper loaded: form_helper
+DEBUG - 2020-03-14 15:06:38 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 15:06:38 --> Loader Class Initialized
+INFO - 2020-03-14 15:06:38 --> Language Class Initialized
+INFO - 2020-03-14 15:06:38 --> Config Class Initialized
+INFO - 2020-03-14 15:06:38 --> Helper loaded: url_helper
+INFO - 2020-03-14 15:06:38 --> Loader Class Initialized
+INFO - 2020-03-14 15:06:38 --> Helper loaded: form_helper
+INFO - 2020-03-14 15:06:38 --> URI Class Initialized
+INFO - 2020-03-14 15:06:38 --> Helper loaded: language_helper
+INFO - 2020-03-14 15:06:38 --> Database Driver Class Initialized
+INFO - 2020-03-14 15:06:38 --> Router Class Initialized
+INFO - 2020-03-14 15:06:38 --> Helper loaded: url_helper
+INFO - 2020-03-14 15:06:38 --> Helper loaded: form_helper
+INFO - 2020-03-14 15:06:38 --> Helper loaded: language_helper
+INFO - 2020-03-14 15:06:38 --> Helper loaded: language_helper
+INFO - 2020-03-14 15:06:38 --> Controller Class Initialized
+INFO - 2020-03-14 15:06:38 --> Database Driver Class Initialized
+INFO - 2020-03-14 15:06:38 --> Helper loaded: file_helper
+DEBUG - 2020-03-14 15:06:38 --> News MX_Controller Initialized
+INFO - 2020-03-14 15:06:38 --> Helper loaded: html_helper
+INFO - 2020-03-14 15:06:38 --> Database Driver Class Initialized
+INFO - 2020-03-14 15:06:38 --> Output Class Initialized
+INFO - 2020-03-14 15:06:38 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 15:06:38 --> Security Class Initialized
+DEBUG - 2020-03-14 15:06:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 15:06:38 --> MY_Model class loaded
+INFO - 2020-03-14 15:06:38 --> Controller Class Initialized
+INFO - 2020-03-14 15:06:38 --> Model "Language_model" initialized
+DEBUG - 2020-03-14 15:06:38 --> News MX_Controller Initialized
+INFO - 2020-03-14 15:06:38 --> Helper loaded: html_helper
+INFO - 2020-03-14 15:06:38 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 15:06:38 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 15:06:38 --> Input Class Initialized
+INFO - 2020-03-14 15:06:38 --> Controller Class Initialized
+DEBUG - 2020-03-14 15:06:38 --> Language_Identifier Class Initialized
+ERROR - 2020-03-14 15:06:38 --> 404 Page Not Found: /index
+INFO - 2020-03-14 15:06:38 --> Language Class Initialized
+INFO - 2020-03-14 15:06:38 --> Config Class Initialized
+INFO - 2020-03-14 15:06:38 --> Loader Class Initialized
+INFO - 2020-03-14 15:06:38 --> Helper loaded: url_helper
+INFO - 2020-03-14 15:06:38 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 15:06:38 --> Helper loaded: form_helper
+INFO - 2020-03-14 15:06:38 --> Helper loaded: language_helper
+INFO - 2020-03-14 15:06:38 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 15:06:38 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 15:06:38 --> Database Driver Class Initialized
+INFO - 2020-03-14 15:06:38 --> Model "Page_model" initialized
+INFO - 2020-03-14 15:06:39 --> Controller Class Initialized
+INFO - 2020-03-14 15:06:39 --> Model "Category_model" initialized
+DEBUG - 2020-03-14 15:06:39 --> News MX_Controller Initialized
+INFO - 2020-03-14 15:06:39 --> Helper loaded: html_helper
+INFO - 2020-03-14 15:06:39 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 15:06:39 --> Model "Article_model" initialized
+INFO - 2020-03-14 15:06:39 --> Model "Service_model" initialized
+ERROR - 2020-03-14 15:06:39 --> Severity: Warning --> A non-numeric value encountered /Volumes/Betrai/www/thienanphu/application/controllers/News.php 22
+INFO - 2020-03-14 15:06:39 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 15:06:39 --> Helper loaded: file_helper
+INFO - 2020-03-14 15:06:39 --> MY_Model class loaded
+INFO - 2020-03-14 15:06:39 --> Model "Language_model" initialized
+INFO - 2020-03-14 15:06:39 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 15:06:39 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 15:06:39 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 15:06:39 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 15:06:39 --> Model "Page_model" initialized
+INFO - 2020-03-14 15:06:39 --> Model "Category_model" initialized
+INFO - 2020-03-14 15:06:39 --> Model "Article_model" initialized
+INFO - 2020-03-14 15:06:39 --> Model "Service_model" initialized
+ERROR - 2020-03-14 15:06:39 --> Severity: Warning --> A non-numeric value encountered /Volumes/Betrai/www/thienanphu/application/controllers/News.php 22
+INFO - 2020-03-14 15:06:39 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 15:06:39 --> Helper loaded: file_helper
+INFO - 2020-03-14 15:06:39 --> MY_Model class loaded
+INFO - 2020-03-14 15:06:39 --> Model "Language_model" initialized
+INFO - 2020-03-14 15:06:39 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 15:06:39 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 15:06:39 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 15:06:39 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 15:06:39 --> Model "Page_model" initialized
+INFO - 2020-03-14 15:06:39 --> Model "Category_model" initialized
+INFO - 2020-03-14 15:06:39 --> Model "Article_model" initialized
+INFO - 2020-03-14 15:06:39 --> Model "Service_model" initialized
+ERROR - 2020-03-14 15:06:39 --> Severity: Warning --> A non-numeric value encountered /Volumes/Betrai/www/thienanphu/application/controllers/News.php 22
+INFO - 2020-03-14 15:06:39 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 15:06:39 --> Helper loaded: file_helper
+INFO - 2020-03-14 15:06:39 --> MY_Model class loaded
+INFO - 2020-03-14 15:06:39 --> Model "Language_model" initialized
+INFO - 2020-03-14 15:06:39 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 15:06:39 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 15:06:39 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 15:06:39 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 15:06:39 --> Model "Page_model" initialized
+INFO - 2020-03-14 15:06:39 --> Model "Category_model" initialized
+INFO - 2020-03-14 15:06:39 --> Model "Article_model" initialized
+INFO - 2020-03-14 15:06:39 --> Model "Service_model" initialized
+ERROR - 2020-03-14 15:06:39 --> Severity: Warning --> A non-numeric value encountered /Volumes/Betrai/www/thienanphu/application/controllers/News.php 22
+INFO - 2020-03-14 15:07:41 --> Config Class Initialized
+INFO - 2020-03-14 15:07:41 --> Hooks Class Initialized
+DEBUG - 2020-03-14 15:07:41 --> UTF-8 Support Enabled
+INFO - 2020-03-14 15:07:41 --> Utf8 Class Initialized
+INFO - 2020-03-14 15:07:41 --> URI Class Initialized
+INFO - 2020-03-14 15:07:41 --> Router Class Initialized
+INFO - 2020-03-14 15:07:41 --> Output Class Initialized
+INFO - 2020-03-14 15:07:41 --> Security Class Initialized
+DEBUG - 2020-03-14 15:07:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 15:07:41 --> Input Class Initialized
+DEBUG - 2020-03-14 15:07:41 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 15:07:41 --> Language Class Initialized
+INFO - 2020-03-14 15:07:41 --> Config Class Initialized
+INFO - 2020-03-14 15:07:41 --> Loader Class Initialized
+INFO - 2020-03-14 15:07:41 --> Helper loaded: url_helper
+INFO - 2020-03-14 15:07:41 --> Helper loaded: form_helper
+INFO - 2020-03-14 15:07:41 --> Helper loaded: language_helper
+INFO - 2020-03-14 15:07:41 --> Database Driver Class Initialized
+INFO - 2020-03-14 15:07:41 --> Controller Class Initialized
+DEBUG - 2020-03-14 15:07:41 --> Settings MX_Controller Initialized
+INFO - 2020-03-14 15:07:41 --> Helper loaded: html_helper
+INFO - 2020-03-14 15:07:41 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 15:07:41 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 15:07:41 --> Helper loaded: file_helper
+INFO - 2020-03-14 15:07:41 --> MY_Model class loaded
+INFO - 2020-03-14 15:07:41 --> Model "Language_model" initialized
+INFO - 2020-03-14 15:07:41 --> Language file loaded: language/vietnamese/settings_lang.php
+INFO - 2020-03-14 15:07:41 --> Language file loaded: language/vietnamese/global_lang.php
+DEBUG - 2020-03-14 15:07:41 --> Config file loaded: /Volumes/Betrai/www/thienanphu/application/config/ion_auth.php
+DEBUG - 2020-03-14 15:07:41 --> Config file loaded: /Volumes/Betrai/www/thienanphu/application/config/development/ion_auth.php
+INFO - 2020-03-14 15:07:41 --> Email Class Initialized
+INFO - 2020-03-14 15:07:41 --> Language file loaded: language/vietnamese/ion_auth_lang.php
+INFO - 2020-03-14 15:07:41 --> Helper loaded: date_helper
+INFO - 2020-03-14 15:07:41 --> Model "Ion_auth_model" initialized
+INFO - 2020-03-14 15:07:41 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 15:07:41 --> Model "Menu_model" initialized
+INFO - 2020-03-14 15:07:41 --> Language file loaded: language/vietnamese/menu_lang.php
+DEBUG - 2020-03-14 15:07:41 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2020-03-14 15:07:41 --> Model "Setting_model" initialized
+INFO - 2020-03-14 15:07:41 --> Helper loaded: ext_form_helper
+INFO - 2020-03-14 15:07:41 --> User Agent Class Initialized
+DEBUG - 2020-03-14 15:07:41 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/admin/elements/flash_message_view.php
+DEBUG - 2020-03-14 15:07:41 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/admin/elements/section_header_view.php
+ERROR - 2020-03-14 15:07:41 --> Could not find the language line "Company name"
+ERROR - 2020-03-14 15:07:41 --> Could not find the language line "Company logo"
+ERROR - 2020-03-14 15:07:41 --> Could not find the language line "Company logo"
+ERROR - 2020-03-14 15:07:41 --> Could not find the language line "remove image"
+ERROR - 2020-03-14 15:07:41 --> Could not find the language line "Upload Image"
+DEBUG - 2020-03-14 15:07:41 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/admin/elements/modules/modal_filemanager_view.php
+DEBUG - 2020-03-14 15:07:41 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/admin/elements/modules/upload_image_view.php
+ERROR - 2020-03-14 15:07:41 --> Could not find the language line "Address"
+ERROR - 2020-03-14 15:07:41 --> Could not find the language line "Facebook "
+ERROR - 2020-03-14 15:07:41 --> Could not find the language line "Company website"
+ERROR - 2020-03-14 15:07:41 --> Could not find the language line "Address 1"
+ERROR - 2020-03-14 15:07:41 --> Could not find the language line "Address 2"
+ERROR - 2020-03-14 15:07:41 --> Could not find the language line "Phone 1"
+ERROR - 2020-03-14 15:07:41 --> Could not find the language line "Phone 2"
+ERROR - 2020-03-14 15:07:41 --> Could not find the language line "Company Email"
+ERROR - 2020-03-14 15:07:41 --> Could not find the language line "Company Year"
+ERROR - 2020-03-14 15:07:41 --> Could not find the language line "Linkedin"
+ERROR - 2020-03-14 15:07:41 --> Could not find the language line "Company Logo Footer"
+ERROR - 2020-03-14 15:07:41 --> Could not find the language line "Company Logo Footer"
+ERROR - 2020-03-14 15:07:41 --> Could not find the language line "remove image"
+ERROR - 2020-03-14 15:07:41 --> Could not find the language line "Upload Image"
+DEBUG - 2020-03-14 15:07:41 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/admin/elements/modules/modal_filemanager_view.php
+DEBUG - 2020-03-14 15:07:41 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/admin/elements/modules/upload_image_view.php
+DEBUG - 2020-03-14 15:07:41 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/admin/settings/settings_view.php
+ERROR - 2020-03-14 15:07:41 --> Could not find the language line "Sign out"
+DEBUG - 2020-03-14 15:07:41 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/admin/elements/user/header_panel_view.php
+DEBUG - 2020-03-14 15:07:41 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/admin_master_header_view.php
+DEBUG - 2020-03-14 15:07:41 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/admin/elements/user/sidebar_view.php
+ERROR - 2020-03-14 15:07:41 --> Could not find the language line "MAIN NAVIGATION"
+ERROR - 2020-03-14 15:07:41 --> Could not find the language line "Category"
+ERROR - 2020-03-14 15:07:41 --> Could not find the language line "Article"
+ERROR - 2020-03-14 15:07:41 --> Could not find the language line "Articles"
+ERROR - 2020-03-14 15:07:41 --> Could not find the language line "Products"
+ERROR - 2020-03-14 15:07:41 --> Could not find the language line "Media"
+ERROR - 2020-03-14 15:07:41 --> Could not find the language line "Service"
+ERROR - 2020-03-14 15:07:41 --> Could not find the language line "Groups"
+ERROR - 2020-03-14 15:07:41 --> Could not find the language line "Users"
+ERROR - 2020-03-14 15:07:41 --> Could not find the language line "Email Server"
+DEBUG - 2020-03-14 15:07:41 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/admin/elements/left_sidebar_view.php
+DEBUG - 2020-03-14 15:07:41 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/admin_master_footer_view.php
+DEBUG - 2020-03-14 15:07:41 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/admin_master_view.php
+INFO - 2020-03-14 15:07:41 --> Final output sent to browser
+DEBUG - 2020-03-14 15:07:41 --> Total execution time: 0.1504
+INFO - 2020-03-14 15:07:42 --> Config Class Initialized
+INFO - 2020-03-14 15:07:42 --> Hooks Class Initialized
+DEBUG - 2020-03-14 15:07:42 --> UTF-8 Support Enabled
+INFO - 2020-03-14 15:07:42 --> Utf8 Class Initialized
+INFO - 2020-03-14 15:07:42 --> URI Class Initialized
+INFO - 2020-03-14 15:07:43 --> Router Class Initialized
+INFO - 2020-03-14 15:07:43 --> Output Class Initialized
+INFO - 2020-03-14 15:07:43 --> Security Class Initialized
+DEBUG - 2020-03-14 15:07:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 15:07:43 --> Input Class Initialized
+DEBUG - 2020-03-14 15:07:43 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 15:07:43 --> Language Class Initialized
+INFO - 2020-03-14 15:07:43 --> Config Class Initialized
+INFO - 2020-03-14 15:07:43 --> Loader Class Initialized
+INFO - 2020-03-14 15:07:43 --> Helper loaded: url_helper
+INFO - 2020-03-14 15:07:43 --> Helper loaded: form_helper
+INFO - 2020-03-14 15:07:43 --> Helper loaded: language_helper
+INFO - 2020-03-14 15:07:43 --> Database Driver Class Initialized
+INFO - 2020-03-14 15:07:43 --> Controller Class Initialized
+DEBUG - 2020-03-14 15:07:43 --> News MX_Controller Initialized
+INFO - 2020-03-14 15:07:43 --> Helper loaded: html_helper
+INFO - 2020-03-14 15:07:43 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 15:07:43 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 15:07:43 --> Helper loaded: file_helper
+INFO - 2020-03-14 15:07:43 --> MY_Model class loaded
+INFO - 2020-03-14 15:07:43 --> Model "Language_model" initialized
+INFO - 2020-03-14 15:07:43 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 15:07:43 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 15:07:43 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 15:07:43 --> Model "Setting_model" initialized
+INFO - 2020-03-14 15:07:43 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 15:07:43 --> Model "Page_model" initialized
+INFO - 2020-03-14 15:07:43 --> Config Class Initialized
+INFO - 2020-03-14 15:07:43 --> Model "Category_model" initialized
+INFO - 2020-03-14 15:07:43 --> Hooks Class Initialized
+DEBUG - 2020-03-14 15:07:43 --> UTF-8 Support Enabled
+INFO - 2020-03-14 15:07:43 --> Utf8 Class Initialized
+INFO - 2020-03-14 15:07:43 --> URI Class Initialized
+INFO - 2020-03-14 15:07:43 --> Router Class Initialized
+INFO - 2020-03-14 15:07:43 --> Output Class Initialized
+INFO - 2020-03-14 15:07:43 --> Config Class Initialized
+INFO - 2020-03-14 15:07:43 --> Hooks Class Initialized
+INFO - 2020-03-14 15:07:43 --> Security Class Initialized
+INFO - 2020-03-14 15:07:43 --> Config Class Initialized
+INFO - 2020-03-14 15:07:43 --> Hooks Class Initialized
+DEBUG - 2020-03-14 15:07:43 --> UTF-8 Support Enabled
+INFO - 2020-03-14 15:07:43 --> Utf8 Class Initialized
+INFO - 2020-03-14 15:07:43 --> URI Class Initialized
+INFO - 2020-03-14 15:07:43 --> Router Class Initialized
+INFO - 2020-03-14 15:07:43 --> Output Class Initialized
+INFO - 2020-03-14 15:07:43 --> Security Class Initialized
+DEBUG - 2020-03-14 15:07:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 15:07:43 --> Input Class Initialized
+DEBUG - 2020-03-14 15:07:43 --> UTF-8 Support Enabled
+INFO - 2020-03-14 15:07:43 --> Utf8 Class Initialized
+INFO - 2020-03-14 15:07:43 --> URI Class Initialized
+INFO - 2020-03-14 15:07:43 --> Router Class Initialized
+INFO - 2020-03-14 15:07:43 --> Output Class Initialized
+INFO - 2020-03-14 15:07:43 --> Security Class Initialized
+DEBUG - 2020-03-14 15:07:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 15:07:43 --> Input Class Initialized
+DEBUG - 2020-03-14 15:07:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 15:07:43 --> Input Class Initialized
+INFO - 2020-03-14 15:07:43 --> Config Class Initialized
+INFO - 2020-03-14 15:07:43 --> Hooks Class Initialized
+DEBUG - 2020-03-14 15:07:43 --> UTF-8 Support Enabled
+INFO - 2020-03-14 15:07:43 --> Utf8 Class Initialized
+INFO - 2020-03-14 15:07:43 --> URI Class Initialized
+INFO - 2020-03-14 15:07:43 --> Router Class Initialized
+INFO - 2020-03-14 15:07:43 --> Output Class Initialized
+INFO - 2020-03-14 15:07:43 --> Security Class Initialized
+DEBUG - 2020-03-14 15:07:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 15:07:43 --> Input Class Initialized
+INFO - 2020-03-14 15:07:43 --> Config Class Initialized
+INFO - 2020-03-14 15:07:43 --> Hooks Class Initialized
+DEBUG - 2020-03-14 15:07:43 --> UTF-8 Support Enabled
+INFO - 2020-03-14 15:07:43 --> Utf8 Class Initialized
+INFO - 2020-03-14 15:07:43 --> URI Class Initialized
+INFO - 2020-03-14 15:07:43 --> Router Class Initialized
+INFO - 2020-03-14 15:07:43 --> Output Class Initialized
+INFO - 2020-03-14 15:07:43 --> Security Class Initialized
+DEBUG - 2020-03-14 15:07:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 15:07:43 --> Input Class Initialized
+DEBUG - 2020-03-14 15:07:43 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 15:07:43 --> Language Class Initialized
+INFO - 2020-03-14 15:07:44 --> Config Class Initialized
+INFO - 2020-03-14 15:07:44 --> Loader Class Initialized
+INFO - 2020-03-14 15:07:44 --> Helper loaded: url_helper
+INFO - 2020-03-14 15:07:44 --> Helper loaded: form_helper
+INFO - 2020-03-14 15:07:44 --> Config Class Initialized
+INFO - 2020-03-14 15:07:44 --> Helper loaded: language_helper
+INFO - 2020-03-14 15:07:44 --> Hooks Class Initialized
+DEBUG - 2020-03-14 15:07:44 --> UTF-8 Support Enabled
+INFO - 2020-03-14 15:07:44 --> Database Driver Class Initialized
+INFO - 2020-03-14 15:07:44 --> Utf8 Class Initialized
+INFO - 2020-03-14 15:07:44 --> URI Class Initialized
+INFO - 2020-03-14 15:07:44 --> Router Class Initialized
+INFO - 2020-03-14 15:07:44 --> Output Class Initialized
+INFO - 2020-03-14 15:07:44 --> Model "Article_model" initialized
+INFO - 2020-03-14 15:07:44 --> Security Class Initialized
+INFO - 2020-03-14 15:07:44 --> Model "Service_model" initialized
+INFO - 2020-03-14 15:07:44 --> Config Class Initialized
+INFO - 2020-03-14 15:07:44 --> Hooks Class Initialized
+DEBUG - 2020-03-14 15:07:44 --> UTF-8 Support Enabled
+INFO - 2020-03-14 15:07:44 --> Utf8 Class Initialized
+INFO - 2020-03-14 15:07:44 --> URI Class Initialized
+INFO - 2020-03-14 15:07:44 --> Router Class Initialized
+INFO - 2020-03-14 15:07:44 --> Output Class Initialized
+INFO - 2020-03-14 15:07:44 --> Security Class Initialized
+DEBUG - 2020-03-14 15:07:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 15:07:44 --> Input Class Initialized
+DEBUG - 2020-03-14 15:07:44 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 15:07:44 --> Language Class Initialized
+INFO - 2020-03-14 15:07:44 --> Config Class Initialized
+INFO - 2020-03-14 15:07:44 --> Loader Class Initialized
+INFO - 2020-03-14 15:07:44 --> Helper loaded: url_helper
+INFO - 2020-03-14 15:07:44 --> Helper loaded: form_helper
+INFO - 2020-03-14 15:07:44 --> Helper loaded: language_helper
+INFO - 2020-03-14 15:07:44 --> Database Driver Class Initialized
+INFO - 2020-03-14 15:07:44 --> Config Class Initialized
+INFO - 2020-03-14 15:07:44 --> Hooks Class Initialized
+DEBUG - 2020-03-14 15:07:44 --> UTF-8 Support Enabled
+INFO - 2020-03-14 15:07:44 --> Utf8 Class Initialized
+INFO - 2020-03-14 15:07:44 --> URI Class Initialized
+INFO - 2020-03-14 15:07:44 --> Router Class Initialized
+INFO - 2020-03-14 15:07:44 --> Output Class Initialized
+INFO - 2020-03-14 15:07:44 --> Security Class Initialized
+DEBUG - 2020-03-14 15:07:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 15:07:44 --> Input Class Initialized
+DEBUG - 2020-03-14 15:07:44 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 15:07:44 --> Language Class Initialized
+INFO - 2020-03-14 15:07:44 --> Config Class Initialized
+INFO - 2020-03-14 15:07:44 --> Model "User_model" initialized
+INFO - 2020-03-14 15:07:44 --> Model "Article_category_model" initialized
+DEBUG - 2020-03-14 15:07:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 15:07:44 --> Input Class Initialized
+DEBUG - 2020-03-14 15:07:44 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 15:07:44 --> Language Class Initialized
+INFO - 2020-03-14 15:07:44 --> Config Class Initialized
+INFO - 2020-03-14 15:07:44 --> Loader Class Initialized
+INFO - 2020-03-14 15:07:44 --> Helper loaded: url_helper
+INFO - 2020-03-14 15:07:44 --> Helper loaded: form_helper
+INFO - 2020-03-14 15:07:44 --> Helper loaded: language_helper
+INFO - 2020-03-14 15:07:44 --> Database Driver Class Initialized
+INFO - 2020-03-14 15:07:44 --> Controller Class Initialized
+ERROR - 2020-03-14 15:07:44 --> 404 Page Not Found: /index
+INFO - 2020-03-14 15:07:44 --> Loader Class Initialized
+INFO - 2020-03-14 15:07:44 --> Helper loaded: url_helper
+INFO - 2020-03-14 15:07:44 --> Helper loaded: form_helper
+INFO - 2020-03-14 15:07:44 --> Helper loaded: language_helper
+INFO - 2020-03-14 15:07:44 --> Database Driver Class Initialized
+INFO - 2020-03-14 15:07:44 --> Controller Class Initialized
+ERROR - 2020-03-14 15:07:44 --> 404 Page Not Found: /index
+INFO - 2020-03-14 15:07:44 --> Controller Class Initialized
+ERROR - 2020-03-14 15:07:44 --> 404 Page Not Found: /index
+INFO - 2020-03-14 15:07:44 --> Controller Class Initialized
+ERROR - 2020-03-14 15:07:44 --> 404 Page Not Found: /index
+ERROR - 2020-03-14 15:07:44 --> Could not find the language line "Next"
+DEBUG - 2020-03-14 15:07:44 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_search.php
+DEBUG - 2020-03-14 15:07:44 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_news_categories.php
+DEBUG - 2020-03-14 15:07:44 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_services.php
+DEBUG - 2020-03-14 15:07:44 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_solutions.php
+DEBUG - 2020-03-14 15:07:44 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_tags.php
+DEBUG - 2020-03-14 15:07:44 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/default/news/listing_news.php
+DEBUG - 2020-03-14 15:07:44 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/top_bar.php
+ERROR - 2020-03-14 15:07:44 --> Could not find the language line "Giới thiệu"
+ERROR - 2020-03-14 15:07:44 --> Could not find the language line "Dịch vụ thương mại"
+ERROR - 2020-03-14 15:07:44 --> Could not find the language line "Lĩnh vực hoạt động"
+ERROR - 2020-03-14 15:07:44 --> Could not find the language line "Tin Hoạt Động"
+ERROR - 2020-03-14 15:07:44 --> Could not find the language line "Tin Công Nghệ"
+ERROR - 2020-03-14 15:07:44 --> Could not find the language line "Sự Kiện"
+ERROR - 2020-03-14 15:07:44 --> Could not find the language line "Góc báo chí"
+DEBUG - 2020-03-14 15:07:44 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/mega_menu.php
+ERROR - 2020-03-14 15:07:44 --> Could not find the language line "Search"
+ERROR - 2020-03-14 15:07:44 --> Could not find the language line "Sự Kiện"
+ERROR - 2020-03-14 15:07:44 --> Could not find the language line "Tin sự kiện"
+ERROR - 2020-03-14 15:07:44 --> Could not find the language line "news"
+DEBUG - 2020-03-14 15:07:44 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/page_header.php
+DEBUG - 2020-03-14 15:07:44 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_header_view.php
+ERROR - 2020-03-14 15:07:44 --> Severity: Notice --> Undefined index: company_address /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_footer_view.php 33
+DEBUG - 2020-03-14 15:07:44 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_footer_view.php
+DEBUG - 2020-03-14 15:07:44 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/master_view.php
+INFO - 2020-03-14 15:07:44 --> Final output sent to browser
+DEBUG - 2020-03-14 15:07:44 --> Total execution time: 1.2535
+INFO - 2020-03-14 15:07:44 --> Config Class Initialized
+INFO - 2020-03-14 15:07:44 --> Hooks Class Initialized
+DEBUG - 2020-03-14 15:07:44 --> UTF-8 Support Enabled
+INFO - 2020-03-14 15:07:44 --> Utf8 Class Initialized
+INFO - 2020-03-14 15:07:44 --> URI Class Initialized
+INFO - 2020-03-14 15:07:44 --> Router Class Initialized
+INFO - 2020-03-14 15:07:44 --> Output Class Initialized
+INFO - 2020-03-14 15:07:44 --> Security Class Initialized
+DEBUG - 2020-03-14 15:07:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 15:07:44 --> Input Class Initialized
+DEBUG - 2020-03-14 15:07:44 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 15:07:44 --> Config Class Initialized
+INFO - 2020-03-14 15:07:44 --> Config Class Initialized
+INFO - 2020-03-14 15:07:44 --> Config Class Initialized
+INFO - 2020-03-14 15:07:44 --> Language Class Initialized
+INFO - 2020-03-14 15:07:44 --> Hooks Class Initialized
+INFO - 2020-03-14 15:07:44 --> Hooks Class Initialized
+INFO - 2020-03-14 15:07:44 --> Hooks Class Initialized
+INFO - 2020-03-14 15:07:44 --> Config Class Initialized
+DEBUG - 2020-03-14 15:07:44 --> UTF-8 Support Enabled
+INFO - 2020-03-14 15:07:44 --> Utf8 Class Initialized
+DEBUG - 2020-03-14 15:07:44 --> UTF-8 Support Enabled
+INFO - 2020-03-14 15:07:44 --> Utf8 Class Initialized
+INFO - 2020-03-14 15:07:44 --> URI Class Initialized
+INFO - 2020-03-14 15:07:44 --> Loader Class Initialized
+INFO - 2020-03-14 15:07:44 --> Helper loaded: url_helper
+INFO - 2020-03-14 15:07:44 --> Helper loaded: form_helper
+INFO - 2020-03-14 15:07:44 --> Helper loaded: language_helper
+INFO - 2020-03-14 15:07:44 --> Router Class Initialized
+INFO - 2020-03-14 15:07:44 --> Output Class Initialized
+INFO - 2020-03-14 15:07:44 --> Database Driver Class Initialized
+INFO - 2020-03-14 15:07:44 --> Security Class Initialized
+DEBUG - 2020-03-14 15:07:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 15:07:44 --> Input Class Initialized
+DEBUG - 2020-03-14 15:07:44 --> Language_Identifier Class Initialized
+DEBUG - 2020-03-14 15:07:44 --> UTF-8 Support Enabled
+INFO - 2020-03-14 15:07:44 --> Language Class Initialized
+INFO - 2020-03-14 15:07:44 --> Utf8 Class Initialized
+INFO - 2020-03-14 15:07:44 --> URI Class Initialized
+INFO - 2020-03-14 15:07:44 --> Router Class Initialized
+INFO - 2020-03-14 15:07:44 --> Output Class Initialized
+INFO - 2020-03-14 15:07:44 --> Security Class Initialized
+INFO - 2020-03-14 15:07:44 --> Config Class Initialized
+DEBUG - 2020-03-14 15:07:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 15:07:44 --> Loader Class Initialized
+INFO - 2020-03-14 15:07:44 --> Controller Class Initialized
+INFO - 2020-03-14 15:07:44 --> Helper loaded: url_helper
+DEBUG - 2020-03-14 15:07:44 --> News MX_Controller Initialized
+INFO - 2020-03-14 15:07:44 --> Helper loaded: form_helper
+INFO - 2020-03-14 15:07:44 --> Helper loaded: html_helper
+INFO - 2020-03-14 15:07:44 --> Input Class Initialized
+INFO - 2020-03-14 15:07:44 --> URI Class Initialized
+DEBUG - 2020-03-14 15:07:44 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 15:07:44 --> Language Class Initialized
+INFO - 2020-03-14 15:07:44 --> Router Class Initialized
+INFO - 2020-03-14 15:07:44 --> Config Class Initialized
+INFO - 2020-03-14 15:07:44 --> Hooks Class Initialized
+INFO - 2020-03-14 15:07:44 --> Config Class Initialized
+INFO - 2020-03-14 15:07:44 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 15:07:44 --> Loader Class Initialized
+INFO - 2020-03-14 15:07:44 --> Helper loaded: url_helper
+INFO - 2020-03-14 15:07:44 --> Helper loaded: form_helper
+INFO - 2020-03-14 15:07:44 --> Helper loaded: language_helper
+INFO - 2020-03-14 15:07:44 --> Database Driver Class Initialized
+INFO - 2020-03-14 15:07:44 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 15:07:44 --> Helper loaded: file_helper
+INFO - 2020-03-14 15:07:44 --> MY_Model class loaded
+INFO - 2020-03-14 15:07:44 --> Model "Language_model" initialized
+DEBUG - 2020-03-14 15:07:44 --> UTF-8 Support Enabled
+INFO - 2020-03-14 15:07:44 --> Utf8 Class Initialized
+INFO - 2020-03-14 15:07:44 --> URI Class Initialized
+INFO - 2020-03-14 15:07:44 --> Router Class Initialized
+INFO - 2020-03-14 15:07:44 --> Output Class Initialized
+INFO - 2020-03-14 15:07:44 --> Security Class Initialized
+INFO - 2020-03-14 15:07:44 --> Helper loaded: language_helper
+INFO - 2020-03-14 15:07:44 --> Language file loaded: language/vietnamese/news_lang.php
+DEBUG - 2020-03-14 15:07:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 15:07:44 --> Input Class Initialized
+INFO - 2020-03-14 15:07:44 --> Controller Class Initialized
+ERROR - 2020-03-14 15:07:44 --> 404 Page Not Found: /index
+INFO - 2020-03-14 15:07:44 --> Database Driver Class Initialized
+INFO - 2020-03-14 15:07:44 --> Language file loaded: language/vietnamese/global_lang.php
+DEBUG - 2020-03-14 15:07:44 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 15:07:44 --> Language Class Initialized
+INFO - 2020-03-14 15:07:44 --> Config Class Initialized
+INFO - 2020-03-14 15:07:44 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 15:07:44 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 15:07:44 --> Loader Class Initialized
+INFO - 2020-03-14 15:07:44 --> Helper loaded: url_helper
+INFO - 2020-03-14 15:07:44 --> Helper loaded: form_helper
+INFO - 2020-03-14 15:07:44 --> Controller Class Initialized
+DEBUG - 2020-03-14 15:07:44 --> News MX_Controller Initialized
+INFO - 2020-03-14 15:07:44 --> Helper loaded: language_helper
+INFO - 2020-03-14 15:07:44 --> Helper loaded: html_helper
+INFO - 2020-03-14 15:07:44 --> Database Driver Class Initialized
+INFO - 2020-03-14 15:07:44 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 15:07:44 --> Output Class Initialized
+INFO - 2020-03-14 15:07:44 --> Security Class Initialized
+INFO - 2020-03-14 15:07:44 --> Model "Page_model" initialized
+DEBUG - 2020-03-14 15:07:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 15:07:44 --> Model "Category_model" initialized
+INFO - 2020-03-14 15:07:44 --> Input Class Initialized
+DEBUG - 2020-03-14 15:07:44 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 15:07:44 --> Language Class Initialized
+INFO - 2020-03-14 15:07:44 --> Config Class Initialized
+INFO - 2020-03-14 15:07:44 --> Loader Class Initialized
+INFO - 2020-03-14 15:07:44 --> Controller Class Initialized
+INFO - 2020-03-14 15:07:44 --> Helper loaded: url_helper
+DEBUG - 2020-03-14 15:07:44 --> News MX_Controller Initialized
+INFO - 2020-03-14 15:07:44 --> Helper loaded: html_helper
+INFO - 2020-03-14 15:07:44 --> Helper loaded: form_helper
+INFO - 2020-03-14 15:07:44 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 15:07:44 --> Helper loaded: language_helper
+INFO - 2020-03-14 15:07:44 --> Database Driver Class Initialized
+INFO - 2020-03-14 15:07:44 --> Model "Article_model" initialized
+INFO - 2020-03-14 15:07:44 --> Model "Service_model" initialized
+INFO - 2020-03-14 15:07:44 --> Controller Class Initialized
+DEBUG - 2020-03-14 15:07:44 --> News MX_Controller Initialized
+INFO - 2020-03-14 15:07:44 --> Helper loaded: html_helper
+INFO - 2020-03-14 15:07:44 --> Helper loaded: cookie_helper
+ERROR - 2020-03-14 15:07:44 --> Severity: Warning --> A non-numeric value encountered /Volumes/Betrai/www/thienanphu/application/controllers/News.php 22
+INFO - 2020-03-14 15:07:44 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 15:07:44 --> Helper loaded: file_helper
+INFO - 2020-03-14 15:07:44 --> MY_Model class loaded
+INFO - 2020-03-14 15:07:44 --> Model "Language_model" initialized
+INFO - 2020-03-14 15:07:44 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 15:07:44 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 15:07:44 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 15:07:44 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 15:07:44 --> Model "Page_model" initialized
+INFO - 2020-03-14 15:07:44 --> Model "Category_model" initialized
+INFO - 2020-03-14 15:07:44 --> Model "Article_model" initialized
+INFO - 2020-03-14 15:07:44 --> Model "Service_model" initialized
+ERROR - 2020-03-14 15:07:44 --> Severity: Warning --> A non-numeric value encountered /Volumes/Betrai/www/thienanphu/application/controllers/News.php 22
+INFO - 2020-03-14 15:07:44 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 15:07:44 --> Helper loaded: file_helper
+INFO - 2020-03-14 15:07:44 --> MY_Model class loaded
+INFO - 2020-03-14 15:07:44 --> Model "Language_model" initialized
+INFO - 2020-03-14 15:07:44 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 15:07:44 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 15:07:44 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 15:07:44 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 15:07:44 --> Model "Page_model" initialized
+INFO - 2020-03-14 15:07:44 --> Model "Category_model" initialized
+INFO - 2020-03-14 15:07:44 --> Model "Article_model" initialized
+INFO - 2020-03-14 15:07:44 --> Model "Service_model" initialized
+ERROR - 2020-03-14 15:07:44 --> Severity: Warning --> A non-numeric value encountered /Volumes/Betrai/www/thienanphu/application/controllers/News.php 22
+INFO - 2020-03-14 15:07:44 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 15:07:44 --> Helper loaded: file_helper
+INFO - 2020-03-14 15:07:44 --> MY_Model class loaded
+INFO - 2020-03-14 15:07:44 --> Model "Language_model" initialized
+INFO - 2020-03-14 15:07:44 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 15:07:44 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 15:07:44 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 15:07:44 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 15:07:44 --> Model "Page_model" initialized
+INFO - 2020-03-14 15:07:44 --> Model "Category_model" initialized
+INFO - 2020-03-14 15:07:44 --> Model "Article_model" initialized
+INFO - 2020-03-14 15:07:44 --> Model "Service_model" initialized
+ERROR - 2020-03-14 15:07:44 --> Severity: Warning --> A non-numeric value encountered /Volumes/Betrai/www/thienanphu/application/controllers/News.php 22
+INFO - 2020-03-14 15:07:58 --> Config Class Initialized
+INFO - 2020-03-14 15:07:58 --> Hooks Class Initialized
+DEBUG - 2020-03-14 15:07:58 --> UTF-8 Support Enabled
+INFO - 2020-03-14 15:07:58 --> Utf8 Class Initialized
+INFO - 2020-03-14 15:07:58 --> URI Class Initialized
+INFO - 2020-03-14 15:07:58 --> Router Class Initialized
+INFO - 2020-03-14 15:07:58 --> Output Class Initialized
+INFO - 2020-03-14 15:07:58 --> Security Class Initialized
+DEBUG - 2020-03-14 15:07:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 15:07:58 --> Input Class Initialized
+DEBUG - 2020-03-14 15:07:58 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 15:07:58 --> Language Class Initialized
+INFO - 2020-03-14 15:07:58 --> Config Class Initialized
+INFO - 2020-03-14 15:07:58 --> Loader Class Initialized
+INFO - 2020-03-14 15:07:58 --> Helper loaded: url_helper
+INFO - 2020-03-14 15:07:58 --> Helper loaded: form_helper
+INFO - 2020-03-14 15:07:58 --> Helper loaded: language_helper
+INFO - 2020-03-14 15:07:58 --> Database Driver Class Initialized
+INFO - 2020-03-14 15:07:58 --> Controller Class Initialized
+DEBUG - 2020-03-14 15:07:58 --> Settings MX_Controller Initialized
+INFO - 2020-03-14 15:07:58 --> Helper loaded: html_helper
+INFO - 2020-03-14 15:07:58 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 15:07:58 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 15:07:58 --> Helper loaded: file_helper
+INFO - 2020-03-14 15:07:58 --> MY_Model class loaded
+INFO - 2020-03-14 15:07:58 --> Model "Language_model" initialized
+INFO - 2020-03-14 15:07:58 --> Language file loaded: language/vietnamese/settings_lang.php
+INFO - 2020-03-14 15:07:58 --> Language file loaded: language/vietnamese/global_lang.php
+DEBUG - 2020-03-14 15:07:58 --> Config file loaded: /Volumes/Betrai/www/thienanphu/application/config/ion_auth.php
+DEBUG - 2020-03-14 15:07:58 --> Config file loaded: /Volumes/Betrai/www/thienanphu/application/config/development/ion_auth.php
+INFO - 2020-03-14 15:07:58 --> Email Class Initialized
+INFO - 2020-03-14 15:07:58 --> Language file loaded: language/vietnamese/ion_auth_lang.php
+INFO - 2020-03-14 15:07:58 --> Helper loaded: date_helper
+INFO - 2020-03-14 15:07:58 --> Model "Ion_auth_model" initialized
+INFO - 2020-03-14 15:07:58 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 15:07:58 --> Model "Menu_model" initialized
+INFO - 2020-03-14 15:07:58 --> Language file loaded: language/vietnamese/menu_lang.php
+DEBUG - 2020-03-14 15:07:58 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2020-03-14 15:07:58 --> Model "Setting_model" initialized
+INFO - 2020-03-14 15:07:58 --> Helper loaded: ext_form_helper
+INFO - 2020-03-14 15:07:58 --> User Agent Class Initialized
+DEBUG - 2020-03-14 15:07:58 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/admin/elements/flash_message_view.php
+DEBUG - 2020-03-14 15:07:58 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/admin/elements/section_header_view.php
+ERROR - 2020-03-14 15:07:58 --> Could not find the language line "Company name"
+ERROR - 2020-03-14 15:07:58 --> Could not find the language line "Company logo"
+ERROR - 2020-03-14 15:07:58 --> Could not find the language line "Company logo"
+ERROR - 2020-03-14 15:07:58 --> Could not find the language line "remove image"
+ERROR - 2020-03-14 15:07:58 --> Could not find the language line "Upload Image"
+DEBUG - 2020-03-14 15:07:58 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/admin/elements/modules/modal_filemanager_view.php
+DEBUG - 2020-03-14 15:07:58 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/admin/elements/modules/upload_image_view.php
+ERROR - 2020-03-14 15:07:58 --> Could not find the language line "Address"
+ERROR - 2020-03-14 15:07:58 --> Could not find the language line "Facebook "
+ERROR - 2020-03-14 15:07:58 --> Could not find the language line "Company website"
+ERROR - 2020-03-14 15:07:58 --> Could not find the language line "Address 1"
+ERROR - 2020-03-14 15:07:58 --> Could not find the language line "Address 2"
+ERROR - 2020-03-14 15:07:58 --> Could not find the language line "Phone 1"
+ERROR - 2020-03-14 15:07:58 --> Could not find the language line "Phone 2"
+ERROR - 2020-03-14 15:07:58 --> Could not find the language line "Company Email"
+ERROR - 2020-03-14 15:07:58 --> Could not find the language line "Company Year"
+ERROR - 2020-03-14 15:07:58 --> Could not find the language line "Linkedin"
+ERROR - 2020-03-14 15:07:58 --> Could not find the language line "Company Logo Footer"
+ERROR - 2020-03-14 15:07:58 --> Could not find the language line "Company Logo Footer"
+ERROR - 2020-03-14 15:07:58 --> Could not find the language line "remove image"
+ERROR - 2020-03-14 15:07:58 --> Could not find the language line "Upload Image"
+DEBUG - 2020-03-14 15:07:58 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/admin/elements/modules/modal_filemanager_view.php
+DEBUG - 2020-03-14 15:07:58 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/admin/elements/modules/upload_image_view.php
+DEBUG - 2020-03-14 15:07:58 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/admin/settings/settings_view.php
+ERROR - 2020-03-14 15:07:58 --> Could not find the language line "Sign out"
+DEBUG - 2020-03-14 15:07:58 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/admin/elements/user/header_panel_view.php
+DEBUG - 2020-03-14 15:07:58 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/admin_master_header_view.php
+DEBUG - 2020-03-14 15:07:58 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/admin/elements/user/sidebar_view.php
+ERROR - 2020-03-14 15:07:58 --> Could not find the language line "MAIN NAVIGATION"
+ERROR - 2020-03-14 15:07:58 --> Could not find the language line "Category"
+ERROR - 2020-03-14 15:07:58 --> Could not find the language line "Article"
+ERROR - 2020-03-14 15:07:58 --> Could not find the language line "Articles"
+ERROR - 2020-03-14 15:07:58 --> Could not find the language line "Products"
+ERROR - 2020-03-14 15:07:58 --> Could not find the language line "Media"
+ERROR - 2020-03-14 15:07:58 --> Could not find the language line "Service"
+ERROR - 2020-03-14 15:07:58 --> Could not find the language line "Groups"
+ERROR - 2020-03-14 15:07:58 --> Could not find the language line "Users"
+ERROR - 2020-03-14 15:07:58 --> Could not find the language line "Email Server"
+DEBUG - 2020-03-14 15:07:58 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/admin/elements/left_sidebar_view.php
+DEBUG - 2020-03-14 15:07:58 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/admin_master_footer_view.php
+DEBUG - 2020-03-14 15:07:58 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/admin_master_view.php
+INFO - 2020-03-14 15:07:58 --> Final output sent to browser
+DEBUG - 2020-03-14 15:07:59 --> Total execution time: 0.1946
+INFO - 2020-03-14 15:08:01 --> Config Class Initialized
+INFO - 2020-03-14 15:08:01 --> Hooks Class Initialized
+INFO - 2020-03-14 15:08:01 --> Config Class Initialized
+INFO - 2020-03-14 15:08:01 --> Config Class Initialized
+INFO - 2020-03-14 15:08:01 --> Hooks Class Initialized
+INFO - 2020-03-14 15:08:01 --> Hooks Class Initialized
+DEBUG - 2020-03-14 15:08:01 --> UTF-8 Support Enabled
+DEBUG - 2020-03-14 15:08:01 --> UTF-8 Support Enabled
+INFO - 2020-03-14 15:08:01 --> Utf8 Class Initialized
+DEBUG - 2020-03-14 15:08:01 --> UTF-8 Support Enabled
+INFO - 2020-03-14 15:08:01 --> Utf8 Class Initialized
+INFO - 2020-03-14 15:08:01 --> Utf8 Class Initialized
+INFO - 2020-03-14 15:08:01 --> URI Class Initialized
+INFO - 2020-03-14 15:08:01 --> URI Class Initialized
+INFO - 2020-03-14 15:08:01 --> Router Class Initialized
+INFO - 2020-03-14 15:08:01 --> URI Class Initialized
+INFO - 2020-03-14 15:08:01 --> Output Class Initialized
+INFO - 2020-03-14 15:08:01 --> Router Class Initialized
+INFO - 2020-03-14 15:08:01 --> Security Class Initialized
+INFO - 2020-03-14 15:08:01 --> Output Class Initialized
+DEBUG - 2020-03-14 15:08:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 15:08:01 --> Security Class Initialized
+DEBUG - 2020-03-14 15:08:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 15:08:01 --> Input Class Initialized
+INFO - 2020-03-14 15:08:01 --> Input Class Initialized
+INFO - 2020-03-14 15:08:01 --> Router Class Initialized
+INFO - 2020-03-14 15:08:01 --> Output Class Initialized
+INFO - 2020-03-14 15:08:01 --> Config Class Initialized
+INFO - 2020-03-14 15:08:01 --> Security Class Initialized
+INFO - 2020-03-14 15:08:01 --> Hooks Class Initialized
+INFO - 2020-03-14 15:08:01 --> Config Class Initialized
+INFO - 2020-03-14 15:08:01 --> Config Class Initialized
+INFO - 2020-03-14 15:08:01 --> Hooks Class Initialized
+DEBUG - 2020-03-14 15:08:01 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-03-14 15:08:01 --> UTF-8 Support Enabled
+INFO - 2020-03-14 15:08:01 --> Hooks Class Initialized
+INFO - 2020-03-14 15:08:01 --> Input Class Initialized
+INFO - 2020-03-14 15:08:01 --> Utf8 Class Initialized
+DEBUG - 2020-03-14 15:08:01 --> UTF-8 Support Enabled
+DEBUG - 2020-03-14 15:08:01 --> UTF-8 Support Enabled
+INFO - 2020-03-14 15:08:01 --> Utf8 Class Initialized
+INFO - 2020-03-14 15:08:01 --> Utf8 Class Initialized
+INFO - 2020-03-14 15:08:01 --> URI Class Initialized
+INFO - 2020-03-14 15:08:01 --> URI Class Initialized
+INFO - 2020-03-14 15:08:01 --> URI Class Initialized
+INFO - 2020-03-14 15:08:01 --> Router Class Initialized
+INFO - 2020-03-14 15:08:01 --> Router Class Initialized
+INFO - 2020-03-14 15:08:01 --> Output Class Initialized
+INFO - 2020-03-14 15:08:01 --> Output Class Initialized
+INFO - 2020-03-14 15:08:01 --> Security Class Initialized
+INFO - 2020-03-14 15:08:01 --> Security Class Initialized
+DEBUG - 2020-03-14 15:08:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 15:08:01 --> Input Class Initialized
+DEBUG - 2020-03-14 15:08:01 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-03-14 15:08:01 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 15:08:01 --> Language Class Initialized
+INFO - 2020-03-14 15:08:01 --> Router Class Initialized
+INFO - 2020-03-14 15:08:01 --> Config Class Initialized
+INFO - 2020-03-14 15:08:01 --> Input Class Initialized
+INFO - 2020-03-14 15:08:01 --> Config Class Initialized
+INFO - 2020-03-14 15:08:01 --> Loader Class Initialized
+INFO - 2020-03-14 15:08:01 --> Output Class Initialized
+INFO - 2020-03-14 15:08:01 --> Hooks Class Initialized
+DEBUG - 2020-03-14 15:08:01 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 15:08:01 --> Security Class Initialized
+INFO - 2020-03-14 15:08:01 --> Language Class Initialized
+DEBUG - 2020-03-14 15:08:01 --> UTF-8 Support Enabled
+INFO - 2020-03-14 15:08:01 --> Utf8 Class Initialized
+INFO - 2020-03-14 15:08:01 --> Config Class Initialized
+INFO - 2020-03-14 15:08:01 --> URI Class Initialized
+INFO - 2020-03-14 15:08:01 --> Loader Class Initialized
+INFO - 2020-03-14 15:08:01 --> Helper loaded: url_helper
+DEBUG - 2020-03-14 15:08:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 15:08:01 --> Helper loaded: form_helper
+INFO - 2020-03-14 15:08:01 --> Input Class Initialized
+INFO - 2020-03-14 15:08:01 --> Helper loaded: url_helper
+INFO - 2020-03-14 15:08:01 --> Router Class Initialized
+INFO - 2020-03-14 15:08:01 --> Helper loaded: language_helper
+INFO - 2020-03-14 15:08:01 --> Helper loaded: form_helper
+INFO - 2020-03-14 15:08:01 --> Output Class Initialized
+INFO - 2020-03-14 15:08:01 --> Helper loaded: language_helper
+INFO - 2020-03-14 15:08:01 --> Security Class Initialized
+INFO - 2020-03-14 15:08:01 --> Database Driver Class Initialized
+DEBUG - 2020-03-14 15:08:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 15:08:01 --> Database Driver Class Initialized
+INFO - 2020-03-14 15:08:01 --> Input Class Initialized
+INFO - 2020-03-14 15:08:01 --> Controller Class Initialized
+INFO - 2020-03-14 15:08:01 --> Config Class Initialized
+INFO - 2020-03-14 15:08:01 --> Controller Class Initialized
+INFO - 2020-03-14 15:08:01 --> Hooks Class Initialized
+DEBUG - 2020-03-14 15:08:01 --> Language_Identifier Class Initialized
+ERROR - 2020-03-14 15:08:01 --> 404 Page Not Found: /index
+ERROR - 2020-03-14 15:08:01 --> 404 Page Not Found: /index
+DEBUG - 2020-03-14 15:08:01 --> UTF-8 Support Enabled
+INFO - 2020-03-14 15:08:01 --> Utf8 Class Initialized
+INFO - 2020-03-14 15:08:01 --> Language Class Initialized
+INFO - 2020-03-14 15:08:01 --> URI Class Initialized
+INFO - 2020-03-14 15:08:01 --> Config Class Initialized
+INFO - 2020-03-14 15:08:01 --> Router Class Initialized
+INFO - 2020-03-14 15:08:01 --> Output Class Initialized
+INFO - 2020-03-14 15:08:01 --> Loader Class Initialized
+INFO - 2020-03-14 15:08:01 --> Security Class Initialized
+INFO - 2020-03-14 15:08:01 --> Helper loaded: url_helper
+DEBUG - 2020-03-14 15:08:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 15:08:01 --> Helper loaded: form_helper
+INFO - 2020-03-14 15:08:01 --> Input Class Initialized
+INFO - 2020-03-14 15:08:01 --> Helper loaded: language_helper
+INFO - 2020-03-14 15:08:01 --> Database Driver Class Initialized
+DEBUG - 2020-03-14 15:08:01 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 15:08:01 --> Language Class Initialized
+INFO - 2020-03-14 15:08:01 --> Controller Class Initialized
+INFO - 2020-03-14 15:08:01 --> Config Class Initialized
+ERROR - 2020-03-14 15:08:01 --> 404 Page Not Found: /index
+INFO - 2020-03-14 15:08:01 --> Loader Class Initialized
+INFO - 2020-03-14 15:08:01 --> Helper loaded: url_helper
+INFO - 2020-03-14 15:08:01 --> Helper loaded: form_helper
+INFO - 2020-03-14 15:08:01 --> Helper loaded: language_helper
+INFO - 2020-03-14 15:08:01 --> Database Driver Class Initialized
+INFO - 2020-03-14 15:08:01 --> Controller Class Initialized
+ERROR - 2020-03-14 15:08:01 --> 404 Page Not Found: /index
+INFO - 2020-03-14 15:08:58 --> Config Class Initialized
+INFO - 2020-03-14 15:08:58 --> Hooks Class Initialized
+DEBUG - 2020-03-14 15:08:58 --> UTF-8 Support Enabled
+INFO - 2020-03-14 15:08:58 --> Utf8 Class Initialized
+INFO - 2020-03-14 15:08:58 --> URI Class Initialized
+INFO - 2020-03-14 15:08:58 --> Router Class Initialized
+INFO - 2020-03-14 15:08:58 --> Output Class Initialized
+INFO - 2020-03-14 15:08:58 --> Security Class Initialized
+DEBUG - 2020-03-14 15:08:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 15:08:58 --> Input Class Initialized
+DEBUG - 2020-03-14 15:08:58 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 15:08:58 --> Language Class Initialized
+INFO - 2020-03-14 15:08:58 --> Config Class Initialized
+INFO - 2020-03-14 15:08:58 --> Loader Class Initialized
+INFO - 2020-03-14 15:08:58 --> Helper loaded: url_helper
+INFO - 2020-03-14 15:08:58 --> Helper loaded: form_helper
+INFO - 2020-03-14 15:08:58 --> Helper loaded: language_helper
+INFO - 2020-03-14 15:08:58 --> Database Driver Class Initialized
+INFO - 2020-03-14 15:08:58 --> Controller Class Initialized
+DEBUG - 2020-03-14 15:08:58 --> News MX_Controller Initialized
+INFO - 2020-03-14 15:08:58 --> Helper loaded: html_helper
+INFO - 2020-03-14 15:08:58 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 15:08:58 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 15:08:58 --> Helper loaded: file_helper
+INFO - 2020-03-14 15:08:58 --> MY_Model class loaded
+INFO - 2020-03-14 15:08:58 --> Model "Language_model" initialized
+INFO - 2020-03-14 15:08:58 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 15:08:58 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 15:08:58 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 15:08:58 --> Model "Setting_model" initialized
+INFO - 2020-03-14 15:08:58 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 15:08:58 --> Model "Page_model" initialized
+INFO - 2020-03-14 15:08:58 --> Model "Category_model" initialized
+INFO - 2020-03-14 15:08:58 --> Model "Article_model" initialized
+INFO - 2020-03-14 15:08:58 --> Model "Service_model" initialized
+INFO - 2020-03-14 15:08:58 --> Model "User_model" initialized
+INFO - 2020-03-14 15:08:58 --> Model "Article_category_model" initialized
+ERROR - 2020-03-14 15:08:58 --> Could not find the language line "Next"
+DEBUG - 2020-03-14 15:08:58 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_search.php
+DEBUG - 2020-03-14 15:08:58 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_news_categories.php
+DEBUG - 2020-03-14 15:08:58 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_services.php
+DEBUG - 2020-03-14 15:08:58 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_solutions.php
+DEBUG - 2020-03-14 15:08:58 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_tags.php
+DEBUG - 2020-03-14 15:08:58 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/default/news/listing_news.php
+DEBUG - 2020-03-14 15:08:58 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/top_bar.php
+ERROR - 2020-03-14 15:08:58 --> Could not find the language line "Giới thiệu"
+ERROR - 2020-03-14 15:08:58 --> Could not find the language line "Dịch vụ thương mại"
+ERROR - 2020-03-14 15:08:58 --> Could not find the language line "Lĩnh vực hoạt động"
+ERROR - 2020-03-14 15:08:58 --> Could not find the language line "Tin Hoạt Động"
+ERROR - 2020-03-14 15:08:58 --> Could not find the language line "Tin Công Nghệ"
+ERROR - 2020-03-14 15:08:58 --> Could not find the language line "Sự Kiện"
+ERROR - 2020-03-14 15:08:58 --> Could not find the language line "Góc báo chí"
+DEBUG - 2020-03-14 15:08:58 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/mega_menu.php
+ERROR - 2020-03-14 15:08:58 --> Could not find the language line "Search"
+ERROR - 2020-03-14 15:08:58 --> Could not find the language line "Sự Kiện"
+ERROR - 2020-03-14 15:08:58 --> Could not find the language line "Tin sự kiện"
+ERROR - 2020-03-14 15:08:58 --> Could not find the language line "news"
+DEBUG - 2020-03-14 15:08:58 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/page_header.php
+DEBUG - 2020-03-14 15:08:58 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_header_view.php
+DEBUG - 2020-03-14 15:08:58 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_footer_view.php
+DEBUG - 2020-03-14 15:08:58 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/master_view.php
+INFO - 2020-03-14 15:08:58 --> Final output sent to browser
+DEBUG - 2020-03-14 15:08:58 --> Total execution time: 0.1491
+INFO - 2020-03-14 15:08:58 --> Config Class Initialized
+INFO - 2020-03-14 15:08:58 --> Hooks Class Initialized
+INFO - 2020-03-14 15:08:58 --> Config Class Initialized
+INFO - 2020-03-14 15:08:58 --> Hooks Class Initialized
+DEBUG - 2020-03-14 15:08:58 --> UTF-8 Support Enabled
+INFO - 2020-03-14 15:08:58 --> Utf8 Class Initialized
+DEBUG - 2020-03-14 15:08:58 --> UTF-8 Support Enabled
+INFO - 2020-03-14 15:08:58 --> Utf8 Class Initialized
+INFO - 2020-03-14 15:08:58 --> URI Class Initialized
+INFO - 2020-03-14 15:08:58 --> Router Class Initialized
+INFO - 2020-03-14 15:08:58 --> Output Class Initialized
+INFO - 2020-03-14 15:08:58 --> Config Class Initialized
+INFO - 2020-03-14 15:08:58 --> Hooks Class Initialized
+DEBUG - 2020-03-14 15:08:58 --> UTF-8 Support Enabled
+INFO - 2020-03-14 15:08:58 --> Utf8 Class Initialized
+INFO - 2020-03-14 15:08:58 --> Config Class Initialized
+INFO - 2020-03-14 15:08:58 --> Hooks Class Initialized
+DEBUG - 2020-03-14 15:08:58 --> UTF-8 Support Enabled
+INFO - 2020-03-14 15:08:58 --> URI Class Initialized
+INFO - 2020-03-14 15:08:58 --> Utf8 Class Initialized
+INFO - 2020-03-14 15:08:58 --> URI Class Initialized
+INFO - 2020-03-14 15:08:58 --> Router Class Initialized
+INFO - 2020-03-14 15:08:58 --> Output Class Initialized
+INFO - 2020-03-14 15:08:58 --> Router Class Initialized
+INFO - 2020-03-14 15:08:58 --> URI Class Initialized
+INFO - 2020-03-14 15:08:58 --> Output Class Initialized
+INFO - 2020-03-14 15:08:58 --> Security Class Initialized
+INFO - 2020-03-14 15:08:58 --> Router Class Initialized
+DEBUG - 2020-03-14 15:08:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 15:08:58 --> Input Class Initialized
+INFO - 2020-03-14 15:08:58 --> Output Class Initialized
+DEBUG - 2020-03-14 15:08:58 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 15:08:58 --> Security Class Initialized
+INFO - 2020-03-14 15:08:58 --> Language Class Initialized
+INFO - 2020-03-14 15:08:58 --> Config Class Initialized
+DEBUG - 2020-03-14 15:08:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 15:08:58 --> Loader Class Initialized
+INFO - 2020-03-14 15:08:58 --> Input Class Initialized
+INFO - 2020-03-14 15:08:58 --> Helper loaded: url_helper
+DEBUG - 2020-03-14 15:08:58 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 15:08:58 --> Helper loaded: form_helper
+INFO - 2020-03-14 15:08:58 --> Language Class Initialized
+INFO - 2020-03-14 15:08:58 --> Helper loaded: language_helper
+INFO - 2020-03-14 15:08:58 --> Config Class Initialized
+INFO - 2020-03-14 15:08:58 --> Hooks Class Initialized
+INFO - 2020-03-14 15:08:58 --> Database Driver Class Initialized
+DEBUG - 2020-03-14 15:08:58 --> UTF-8 Support Enabled
+INFO - 2020-03-14 15:08:58 --> Utf8 Class Initialized
+INFO - 2020-03-14 15:08:58 --> Security Class Initialized
+INFO - 2020-03-14 15:08:58 --> URI Class Initialized
+INFO - 2020-03-14 15:08:58 --> Config Class Initialized
+INFO - 2020-03-14 15:08:58 --> Loader Class Initialized
+INFO - 2020-03-14 15:08:58 --> Helper loaded: url_helper
+INFO - 2020-03-14 15:08:58 --> Helper loaded: form_helper
+INFO - 2020-03-14 15:08:58 --> Helper loaded: language_helper
+INFO - 2020-03-14 15:08:58 --> Database Driver Class Initialized
+INFO - 2020-03-14 15:08:58 --> Controller Class Initialized
+INFO - 2020-03-14 15:08:58 --> Controller Class Initialized
+DEBUG - 2020-03-14 15:08:58 --> News MX_Controller Initialized
+INFO - 2020-03-14 15:08:58 --> Helper loaded: html_helper
+INFO - 2020-03-14 15:08:58 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 15:08:58 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 15:08:58 --> Helper loaded: file_helper
+INFO - 2020-03-14 15:08:58 --> MY_Model class loaded
+INFO - 2020-03-14 15:08:58 --> Model "Language_model" initialized
+ERROR - 2020-03-14 15:08:58 --> 404 Page Not Found: /index
+DEBUG - 2020-03-14 15:08:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 15:08:58 --> Input Class Initialized
+DEBUG - 2020-03-14 15:08:58 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 15:08:58 --> Language Class Initialized
+INFO - 2020-03-14 15:08:58 --> Security Class Initialized
+INFO - 2020-03-14 15:08:58 --> Config Class Initialized
+INFO - 2020-03-14 15:08:58 --> Loader Class Initialized
+INFO - 2020-03-14 15:08:58 --> Helper loaded: url_helper
+INFO - 2020-03-14 15:08:58 --> Helper loaded: form_helper
+INFO - 2020-03-14 15:08:58 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 15:08:58 --> Helper loaded: language_helper
+INFO - 2020-03-14 15:08:58 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 15:08:58 --> Database Driver Class Initialized
+INFO - 2020-03-14 15:08:58 --> Router Class Initialized
+INFO - 2020-03-14 15:08:58 --> Output Class Initialized
+DEBUG - 2020-03-14 15:08:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 15:08:58 --> Input Class Initialized
+DEBUG - 2020-03-14 15:08:58 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 15:08:58 --> Language Class Initialized
+INFO - 2020-03-14 15:08:58 --> Config Class Initialized
+INFO - 2020-03-14 15:08:58 --> Loader Class Initialized
+INFO - 2020-03-14 15:08:58 --> Controller Class Initialized
+INFO - 2020-03-14 15:08:58 --> Helper loaded: url_helper
+DEBUG - 2020-03-14 15:08:58 --> News MX_Controller Initialized
+INFO - 2020-03-14 15:08:58 --> Helper loaded: form_helper
+INFO - 2020-03-14 15:08:58 --> Helper loaded: language_helper
+INFO - 2020-03-14 15:08:58 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 15:08:58 --> Security Class Initialized
+INFO - 2020-03-14 15:08:58 --> Database Driver Class Initialized
+DEBUG - 2020-03-14 15:08:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 15:08:58 --> Input Class Initialized
+DEBUG - 2020-03-14 15:08:58 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 15:08:58 --> Language Class Initialized
+INFO - 2020-03-14 15:08:58 --> Config Class Initialized
+INFO - 2020-03-14 15:08:58 --> Loader Class Initialized
+INFO - 2020-03-14 15:08:58 --> Helper loaded: url_helper
+INFO - 2020-03-14 15:08:58 --> Controller Class Initialized
+INFO - 2020-03-14 15:08:58 --> Helper loaded: form_helper
+INFO - 2020-03-14 15:08:58 --> Helper loaded: language_helper
+INFO - 2020-03-14 15:08:58 --> Helper loaded: html_helper
+INFO - 2020-03-14 15:08:58 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 15:08:58 --> Database Driver Class Initialized
+DEBUG - 2020-03-14 15:08:58 --> News MX_Controller Initialized
+INFO - 2020-03-14 15:08:58 --> Helper loaded: html_helper
+INFO - 2020-03-14 15:08:58 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 15:08:58 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 15:08:58 --> Controller Class Initialized
+DEBUG - 2020-03-14 15:08:58 --> News MX_Controller Initialized
+INFO - 2020-03-14 15:08:58 --> Model "Page_model" initialized
+INFO - 2020-03-14 15:08:58 --> Helper loaded: html_helper
+INFO - 2020-03-14 15:08:58 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 15:08:58 --> Model "Category_model" initialized
+INFO - 2020-03-14 15:08:58 --> Model "Article_model" initialized
+INFO - 2020-03-14 15:08:58 --> Model "Service_model" initialized
+ERROR - 2020-03-14 15:08:58 --> Severity: Warning --> A non-numeric value encountered /Volumes/Betrai/www/thienanphu/application/controllers/News.php 22
+INFO - 2020-03-14 15:08:58 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 15:08:58 --> Helper loaded: file_helper
+INFO - 2020-03-14 15:08:58 --> MY_Model class loaded
+INFO - 2020-03-14 15:08:58 --> Model "Language_model" initialized
+INFO - 2020-03-14 15:08:58 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 15:08:58 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 15:08:58 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 15:08:58 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 15:08:58 --> Model "Page_model" initialized
+INFO - 2020-03-14 15:08:58 --> Model "Category_model" initialized
+INFO - 2020-03-14 15:08:58 --> Model "Article_model" initialized
+INFO - 2020-03-14 15:08:58 --> Model "Service_model" initialized
+ERROR - 2020-03-14 15:08:58 --> Severity: Warning --> A non-numeric value encountered /Volumes/Betrai/www/thienanphu/application/controllers/News.php 22
+INFO - 2020-03-14 15:08:58 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 15:08:58 --> Helper loaded: file_helper
+INFO - 2020-03-14 15:08:58 --> MY_Model class loaded
+INFO - 2020-03-14 15:08:58 --> Model "Language_model" initialized
+INFO - 2020-03-14 15:08:58 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 15:08:58 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 15:08:58 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 15:08:58 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 15:08:58 --> Model "Page_model" initialized
+INFO - 2020-03-14 15:08:58 --> Model "Category_model" initialized
+INFO - 2020-03-14 15:08:58 --> Model "Article_model" initialized
+INFO - 2020-03-14 15:08:58 --> Model "Service_model" initialized
+ERROR - 2020-03-14 15:08:58 --> Severity: Warning --> A non-numeric value encountered /Volumes/Betrai/www/thienanphu/application/controllers/News.php 22
+INFO - 2020-03-14 15:08:58 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 15:08:58 --> Helper loaded: file_helper
+INFO - 2020-03-14 15:08:58 --> MY_Model class loaded
+INFO - 2020-03-14 15:08:58 --> Model "Language_model" initialized
+INFO - 2020-03-14 15:08:58 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 15:08:58 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 15:08:58 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 15:08:58 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 15:08:58 --> Model "Page_model" initialized
+INFO - 2020-03-14 15:08:58 --> Model "Category_model" initialized
+INFO - 2020-03-14 15:08:58 --> Model "Article_model" initialized
+INFO - 2020-03-14 15:08:58 --> Model "Service_model" initialized
+ERROR - 2020-03-14 15:08:58 --> Severity: Warning --> A non-numeric value encountered /Volumes/Betrai/www/thienanphu/application/controllers/News.php 22
+INFO - 2020-03-14 15:09:03 --> Config Class Initialized
+INFO - 2020-03-14 15:09:03 --> Hooks Class Initialized
+DEBUG - 2020-03-14 15:09:03 --> UTF-8 Support Enabled
+INFO - 2020-03-14 15:09:03 --> Utf8 Class Initialized
+INFO - 2020-03-14 15:09:03 --> URI Class Initialized
+INFO - 2020-03-14 15:09:03 --> Router Class Initialized
+INFO - 2020-03-14 15:09:03 --> Output Class Initialized
+INFO - 2020-03-14 15:09:03 --> Security Class Initialized
+DEBUG - 2020-03-14 15:09:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 15:09:03 --> Input Class Initialized
+INFO - 2020-03-14 15:09:03 --> Config Class Initialized
+INFO - 2020-03-14 15:09:03 --> Hooks Class Initialized
+DEBUG - 2020-03-14 15:09:03 --> UTF-8 Support Enabled
+INFO - 2020-03-14 15:09:03 --> Utf8 Class Initialized
+INFO - 2020-03-14 15:09:03 --> URI Class Initialized
+INFO - 2020-03-14 15:09:03 --> Router Class Initialized
+INFO - 2020-03-14 15:09:03 --> Output Class Initialized
+INFO - 2020-03-14 15:09:03 --> Security Class Initialized
+DEBUG - 2020-03-14 15:09:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 15:09:03 --> Input Class Initialized
+DEBUG - 2020-03-14 15:09:03 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 15:09:03 --> Language Class Initialized
+INFO - 2020-03-14 15:09:03 --> Config Class Initialized
+INFO - 2020-03-14 15:09:03 --> Loader Class Initialized
+INFO - 2020-03-14 15:09:03 --> Helper loaded: url_helper
+INFO - 2020-03-14 15:09:03 --> Helper loaded: form_helper
+INFO - 2020-03-14 15:09:03 --> Helper loaded: language_helper
+INFO - 2020-03-14 15:09:03 --> Database Driver Class Initialized
+INFO - 2020-03-14 15:09:03 --> Controller Class Initialized
+ERROR - 2020-03-14 15:09:03 --> 404 Page Not Found: /index
+INFO - 2020-03-14 15:09:24 --> Config Class Initialized
+INFO - 2020-03-14 15:09:24 --> Hooks Class Initialized
+DEBUG - 2020-03-14 15:09:24 --> UTF-8 Support Enabled
+INFO - 2020-03-14 15:09:24 --> Utf8 Class Initialized
+INFO - 2020-03-14 15:09:24 --> URI Class Initialized
+INFO - 2020-03-14 15:09:24 --> Router Class Initialized
+INFO - 2020-03-14 15:09:24 --> Output Class Initialized
+INFO - 2020-03-14 15:09:24 --> Security Class Initialized
+DEBUG - 2020-03-14 15:09:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 15:09:24 --> Input Class Initialized
+DEBUG - 2020-03-14 15:09:24 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 15:09:24 --> Language Class Initialized
+INFO - 2020-03-14 15:09:24 --> Config Class Initialized
+INFO - 2020-03-14 15:09:24 --> Loader Class Initialized
+INFO - 2020-03-14 15:09:24 --> Helper loaded: url_helper
+INFO - 2020-03-14 15:09:24 --> Helper loaded: form_helper
+INFO - 2020-03-14 15:09:24 --> Helper loaded: language_helper
+INFO - 2020-03-14 15:09:24 --> Database Driver Class Initialized
+INFO - 2020-03-14 15:09:24 --> Controller Class Initialized
+DEBUG - 2020-03-14 15:09:24 --> News MX_Controller Initialized
+INFO - 2020-03-14 15:09:24 --> Helper loaded: html_helper
+INFO - 2020-03-14 15:09:24 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 15:09:24 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 15:09:24 --> Helper loaded: file_helper
+INFO - 2020-03-14 15:09:24 --> MY_Model class loaded
+INFO - 2020-03-14 15:09:24 --> Model "Language_model" initialized
+INFO - 2020-03-14 15:09:24 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 15:09:24 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 15:09:24 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 15:09:24 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 15:09:24 --> Model "Page_model" initialized
+INFO - 2020-03-14 15:09:24 --> Model "Category_model" initialized
+INFO - 2020-03-14 15:09:24 --> Model "Article_model" initialized
+INFO - 2020-03-14 15:09:24 --> Model "Service_model" initialized
+INFO - 2020-03-14 15:09:24 --> Model "User_model" initialized
+INFO - 2020-03-14 15:09:24 --> Model "Article_category_model" initialized
+ERROR - 2020-03-14 15:09:24 --> Could not find the language line "Next"
+DEBUG - 2020-03-14 15:09:24 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_search.php
+DEBUG - 2020-03-14 15:09:24 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_news_categories.php
+DEBUG - 2020-03-14 15:09:24 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_services.php
+DEBUG - 2020-03-14 15:09:24 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_solutions.php
+DEBUG - 2020-03-14 15:09:24 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_tags.php
+DEBUG - 2020-03-14 15:09:24 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/default/news/listing_news.php
+DEBUG - 2020-03-14 15:09:24 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/top_bar.php
+ERROR - 2020-03-14 15:09:24 --> Could not find the language line "Giới thiệu"
+ERROR - 2020-03-14 15:09:24 --> Could not find the language line "Dịch vụ thương mại"
+ERROR - 2020-03-14 15:09:24 --> Could not find the language line "Lĩnh vực hoạt động"
+ERROR - 2020-03-14 15:09:24 --> Could not find the language line "Tin Hoạt Động"
+ERROR - 2020-03-14 15:09:24 --> Could not find the language line "Tin Công Nghệ"
+ERROR - 2020-03-14 15:09:24 --> Could not find the language line "Sự Kiện"
+ERROR - 2020-03-14 15:09:24 --> Could not find the language line "Góc báo chí"
+DEBUG - 2020-03-14 15:09:24 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/mega_menu.php
+ERROR - 2020-03-14 15:09:24 --> Could not find the language line "Search"
+ERROR - 2020-03-14 15:09:24 --> Could not find the language line "Sự Kiện"
+ERROR - 2020-03-14 15:09:24 --> Could not find the language line "Tin sự kiện"
+ERROR - 2020-03-14 15:09:24 --> Could not find the language line "news"
+DEBUG - 2020-03-14 15:09:24 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/page_header.php
+DEBUG - 2020-03-14 15:09:24 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_header_view.php
+DEBUG - 2020-03-14 15:09:24 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_footer_view.php
+DEBUG - 2020-03-14 15:09:24 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/master_view.php
+INFO - 2020-03-14 15:09:24 --> Final output sent to browser
+DEBUG - 2020-03-14 15:09:24 --> Total execution time: 0.1100
+INFO - 2020-03-14 15:09:24 --> Config Class Initialized
+INFO - 2020-03-14 15:09:24 --> Hooks Class Initialized
+DEBUG - 2020-03-14 15:09:24 --> UTF-8 Support Enabled
+INFO - 2020-03-14 15:09:24 --> Utf8 Class Initialized
+INFO - 2020-03-14 15:09:24 --> URI Class Initialized
+INFO - 2020-03-14 15:09:24 --> Router Class Initialized
+INFO - 2020-03-14 15:09:24 --> Output Class Initialized
+INFO - 2020-03-14 15:09:24 --> Security Class Initialized
+DEBUG - 2020-03-14 15:09:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 15:09:24 --> Input Class Initialized
+DEBUG - 2020-03-14 15:09:24 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 15:09:24 --> Language Class Initialized
+INFO - 2020-03-14 15:09:24 --> Config Class Initialized
+INFO - 2020-03-14 15:09:24 --> Loader Class Initialized
+INFO - 2020-03-14 15:09:24 --> Helper loaded: url_helper
+INFO - 2020-03-14 15:09:24 --> Helper loaded: form_helper
+INFO - 2020-03-14 15:09:24 --> Helper loaded: language_helper
+INFO - 2020-03-14 15:09:24 --> Database Driver Class Initialized
+INFO - 2020-03-14 15:09:24 --> Config Class Initialized
+INFO - 2020-03-14 15:09:24 --> Hooks Class Initialized
+INFO - 2020-03-14 15:09:24 --> Config Class Initialized
+INFO - 2020-03-14 15:09:24 --> Hooks Class Initialized
+DEBUG - 2020-03-14 15:09:24 --> UTF-8 Support Enabled
+INFO - 2020-03-14 15:09:24 --> Utf8 Class Initialized
+INFO - 2020-03-14 15:09:24 --> URI Class Initialized
+DEBUG - 2020-03-14 15:09:24 --> UTF-8 Support Enabled
+INFO - 2020-03-14 15:09:24 --> Utf8 Class Initialized
+INFO - 2020-03-14 15:09:24 --> URI Class Initialized
+INFO - 2020-03-14 15:09:24 --> Router Class Initialized
+INFO - 2020-03-14 15:09:24 --> Config Class Initialized
+INFO - 2020-03-14 15:09:24 --> Router Class Initialized
+INFO - 2020-03-14 15:09:24 --> Hooks Class Initialized
+DEBUG - 2020-03-14 15:09:24 --> UTF-8 Support Enabled
+INFO - 2020-03-14 15:09:24 --> Utf8 Class Initialized
+INFO - 2020-03-14 15:09:24 --> URI Class Initialized
+INFO - 2020-03-14 15:09:24 --> Output Class Initialized
+INFO - 2020-03-14 15:09:24 --> Security Class Initialized
+INFO - 2020-03-14 15:09:24 --> Router Class Initialized
+INFO - 2020-03-14 15:09:24 --> Output Class Initialized
+INFO - 2020-03-14 15:09:24 --> Security Class Initialized
+DEBUG - 2020-03-14 15:09:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 15:09:24 --> Input Class Initialized
+DEBUG - 2020-03-14 15:09:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 15:09:24 --> Output Class Initialized
+INFO - 2020-03-14 15:09:24 --> Controller Class Initialized
+INFO - 2020-03-14 15:09:24 --> Input Class Initialized
+DEBUG - 2020-03-14 15:09:24 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 15:09:24 --> Security Class Initialized
+INFO - 2020-03-14 15:09:24 --> Language Class Initialized
+INFO - 2020-03-14 15:09:24 --> Config Class Initialized
+DEBUG - 2020-03-14 15:09:24 --> News MX_Controller Initialized
+DEBUG - 2020-03-14 15:09:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 15:09:24 --> Input Class Initialized
+DEBUG - 2020-03-14 15:09:24 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 15:09:24 --> Language Class Initialized
+INFO - 2020-03-14 15:09:24 --> Config Class Initialized
+INFO - 2020-03-14 15:09:24 --> Loader Class Initialized
+INFO - 2020-03-14 15:09:24 --> Helper loaded: url_helper
+DEBUG - 2020-03-14 15:09:24 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 15:09:24 --> Language Class Initialized
+INFO - 2020-03-14 15:09:24 --> Config Class Initialized
+INFO - 2020-03-14 15:09:24 --> Loader Class Initialized
+INFO - 2020-03-14 15:09:24 --> Helper loaded: html_helper
+INFO - 2020-03-14 15:09:24 --> Loader Class Initialized
+INFO - 2020-03-14 15:09:24 --> Helper loaded: url_helper
+INFO - 2020-03-14 15:09:24 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 15:09:24 --> Helper loaded: url_helper
+INFO - 2020-03-14 15:09:24 --> Config Class Initialized
+INFO - 2020-03-14 15:09:24 --> Hooks Class Initialized
+INFO - 2020-03-14 15:09:24 --> Helper loaded: form_helper
+INFO - 2020-03-14 15:09:24 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 15:09:24 --> Helper loaded: language_helper
+INFO - 2020-03-14 15:09:24 --> Database Driver Class Initialized
+INFO - 2020-03-14 15:09:24 --> Helper loaded: form_helper
+DEBUG - 2020-03-14 15:09:24 --> UTF-8 Support Enabled
+INFO - 2020-03-14 15:09:24 --> Utf8 Class Initialized
+INFO - 2020-03-14 15:09:24 --> Helper loaded: language_helper
+INFO - 2020-03-14 15:09:24 --> URI Class Initialized
+INFO - 2020-03-14 15:09:24 --> Helper loaded: file_helper
+INFO - 2020-03-14 15:09:24 --> Helper loaded: form_helper
+INFO - 2020-03-14 15:09:24 --> Router Class Initialized
+INFO - 2020-03-14 15:09:24 --> Output Class Initialized
+INFO - 2020-03-14 15:09:24 --> Helper loaded: language_helper
+INFO - 2020-03-14 15:09:24 --> MY_Model class loaded
+INFO - 2020-03-14 15:09:24 --> Security Class Initialized
+INFO - 2020-03-14 15:09:24 --> Model "Language_model" initialized
+INFO - 2020-03-14 15:09:24 --> Database Driver Class Initialized
+INFO - 2020-03-14 15:09:24 --> Database Driver Class Initialized
+DEBUG - 2020-03-14 15:09:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 15:09:24 --> Controller Class Initialized
+INFO - 2020-03-14 15:09:24 --> Controller Class Initialized
+INFO - 2020-03-14 15:09:24 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 15:09:24 --> Input Class Initialized
+INFO - 2020-03-14 15:09:24 --> Language file loaded: language/vietnamese/global_lang.php
+DEBUG - 2020-03-14 15:09:24 --> News MX_Controller Initialized
+INFO - 2020-03-14 15:09:24 --> Controller Class Initialized
+ERROR - 2020-03-14 15:09:24 --> 404 Page Not Found: /index
+DEBUG - 2020-03-14 15:09:24 --> Language_Identifier Class Initialized
+DEBUG - 2020-03-14 15:09:24 --> News MX_Controller Initialized
+INFO - 2020-03-14 15:09:24 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 15:09:24 --> Language Class Initialized
+INFO - 2020-03-14 15:09:24 --> Config Class Initialized
+INFO - 2020-03-14 15:09:24 --> Helper loaded: html_helper
+INFO - 2020-03-14 15:09:24 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 15:09:24 --> Helper loaded: html_helper
+INFO - 2020-03-14 15:09:24 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 15:09:24 --> Loader Class Initialized
+INFO - 2020-03-14 15:09:24 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 15:09:24 --> Helper loaded: url_helper
+INFO - 2020-03-14 15:09:24 --> Model "Page_model" initialized
+INFO - 2020-03-14 15:09:24 --> Helper loaded: form_helper
+INFO - 2020-03-14 15:09:24 --> Model "Category_model" initialized
+INFO - 2020-03-14 15:09:24 --> Helper loaded: language_helper
+INFO - 2020-03-14 15:09:24 --> Database Driver Class Initialized
+INFO - 2020-03-14 15:09:24 --> Controller Class Initialized
+INFO - 2020-03-14 15:09:24 --> Model "Article_model" initialized
+DEBUG - 2020-03-14 15:09:24 --> News MX_Controller Initialized
+INFO - 2020-03-14 15:09:24 --> Model "Service_model" initialized
+INFO - 2020-03-14 15:09:24 --> Helper loaded: html_helper
+INFO - 2020-03-14 15:09:24 --> Helper loaded: cookie_helper
+ERROR - 2020-03-14 15:09:24 --> Severity: Warning --> A non-numeric value encountered /Volumes/Betrai/www/thienanphu/application/controllers/News.php 22
+INFO - 2020-03-14 15:09:24 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 15:09:24 --> Helper loaded: file_helper
+INFO - 2020-03-14 15:09:24 --> MY_Model class loaded
+INFO - 2020-03-14 15:09:24 --> Model "Language_model" initialized
+INFO - 2020-03-14 15:09:24 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 15:09:24 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 15:09:24 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 15:09:24 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 15:09:24 --> Model "Page_model" initialized
+INFO - 2020-03-14 15:09:24 --> Model "Category_model" initialized
+INFO - 2020-03-14 15:09:24 --> Model "Article_model" initialized
+INFO - 2020-03-14 15:09:24 --> Model "Service_model" initialized
+ERROR - 2020-03-14 15:09:24 --> Severity: Warning --> A non-numeric value encountered /Volumes/Betrai/www/thienanphu/application/controllers/News.php 22
+INFO - 2020-03-14 15:09:24 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 15:09:24 --> Helper loaded: file_helper
+INFO - 2020-03-14 15:09:24 --> MY_Model class loaded
+INFO - 2020-03-14 15:09:24 --> Model "Language_model" initialized
+INFO - 2020-03-14 15:09:24 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 15:09:24 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 15:09:24 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 15:09:24 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 15:09:24 --> Model "Page_model" initialized
+INFO - 2020-03-14 15:09:24 --> Model "Category_model" initialized
+INFO - 2020-03-14 15:09:24 --> Model "Article_model" initialized
+INFO - 2020-03-14 15:09:24 --> Model "Service_model" initialized
+ERROR - 2020-03-14 15:09:24 --> Severity: Warning --> A non-numeric value encountered /Volumes/Betrai/www/thienanphu/application/controllers/News.php 22
+INFO - 2020-03-14 15:09:24 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 15:09:24 --> Helper loaded: file_helper
+INFO - 2020-03-14 15:09:24 --> MY_Model class loaded
+INFO - 2020-03-14 15:09:24 --> Model "Language_model" initialized
+INFO - 2020-03-14 15:09:24 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 15:09:24 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 15:09:24 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 15:09:25 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 15:09:25 --> Model "Page_model" initialized
+INFO - 2020-03-14 15:09:25 --> Model "Category_model" initialized
+INFO - 2020-03-14 15:09:25 --> Config Class Initialized
+INFO - 2020-03-14 15:09:25 --> Model "Article_model" initialized
+INFO - 2020-03-14 15:09:25 --> Model "Service_model" initialized
+ERROR - 2020-03-14 15:09:25 --> Severity: Warning --> A non-numeric value encountered /Volumes/Betrai/www/thienanphu/application/controllers/News.php 22
+INFO - 2020-03-14 15:09:25 --> Hooks Class Initialized
+DEBUG - 2020-03-14 15:09:25 --> UTF-8 Support Enabled
+INFO - 2020-03-14 15:09:25 --> Utf8 Class Initialized
+INFO - 2020-03-14 15:09:25 --> URI Class Initialized
+INFO - 2020-03-14 15:09:25 --> Router Class Initialized
+INFO - 2020-03-14 15:09:25 --> Output Class Initialized
+INFO - 2020-03-14 15:09:25 --> Security Class Initialized
+DEBUG - 2020-03-14 15:09:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 15:09:25 --> Input Class Initialized
+INFO - 2020-03-14 15:09:25 --> Config Class Initialized
+INFO - 2020-03-14 15:09:25 --> Hooks Class Initialized
+DEBUG - 2020-03-14 15:09:25 --> UTF-8 Support Enabled
+INFO - 2020-03-14 15:09:25 --> Utf8 Class Initialized
+INFO - 2020-03-14 15:09:25 --> URI Class Initialized
+INFO - 2020-03-14 15:09:25 --> Router Class Initialized
+INFO - 2020-03-14 15:09:25 --> Output Class Initialized
+INFO - 2020-03-14 15:09:25 --> Security Class Initialized
+DEBUG - 2020-03-14 15:09:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 15:09:25 --> Input Class Initialized
+DEBUG - 2020-03-14 15:09:25 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 15:09:25 --> Language Class Initialized
+INFO - 2020-03-14 15:09:25 --> Config Class Initialized
+INFO - 2020-03-14 15:09:25 --> Loader Class Initialized
+INFO - 2020-03-14 15:09:25 --> Helper loaded: url_helper
+INFO - 2020-03-14 15:09:25 --> Helper loaded: form_helper
+INFO - 2020-03-14 15:09:25 --> Helper loaded: language_helper
+INFO - 2020-03-14 15:09:25 --> Database Driver Class Initialized
+INFO - 2020-03-14 15:09:25 --> Controller Class Initialized
+ERROR - 2020-03-14 15:09:25 --> 404 Page Not Found: /index
+INFO - 2020-03-14 15:10:04 --> Config Class Initialized
+INFO - 2020-03-14 15:10:04 --> Hooks Class Initialized
+DEBUG - 2020-03-14 15:10:04 --> UTF-8 Support Enabled
+INFO - 2020-03-14 15:10:04 --> Utf8 Class Initialized
+INFO - 2020-03-14 15:10:04 --> URI Class Initialized
+INFO - 2020-03-14 15:10:04 --> Router Class Initialized
+INFO - 2020-03-14 15:10:04 --> Output Class Initialized
+INFO - 2020-03-14 15:10:04 --> Security Class Initialized
+DEBUG - 2020-03-14 15:10:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 15:10:04 --> Input Class Initialized
+DEBUG - 2020-03-14 15:10:04 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 15:10:04 --> Language Class Initialized
+INFO - 2020-03-14 15:10:04 --> Config Class Initialized
+INFO - 2020-03-14 15:10:04 --> Loader Class Initialized
+INFO - 2020-03-14 15:10:04 --> Helper loaded: url_helper
+INFO - 2020-03-14 15:10:04 --> Helper loaded: form_helper
+INFO - 2020-03-14 15:10:04 --> Helper loaded: language_helper
+INFO - 2020-03-14 15:10:04 --> Database Driver Class Initialized
+INFO - 2020-03-14 15:10:04 --> Controller Class Initialized
+DEBUG - 2020-03-14 15:10:04 --> News MX_Controller Initialized
+INFO - 2020-03-14 15:10:04 --> Helper loaded: html_helper
+INFO - 2020-03-14 15:10:04 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 15:10:04 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 15:10:04 --> Helper loaded: file_helper
+INFO - 2020-03-14 15:10:04 --> MY_Model class loaded
+INFO - 2020-03-14 15:10:04 --> Model "Language_model" initialized
+INFO - 2020-03-14 15:10:04 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 15:10:04 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 15:10:04 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 15:10:04 --> Model "Setting_model" initialized
+INFO - 2020-03-14 15:10:04 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 15:10:04 --> Model "Page_model" initialized
+INFO - 2020-03-14 15:10:04 --> Model "Category_model" initialized
+INFO - 2020-03-14 15:10:04 --> Model "Article_model" initialized
+INFO - 2020-03-14 15:10:04 --> Model "Service_model" initialized
+INFO - 2020-03-14 15:10:04 --> Model "User_model" initialized
+INFO - 2020-03-14 15:10:04 --> Model "Article_category_model" initialized
+ERROR - 2020-03-14 15:10:04 --> Could not find the language line "Next"
+DEBUG - 2020-03-14 15:10:04 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_search.php
+DEBUG - 2020-03-14 15:10:04 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_news_categories.php
+DEBUG - 2020-03-14 15:10:04 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_services.php
+DEBUG - 2020-03-14 15:10:04 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_solutions.php
+DEBUG - 2020-03-14 15:10:04 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_tags.php
+DEBUG - 2020-03-14 15:10:04 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/default/news/listing_news.php
+DEBUG - 2020-03-14 15:10:04 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/top_bar.php
+ERROR - 2020-03-14 15:10:04 --> Could not find the language line "Giới thiệu"
+ERROR - 2020-03-14 15:10:04 --> Could not find the language line "Dịch vụ thương mại"
+ERROR - 2020-03-14 15:10:04 --> Could not find the language line "Lĩnh vực hoạt động"
+ERROR - 2020-03-14 15:10:04 --> Could not find the language line "Tin Hoạt Động"
+ERROR - 2020-03-14 15:10:04 --> Could not find the language line "Tin Công Nghệ"
+ERROR - 2020-03-14 15:10:04 --> Could not find the language line "Sự Kiện"
+ERROR - 2020-03-14 15:10:04 --> Could not find the language line "Góc báo chí"
+DEBUG - 2020-03-14 15:10:04 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/mega_menu.php
+ERROR - 2020-03-14 15:10:04 --> Could not find the language line "Search"
+ERROR - 2020-03-14 15:10:04 --> Could not find the language line "Sự Kiện"
+ERROR - 2020-03-14 15:10:04 --> Could not find the language line "Tin sự kiện"
+ERROR - 2020-03-14 15:10:04 --> Could not find the language line "news"
+DEBUG - 2020-03-14 15:10:04 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/page_header.php
+DEBUG - 2020-03-14 15:10:04 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_header_view.php
+DEBUG - 2020-03-14 15:10:04 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_footer_view.php
+DEBUG - 2020-03-14 15:10:04 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/master_view.php
+INFO - 2020-03-14 15:10:04 --> Final output sent to browser
+DEBUG - 2020-03-14 15:10:04 --> Total execution time: 0.1335
+INFO - 2020-03-14 15:10:04 --> Config Class Initialized
+INFO - 2020-03-14 15:10:04 --> Hooks Class Initialized
+DEBUG - 2020-03-14 15:10:04 --> UTF-8 Support Enabled
+INFO - 2020-03-14 15:10:04 --> Utf8 Class Initialized
+INFO - 2020-03-14 15:10:04 --> Config Class Initialized
+INFO - 2020-03-14 15:10:04 --> Hooks Class Initialized
+INFO - 2020-03-14 15:10:04 --> URI Class Initialized
+INFO - 2020-03-14 15:10:04 --> Router Class Initialized
+INFO - 2020-03-14 15:10:04 --> Output Class Initialized
+INFO - 2020-03-14 15:10:04 --> Security Class Initialized
+DEBUG - 2020-03-14 15:10:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 15:10:04 --> Input Class Initialized
+DEBUG - 2020-03-14 15:10:04 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 15:10:04 --> Language Class Initialized
+INFO - 2020-03-14 15:10:04 --> Config Class Initialized
+INFO - 2020-03-14 15:10:04 --> Config Class Initialized
+INFO - 2020-03-14 15:10:04 --> Hooks Class Initialized
+INFO - 2020-03-14 15:10:04 --> Loader Class Initialized
+DEBUG - 2020-03-14 15:10:04 --> UTF-8 Support Enabled
+INFO - 2020-03-14 15:10:04 --> Config Class Initialized
+INFO - 2020-03-14 15:10:04 --> Config Class Initialized
+DEBUG - 2020-03-14 15:10:04 --> UTF-8 Support Enabled
+INFO - 2020-03-14 15:10:04 --> Utf8 Class Initialized
+INFO - 2020-03-14 15:10:04 --> Hooks Class Initialized
+INFO - 2020-03-14 15:10:04 --> Hooks Class Initialized
+INFO - 2020-03-14 15:10:04 --> Helper loaded: url_helper
+DEBUG - 2020-03-14 15:10:04 --> UTF-8 Support Enabled
+INFO - 2020-03-14 15:10:04 --> URI Class Initialized
+DEBUG - 2020-03-14 15:10:04 --> UTF-8 Support Enabled
+INFO - 2020-03-14 15:10:04 --> Helper loaded: form_helper
+INFO - 2020-03-14 15:10:04 --> Utf8 Class Initialized
+INFO - 2020-03-14 15:10:04 --> Utf8 Class Initialized
+INFO - 2020-03-14 15:10:04 --> Helper loaded: language_helper
+INFO - 2020-03-14 15:10:04 --> URI Class Initialized
+INFO - 2020-03-14 15:10:04 --> URI Class Initialized
+INFO - 2020-03-14 15:10:04 --> Router Class Initialized
+INFO - 2020-03-14 15:10:04 --> Output Class Initialized
+INFO - 2020-03-14 15:10:04 --> Router Class Initialized
+INFO - 2020-03-14 15:10:04 --> Router Class Initialized
+INFO - 2020-03-14 15:10:04 --> Output Class Initialized
+INFO - 2020-03-14 15:10:04 --> Utf8 Class Initialized
+INFO - 2020-03-14 15:10:04 --> Security Class Initialized
+INFO - 2020-03-14 15:10:04 --> Output Class Initialized
+INFO - 2020-03-14 15:10:04 --> Security Class Initialized
+DEBUG - 2020-03-14 15:10:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 15:10:04 --> Database Driver Class Initialized
+INFO - 2020-03-14 15:10:04 --> URI Class Initialized
+INFO - 2020-03-14 15:10:04 --> Security Class Initialized
+INFO - 2020-03-14 15:10:04 --> Input Class Initialized
+DEBUG - 2020-03-14 15:10:04 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-03-14 15:10:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 15:10:04 --> Input Class Initialized
+DEBUG - 2020-03-14 15:10:04 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 15:10:04 --> Input Class Initialized
+INFO - 2020-03-14 15:10:04 --> Router Class Initialized
+DEBUG - 2020-03-14 15:10:04 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 15:10:04 --> Language Class Initialized
+INFO - 2020-03-14 15:10:04 --> Config Class Initialized
+DEBUG - 2020-03-14 15:10:04 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 15:10:04 --> Language Class Initialized
+INFO - 2020-03-14 15:10:04 --> Config Class Initialized
+INFO - 2020-03-14 15:10:04 --> Loader Class Initialized
+INFO - 2020-03-14 15:10:04 --> Language Class Initialized
+INFO - 2020-03-14 15:10:04 --> Config Class Initialized
+INFO - 2020-03-14 15:10:04 --> Output Class Initialized
+INFO - 2020-03-14 15:10:04 --> Helper loaded: url_helper
+INFO - 2020-03-14 15:10:04 --> Loader Class Initialized
+INFO - 2020-03-14 15:10:04 --> Security Class Initialized
+INFO - 2020-03-14 15:10:04 --> Loader Class Initialized
+INFO - 2020-03-14 15:10:04 --> Helper loaded: form_helper
+INFO - 2020-03-14 15:10:04 --> Helper loaded: language_helper
+INFO - 2020-03-14 15:10:04 --> Database Driver Class Initialized
+DEBUG - 2020-03-14 15:10:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 15:10:05 --> Input Class Initialized
+INFO - 2020-03-14 15:10:05 --> Helper loaded: url_helper
+INFO - 2020-03-14 15:10:05 --> Helper loaded: form_helper
+INFO - 2020-03-14 15:10:05 --> Helper loaded: language_helper
+INFO - 2020-03-14 15:10:05 --> Controller Class Initialized
+DEBUG - 2020-03-14 15:10:05 --> News MX_Controller Initialized
+INFO - 2020-03-14 15:10:05 --> Helper loaded: html_helper
+INFO - 2020-03-14 15:10:05 --> Controller Class Initialized
+DEBUG - 2020-03-14 15:10:05 --> News MX_Controller Initialized
+INFO - 2020-03-14 15:10:05 --> Helper loaded: html_helper
+INFO - 2020-03-14 15:10:05 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 15:10:05 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 15:10:05 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 15:10:05 --> Helper loaded: url_helper
+INFO - 2020-03-14 15:10:05 --> Database Driver Class Initialized
+INFO - 2020-03-14 15:10:05 --> Helper loaded: form_helper
+INFO - 2020-03-14 15:10:05 --> Helper loaded: language_helper
+INFO - 2020-03-14 15:10:05 --> Config Class Initialized
+INFO - 2020-03-14 15:10:05 --> Hooks Class Initialized
+INFO - 2020-03-14 15:10:05 --> Database Driver Class Initialized
+DEBUG - 2020-03-14 15:10:05 --> UTF-8 Support Enabled
+INFO - 2020-03-14 15:10:05 --> Utf8 Class Initialized
+INFO - 2020-03-14 15:10:05 --> URI Class Initialized
+INFO - 2020-03-14 15:10:05 --> Helper loaded: file_helper
+INFO - 2020-03-14 15:10:05 --> Router Class Initialized
+INFO - 2020-03-14 15:10:05 --> MY_Model class loaded
+INFO - 2020-03-14 15:10:05 --> Model "Language_model" initialized
+INFO - 2020-03-14 15:10:05 --> Output Class Initialized
+INFO - 2020-03-14 15:10:05 --> Controller Class Initialized
+INFO - 2020-03-14 15:10:05 --> Security Class Initialized
+DEBUG - 2020-03-14 15:10:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 15:10:05 --> Input Class Initialized
+DEBUG - 2020-03-14 15:10:05 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 15:10:05 --> Controller Class Initialized
+DEBUG - 2020-03-14 15:10:05 --> News MX_Controller Initialized
+INFO - 2020-03-14 15:10:05 --> Language Class Initialized
+DEBUG - 2020-03-14 15:10:05 --> News MX_Controller Initialized
+INFO - 2020-03-14 15:10:05 --> Helper loaded: html_helper
+INFO - 2020-03-14 15:10:05 --> Config Class Initialized
+INFO - 2020-03-14 15:10:05 --> Helper loaded: html_helper
+INFO - 2020-03-14 15:10:05 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 15:10:05 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 15:10:05 --> Loader Class Initialized
+INFO - 2020-03-14 15:10:05 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 15:10:05 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 15:10:05 --> Helper loaded: url_helper
+INFO - 2020-03-14 15:10:05 --> Helper loaded: form_helper
+INFO - 2020-03-14 15:10:05 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 15:10:05 --> Helper loaded: language_helper
+INFO - 2020-03-14 15:10:05 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 15:10:05 --> Database Driver Class Initialized
+INFO - 2020-03-14 15:10:05 --> Model "Page_model" initialized
+INFO - 2020-03-14 15:10:05 --> Controller Class Initialized
+INFO - 2020-03-14 15:10:05 --> Model "Category_model" initialized
+ERROR - 2020-03-14 15:10:05 --> 404 Page Not Found: /index
+INFO - 2020-03-14 15:10:05 --> Model "Article_model" initialized
+INFO - 2020-03-14 15:10:05 --> Model "Service_model" initialized
+ERROR - 2020-03-14 15:10:05 --> Severity: Warning --> A non-numeric value encountered /Volumes/Betrai/www/thienanphu/application/controllers/News.php 22
+INFO - 2020-03-14 15:10:05 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 15:10:05 --> Helper loaded: file_helper
+INFO - 2020-03-14 15:10:05 --> MY_Model class loaded
+INFO - 2020-03-14 15:10:05 --> Model "Language_model" initialized
+INFO - 2020-03-14 15:10:05 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 15:10:05 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 15:10:05 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 15:10:05 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 15:10:05 --> Model "Page_model" initialized
+INFO - 2020-03-14 15:10:05 --> Model "Category_model" initialized
+INFO - 2020-03-14 15:10:05 --> Model "Article_model" initialized
+INFO - 2020-03-14 15:10:05 --> Model "Service_model" initialized
+ERROR - 2020-03-14 15:10:05 --> Severity: Warning --> A non-numeric value encountered /Volumes/Betrai/www/thienanphu/application/controllers/News.php 22
+INFO - 2020-03-14 15:10:05 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 15:10:05 --> Helper loaded: file_helper
+INFO - 2020-03-14 15:10:05 --> MY_Model class loaded
+INFO - 2020-03-14 15:10:05 --> Model "Language_model" initialized
+INFO - 2020-03-14 15:10:05 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 15:10:05 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 15:10:05 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 15:10:05 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 15:10:05 --> Model "Page_model" initialized
+INFO - 2020-03-14 15:10:05 --> Model "Category_model" initialized
+INFO - 2020-03-14 15:10:05 --> Model "Article_model" initialized
+INFO - 2020-03-14 15:10:05 --> Model "Service_model" initialized
+ERROR - 2020-03-14 15:10:05 --> Severity: Warning --> A non-numeric value encountered /Volumes/Betrai/www/thienanphu/application/controllers/News.php 22
+INFO - 2020-03-14 15:10:05 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 15:10:05 --> Helper loaded: file_helper
+INFO - 2020-03-14 15:10:05 --> MY_Model class loaded
+INFO - 2020-03-14 15:10:05 --> Model "Language_model" initialized
+INFO - 2020-03-14 15:10:05 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 15:10:05 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 15:10:05 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 15:10:05 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 15:10:05 --> Model "Page_model" initialized
+INFO - 2020-03-14 15:10:05 --> Model "Category_model" initialized
+INFO - 2020-03-14 15:10:05 --> Model "Article_model" initialized
+INFO - 2020-03-14 15:10:05 --> Model "Service_model" initialized
+ERROR - 2020-03-14 15:10:05 --> Severity: Warning --> A non-numeric value encountered /Volumes/Betrai/www/thienanphu/application/controllers/News.php 22
+INFO - 2020-03-14 15:10:36 --> Config Class Initialized
+INFO - 2020-03-14 15:10:36 --> Hooks Class Initialized
+DEBUG - 2020-03-14 15:10:36 --> UTF-8 Support Enabled
+INFO - 2020-03-14 15:10:36 --> Utf8 Class Initialized
+INFO - 2020-03-14 15:10:36 --> URI Class Initialized
+INFO - 2020-03-14 15:10:36 --> Router Class Initialized
+INFO - 2020-03-14 15:10:36 --> Output Class Initialized
+INFO - 2020-03-14 15:10:36 --> Security Class Initialized
+DEBUG - 2020-03-14 15:10:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 15:10:36 --> Input Class Initialized
+DEBUG - 2020-03-14 15:10:36 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 15:10:36 --> Language Class Initialized
+INFO - 2020-03-14 15:10:36 --> Config Class Initialized
+INFO - 2020-03-14 15:10:36 --> Loader Class Initialized
+INFO - 2020-03-14 15:10:36 --> Helper loaded: url_helper
+INFO - 2020-03-14 15:10:36 --> Helper loaded: form_helper
+INFO - 2020-03-14 15:10:36 --> Helper loaded: language_helper
+INFO - 2020-03-14 15:10:36 --> Database Driver Class Initialized
+INFO - 2020-03-14 15:10:36 --> Controller Class Initialized
+DEBUG - 2020-03-14 15:10:36 --> News MX_Controller Initialized
+INFO - 2020-03-14 15:10:36 --> Helper loaded: html_helper
+INFO - 2020-03-14 15:10:36 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 15:10:36 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 15:10:36 --> Helper loaded: file_helper
+INFO - 2020-03-14 15:10:36 --> MY_Model class loaded
+INFO - 2020-03-14 15:10:36 --> Model "Language_model" initialized
+INFO - 2020-03-14 15:10:36 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 15:10:36 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 15:10:36 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 15:10:36 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 15:10:36 --> Model "Page_model" initialized
+INFO - 2020-03-14 15:10:36 --> Model "Category_model" initialized
+INFO - 2020-03-14 15:10:36 --> Model "Article_model" initialized
+INFO - 2020-03-14 15:10:36 --> Model "Service_model" initialized
+INFO - 2020-03-14 15:10:36 --> Model "User_model" initialized
+INFO - 2020-03-14 15:10:36 --> Model "Article_category_model" initialized
+ERROR - 2020-03-14 15:10:36 --> Could not find the language line "Next"
+DEBUG - 2020-03-14 15:10:36 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_search.php
+DEBUG - 2020-03-14 15:10:36 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_news_categories.php
+DEBUG - 2020-03-14 15:10:36 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_services.php
+DEBUG - 2020-03-14 15:10:36 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_solutions.php
+DEBUG - 2020-03-14 15:10:36 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/module_tags.php
+DEBUG - 2020-03-14 15:10:36 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/default/news/listing_news.php
+DEBUG - 2020-03-14 15:10:36 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/top_bar.php
+ERROR - 2020-03-14 15:10:36 --> Could not find the language line "Giới thiệu"
+ERROR - 2020-03-14 15:10:36 --> Could not find the language line "Dịch vụ thương mại"
+ERROR - 2020-03-14 15:10:36 --> Could not find the language line "Lĩnh vực hoạt động"
+ERROR - 2020-03-14 15:10:36 --> Could not find the language line "Tin Hoạt Động"
+ERROR - 2020-03-14 15:10:36 --> Could not find the language line "Tin Công Nghệ"
+ERROR - 2020-03-14 15:10:36 --> Could not find the language line "Sự Kiện"
+ERROR - 2020-03-14 15:10:36 --> Could not find the language line "Góc báo chí"
+DEBUG - 2020-03-14 15:10:36 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/mega_menu.php
+ERROR - 2020-03-14 15:10:36 --> Could not find the language line "Search"
+ERROR - 2020-03-14 15:10:36 --> Could not find the language line "Sự Kiện"
+ERROR - 2020-03-14 15:10:36 --> Could not find the language line "Tin sự kiện"
+ERROR - 2020-03-14 15:10:36 --> Could not find the language line "news"
+DEBUG - 2020-03-14 15:10:36 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/page_header.php
+DEBUG - 2020-03-14 15:10:36 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_header_view.php
+DEBUG - 2020-03-14 15:10:36 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_footer_view.php
+DEBUG - 2020-03-14 15:10:36 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/master_view.php
+INFO - 2020-03-14 15:10:36 --> Final output sent to browser
+DEBUG - 2020-03-14 15:10:36 --> Total execution time: 0.0823
+INFO - 2020-03-14 15:10:36 --> Config Class Initialized
+INFO - 2020-03-14 15:10:36 --> Hooks Class Initialized
+DEBUG - 2020-03-14 15:10:36 --> UTF-8 Support Enabled
+INFO - 2020-03-14 15:10:36 --> Utf8 Class Initialized
+INFO - 2020-03-14 15:10:36 --> URI Class Initialized
+INFO - 2020-03-14 15:10:36 --> Router Class Initialized
+INFO - 2020-03-14 15:10:36 --> Output Class Initialized
+INFO - 2020-03-14 15:10:36 --> Security Class Initialized
+DEBUG - 2020-03-14 15:10:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 15:10:36 --> Input Class Initialized
+DEBUG - 2020-03-14 15:10:36 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 15:10:36 --> Language Class Initialized
+INFO - 2020-03-14 15:10:36 --> Config Class Initialized
+INFO - 2020-03-14 15:10:36 --> Config Class Initialized
+INFO - 2020-03-14 15:10:36 --> Config Class Initialized
+INFO - 2020-03-14 15:10:36 --> Hooks Class Initialized
+INFO - 2020-03-14 15:10:36 --> Loader Class Initialized
+DEBUG - 2020-03-14 15:10:36 --> UTF-8 Support Enabled
+INFO - 2020-03-14 15:10:36 --> Hooks Class Initialized
+INFO - 2020-03-14 15:10:36 --> Utf8 Class Initialized
+INFO - 2020-03-14 15:10:36 --> Helper loaded: url_helper
+DEBUG - 2020-03-14 15:10:36 --> UTF-8 Support Enabled
+INFO - 2020-03-14 15:10:36 --> URI Class Initialized
+INFO - 2020-03-14 15:10:36 --> Helper loaded: form_helper
+INFO - 2020-03-14 15:10:36 --> Utf8 Class Initialized
+INFO - 2020-03-14 15:10:36 --> Helper loaded: language_helper
+INFO - 2020-03-14 15:10:36 --> Router Class Initialized
+INFO - 2020-03-14 15:10:36 --> URI Class Initialized
+INFO - 2020-03-14 15:10:36 --> Database Driver Class Initialized
+INFO - 2020-03-14 15:10:36 --> Config Class Initialized
+INFO - 2020-03-14 15:10:36 --> Output Class Initialized
+INFO - 2020-03-14 15:10:36 --> Hooks Class Initialized
+INFO - 2020-03-14 15:10:36 --> Security Class Initialized
+INFO - 2020-03-14 15:10:36 --> Router Class Initialized
+DEBUG - 2020-03-14 15:10:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 15:10:36 --> Controller Class Initialized
+INFO - 2020-03-14 15:10:36 --> Input Class Initialized
+DEBUG - 2020-03-14 15:10:36 --> UTF-8 Support Enabled
+INFO - 2020-03-14 15:10:36 --> Output Class Initialized
+INFO - 2020-03-14 15:10:36 --> Utf8 Class Initialized
+DEBUG - 2020-03-14 15:10:36 --> News MX_Controller Initialized
+DEBUG - 2020-03-14 15:10:36 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 15:10:36 --> Security Class Initialized
+INFO - 2020-03-14 15:10:36 --> Helper loaded: html_helper
+INFO - 2020-03-14 15:10:36 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 15:10:36 --> URI Class Initialized
+INFO - 2020-03-14 15:10:36 --> Session: Class initialized using 'files' driver.
+DEBUG - 2020-03-14 15:10:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 15:10:36 --> Language Class Initialized
+INFO - 2020-03-14 15:10:36 --> Helper loaded: file_helper
+INFO - 2020-03-14 15:10:36 --> Input Class Initialized
+INFO - 2020-03-14 15:10:36 --> Config Class Initialized
+INFO - 2020-03-14 15:10:36 --> MY_Model class loaded
+INFO - 2020-03-14 15:10:36 --> Loader Class Initialized
+DEBUG - 2020-03-14 15:10:36 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 15:10:36 --> Router Class Initialized
+INFO - 2020-03-14 15:10:36 --> Helper loaded: url_helper
+INFO - 2020-03-14 15:10:36 --> Language Class Initialized
+INFO - 2020-03-14 15:10:36 --> Model "Language_model" initialized
+INFO - 2020-03-14 15:10:36 --> Helper loaded: form_helper
+INFO - 2020-03-14 15:10:36 --> Config Class Initialized
+INFO - 2020-03-14 15:10:36 --> Helper loaded: language_helper
+INFO - 2020-03-14 15:10:36 --> Loader Class Initialized
+INFO - 2020-03-14 15:10:36 --> Output Class Initialized
+INFO - 2020-03-14 15:10:36 --> Helper loaded: url_helper
+INFO - 2020-03-14 15:10:36 --> Database Driver Class Initialized
+INFO - 2020-03-14 15:10:36 --> Security Class Initialized
+INFO - 2020-03-14 15:10:36 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 15:10:36 --> Helper loaded: form_helper
+INFO - 2020-03-14 15:10:36 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 15:10:36 --> Helper loaded: language_helper
+DEBUG - 2020-03-14 15:10:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 15:10:36 --> Input Class Initialized
+INFO - 2020-03-14 15:10:36 --> Database Driver Class Initialized
+INFO - 2020-03-14 15:10:36 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 15:10:36 --> Controller Class Initialized
+INFO - 2020-03-14 15:10:36 --> Model "Public_menu_model" initialized
+DEBUG - 2020-03-14 15:10:36 --> Language_Identifier Class Initialized
+DEBUG - 2020-03-14 15:10:36 --> News MX_Controller Initialized
+INFO - 2020-03-14 15:10:36 --> Language Class Initialized
+INFO - 2020-03-14 15:10:36 --> Config Class Initialized
+INFO - 2020-03-14 15:10:36 --> Controller Class Initialized
+INFO - 2020-03-14 15:10:36 --> Helper loaded: html_helper
+INFO - 2020-03-14 15:10:36 --> Loader Class Initialized
+INFO - 2020-03-14 15:10:36 --> Helper loaded: cookie_helper
+DEBUG - 2020-03-14 15:10:36 --> News MX_Controller Initialized
+INFO - 2020-03-14 15:10:36 --> Model "Page_model" initialized
+INFO - 2020-03-14 15:10:36 --> Helper loaded: url_helper
+INFO - 2020-03-14 15:10:36 --> Helper loaded: html_helper
+INFO - 2020-03-14 15:10:36 --> Helper loaded: form_helper
+INFO - 2020-03-14 15:10:36 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 15:10:36 --> Helper loaded: language_helper
+INFO - 2020-03-14 15:10:36 --> Model "Category_model" initialized
+INFO - 2020-03-14 15:10:36 --> Database Driver Class Initialized
+INFO - 2020-03-14 15:10:36 --> Model "Article_model" initialized
+INFO - 2020-03-14 15:10:36 --> Controller Class Initialized
+DEBUG - 2020-03-14 15:10:36 --> News MX_Controller Initialized
+INFO - 2020-03-14 15:10:36 --> Helper loaded: html_helper
+INFO - 2020-03-14 15:10:36 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 15:10:36 --> Model "Service_model" initialized
+ERROR - 2020-03-14 15:10:36 --> Severity: Warning --> A non-numeric value encountered /Volumes/Betrai/www/thienanphu/application/controllers/News.php 22
+INFO - 2020-03-14 15:10:36 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 15:10:36 --> Helper loaded: file_helper
+INFO - 2020-03-14 15:10:36 --> MY_Model class loaded
+INFO - 2020-03-14 15:10:36 --> Model "Language_model" initialized
+INFO - 2020-03-14 15:10:36 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 15:10:36 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 15:10:36 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 15:10:36 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 15:10:36 --> Model "Page_model" initialized
+INFO - 2020-03-14 15:10:36 --> Model "Category_model" initialized
+INFO - 2020-03-14 15:10:36 --> Model "Article_model" initialized
+INFO - 2020-03-14 15:10:36 --> Model "Service_model" initialized
+ERROR - 2020-03-14 15:10:36 --> Severity: Warning --> A non-numeric value encountered /Volumes/Betrai/www/thienanphu/application/controllers/News.php 22
+INFO - 2020-03-14 15:10:36 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 15:10:36 --> Helper loaded: file_helper
+INFO - 2020-03-14 15:10:36 --> MY_Model class loaded
+INFO - 2020-03-14 15:10:36 --> Model "Language_model" initialized
+INFO - 2020-03-14 15:10:36 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 15:10:36 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 15:10:36 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 15:10:36 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 15:10:36 --> Model "Page_model" initialized
+INFO - 2020-03-14 15:10:36 --> Model "Category_model" initialized
+INFO - 2020-03-14 15:10:36 --> Model "Article_model" initialized
+INFO - 2020-03-14 15:10:36 --> Model "Service_model" initialized
+ERROR - 2020-03-14 15:10:36 --> Severity: Warning --> A non-numeric value encountered /Volumes/Betrai/www/thienanphu/application/controllers/News.php 22
+INFO - 2020-03-14 15:10:36 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 15:10:36 --> Helper loaded: file_helper
+INFO - 2020-03-14 15:10:36 --> MY_Model class loaded
+INFO - 2020-03-14 15:10:36 --> Model "Language_model" initialized
+INFO - 2020-03-14 15:10:36 --> Language file loaded: language/vietnamese/news_lang.php
+INFO - 2020-03-14 15:10:36 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 15:10:36 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 15:10:36 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 15:10:36 --> Model "Page_model" initialized
+INFO - 2020-03-14 15:10:36 --> Model "Category_model" initialized
+INFO - 2020-03-14 15:10:36 --> Model "Article_model" initialized
+INFO - 2020-03-14 15:10:36 --> Model "Service_model" initialized
+ERROR - 2020-03-14 15:10:36 --> Severity: Warning --> A non-numeric value encountered /Volumes/Betrai/www/thienanphu/application/controllers/News.php 22
+INFO - 2020-03-14 15:10:36 --> Config Class Initialized
+INFO - 2020-03-14 15:10:36 --> Hooks Class Initialized
+DEBUG - 2020-03-14 15:10:36 --> UTF-8 Support Enabled
+INFO - 2020-03-14 15:10:36 --> Utf8 Class Initialized
+INFO - 2020-03-14 15:10:36 --> URI Class Initialized
+INFO - 2020-03-14 15:10:36 --> Router Class Initialized
+INFO - 2020-03-14 15:10:36 --> Output Class Initialized
+INFO - 2020-03-14 15:10:36 --> Security Class Initialized
+DEBUG - 2020-03-14 15:10:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 15:10:36 --> Input Class Initialized
+INFO - 2020-03-14 15:10:36 --> Config Class Initialized
+INFO - 2020-03-14 15:10:36 --> Hooks Class Initialized
+DEBUG - 2020-03-14 15:10:36 --> UTF-8 Support Enabled
+INFO - 2020-03-14 15:10:36 --> Utf8 Class Initialized
+INFO - 2020-03-14 15:10:36 --> URI Class Initialized
+INFO - 2020-03-14 15:10:36 --> Router Class Initialized
+INFO - 2020-03-14 15:10:36 --> Output Class Initialized
+INFO - 2020-03-14 15:10:36 --> Security Class Initialized
+DEBUG - 2020-03-14 15:10:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 15:10:36 --> Input Class Initialized
+DEBUG - 2020-03-14 15:10:36 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 15:10:36 --> Language Class Initialized
+INFO - 2020-03-14 15:10:36 --> Config Class Initialized
+INFO - 2020-03-14 15:10:36 --> Loader Class Initialized
+INFO - 2020-03-14 15:10:36 --> Helper loaded: url_helper
+INFO - 2020-03-14 15:10:36 --> Helper loaded: form_helper
+INFO - 2020-03-14 15:10:36 --> Helper loaded: language_helper
+INFO - 2020-03-14 15:10:36 --> Database Driver Class Initialized
+INFO - 2020-03-14 15:10:36 --> Controller Class Initialized
+ERROR - 2020-03-14 15:10:36 --> 404 Page Not Found: /index
+INFO - 2020-03-14 15:10:40 --> Config Class Initialized
+INFO - 2020-03-14 15:10:40 --> Hooks Class Initialized
+DEBUG - 2020-03-14 15:10:40 --> UTF-8 Support Enabled
+INFO - 2020-03-14 15:10:40 --> Utf8 Class Initialized
+INFO - 2020-03-14 15:10:40 --> URI Class Initialized
+INFO - 2020-03-14 15:10:40 --> Router Class Initialized
+INFO - 2020-03-14 15:10:40 --> Output Class Initialized
+INFO - 2020-03-14 15:10:40 --> Security Class Initialized
+DEBUG - 2020-03-14 15:10:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 15:10:40 --> Input Class Initialized
+DEBUG - 2020-03-14 15:10:40 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 15:10:40 --> Language Class Initialized
+INFO - 2020-03-14 15:10:40 --> Config Class Initialized
+INFO - 2020-03-14 15:10:40 --> Loader Class Initialized
+INFO - 2020-03-14 15:10:40 --> Helper loaded: url_helper
+INFO - 2020-03-14 15:10:40 --> Helper loaded: form_helper
+INFO - 2020-03-14 15:10:40 --> Helper loaded: language_helper
+INFO - 2020-03-14 15:10:40 --> Database Driver Class Initialized
+INFO - 2020-03-14 15:10:40 --> Controller Class Initialized
+ERROR - 2020-03-14 15:10:40 --> 404 Page Not Found: /index
+INFO - 2020-03-14 15:15:40 --> Config Class Initialized
+INFO - 2020-03-14 15:15:40 --> Hooks Class Initialized
+DEBUG - 2020-03-14 15:15:40 --> UTF-8 Support Enabled
+INFO - 2020-03-14 15:15:40 --> Utf8 Class Initialized
+INFO - 2020-03-14 15:15:40 --> URI Class Initialized
+INFO - 2020-03-14 15:15:40 --> Router Class Initialized
+INFO - 2020-03-14 15:15:40 --> Output Class Initialized
+INFO - 2020-03-14 15:15:40 --> Security Class Initialized
+DEBUG - 2020-03-14 15:15:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 15:15:40 --> Input Class Initialized
+DEBUG - 2020-03-14 15:15:40 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 15:15:40 --> Language Class Initialized
+INFO - 2020-03-14 15:15:40 --> Config Class Initialized
+INFO - 2020-03-14 15:15:40 --> Loader Class Initialized
+INFO - 2020-03-14 15:15:40 --> Helper loaded: url_helper
+INFO - 2020-03-14 15:15:40 --> Helper loaded: form_helper
+INFO - 2020-03-14 15:15:40 --> Helper loaded: language_helper
+INFO - 2020-03-14 15:15:40 --> Database Driver Class Initialized
+INFO - 2020-03-14 15:15:40 --> Controller Class Initialized
+DEBUG - 2020-03-14 15:15:40 --> Services MX_Controller Initialized
+INFO - 2020-03-14 15:15:40 --> Helper loaded: html_helper
+INFO - 2020-03-14 15:15:40 --> Helper loaded: cookie_helper
+INFO - 2020-03-14 15:15:40 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-14 15:15:40 --> Helper loaded: file_helper
+INFO - 2020-03-14 15:15:40 --> MY_Model class loaded
+INFO - 2020-03-14 15:15:40 --> Model "Language_model" initialized
+INFO - 2020-03-14 15:15:40 --> Language file loaded: language/vietnamese/services_lang.php
+INFO - 2020-03-14 15:15:40 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-03-14 15:15:40 --> Helper loaded: inflector_helper
+INFO - 2020-03-14 15:15:40 --> Model "Setting_model" initialized
+INFO - 2020-03-14 15:15:40 --> Model "Public_menu_model" initialized
+INFO - 2020-03-14 15:15:40 --> Model "Page_model" initialized
+INFO - 2020-03-14 15:15:40 --> Model "Category_model" initialized
+INFO - 2020-03-14 15:15:40 --> Model "Service_model" initialized
+DEBUG - 2020-03-14 15:15:40 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/default/services/service_view.php
+DEBUG - 2020-03-14 15:15:41 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/top_bar.php
+ERROR - 2020-03-14 15:15:41 --> Could not find the language line "Giới thiệu"
+ERROR - 2020-03-14 15:15:41 --> Could not find the language line "Dịch vụ thương mại"
+ERROR - 2020-03-14 15:15:41 --> Could not find the language line "Lĩnh vực hoạt động"
+ERROR - 2020-03-14 15:15:41 --> Could not find the language line "Tin Hoạt Động"
+ERROR - 2020-03-14 15:15:41 --> Could not find the language line "Tin Công Nghệ"
+ERROR - 2020-03-14 15:15:41 --> Could not find the language line "Sự Kiện"
+ERROR - 2020-03-14 15:15:41 --> Could not find the language line "Góc báo chí"
+DEBUG - 2020-03-14 15:15:41 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/mega_menu.php
+ERROR - 2020-03-14 15:15:41 --> Could not find the language line "Search"
+ERROR - 2020-03-14 15:15:41 --> Could not find the language line "Service"
+ERROR - 2020-03-14 15:15:41 --> Could not find the language line "services"
+DEBUG - 2020-03-14 15:15:41 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/page_header.php
+DEBUG - 2020-03-14 15:15:41 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_header_view.php
+DEBUG - 2020-03-14 15:15:41 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_footer_view.php
+DEBUG - 2020-03-14 15:15:41 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/master_view.php
+INFO - 2020-03-14 15:15:41 --> Final output sent to browser
+DEBUG - 2020-03-14 15:15:41 --> Total execution time: 0.2405
+INFO - 2020-03-14 15:15:41 --> Config Class Initialized
+INFO - 2020-03-14 15:15:41 --> Hooks Class Initialized
+DEBUG - 2020-03-14 15:15:41 --> UTF-8 Support Enabled
+INFO - 2020-03-14 15:15:41 --> Utf8 Class Initialized
+INFO - 2020-03-14 15:15:41 --> URI Class Initialized
+INFO - 2020-03-14 15:15:41 --> Router Class Initialized
+INFO - 2020-03-14 15:15:41 --> Output Class Initialized
+INFO - 2020-03-14 15:15:41 --> Security Class Initialized
+DEBUG - 2020-03-14 15:15:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 15:15:41 --> Input Class Initialized
+DEBUG - 2020-03-14 15:15:41 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 15:15:41 --> Language Class Initialized
+INFO - 2020-03-14 15:15:41 --> Config Class Initialized
+INFO - 2020-03-14 15:15:41 --> Loader Class Initialized
+INFO - 2020-03-14 15:15:41 --> Helper loaded: url_helper
+INFO - 2020-03-14 15:15:41 --> Helper loaded: form_helper
+INFO - 2020-03-14 15:15:41 --> Helper loaded: language_helper
+INFO - 2020-03-14 15:15:41 --> Database Driver Class Initialized
+INFO - 2020-03-14 15:15:41 --> Controller Class Initialized
+ERROR - 2020-03-14 15:15:41 --> 404 Page Not Found: /index
+INFO - 2020-03-14 15:15:41 --> Config Class Initialized
+INFO - 2020-03-14 15:15:41 --> Hooks Class Initialized
+DEBUG - 2020-03-14 15:15:41 --> UTF-8 Support Enabled
+INFO - 2020-03-14 15:15:41 --> Utf8 Class Initialized
+INFO - 2020-03-14 15:15:41 --> URI Class Initialized
+INFO - 2020-03-14 15:15:41 --> Router Class Initialized
+INFO - 2020-03-14 15:15:41 --> Output Class Initialized
+INFO - 2020-03-14 15:15:41 --> Security Class Initialized
+DEBUG - 2020-03-14 15:15:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 15:15:41 --> Input Class Initialized
+INFO - 2020-03-14 15:15:41 --> Config Class Initialized
+INFO - 2020-03-14 15:15:41 --> Hooks Class Initialized
+DEBUG - 2020-03-14 15:15:41 --> UTF-8 Support Enabled
+INFO - 2020-03-14 15:15:41 --> Utf8 Class Initialized
+INFO - 2020-03-14 15:15:41 --> URI Class Initialized
+INFO - 2020-03-14 15:15:41 --> Router Class Initialized
+INFO - 2020-03-14 15:15:41 --> Output Class Initialized
+INFO - 2020-03-14 15:15:41 --> Security Class Initialized
+DEBUG - 2020-03-14 15:15:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-14 15:15:41 --> Input Class Initialized
+DEBUG - 2020-03-14 15:15:41 --> Language_Identifier Class Initialized
+INFO - 2020-03-14 15:15:41 --> Language Class Initialized
+INFO - 2020-03-14 15:15:41 --> Config Class Initialized
+INFO - 2020-03-14 15:15:41 --> Loader Class Initialized
+INFO - 2020-03-14 15:15:41 --> Helper loaded: url_helper
+INFO - 2020-03-14 15:15:41 --> Helper loaded: form_helper
+INFO - 2020-03-14 15:15:41 --> Helper loaded: language_helper
+INFO - 2020-03-14 15:15:41 --> Database Driver Class Initialized
+INFO - 2020-03-14 15:15:41 --> Controller Class Initialized
+ERROR - 2020-03-14 15:15:41 --> 404 Page Not Found: /index

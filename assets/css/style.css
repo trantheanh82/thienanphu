@@ -3062,5 +3062,8 @@ html{
 
 
 
-
+/*Services*/
+.service-content p{
+	margin-bottom: 25px;
+}
 

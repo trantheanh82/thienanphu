@@ -68,6 +68,15 @@ class Pages extends Admin_Controller {
 		unset($data['category_ids']);
 		unset($data['files']);
 		$this->load->model('page_category_model');
+		
+		if(empty($data['meta_title'])){
+			$data['meta_title'] = $data['name'];
+		}
+		
+		if(empty($data['meta_description'])){
+			$data['meta_description'] = strip_tags($data['description']);
+		}
+		
 		if(!empty($data['id'])){
 			
 			if($this->page_model->update($data,$data['id'])){

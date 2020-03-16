@@ -26,14 +26,18 @@
 		$keywords = $item->keywords;
 	}
 	
-	if(isset($item->description)){
-		$description = $item->description;
+	if(isset($item->meta_description)){
+		$description = $item->meta_description;
+	}
+	
+	if(isset($item->meta_title)){
+		$title = $item->meta_title;
 	}
 		
 	if(isset($item->image)){
 		$og_image = $item->image;
 	}else{
-		$og_image = base_url().'assets/images/bg/';
+		$og_image = base_url().'assets/img/default_image_website.jpg';
 	}	
 	
 	echo "
@@ -60,7 +64,7 @@
 	<!-- meta og:url -->
 	<meta property='og:url' content='".$escaped_url."' />	
 	
-	<meta property='og:type' content='article'> 
+	<meta property='og:type' content='".lang($this->router->fetch_class())."'> 
 		 
 		 ";  
 		    

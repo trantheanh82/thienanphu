@@ -5,13 +5,13 @@
       <div class="col-md-4 col-sm-4 footer_panel bottom25">
         <h3 class="heading bottom25">Về Thiên An Phú<span class="divider-left"></span></h3>
         <a href="index3.html" class="footer_logo bottom25"><?=img($Settings['company_logo_footer'],array('alt'=>$Settings['company_name']))?></a>
-        <p>Chuyên kinh doanh cung cấp giải pháp tổng thể công nghệ thông tin, hệ thống LAN - WAN hệ thống camera giám sát, thiết bị máy tính, máy in, toàn bộ thiết bị tổng đài.</p>
+        <p><?=$Settings['description']?></p>
         <ul class="social_icon top25">
-          <li><a href="#." class="facebook"><i class="fa fa-facebook"></i></a></li>
-          <li><a href="#." class="twitter"><i class="icon-twitter4"></i></a></li>
+          <li><a href="<?=$Settings['social_facebook']?>" class="facebook"><i class="fa fa-facebook"></i></a></li>
+         <!-- <li><a href="#." class="twitter"><i class="icon-twitter4"></i></a></li>
           <li><a href="#." class="dribble"><i class="icon-dribbble5"></i></a></li>
           <li><a href="#." class="instagram"><i class="icon-instagram"></i></a></li>
-          <li><a href="#." class="vimo"><i class="icon-vimeo4"></i></a></li>
+          <li><a href="#." class="vimo"><i class="icon-vimeo4"></i></a></li>-->
         </ul>
       </div>
       <div class="col-md-4 col-sm-4 footer_panel bottom25">
@@ -30,10 +30,12 @@
       </div>
       <div class="col-md-4 col-sm-4 footer_panel bottom25">
         <h3 class="heading bottom25">Trự Sở <span class="divider-left"></span></h3>
-        <p class=" address"><i class="icon-map-pin"></i>D1.5 Cao Ốc Phú Hoàng Anh, Số 9 Nguyễn Hữu Thọ, Phước Kiểng, Nhà Bè TP HCM</p>
-        <p class=" address"><i class="icon-phone"></i>(84) 28-3925-7175</p>
-        <p class=" address"><i class="icon-envelope"></i><a href="mailto:Xwin@info.com">info@thienanphu.vn</a></p>
-        <img src="images/footer-map-new.png" alt="we are here" class="img-responsive">
+        <p class=" address"><i class="icon-map-pin"></i><?=$Settings['address']?></p>
+        <p class=" address"><i class="icon-phone"></i><?=$Settings['company_phone_1'].(!empty($Settings['company_phone_2'])?" - ".$Settings['company_phone_2']:"")?></p>
+        <p class=" address"><i class="icon-envelope"></i>
+				<?=mailto($Settings['company_email'],$Settings['company_email'])?>
+	       </p>
+        <?=img('/assets/img/footer-map-new.png',false,array('alt'=>$Settings['company_name'],'class'=>'img-responsive'))?>
       </div>
     </div>
   </div>
@@ -42,7 +44,7 @@
   <div class="container">
     <div class="row">
       <div class="col-md-12 text-center">
-        <p>Bản quyền &copy; 2020 <a href="#.">Thien An Phú</a></p>
+        <p>Bản quyền &copy; 2020 <a href="#."><?=$Settings['company_name']?></a></p>
       </div>
     </div>
   </div>
