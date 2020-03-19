@@ -53,7 +53,7 @@ $route['default_controller'] = 'home';
 $route['404_override'] = '';
 $route['translate_uri_dashes'] = TRUE;
 
-$route['/admin'] = '/admin/dashboard';
+//$route['/admin'] = '/admin/dashboard';
 //$route['admin/(:any)'] = 'admin/$1';
 $route['richfilemanager/(:any)'] = 'admin/richfilemanager/\$1';
 
@@ -61,6 +61,7 @@ $route['media/(:any)'] = 'media/resize/$1';
 
 //Clear Cache
 $route['clearcache'] = 'home/clearcache';
+
 
 
 /*
@@ -82,6 +83,10 @@ $route['^(\w{2})/(.*)'] = function($language, $link) use ($controllers_methods)
 	return $link;
 };
 */
+$route['^(\w{2})/admin'] = '/admin/dashboard';
+
+$route['^(\w{2})$'] = $route['default_controller'];
+
 
 //route example: http://domain.tld/en/controller => http://domain.tld/controller
 $route['^(\w{2})/contact'] = '/pages/contact';
@@ -95,8 +100,8 @@ $route['^(\w{2})/assets^(.*)'] = '/assets$2';
 $route['^(\w{2})/api/^(.*)'] = '/api/$2';
 
 $route['^(\w{2})/filenamager/^(.*)'] = '/filemanager/$2';
-$route['^(\w{2})$'] = $route['default_controller'];
-$route['^(\w{2})/admin'] = '/admin/dashboard';
+
+
 
 $route['^(\w{2})/pages/(.*)'] = '/pages/index/$2';
 
@@ -104,7 +109,7 @@ $route['^(\w{2})/news/(.*)/([\d]+)'] = '/news/index/$2/$3';
 $route['^(\w{2})/news/(.*)/([\d]+)-(.*)'] = '/news/detail/$2/$3/$4';
 $route['^(\w{2})/news/(.*)'] = '/news/index/$2';
 
-$route['(\w{2})/services/(.*)'] = '/services/view/$2';
+$route['^(\w{2})/services/(.*)'] = '/services/view/$2';
 
 $route['^(\w{2})/(.*)'] = '$2';
-
+/*for modules*/

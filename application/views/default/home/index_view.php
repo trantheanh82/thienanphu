@@ -1,8 +1,6 @@
 <?php
-	//Load Sliders
-	if(!empty($sliders)){
-		echo $this->load->view('sliders/elements/module_sliders',array('sliders'=>$sliders));
-	}
+	
+	echo Modules::run('sliders/sliders/sliders');
 	
 	$this->load->view('elements/modules/home_about',array('home_about'=>""));
 	
@@ -16,5 +14,5 @@
 	
 	$this->load->view('elements/modules/home_funfact',array('funcfact'=>""));
 	
-	$this->load->view('elements/modules/home_news',array('home_news'=>""));
+	$this->load->view('elements/modules/home_news',array('home_news'=>$home_article));
 ?>

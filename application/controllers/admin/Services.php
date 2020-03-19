@@ -37,11 +37,6 @@ class Services extends Admin_Controller {
 	
 	function submit(){
 		$data = $this->input->post();
-		/*$cat_ids = $data['category_ids'];
-		unset($data['category_ids']);
-		unset($data['files']);
-		$this->load->model('service_category_model');*/
-		$data = $this->input->post();
 		$data_id = 0;
 		
 		if(isset($data['id'])){

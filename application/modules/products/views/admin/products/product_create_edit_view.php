@@ -52,6 +52,56 @@
 				 </div>
             </div>
             
+            <?php
+	            if(isset($manufactures)):
+            ?>
+            <div class="form-group">
+	            <label class="control-label col-sm-2"><?=lang("Manufactures")?></label>
+	            <div class="col-sm-9">
+	                <select name="brand_id" class="form-control select2" style="width: 100%;">
+		                	<option><?=lang("Select a Manufactures")?></option>
+		                <?php
+			                $selected = ""; 
+			                foreach($manufactures as $k=>$v):
+			                	if(isset($item->manufacture_id) && $item->manufacture_id == $k)
+			                		$selected=" selected";
+		                ?>
+		                    <option<?=$selected?> value="<?=$k?>"><?=$v?></option>
+			            <?php 
+				            	$selected = "";
+				            	endforeach; ?>
+			                
+	                </select>
+	            </div>
+            </div>
+            
+            	<?php if(isset($product_types)):
+	            ?>
+	            <div class="form-group">
+	            	<label class="control-label col-sm-2"><?=lang("Product Type")?></label>
+		            <div class="col-sm-9">
+		                <select name="product_type_id" id="product_type" class="form-control select2" style="width: 100%;">
+			                	<option><?=lang("Select a product type")?></option>
+				                <?php 
+					                	$selected = "";
+					                foreach($product_types as $k=>$v):
+										if(isset($item->product_type_id) && $item->product_type_id == $k)
+											$selected = " selected";
+					            ?>
+				                    <option<?=$selected?> value="<?=$k?>"><?=lang($v)?></option>
+					            <?php	
+						            $selected =""; 
+						            endforeach; ?>
+		                </select>
+		            </div>
+	            </div>
+	            <?php
+		            endif;
+		            ?>
+            <?php
+	            endif;
+	            ?>
+            
             <div class="form-group">
 				 <label class="control-label col-sm-2" for="pwd"><?=__('Price',$this)?></label>
 				 <div class='col-sm-9'>

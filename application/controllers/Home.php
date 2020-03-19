@@ -7,6 +7,7 @@ class Home extends Public_Controller {
 	public function __construct(){
 		
 		parent::__construct();
+		$this->load->language('home_lang');
 
 	}
 	/**
@@ -28,12 +29,10 @@ class Home extends Public_Controller {
 
 	public function index()
 	{
-		$this->load->model('sliders/Slider_model');
+		$this->load->model('article_model');
 		
-		$this->data['sliders'] = $this->Slider_model->where('active','Y')->get_all();
-		
-		//redirect('/admin/','true');exit();
-		 $this->render('default/home/index_view');
+		$this->data['home_article'] = $this->article_model->with_category('fields:slug','where:`categories`.`active`=\'Y\'')->limit(6)->where('active','Y')->order_by('created_at','DESC')->get_all();
+		$this->render('default/home/index_view');
 
 	}
 

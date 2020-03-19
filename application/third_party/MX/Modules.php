@@ -9,7 +9,6 @@ is_array(Modules::$locations = $CFG->item('modules_locations')) OR Modules::$loc
 	APPPATH.'modules/' => '../modules/',
 );
 
-
 /* PHP5 spl_autoload */
 spl_autoload_register('Modules::autoload');
 
@@ -75,12 +74,19 @@ class Modules
 			}
 		}
 		
-		log_message('error', "Module controller failed to run: {$module}/{$method}");
+		$error_message = "Module controller failed to run: {$module}/{$method}";
+
+		if (defined('ENVIRONMENT') && ENVIRONMENT == 'development') {
+			return ($error_message);
+		} else {
+			log_message('error', $error_message);
+		}
 	}
 	
 	/** Load a module controller **/
 	public static function load($module) 
 	{
+		
 		(is_array($module)) ? list($module, $params) = each($module) : $params = NULL;	
 		
 		/* get the requested controller class name */

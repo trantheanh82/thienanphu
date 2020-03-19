@@ -10,7 +10,7 @@ class MY_Controller extends MX_Controller {
 	protected $default_lang;
 	protected $current_lang;
 	
-
+	
 	function __construct(){
 		
 		parent::__construct();

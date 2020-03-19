@@ -15,6 +15,7 @@ class Articles extends Admin_Controller {
 			redirect('admin','refresh');
 		}
 		
+		
 		$this->data['page_name'] = 'Articles';
 	}
 	

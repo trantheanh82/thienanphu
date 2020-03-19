@@ -22,23 +22,33 @@ class Products extends Admin_Controller {
 	}
 	
 	function index(){
-		
+		if(!$this->ion_auth->in_group('admin'))
+        {
+            $this->session->set_flashdata('message','You are not allowed to visit the Pages page');
+            redirect('admin/auth/login','refresh');
+        }
 		$this->data['items']  = $this->product_model->order_by('created_at','DESC')->get_all();
 		$this->render('admin/products/products_view');
 	}
+
 	
 	function create(){
 		$this->__loadScriptUpload();
+		
+		$this->data['manufactures'] = $this->_loadSelectOption('manufacture_model');
+		$this->data['product_types'] = $this->_loadSelectOption('product_type_model');
 				
 		$this->render('admin/products/product_create_edit_view');
-
-
 	}
 	
 	function edit($id){
+		
 		$this->__loadScriptUpload();
 		
-		$this->data['item'] = $this->product_model->get_product($id);		
+		$this->data['manufactures'] = $this->_loadSelectOption('manufacture_model');
+		$this->data['product_types'] = $this->_loadSelectOption('product_type_model');
+		
+		$this->data['item'] = $this->product_model->get_product($id);	
 		$this->render('admin/products/product_create_edit_view');
 	}
 	
@@ -71,12 +81,17 @@ class Products extends Admin_Controller {
 			}
 			
 			if(isset($data['has_many'])){
-				$images = $data['product_image'];	
-				unset($data['product_image']);
+				if(!empty($data['product_image'])){
+					$images = $data['product_image'];	
+					unset($data['product_image']);
+				}else{
+					$images = "";
+				}
 			}
 			
 			if(!empty($data['id'])){
 				if($this->product_model->update($data,$data['id'])){
+					
 					$this->_insert_images($images,$data);
 					$this->session->set_flashdata('message','Product has been updated');
 				}else{
@@ -101,12 +116,15 @@ class Products extends Admin_Controller {
 			redirect('admin/products','refresh');
 		}
 	}
+
 	
-	function _insert_images($images,$data){
+	function _insert_images($images = "",$data){
+		$this->load->model('image_model');
+
+		$image_exists = $this->image_model->where(array('model'=>'product','model_id'=>$data['id']))->get();
+
 		if(!empty($images)){
-			$this->load->model('image_model');
 			
-			$image_exists = $this->image_model->where(array('model'=>'product','model_id'=>$data['id']))->get();
 			
 			$serialize_images = serialize($images);
 				
@@ -121,7 +139,18 @@ class Products extends Admin_Controller {
 			}else{
 				$this->image_model->update($image,$image_exists->id);
 			}
+		}else{
+			if(!empty($image_exists)){
+				$this->image_model->update(array('image'=>''),$image_exists->id);
+			}
 		}
 	}
+	
+	function _loadSelectOption($model){
+		$this->load->model($model);
+		
+		return $this->$model->where('active','Y')->order_by('name','ASC')->as_dropdown('name')->get_all();
+	}
+	
 
 }

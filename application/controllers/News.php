@@ -12,6 +12,7 @@ class News extends Public_Controller {
 		$this->load->model('category_model');
 		$this->load->model('service_model');
 		
+		
 		$this->data['other_category'] = $this->category_model->where(array('active'=>'Y','model'=>'article'))->get_all();
 		$this->data['module_services'] = $this->service_model->where(array('active'=>'Y'))->order_by('sort','ASC')->get_all();
 	}
