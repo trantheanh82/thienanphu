@@ -65,6 +65,8 @@ $lang['Generate PDF']		=	"Tạo file PDF";
 $lang['Home']				= "Trang chủ";
 $lang['About us']				= "Giới thiệu";
 $lang['Solutions']			=	"Giải pháp";
+
+$lang['Products & Solutions']			=	"Sản phẩm & Giải pháp";
 $lang['Services']			= "Dịch vụ";
 $lang['Manufactures']		=	"Hãng Sản Xuất";
 $lang['News']				=	"Tin tức";
@@ -77,4 +79,7 @@ $lang['Activity news']		=	"Tin Hoạt động";
 $lang['Technology']			=	"Tin Công nghệ";
 $lang['Events']				=	"Sự kiện";
 $lang['Press']				=	"Góc báo chí";
+
+/**/
+$lang['Share this article:']	=	"Chia sẻ trang này: ";
 

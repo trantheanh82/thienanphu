@@ -21,59 +21,7 @@
 <section id="history" class="padding bg_grey">
   <div class="container">
     <div class="row">
-      <div class="col-md-12 wow fadeInDown">
-       <h2 class="heading heading_space"> <span>Lịch Sử </span>Hình Thành <span class="divider-left"></span></h2>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-md-6 col-sm-6 history_wrap bottom25 wow fadeIn" data-wow-delay="300ms">
-        <div class="row">
-          <div class="col-lg-5 col-md-5 col-sm-12">
-            <div class="image"><img src="images/history1.jpg" alt="our history"></div>
-          </div>
-          <div class="col-lg-7 col-md-7 col-sm-12 col-xs-12">
-            <h3><span>1991</span> . Structure was Founded</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-            occaecat aute irure dolor in reprehenderit.</p>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-6 col-sm-6 history_wrap bottom25 wow fadeIn" data-wow-delay="400ms">
-        <div class="row">
-          <div class="col-lg-5 col-md-5 col-sm-12">
-            <div class="image"><img src="images/history2.jpg" alt="our history"></div>
-          </div>
-          <div class="col-lg-7 col-md-7 col-sm-12 col-xs-12">
-            <h3><span>1991</span> . Structure was Founded</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-            occaecat aute irure dolor in reprehenderit.</p>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-6 col-sm-6 history_wrap bottom25 wow fadeIn" data-wow-delay="500ms">
-        <div class="row">
-          <div class="col-lg-5 col-md-5 col-sm-12">
-            <div class="image"><img src="images/history3.jpg" alt="our history"></div>
-          </div>
-          <div class="col-lg-7 col-md-7 col-sm-12 col-xs-12">
-            <h3><span>1991</span> . Structure was Founded</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-            occaecat aute irure dolor in reprehenderit.</p>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-6 col-sm-6 history_wrap bottom25 wow fadeIn" data-wow-delay="600ms">
-        <div class="row">
-          <div class="col-lg-5 col-md-5 col-sm-12">
-            <div class="image"><img src="images/history4.jpg" alt="our history"></div>
-          </div>
-          <div class="col-lg-7 col-md-7 col-sm-12 col-xs-12">
-            <h3><span>1991</span> . Structure was Founded</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-            occaecat aute irure dolor in reprehenderit.</p>
-          </div>
-        </div>
-      </div>
+      <?=$item->content_1?>
     </div>
   </div>
 </section>
@@ -109,3 +57,57 @@
   </div>
 </section>
 <!--Fun Facts-->
+
+<section id="tours" class="bg_grey padding">
+  <div class="container tour_media">
+    <div class="row">
+    	<?php echo $item->content_2?>
+    </div>
+  </div>
+  <div class="container">
+    <div class="row">
+      <div id="projects" class="cbp cbp-caption-active cbp-caption-pushTop cbp-ready" style="height: 170px;"><div class="cbp-wrapper-outer"><div class="cbp-wrapper">
+        <div class="cbp-item" style="width: 218px; left: 0px; top: 0px;"><div class="cbp-item-wrapper">
+          <img src="images/tour1.jpg" alt="">
+          <div class="overlay">
+          <div class="centered text-center">
+            <a href="images/tour1.jpg" class="cbp-lightbox opens"> <i class=" icon-expand"></i></a> 
+          </div>
+        </div>   
+        </div></div>
+        <div class="cbp-item" style="width: 218px; left: 238px; top: 0px;"><div class="cbp-item-wrapper">
+          <img src="images/tour2.jpg" alt="">
+          <div class="overlay">
+          <div class="centered text-center">
+            <a href="images/tour2.jpg" class="cbp-lightbox opens"> <i class=" icon-expand"></i></a> 
+          </div>
+        </div>
+        </div></div>
+        <div class="cbp-item" style="width: 218px; left: 476px; top: 0px;"><div class="cbp-item-wrapper">
+          <img src="images/tour3.jpg" alt="">
+          <div class="overlay">
+          <div class="centered text-center">
+            <a href="images/tour3.jpg" class="cbp-lightbox opens"> <i class=" icon-expand"></i></a> 
+          </div>
+        </div>
+        </div></div>
+        <div class="cbp-item" style="width: 218px; left: 714px; top: 0px;"><div class="cbp-item-wrapper">
+          <img src="images/tour4.jpg" alt="">
+          <div class="overlay">
+          <div class="centered text-center">
+            <a href="images/tour4.jpg" class="cbp-lightbox opens"> <i class=" icon-expand"></i></a> 
+          </div>
+        </div>
+        </div></div>
+        <div class="cbp-item" style="width: 218px; left: 952px; top: 0px;"><div class="cbp-item-wrapper">
+          <img src="images/tour5.jpg" alt="">
+          <div class="overlay">
+          <div class="centered text-center">
+            <a href="images/tour5.jpg" class="cbp-lightbox opens"> <i class=" icon-expand"></i></a> 
+          </div>
+        </div>
+        </div></div>
+      </div></div></div>
+    </div>
+  </div>
+</section>

@@ -10,7 +10,7 @@ echo form_hidden('type_file',$type_file);
 <div class="row fileupload-buttonbar">
   <div class="col-lg-7">
     <!-- The fileinput-button span is used to style the file input field as button -->
-    <span class="btn btn-success fileinput-button">
+    <span class="btn btn-default fileinput-button">
       <i class="glyphicon glyphicon-plus"></i>
       <span><?=lang("Add files...")?></span>
       <input type="file" name="files[]" id='files' <?=$multiple?'multiple=""':""?>>

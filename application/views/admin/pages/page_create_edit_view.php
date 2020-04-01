@@ -33,9 +33,29 @@
 			</div>
             
             <div class='form-group'>
+	            <label for="inputEmail3" class="control-label"><?=lang("Content")?></label>
+
 				<?php echo form_textarea('content',value(isset($item->content)?$item->content:""),array('class'=>'form-control article-editor','id'=>'article','contenteditable'=>true,'style'=>'width:100%;border:1px solid #333'));?>
             </div>
             
+            <?php
+	            if(isset($item) && $item->slug == 'gioi-thieu'):
+            ?>
+            <div class='form-group'>
+	            <label for="inputEmail3" class="control-label"><?=lang("Company history")?></label>
+
+				<?php echo form_textarea('content_1',value(isset($item->content_1)?$item->content_1:""),array('class'=>'form-control article-editor','id'=>'content_1','contenteditable'=>true,'style'=>'width:100%;border:1px solid #333'));?>
+            </div>
+            
+            <div class='form-group'>
+	            <label for="inputEmail3" class="control-label"><?=lang("Intro")?></label>
+
+				<?php echo form_textarea('content_2',value(isset($item->content_2)?$item->content_2:""),array('class'=>'form-control article-editor','id'=>'content_2','contenteditable'=>true,'style'=>'width:100%;border:1px solid #333'));?>
+            </div>
+            
+            <?php
+	            endif;
+	            ?>
             <!-- Meta tags -->
             <div class="">
             	<h3><?=lang('Meta Tags')?></h3>
@@ -66,7 +86,7 @@
 	          <div class="checkbox">
 	            <label>
 	              <?=form_hidden('active','N')?>
-	              <?=form_checkbox('active','Y',(isset($item) && $item->active == 'Y'?true:false),array('class'=>'minimal'))?>
+	              <?=form_checkbox('active','Y',(isset($item) && isset($item->active)?$item->active:true),array('class'=>'minimal'))?>
 	            </label>
 	          </div>
 	        </div>

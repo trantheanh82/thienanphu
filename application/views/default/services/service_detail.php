@@ -46,8 +46,6 @@
         
         <?=$this->load->view('elements/modules/module_relate_services',array('r_services'=>$r_services))?>        
 
-        
-        
       </div>
       <!-- aside -->
 	    <aside class="col-sm-4 wow fadeIn animated" data-wow-delay="400ms" style="visibility: visible; animation-delay: 400ms; animation-name: fadeIn;">

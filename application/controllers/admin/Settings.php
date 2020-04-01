@@ -82,12 +82,13 @@ class Settings extends Admin_Controller
 	
 	protected function getSettings($section = ''){
 		$this->load->model('setting_model');
-		$value = $this->setting_model->get_all(array('groups'=>$section));
+		$value = $this->setting_model->order_by('sort','ASC')->get_all(array('groups'=>$section));
 		foreach($value as $k=>$v){
 			if(!empty($v->config_variable)){
 				$value[$k]->config_variable = unserialize($v->config_variable);
 			}
 		}
+		
 		return $value;
 	}
 	

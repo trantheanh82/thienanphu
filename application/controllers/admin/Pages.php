@@ -38,7 +38,12 @@ class Pages extends Admin_Controller {
 			$this->load->model('category_model');
 			$this->data['list_cats'] = $this->category_model->get_dropdown('page');
 			$this->data['item'] = $this->page_model->with_page_category()->get($id);
+			if($this->data['item']->slug == 'gioi-thieu'){
+				
+				$this->data['before_head'] .= assets('css/style.css',false);
+			}
 			$this->render('admin/pages/page_create_edit_view');
+			
 		}else{
 			
 			$this->session->set_flashdata('error','There is no page id to edited');

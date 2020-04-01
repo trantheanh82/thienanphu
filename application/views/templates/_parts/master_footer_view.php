@@ -17,21 +17,21 @@
       <div class="col-md-4 col-sm-4 footer_panel bottom25">
         <h3 class="heading bottom25">Liên kết<span class="divider-left"></span></h3>
         <ul class="links">
-          <li><a href="#."><i class="icon-chevron-small-right"></i>Trang chủ</a></li>
-          <li><a href="#."><i class="icon-chevron-small-right"></i>Giới thiệu</a></li>
-          <li><a href="#."><i class="icon-chevron-small-right"></i>Dịch vụ</a></li>
-          <li><a href="#."><i class="icon-chevron-small-right"></i>Đội ngũ</a></li>
-          <li><a href="#."><i class="icon-chevron-small-right"></i>Sản phẩm - Giải pháp</a></li>
-          <li><a href="#."><i class="icon-chevron-small-right"></i>Chứng nhận</a></li>
-          <li><a href="#."><i class="icon-chevron-small-right"></i>Tin tức</a></li>
-          <li><a href="#."><i class="icon-chevron-small-right"></i>Chính sách khách hàng</a></li>
-          <li><a href="#."><i class="icon-chevron-small-right"></i>Liên hệ</a></li>
+	        <?php
+		        if(isset($footer_links)):
+		        	foreach($footer_links as $k =>$v):
+		        ?>
+          <li><a href="<?=base_url().$v->link?>"><i class="icon-chevron-small-right"></i><?=$v->name?></a></li>
+          <?php
+	          		endforeach;
+	          	endif;
+	          ?>
         </ul>
       </div>
       <div class="col-md-4 col-sm-4 footer_panel bottom25">
-        <h3 class="heading bottom25">Trự Sở <span class="divider-left"></span></h3>
+        <h3 class="heading bottom25">Trụ Sở <span class="divider-left"></span></h3>
         <p class=" address"><i class="icon-map-pin"></i><?=$Settings['address']?></p>
-        <p class=" address"><i class="icon-phone"></i><?=$Settings['company_phone_1'].(!empty($Settings['company_phone_2'])?" - ".$Settings['company_phone_2']:"")?></p>
+        <p class=" address"><i class="icon-phone4"></i><?=$Settings['company_phone_1'].(!empty($Settings['company_phone_2'])?" - ".$Settings['company_phone_2']:"")?></p>
         <p class=" address"><i class="icon-envelope"></i>
 				<?=mailto($Settings['company_email'],$Settings['company_email'])?>
 	       </p>
@@ -54,7 +54,7 @@
         
     <!-- jquery latest version
 	========================================================= -->	
-    <script src="<?php echo base_url('assets/js/jquery-2.2.3.js')?>"></script>
+   <!-- <script src="<?php echo base_url('assets/js/jquery-2.2.3.js')?>"></script>
     
     <!-- Bootstrap framework js
 	========================================================= -->			

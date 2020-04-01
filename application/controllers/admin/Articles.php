@@ -38,8 +38,7 @@ class Articles extends Admin_Controller {
 			
 			$this->data['list_cats'] = $this->category_model->get_dropdown('article');
 			
-			$this->data['item'] = $this->article_model->with_article_category()->where('id',$id)->get();
-			
+			$this->data['item'] = $this->article_model->with_articles_categories()->where('id',$id)->get();
 		}
 		
 		$this->__loadScriptUpload();

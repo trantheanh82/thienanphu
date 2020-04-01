@@ -18,5 +18,9 @@ class Page_model extends MY_Model
 	    
 	    return $this->where(array('on_menu'=>'Y','active'=>'Y'))->fields(array('name','slug'))->order_by('sort','ASC')->get_all();	
     }
+    
+    public function get_page_home(){
+	    return $this->where(array('active'=>'Y','show_in_home'=>'Y'))->get();
+    }
 
 }

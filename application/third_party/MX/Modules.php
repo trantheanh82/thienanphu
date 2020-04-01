@@ -160,7 +160,9 @@ class Modules
 			{
 				log_message('debug', "File already loaded: {$location}");				
 				return $result;
-			}	
+			}
+			
+				
 			include_once $location;
 		} 
 		else 
@@ -220,6 +222,7 @@ class Modules
 	/** Parse module routes **/
 	public static function parse_routes($module, $uri) 
 	{
+		
 		/* load the route file */
 		if ( ! isset(self::$routes[$module])) 
 		{

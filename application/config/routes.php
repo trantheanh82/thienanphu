@@ -110,6 +110,12 @@ $route['^(\w{2})/news/(.*)/([\d]+)-(.*)'] = '/news/detail/$2/$3/$4';
 $route['^(\w{2})/news/(.*)'] = '/news/index/$2';
 
 $route['^(\w{2})/services/(.*)'] = '/services/view/$2';
+$route['^(\w{2})/solutions/(.*)'] = '/solutions/index/$2';
 
+
+$route['^(\w{2})/manufactures/(.*)'] = '/manufactures/index/$2';
+
+$route['^(\w{2})/products/(.*)'] = '/products/detail/$2';
 $route['^(\w{2})/(.*)'] = '$2';
+
 /*for modules*/

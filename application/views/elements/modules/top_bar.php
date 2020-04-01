@@ -4,7 +4,7 @@
       <div class="col-md-12">
         <div class="pull-left">
         <span class="info"><a href="#.">Liên hệ để tư vấn?</a></span>
-        <span class="info"><i class="icon-phone"></i>
+        <span class="info"><i class="icon-phone4"></i>
         	<?=$Settings['company_phone_1'].(!empty($Settings['company_phone_2'])?" - ".$Settings['company_phone_2']:"")?> 
         </span>
         <?php

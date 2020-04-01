@@ -13,9 +13,11 @@
 		    <thead>
 			    <tr>
 			      <th class='text-center'><?=lang("ID")?></th>
+			      <th class='text-center'><?=lang('Brand logo')?></th>
 			      <th class='text-center'><?=lang("Name")?></th>
-			      
+			      <th class='text-center'><?=lang("Products")?></th>
 			      <th class='text-center'><?=lang("Order")?></th>
+			      <th class='text-center'><?=lang("Active")?></th>
 			      <th class='text-center'><?=lang("Action")?></th>
 			               
 			    </tr>
@@ -29,7 +31,9 @@
 					?>
 					<tr>
 						<td class='text-center'><?=$v->id?></td>
+						<td class='text-center'><a href="<?=$link_edit?>"><?=img($v->image,false,array('style'=>'max-width:50px;max-height:20px'))?></a></td>
 						<td><a href="<?=$link_edit?>"><?=$v->name?></a></td>
+						<td class='text-center'><?=$v->products_count?></td>
 						<td class='text-center'><?=$v->sort?></td>
 						<td class='text-center'><?=$v->active?></td>
 						<td class='text-center'><?=anchor($link_edit,'<i class="fa fa-edit"></i>',array('title'=>__('Edit',$this))).' '.anchor($link_delete,'<i class="fa fa-trash"></i>',array('title'=>__('Delete',$this),'class'=>'confirm_delete'))?></td>

@@ -30,8 +30,15 @@ class Home extends Public_Controller {
 	public function index()
 	{
 		$this->load->model('article_model');
+		$this->load->model('solution_model');
+		$this->load->model('page_model');
 		
 		$this->data['home_article'] = $this->article_model->with_category('fields:slug','where:`categories`.`active`=\'Y\'')->limit(6)->where('active','Y')->order_by('created_at','DESC')->get_all();
+		
+		$this->data['home_solutions'] = $this->solution_model->get_home_solutions();
+		
+		$this->data['home_about'] = $this->page_model->get_page_home();
+		
 		$this->render('default/home/index_view');
 
 	}

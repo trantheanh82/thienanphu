@@ -10,12 +10,14 @@ class Public_Controller extends MY_Controller{
 		$this->data['Settings'] = $this->__getGlobalSettings();
 
 		$this->data['public_menu'] = $this->__getPublicMenu();
+		
+		$this->data['footer_links'] = $this->__getFooterLinks();
 
 		$this->data['langs'] = $this->__getLanguages();
 
 		$this->data['css_for_elements'] .= "";
 
-		$this->data['before_body'] .= '';
+		$this->data['before_head'] .= assets('js/jquery-2.2.3.js',false);
 	}
 
 	/**
@@ -33,26 +35,44 @@ class Public_Controller extends MY_Controller{
 			$public_menu = $this->public_menu_model->getTreeMenu();
 			
 			foreach($public_menu as $k => $v){
-				if($v->name == 'About us'){
-					$this->load->model('page_model');
-					$public_menu[$k]->children = $this->page_model->get_menu_about();
-				}
 				
-				if($v->name == 'Service'){
-					$this->load->model('service_model');
-					$public_menu[$k]->children = $this->service_model->get_menu_services();
-				}
-				
-				if($v->name == 'News'){
-					$this->load->model('category_model');
-					$public_menu[$k]->children = $this->category_model->get_menu_category();
+				switch($v->name){
+					case 'About us':
+						$this->load->model('page_model');
+						$public_menu[$k]->children = $this->page_model->get_menu_about();
+
+					break;
+					case 'Services':
+						$this->load->model('service_model');
+						$public_menu[$k]->children = $this->service_model->get_menu_services();
+					break;
+					case 'Manufactures':
+						$this->load->model('manufacture_model');
+						$public_menu[$k]->children = $this->manufacture_model->get_home_menu();
+					break;
+					case 'News':
+						$this->load->model('category_model');
+						$public_menu[$k]->children = $this->category_model->get_menu_category();
+					break;
+					case 'Products & Solutions':
+						$this->load->model('solution_model');
+						$public_menu[$k]->children = $this->solution_model->get_menu_solutions();
+					break;
 				}
 			}
-			//pr($public_menu);exit();
 			//$this->cache->save('public_menu',$public_menu);
 		}
 		
 		return $public_menu;
+
+	}
+	
+	function __getFooterLinks(){
+		$this->load->model('link_model');
+		
+		$links = $this->link_model->where(array('active'=>'Y','show_in'=>'footer'))->order_by('sort','asc')->get_all();
+		
+		return $links;
 	}
 
 	function __getLanguages(){

@@ -1,7 +1,6 @@
 <?php
 	$controller = $this->router->fetch_class();
 	$action = $this->router->fetch_method();
-	
 	if($is_home):
 	?>
 <div class="container">
@@ -22,7 +21,6 @@
 	          <i class="fa fa-bars"></i>
 	        </button>
 	        <a class="navbar-brand" href="<?=base_url()?>">
-	        	<img src="images/logo.png?r=3993" class="logo" alt="">
 	        	<?php
 		        	echo img('assets/img/logo.png',array('class'=>'logo','alt'=>""))
 		        	?>
@@ -31,12 +29,15 @@
 	      <div class="collapse navbar-collapse" id="navbar-menu">
 	        <ul class="nav navbar-nav navbar-right" data-in="fadeInDown" data-out="fadeOut">
 		        <?php
-			        foreach($public_menu as $k =>$v):
 			        
+			        foreach($public_menu as $k =>$v):
 			        	$class = "";
 
 			        	if(!empty($v->children)){
 				        	$class .= "dropdown";
+				        	if($v->type == "mega"){
+				        		$class .= " megamenu-fw";
+				        	}
 			        	}
 			        	
 			        	if($controller == $v->controller && $action == $v->action){
@@ -50,9 +51,12 @@
 				    	if(!empty($v->children)):
 				    		
 				    		//check if it is simple menu
-				    		if($v->type == 'simple'):
-				    	?>
-				    	<ul class="dropdown-menu">
+				    		if($v->type == 'mega'):
+				    			echo $this->load->view('elements/modules/mega_menu_content',array('menu_items'=>$v->children));
+					    	// simple menu
+					    	else:
+					    ?>
+					    <ul class="dropdown-menu">
 					    	<?php
 						    	foreach($v->children as $ck => $cv):
 						    	?>
@@ -61,8 +65,8 @@
 							    endforeach; 
 							    ?>
 				    	</ul>
-				    	<?php
-					    	endif;
+					    <?php
+						    endif;
 					    endif;
 					    	?>
 			    </li>    

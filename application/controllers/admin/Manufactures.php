@@ -9,14 +9,6 @@ class Manufactures extends Admin_Controller {
 		
 		$this->load->library('ion_auth');
 		$this->data['page_name'] = 'manufactures';
-				
-		$this->data['script_for_layout'] .= "<script>
-			$(document).ready(function(){
-				$('.currency').simpleMoneyFormat();
-			
-			});
-				
-		</script>";
 	}
 
 	

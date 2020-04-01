@@ -96,8 +96,8 @@
 						<?php 
 							foreach($list_cats as $key=>$value):
 								$check = "";
-								if(!empty($item->article_category)){
-									foreach($item->article_category as $k => $v){
+								if(!empty($item->articles_categories)){
+									foreach($item->articles_categories as $k => $v){
 										if($v->category_id == $key){
 											$check = "checked";
 											unset($item->article_category[$k]);

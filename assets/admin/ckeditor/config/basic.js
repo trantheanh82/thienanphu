@@ -3,7 +3,8 @@
  * For licensing, see LICENSE.md or http://ckeditor.com/license
  */
 CKEDITOR.editorConfig = function( config ) {
-		config.toolbarGroups = [	
+		config.toolbarGroups = [
+		{ name: 'document',	   groups: [ 'mode', 'document', 'doctools' ] },	
 		{ name: 'basicstyles', groups: [ 'basicstyles', 'cleanup' ] },
 		{ name: 'paragraph',   groups: [ 'list', 'indent', 'blocks', 'align' ] },
 		{ name: 'styles' },

@@ -129,7 +129,7 @@ jQuery(function ($) {
     //get input field values
     var user_name = $('input[name=name]').val();
     var user_email = $('input[name=email]').val();
-    var user_website = $('input[name=website]').val();
+    var user_website = $('input[name=phone]').val();
     var user_message = $('textarea[name=message]').val();
     var post_data, output;
     //simple validation at client's end
@@ -149,15 +149,15 @@ jQuery(function ($) {
       //alert(proceed);
       //data to be sent to server
       post_data = {
-        'userName': user_name,
-        'userEmail': user_email,
-        'userWebsite': user_website,
-        'userMessage': user_message
+        'name': user_name,
+        'email': user_email,
+        'phone': user_website,
+        'message': user_message
       };
 
       //Ajax post data to server
-      $.post('contact_me.php', post_data, function (response) {
-
+      $.post('contact', post_data, function (response) {
+	  	console.log(response);
         //load json data from server and output message     
         if (response.type == 'error') {
           output = '<div class="alert-danger" style="padding:10px; margin-bottom:10px;">' + response.text + '</div>';
@@ -364,23 +364,7 @@ jQuery(function ($) {
   }
 
   //Contact Map
-  if ($("#map").length) {
-    var map;
-    map = new GMaps({
-      el: '#map',
-      lat: 51.507309,
-      lng: -0.127448
-    });
-    map.drawOverlay({
-      lat: map.getCenter().lat(),
-      lng: map.getCenter().lng(),
-      layer: 'overlayLayer',
-      content: '<div class="overlay_map"><i class="icon-location-pin"></i></div>',
-      verticalAlign: 'top',
-      horizontalAlign: 'center'
-    });
-
-  }
+  
 
 });
 

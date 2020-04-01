@@ -21,7 +21,7 @@
 				</div>
             </div>
             <div class="col-md-7 col-sm-7 heading_space">
-	             <?=anchor($link,'<h3>'.$item->id .' '.$item->title.'</h3>')?>
+	             <?=anchor($link,'<h3>'.$item->title.'</h3>')?>
               <ul class="comment margin10">
                 <li><a href="news-detail.html"><?=date_format(date_create($item->created_at),'d-m-Y')?></a></li>
               </ul>
@@ -81,9 +81,9 @@
           
           <?=$this->load->view('elements/modules/module_services',array('module_services'=>$module_services))?>
 		  
-		  <?=$this->load->view('elements/modules/module_solutions')?>
+		  <?=$this->load->view('elements/modules/module_solutions',array('solutions'=>$module_solutions))?>
 		  
-          <?=$this->load->view('elements/modules/module_tags')?>
+          <?php //$this->load->view('elements/modules/module_tags')?>
         </aside>
       </div>
     </div>

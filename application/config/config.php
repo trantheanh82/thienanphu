@@ -544,5 +544,5 @@ $config['for_sell']['N']	= "Không Bán";
 /* Setup config for modules
 	*/
 $config['modules_locations'] = array(
-    APPPATH . 'modules/' => APPPATH.'..modules/'
+    APPPATH . 'modules/' => '../modules/'
 );

@@ -35,10 +35,11 @@ $(document).ready(function() {
 	$('#data').DataTable({
 	    'language'		: {'url':'//cdn.datatables.net/plug-ins/1.10.16/i18n/Vietnamese.json'},
 	    'paging'      	: true,
-	    'order'			: [[4,'DESC']],
+	    'order'			: [[0,'ASC']],
 	    'searching'   : true,
 	    'ordering'    : true,
-	    'info'        : true
+	    'info'        : true,
+	    'limit'			: 20
 	});
 	
 		

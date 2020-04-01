@@ -34,7 +34,7 @@ class Public_menu_model extends MY_Model
 	);
 	
 	public function getTreeMenu(){
-		$items = $this->where('active','Y')->order_by(array('parent_id'=>'ASC','sort'=>'ASC'))->get_all();
+		$items = $this->where('active','Y')->fields(array('parent_id','controller','action','type','id','name','slug'))->order_by(array('parent_id'=>'ASC','sort'=>'ASC'))->get_all();
 		$menus = $this->__menu(0,$items);
 		return $menus;
 	}

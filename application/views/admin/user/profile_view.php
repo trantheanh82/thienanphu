@@ -71,7 +71,7 @@
       	 <div class='col-sm-6'>
 	      	<div class='form-group'>
 		      	<?php
-					$this->load->view("admin/elements/modules/upload_image_view",array('field_id'=>'profile_pic','id'=>'profile_pic','value'=>$user->profile_pic,'multiple'=>false,'path'=>'img/users/','max_width'=>'300px','button_name'=>'Upload Profile Picture'));
+					$this->load->view("admin/elements/modules/upload_image_view",array('field_id'=>'profile_pic','id'=>'profile_pic','type'=>'image','value'=>$user->profile_pic,'multiple'=>false,'path'=>'img/users/','max_width'=>'300px','button_name'=>'Upload Profile Picture'));
 				?>
 	      	</div>
       	</div>

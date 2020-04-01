@@ -9,6 +9,8 @@ $lang['Phone'] = "Điện Thoại";
 $lang['Subject'] = "Tiêu đề";
 $lang['Message']	= "Nội Dung";
 $lang['Send Message'] = "Gửi thông tin";
+$lang['Contact message'] = "Nội dung liên hệ";
+$lang['company address'] = "Địa chỉ";
 
 $lang['enter a name'] = "điền họ & tên";
 $lang['enter an email'] = "điền email";
