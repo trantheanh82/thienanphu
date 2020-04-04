@@ -16,7 +16,7 @@
 	
 	<p style='position:absolute;left:<?=isset($max_width)?$max_width:"150px";?>;' class='hide remove-placehold-image' title='<?=__('remove image',$this)?>'><icon class='fa fa-trash red'></icon></p>
 	
-	<img src="<?=($value != "")?$value:""?>" id='img_<?=$field_id?>' class='img-responsive profile-avatar border-trans' 
+	<img src="<?=($value != "")?base_url().$value:""?>" id='img_<?=$field_id?>' class='img-responsive profile-avatar border-trans' 
 		style='cursor:pointer;width:<?=	isset($max_width)?$max_width:"150px";?>;'
 		 data-toggle='modal' data-target='#modal-default-<?=$field_id?>'
 		onerror="this.src='<?=base_url()?>assets/images/images-empty.png';"/>	
@@ -31,8 +31,8 @@
 <script>
 	
 	function responsive_filemanager_callback(field_id){
-		console.log(field_id);
 		var url=jQuery('#'+field_id).val();
+		$('#'+field_id).val($('#'+field_id).val().split("<?=base_url()?>")[1]);
 		$('#img_'+field_id).attr('src',url);
 	//your code
 	}

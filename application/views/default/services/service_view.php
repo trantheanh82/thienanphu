@@ -6,11 +6,12 @@
 		  if(!empty($items)):
 		  	foreach($items as $k => $item):
 		  		$link = '/services/'.$item->slug;
+		  		$img = img(base_url().$item->image,'',array('alt'=>$item->name,'class'=>'border_radius'));
 		  ?>
 		  <div class="col-sm-6 col-md-4 equalheight">
 	        <div class="course margin_top wow fadeIn" data-wow-delay="400ms">
 	          <div class="image bottom25">
-	            <?=anchor($link,img($item->image,true,array('alt'=>$item->name,'class'=>'border_radius')))?>
+	            <?=anchor($link,$img)?>
 	          </div>
 	          <h3 class="bottom10">
 		          <?=anchor($link,$item->name)?>

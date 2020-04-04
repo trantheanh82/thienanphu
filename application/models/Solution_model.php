@@ -30,6 +30,8 @@ class Solution_model extends MY_Model
 	    foreach($item->products as $k=>$v){
 		    if(!empty($v->images->image)){
 			    $item->products[$k]->images = unserialize($v->images->image)[0];
+		    }else{
+			    $item->products[$k]->images = "";
 		    }
 	    }
 	    

@@ -4281,3 +4281,2184 @@ DEBUG - 2020-04-01 13:34:43 --> File loaded: /Volumes/Betrai/www/thienanphu/appl
 DEBUG - 2020-04-01 13:34:43 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/master_view.php
 INFO - 2020-04-01 13:34:43 --> Final output sent to browser
 DEBUG - 2020-04-01 13:34:43 --> Total execution time: 0.7057
+INFO - 2020-04-01 14:11:35 --> Config Class Initialized
+INFO - 2020-04-01 14:11:35 --> Hooks Class Initialized
+DEBUG - 2020-04-01 14:11:35 --> UTF-8 Support Enabled
+INFO - 2020-04-01 14:11:35 --> Utf8 Class Initialized
+INFO - 2020-04-01 14:11:35 --> URI Class Initialized
+INFO - 2020-04-01 14:11:35 --> Router Class Initialized
+INFO - 2020-04-01 14:11:35 --> Output Class Initialized
+INFO - 2020-04-01 14:11:35 --> Security Class Initialized
+DEBUG - 2020-04-01 14:11:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-01 14:11:35 --> Input Class Initialized
+DEBUG - 2020-04-01 14:11:35 --> Language_Identifier Class Initialized
+INFO - 2020-04-01 14:11:35 --> Language Class Initialized
+INFO - 2020-04-01 14:11:35 --> Config Class Initialized
+INFO - 2020-04-01 14:11:35 --> Loader Class Initialized
+INFO - 2020-04-01 14:11:35 --> Helper loaded: url_helper
+INFO - 2020-04-01 14:11:35 --> Helper loaded: form_helper
+INFO - 2020-04-01 14:11:35 --> Helper loaded: language_helper
+INFO - 2020-04-01 14:11:35 --> Database Driver Class Initialized
+INFO - 2020-04-01 14:11:35 --> Controller Class Initialized
+DEBUG - 2020-04-01 14:11:35 --> Category MX_Controller Initialized
+INFO - 2020-04-01 14:11:35 --> Helper loaded: html_helper
+INFO - 2020-04-01 14:11:35 --> Helper loaded: cookie_helper
+INFO - 2020-04-01 14:11:35 --> Session: Class initialized using 'files' driver.
+INFO - 2020-04-01 14:11:35 --> Helper loaded: file_helper
+INFO - 2020-04-01 14:11:35 --> MY_Model class loaded
+INFO - 2020-04-01 14:11:35 --> Model "Language_model" initialized
+ERROR - 2020-04-01 14:11:35 --> Language file contains no data: language/vietnamese/category_lang.php
+INFO - 2020-04-01 14:11:35 --> Language file loaded: language/vietnamese/global_lang.php
+DEBUG - 2020-04-01 14:11:35 --> Config file loaded: /Volumes/Betrai/www/thienanphu/application/config/ion_auth.php
+DEBUG - 2020-04-01 14:11:35 --> Config file loaded: /Volumes/Betrai/www/thienanphu/application/config/development/ion_auth.php
+INFO - 2020-04-01 14:11:35 --> Email Class Initialized
+INFO - 2020-04-01 14:11:35 --> Language file loaded: language/vietnamese/ion_auth_lang.php
+INFO - 2020-04-01 14:11:35 --> Helper loaded: date_helper
+INFO - 2020-04-01 14:11:35 --> Model "Ion_auth_model" initialized
+INFO - 2020-04-01 14:11:35 --> Helper loaded: inflector_helper
+INFO - 2020-04-01 14:11:35 --> Model "Menu_model" initialized
+INFO - 2020-04-01 14:11:35 --> Language file loaded: language/vietnamese/menu_lang.php
+DEBUG - 2020-04-01 14:11:35 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2020-04-01 14:11:35 --> Model "Setting_model" initialized
+INFO - 2020-04-01 14:11:35 --> Model "Category_model" initialized
+INFO - 2020-04-01 14:11:35 --> User Agent Class Initialized
+DEBUG - 2020-04-01 14:11:36 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/admin/elements/flash_message_view.php
+DEBUG - 2020-04-01 14:11:36 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/admin/elements/section_header_view.php
+ERROR - 2020-04-01 14:11:36 --> Could not find the language line "Category listing"
+ERROR - 2020-04-01 14:11:36 --> Could not find the language line "Action"
+ERROR - 2020-04-01 14:11:36 --> Could not find the language line "
+ Category"
+DEBUG - 2020-04-01 14:11:36 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/admin/elements/ui/command_tools.php
+ERROR - 2020-04-01 14:11:36 --> Could not find the language line "ID"
+ERROR - 2020-04-01 14:11:36 --> Could not find the language line "Name"
+ERROR - 2020-04-01 14:11:36 --> Could not find the language line "Image"
+ERROR - 2020-04-01 14:11:36 --> Could not find the language line "Type"
+ERROR - 2020-04-01 14:11:36 --> Could not find the language line "Sort"
+ERROR - 2020-04-01 14:11:36 --> Could not find the language line "Active"
+ERROR - 2020-04-01 14:11:36 --> Could not find the language line "Created"
+ERROR - 2020-04-01 14:11:36 --> Could not find the language line "Edit"
+ERROR - 2020-04-01 14:11:36 --> Could not find the language line "Delete"
+ERROR - 2020-04-01 14:11:36 --> Could not find the language line "Edit"
+ERROR - 2020-04-01 14:11:36 --> Could not find the language line "Delete"
+ERROR - 2020-04-01 14:11:36 --> Could not find the language line "Edit"
+ERROR - 2020-04-01 14:11:36 --> Could not find the language line "Delete"
+ERROR - 2020-04-01 14:11:36 --> Could not find the language line "Edit"
+ERROR - 2020-04-01 14:11:36 --> Could not find the language line "Delete"
+ERROR - 2020-04-01 14:11:36 --> Could not find the language line "Edit"
+ERROR - 2020-04-01 14:11:36 --> Could not find the language line "Delete"
+DEBUG - 2020-04-01 14:11:36 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/admin/categories/category_view.php
+INFO - 2020-04-01 14:11:36 --> Final output sent to browser
+DEBUG - 2020-04-01 14:11:36 --> Total execution time: 0.3838
+INFO - 2020-04-01 14:11:36 --> Config Class Initialized
+INFO - 2020-04-01 14:11:36 --> Hooks Class Initialized
+DEBUG - 2020-04-01 14:11:36 --> UTF-8 Support Enabled
+INFO - 2020-04-01 14:11:36 --> Utf8 Class Initialized
+INFO - 2020-04-01 14:11:36 --> URI Class Initialized
+INFO - 2020-04-01 14:11:36 --> Router Class Initialized
+INFO - 2020-04-01 14:11:36 --> Output Class Initialized
+INFO - 2020-04-01 14:11:36 --> Security Class Initialized
+DEBUG - 2020-04-01 14:11:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-01 14:11:36 --> Input Class Initialized
+DEBUG - 2020-04-01 14:11:36 --> Language_Identifier Class Initialized
+INFO - 2020-04-01 14:11:36 --> Language Class Initialized
+INFO - 2020-04-01 14:11:36 --> Config Class Initialized
+INFO - 2020-04-01 14:11:36 --> Loader Class Initialized
+INFO - 2020-04-01 14:11:36 --> Helper loaded: url_helper
+INFO - 2020-04-01 14:11:36 --> Helper loaded: form_helper
+INFO - 2020-04-01 14:11:36 --> Helper loaded: language_helper
+INFO - 2020-04-01 14:11:36 --> Database Driver Class Initialized
+INFO - 2020-04-01 14:11:36 --> Controller Class Initialized
+DEBUG - 2020-04-01 14:11:36 --> Category MX_Controller Initialized
+INFO - 2020-04-01 14:11:36 --> Helper loaded: html_helper
+INFO - 2020-04-01 14:11:36 --> Helper loaded: cookie_helper
+INFO - 2020-04-01 14:11:36 --> Session: Class initialized using 'files' driver.
+INFO - 2020-04-01 14:11:36 --> Helper loaded: file_helper
+INFO - 2020-04-01 14:11:36 --> MY_Model class loaded
+INFO - 2020-04-01 14:11:36 --> Model "Language_model" initialized
+ERROR - 2020-04-01 14:11:36 --> Language file contains no data: language/vietnamese/category_lang.php
+INFO - 2020-04-01 14:11:36 --> Language file loaded: language/vietnamese/global_lang.php
+DEBUG - 2020-04-01 14:11:36 --> Config file loaded: /Volumes/Betrai/www/thienanphu/application/config/ion_auth.php
+DEBUG - 2020-04-01 14:11:36 --> Config file loaded: /Volumes/Betrai/www/thienanphu/application/config/development/ion_auth.php
+INFO - 2020-04-01 14:11:36 --> Email Class Initialized
+INFO - 2020-04-01 14:11:36 --> Language file loaded: language/vietnamese/ion_auth_lang.php
+INFO - 2020-04-01 14:11:36 --> Helper loaded: date_helper
+INFO - 2020-04-01 14:11:36 --> Model "Ion_auth_model" initialized
+INFO - 2020-04-01 14:11:36 --> Helper loaded: inflector_helper
+INFO - 2020-04-01 14:11:36 --> Model "Menu_model" initialized
+INFO - 2020-04-01 14:11:36 --> Language file loaded: language/vietnamese/menu_lang.php
+DEBUG - 2020-04-01 14:11:36 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2020-04-01 14:11:36 --> Model "Setting_model" initialized
+INFO - 2020-04-01 14:11:36 --> Model "Category_model" initialized
+INFO - 2020-04-01 14:11:36 --> User Agent Class Initialized
+DEBUG - 2020-04-01 14:11:36 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/admin/elements/flash_message_view.php
+DEBUG - 2020-04-01 14:11:36 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/admin/elements/section_header_view.php
+ERROR - 2020-04-01 14:11:36 --> Could not find the language line "Category listing"
+ERROR - 2020-04-01 14:11:36 --> Could not find the language line "Action"
+ERROR - 2020-04-01 14:11:36 --> Could not find the language line "
+ Category"
+DEBUG - 2020-04-01 14:11:36 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/admin/elements/ui/command_tools.php
+ERROR - 2020-04-01 14:11:36 --> Could not find the language line "ID"
+ERROR - 2020-04-01 14:11:36 --> Could not find the language line "Name"
+ERROR - 2020-04-01 14:11:36 --> Could not find the language line "Image"
+ERROR - 2020-04-01 14:11:36 --> Could not find the language line "Type"
+ERROR - 2020-04-01 14:11:36 --> Could not find the language line "Sort"
+ERROR - 2020-04-01 14:11:36 --> Could not find the language line "Active"
+ERROR - 2020-04-01 14:11:36 --> Could not find the language line "Created"
+ERROR - 2020-04-01 14:11:36 --> Could not find the language line "Edit"
+ERROR - 2020-04-01 14:11:36 --> Could not find the language line "Delete"
+ERROR - 2020-04-01 14:11:36 --> Could not find the language line "Edit"
+ERROR - 2020-04-01 14:11:36 --> Could not find the language line "Delete"
+ERROR - 2020-04-01 14:11:36 --> Could not find the language line "Edit"
+ERROR - 2020-04-01 14:11:36 --> Could not find the language line "Delete"
+ERROR - 2020-04-01 14:11:36 --> Could not find the language line "Edit"
+ERROR - 2020-04-01 14:11:36 --> Could not find the language line "Delete"
+ERROR - 2020-04-01 14:11:36 --> Could not find the language line "Edit"
+ERROR - 2020-04-01 14:11:36 --> Could not find the language line "Delete"
+DEBUG - 2020-04-01 14:11:36 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/admin/categories/category_view.php
+ERROR - 2020-04-01 14:11:36 --> Could not find the language line "Sign out"
+DEBUG - 2020-04-01 14:11:36 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/admin/elements/user/header_panel_view.php
+DEBUG - 2020-04-01 14:11:36 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/admin_master_header_view.php
+DEBUG - 2020-04-01 14:11:36 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/admin/elements/user/sidebar_view.php
+ERROR - 2020-04-01 14:11:36 --> Could not find the language line "MAIN NAVIGATION"
+ERROR - 2020-04-01 14:11:36 --> Could not find the language line "Media"
+ERROR - 2020-04-01 14:11:36 --> Could not find the language line "Sliders"
+ERROR - 2020-04-01 14:11:36 --> Could not find the language line "Groups"
+ERROR - 2020-04-01 14:11:36 --> Could not find the language line "Users"
+ERROR - 2020-04-01 14:11:36 --> Could not find the language line "General"
+ERROR - 2020-04-01 14:11:36 --> Could not find the language line "Information"
+ERROR - 2020-04-01 14:11:36 --> Could not find the language line "Email Server"
+DEBUG - 2020-04-01 14:11:36 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/admin/elements/left_sidebar_view.php
+DEBUG - 2020-04-01 14:11:36 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/admin_master_footer_view.php
+DEBUG - 2020-04-01 14:11:36 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/admin_master_view.php
+INFO - 2020-04-01 14:11:36 --> Final output sent to browser
+DEBUG - 2020-04-01 14:11:36 --> Total execution time: 0.1506
+INFO - 2020-04-01 14:11:38 --> Config Class Initialized
+INFO - 2020-04-01 14:11:38 --> Hooks Class Initialized
+DEBUG - 2020-04-01 14:11:38 --> UTF-8 Support Enabled
+INFO - 2020-04-01 14:11:38 --> Utf8 Class Initialized
+INFO - 2020-04-01 14:11:38 --> URI Class Initialized
+INFO - 2020-04-01 14:11:38 --> Router Class Initialized
+INFO - 2020-04-01 14:11:38 --> Output Class Initialized
+INFO - 2020-04-01 14:11:38 --> Security Class Initialized
+DEBUG - 2020-04-01 14:11:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-01 14:11:38 --> Input Class Initialized
+DEBUG - 2020-04-01 14:11:38 --> Language_Identifier Class Initialized
+INFO - 2020-04-01 14:11:38 --> Language Class Initialized
+INFO - 2020-04-01 14:11:38 --> Config Class Initialized
+INFO - 2020-04-01 14:11:38 --> Loader Class Initialized
+INFO - 2020-04-01 14:11:38 --> Helper loaded: url_helper
+INFO - 2020-04-01 14:11:38 --> Helper loaded: form_helper
+INFO - 2020-04-01 14:11:38 --> Helper loaded: language_helper
+INFO - 2020-04-01 14:11:38 --> Database Driver Class Initialized
+INFO - 2020-04-01 14:11:38 --> Controller Class Initialized
+DEBUG - 2020-04-01 14:11:38 --> Category MX_Controller Initialized
+INFO - 2020-04-01 14:11:38 --> Helper loaded: html_helper
+INFO - 2020-04-01 14:11:38 --> Helper loaded: cookie_helper
+INFO - 2020-04-01 14:11:38 --> Session: Class initialized using 'files' driver.
+INFO - 2020-04-01 14:11:38 --> Helper loaded: file_helper
+INFO - 2020-04-01 14:11:38 --> MY_Model class loaded
+INFO - 2020-04-01 14:11:38 --> Model "Language_model" initialized
+ERROR - 2020-04-01 14:11:38 --> Language file contains no data: language/vietnamese/category_lang.php
+INFO - 2020-04-01 14:11:38 --> Language file loaded: language/vietnamese/global_lang.php
+DEBUG - 2020-04-01 14:11:38 --> Config file loaded: /Volumes/Betrai/www/thienanphu/application/config/ion_auth.php
+DEBUG - 2020-04-01 14:11:38 --> Config file loaded: /Volumes/Betrai/www/thienanphu/application/config/development/ion_auth.php
+INFO - 2020-04-01 14:11:38 --> Email Class Initialized
+INFO - 2020-04-01 14:11:38 --> Language file loaded: language/vietnamese/ion_auth_lang.php
+INFO - 2020-04-01 14:11:38 --> Helper loaded: date_helper
+INFO - 2020-04-01 14:11:38 --> Model "Ion_auth_model" initialized
+INFO - 2020-04-01 14:11:38 --> Helper loaded: inflector_helper
+INFO - 2020-04-01 14:11:38 --> Model "Menu_model" initialized
+INFO - 2020-04-01 14:11:38 --> Language file loaded: language/vietnamese/menu_lang.php
+DEBUG - 2020-04-01 14:11:38 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2020-04-01 14:11:38 --> Model "Setting_model" initialized
+INFO - 2020-04-01 14:11:38 --> Model "Category_model" initialized
+INFO - 2020-04-01 14:11:38 --> User Agent Class Initialized
+DEBUG - 2020-04-01 14:11:38 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/admin/elements/flash_message_view.php
+ERROR - 2020-04-01 14:11:38 --> Could not find the language line "Edit"
+ERROR - 2020-04-01 14:11:38 --> Could not find the language line "Edit"
+ERROR - 2020-04-01 14:11:38 --> Could not find the language line "11"
+DEBUG - 2020-04-01 14:11:38 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/admin/elements/section_header_view.php
+ERROR - 2020-04-01 14:11:38 --> Could not find the language line "Cateogry::create"
+ERROR - 2020-04-01 14:11:38 --> Could not find the language line "Slug"
+ERROR - 2020-04-01 14:11:38 --> Could not find the language line "Slug"
+ERROR - 2020-04-01 14:11:38 --> Could not find the language line "Slug"
+ERROR - 2020-04-01 14:11:38 --> Could not find the language line "Type your content here"
+ERROR - 2020-04-01 14:11:38 --> Could not find the language line "Home Menu"
+ERROR - 2020-04-01 14:11:38 --> Could not find the language line "Type"
+ERROR - 2020-04-01 14:11:38 --> Could not find the language line "Service"
+ERROR - 2020-04-01 14:11:38 --> Could not find the language line "Image Pages"
+ERROR - 2020-04-01 14:11:38 --> Could not find the language line "Upload Image"
+ERROR - 2020-04-01 14:11:38 --> Could not find the language line "remove image"
+ERROR - 2020-04-01 14:11:38 --> Could not find the language line "Upload Image"
+DEBUG - 2020-04-01 14:11:38 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/admin/elements/modules/modal_filemanager_view.php
+DEBUG - 2020-04-01 14:11:38 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/admin/elements/modules/upload_image_view.php
+ERROR - 2020-04-01 14:11:38 --> Could not find the language line "Save"
+ERROR - 2020-04-01 14:11:38 --> Could not find the language line "Cancel"
+DEBUG - 2020-04-01 14:11:38 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/admin/elements/ui/box_content/box_footer.php
+DEBUG - 2020-04-01 14:11:38 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/admin/categories/category_create_edit_view.php
+ERROR - 2020-04-01 14:11:38 --> Could not find the language line "Sign out"
+DEBUG - 2020-04-01 14:11:38 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/admin/elements/user/header_panel_view.php
+DEBUG - 2020-04-01 14:11:38 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/admin_master_header_view.php
+DEBUG - 2020-04-01 14:11:38 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/admin/elements/user/sidebar_view.php
+ERROR - 2020-04-01 14:11:38 --> Could not find the language line "MAIN NAVIGATION"
+ERROR - 2020-04-01 14:11:38 --> Could not find the language line "Media"
+ERROR - 2020-04-01 14:11:38 --> Could not find the language line "Sliders"
+ERROR - 2020-04-01 14:11:38 --> Could not find the language line "Groups"
+ERROR - 2020-04-01 14:11:38 --> Could not find the language line "Users"
+ERROR - 2020-04-01 14:11:38 --> Could not find the language line "General"
+ERROR - 2020-04-01 14:11:38 --> Could not find the language line "Information"
+ERROR - 2020-04-01 14:11:38 --> Could not find the language line "Email Server"
+DEBUG - 2020-04-01 14:11:38 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/admin/elements/left_sidebar_view.php
+DEBUG - 2020-04-01 14:11:38 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/admin_master_footer_view.php
+DEBUG - 2020-04-01 14:11:38 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/admin_master_view.php
+INFO - 2020-04-01 14:11:38 --> Final output sent to browser
+DEBUG - 2020-04-01 14:11:38 --> Total execution time: 0.1748
+INFO - 2020-04-01 14:11:48 --> Config Class Initialized
+INFO - 2020-04-01 14:11:48 --> Hooks Class Initialized
+DEBUG - 2020-04-01 14:11:49 --> UTF-8 Support Enabled
+INFO - 2020-04-01 14:11:49 --> Utf8 Class Initialized
+INFO - 2020-04-01 14:11:49 --> URI Class Initialized
+INFO - 2020-04-01 14:11:49 --> Router Class Initialized
+INFO - 2020-04-01 14:11:49 --> Output Class Initialized
+INFO - 2020-04-01 14:11:49 --> Security Class Initialized
+DEBUG - 2020-04-01 14:11:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-01 14:11:49 --> Input Class Initialized
+INFO - 2020-04-01 14:11:49 --> Config Class Initialized
+INFO - 2020-04-01 14:11:49 --> Hooks Class Initialized
+DEBUG - 2020-04-01 14:11:49 --> UTF-8 Support Enabled
+INFO - 2020-04-01 14:11:49 --> Utf8 Class Initialized
+INFO - 2020-04-01 14:11:49 --> URI Class Initialized
+INFO - 2020-04-01 14:11:49 --> Config Class Initialized
+INFO - 2020-04-01 14:11:49 --> Hooks Class Initialized
+INFO - 2020-04-01 14:11:49 --> Router Class Initialized
+DEBUG - 2020-04-01 14:11:49 --> UTF-8 Support Enabled
+INFO - 2020-04-01 14:11:49 --> Output Class Initialized
+INFO - 2020-04-01 14:11:49 --> Security Class Initialized
+INFO - 2020-04-01 14:11:49 --> Utf8 Class Initialized
+DEBUG - 2020-04-01 14:11:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-01 14:11:49 --> Input Class Initialized
+INFO - 2020-04-01 14:11:49 --> URI Class Initialized
+INFO - 2020-04-01 14:11:49 --> Config Class Initialized
+INFO - 2020-04-01 14:11:49 --> Hooks Class Initialized
+INFO - 2020-04-01 14:11:49 --> Router Class Initialized
+INFO - 2020-04-01 14:11:49 --> Config Class Initialized
+INFO - 2020-04-01 14:11:49 --> Config Class Initialized
+DEBUG - 2020-04-01 14:11:49 --> UTF-8 Support Enabled
+INFO - 2020-04-01 14:11:49 --> Utf8 Class Initialized
+INFO - 2020-04-01 14:11:49 --> Hooks Class Initialized
+DEBUG - 2020-04-01 14:11:49 --> UTF-8 Support Enabled
+INFO - 2020-04-01 14:11:49 --> URI Class Initialized
+INFO - 2020-04-01 14:11:49 --> Utf8 Class Initialized
+INFO - 2020-04-01 14:11:49 --> URI Class Initialized
+INFO - 2020-04-01 14:11:49 --> Router Class Initialized
+INFO - 2020-04-01 14:11:49 --> Output Class Initialized
+INFO - 2020-04-01 14:11:49 --> Output Class Initialized
+INFO - 2020-04-01 14:11:49 --> Router Class Initialized
+INFO - 2020-04-01 14:11:49 --> Security Class Initialized
+INFO - 2020-04-01 14:11:49 --> Output Class Initialized
+INFO - 2020-04-01 14:11:49 --> Security Class Initialized
+INFO - 2020-04-01 14:11:49 --> Hooks Class Initialized
+DEBUG - 2020-04-01 14:11:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-01 14:11:49 --> Security Class Initialized
+DEBUG - 2020-04-01 14:11:49 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-04-01 14:11:49 --> UTF-8 Support Enabled
+INFO - 2020-04-01 14:11:49 --> Input Class Initialized
+INFO - 2020-04-01 14:11:49 --> Utf8 Class Initialized
+DEBUG - 2020-04-01 14:11:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-01 14:11:49 --> Input Class Initialized
+INFO - 2020-04-01 14:11:49 --> URI Class Initialized
+INFO - 2020-04-01 14:11:49 --> Router Class Initialized
+INFO - 2020-04-01 14:11:49 --> Input Class Initialized
+INFO - 2020-04-01 14:11:49 --> Output Class Initialized
+INFO - 2020-04-01 14:11:49 --> Security Class Initialized
+DEBUG - 2020-04-01 14:11:49 --> Language_Identifier Class Initialized
+DEBUG - 2020-04-01 14:11:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-01 14:11:49 --> Input Class Initialized
+INFO - 2020-04-01 14:11:49 --> Language Class Initialized
+DEBUG - 2020-04-01 14:11:49 --> Language_Identifier Class Initialized
+INFO - 2020-04-01 14:11:49 --> Config Class Initialized
+INFO - 2020-04-01 14:11:49 --> Config Class Initialized
+INFO - 2020-04-01 14:11:49 --> Hooks Class Initialized
+DEBUG - 2020-04-01 14:11:49 --> UTF-8 Support Enabled
+INFO - 2020-04-01 14:11:49 --> Utf8 Class Initialized
+INFO - 2020-04-01 14:11:49 --> Loader Class Initialized
+INFO - 2020-04-01 14:11:49 --> URI Class Initialized
+INFO - 2020-04-01 14:11:49 --> Language Class Initialized
+INFO - 2020-04-01 14:11:49 --> Config Class Initialized
+INFO - 2020-04-01 14:11:49 --> Helper loaded: url_helper
+INFO - 2020-04-01 14:11:49 --> Loader Class Initialized
+INFO - 2020-04-01 14:11:49 --> Helper loaded: form_helper
+INFO - 2020-04-01 14:11:49 --> Config Class Initialized
+INFO - 2020-04-01 14:11:49 --> Helper loaded: url_helper
+INFO - 2020-04-01 14:11:49 --> Helper loaded: form_helper
+INFO - 2020-04-01 14:11:49 --> Hooks Class Initialized
+INFO - 2020-04-01 14:11:49 --> Helper loaded: language_helper
+INFO - 2020-04-01 14:11:49 --> Database Driver Class Initialized
+INFO - 2020-04-01 14:11:49 --> Helper loaded: language_helper
+INFO - 2020-04-01 14:11:49 --> Router Class Initialized
+DEBUG - 2020-04-01 14:11:49 --> UTF-8 Support Enabled
+INFO - 2020-04-01 14:11:49 --> Output Class Initialized
+INFO - 2020-04-01 14:11:49 --> Database Driver Class Initialized
+INFO - 2020-04-01 14:11:49 --> Controller Class Initialized
+INFO - 2020-04-01 14:11:49 --> Utf8 Class Initialized
+INFO - 2020-04-01 14:11:49 --> Security Class Initialized
+ERROR - 2020-04-01 14:11:49 --> 404 Page Not Found: /index
+INFO - 2020-04-01 14:11:49 --> URI Class Initialized
+DEBUG - 2020-04-01 14:11:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-01 14:11:49 --> Controller Class Initialized
+INFO - 2020-04-01 14:11:49 --> Router Class Initialized
+INFO - 2020-04-01 14:11:49 --> Input Class Initialized
+ERROR - 2020-04-01 14:11:49 --> 404 Page Not Found: /index
+DEBUG - 2020-04-01 14:11:49 --> Language_Identifier Class Initialized
+INFO - 2020-04-01 14:11:49 --> Output Class Initialized
+INFO - 2020-04-01 14:11:49 --> Language Class Initialized
+INFO - 2020-04-01 14:11:49 --> Security Class Initialized
+INFO - 2020-04-01 14:11:49 --> Config Class Initialized
+DEBUG - 2020-04-01 14:11:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-01 14:11:49 --> Input Class Initialized
+INFO - 2020-04-01 14:11:49 --> Loader Class Initialized
+DEBUG - 2020-04-01 14:11:49 --> Language_Identifier Class Initialized
+INFO - 2020-04-01 14:11:49 --> Helper loaded: url_helper
+INFO - 2020-04-01 14:11:49 --> Language Class Initialized
+INFO - 2020-04-01 14:11:49 --> Helper loaded: form_helper
+INFO - 2020-04-01 14:11:49 --> Config Class Initialized
+INFO - 2020-04-01 14:11:49 --> Helper loaded: language_helper
+INFO - 2020-04-01 14:11:49 --> Loader Class Initialized
+INFO - 2020-04-01 14:11:49 --> Helper loaded: url_helper
+INFO - 2020-04-01 14:11:49 --> Database Driver Class Initialized
+INFO - 2020-04-01 14:11:49 --> Helper loaded: form_helper
+INFO - 2020-04-01 14:11:49 --> Controller Class Initialized
+ERROR - 2020-04-01 14:11:49 --> 404 Page Not Found: /index
+INFO - 2020-04-01 14:11:49 --> Helper loaded: language_helper
+INFO - 2020-04-01 14:11:49 --> Database Driver Class Initialized
+INFO - 2020-04-01 14:11:49 --> Controller Class Initialized
+ERROR - 2020-04-01 14:11:49 --> 404 Page Not Found: /index
+INFO - 2020-04-01 14:35:07 --> Config Class Initialized
+INFO - 2020-04-01 14:35:07 --> Hooks Class Initialized
+DEBUG - 2020-04-01 14:35:07 --> UTF-8 Support Enabled
+INFO - 2020-04-01 14:35:07 --> Utf8 Class Initialized
+INFO - 2020-04-01 14:35:07 --> URI Class Initialized
+DEBUG - 2020-04-01 14:35:07 --> No URI present. Default controller set.
+INFO - 2020-04-01 14:35:07 --> Router Class Initialized
+INFO - 2020-04-01 14:35:07 --> Output Class Initialized
+INFO - 2020-04-01 14:35:07 --> Security Class Initialized
+DEBUG - 2020-04-01 14:35:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-01 14:35:07 --> Input Class Initialized
+INFO - 2020-04-01 14:35:07 --> Config Class Initialized
+INFO - 2020-04-01 14:35:07 --> Hooks Class Initialized
+DEBUG - 2020-04-01 14:35:07 --> UTF-8 Support Enabled
+INFO - 2020-04-01 14:35:07 --> Utf8 Class Initialized
+INFO - 2020-04-01 14:35:07 --> URI Class Initialized
+INFO - 2020-04-01 14:35:07 --> Router Class Initialized
+INFO - 2020-04-01 14:35:07 --> Output Class Initialized
+INFO - 2020-04-01 14:35:07 --> Security Class Initialized
+DEBUG - 2020-04-01 14:35:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-01 14:35:07 --> Input Class Initialized
+DEBUG - 2020-04-01 14:35:07 --> Language_Identifier Class Initialized
+INFO - 2020-04-01 14:35:07 --> Language Class Initialized
+INFO - 2020-04-01 14:35:07 --> Config Class Initialized
+INFO - 2020-04-01 14:35:07 --> Loader Class Initialized
+INFO - 2020-04-01 14:35:07 --> Helper loaded: url_helper
+INFO - 2020-04-01 14:35:07 --> Helper loaded: form_helper
+INFO - 2020-04-01 14:35:07 --> Helper loaded: language_helper
+INFO - 2020-04-01 14:35:07 --> Database Driver Class Initialized
+INFO - 2020-04-01 14:35:07 --> Controller Class Initialized
+DEBUG - 2020-04-01 14:35:07 --> Home MX_Controller Initialized
+INFO - 2020-04-01 14:35:07 --> Helper loaded: html_helper
+INFO - 2020-04-01 14:35:07 --> Helper loaded: cookie_helper
+INFO - 2020-04-01 14:35:07 --> Session: Class initialized using 'files' driver.
+INFO - 2020-04-01 14:35:07 --> Helper loaded: file_helper
+INFO - 2020-04-01 14:35:07 --> MY_Model class loaded
+INFO - 2020-04-01 14:35:07 --> Model "Language_model" initialized
+INFO - 2020-04-01 14:35:07 --> Language file loaded: language/vietnamese/home_lang.php
+INFO - 2020-04-01 14:35:07 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-04-01 14:35:07 --> Helper loaded: inflector_helper
+INFO - 2020-04-01 14:35:07 --> Model "Setting_model" initialized
+INFO - 2020-04-01 14:35:07 --> Model "Public_menu_model" initialized
+INFO - 2020-04-01 14:35:07 --> Model "Page_model" initialized
+INFO - 2020-04-01 14:35:07 --> Model "Solution_model" initialized
+INFO - 2020-04-01 14:35:07 --> Model "Product_model" initialized
+INFO - 2020-04-01 14:35:07 --> Model "Service_model" initialized
+INFO - 2020-04-01 14:35:07 --> Model "Manufacture_model" initialized
+INFO - 2020-04-01 14:35:07 --> Model "Category_model" initialized
+INFO - 2020-04-01 14:35:07 --> Model "Link_model" initialized
+INFO - 2020-04-01 14:35:07 --> Model "Article_model" initialized
+INFO - 2020-04-01 14:35:07 --> Model "User_model" initialized
+INFO - 2020-04-01 14:35:53 --> Config Class Initialized
+INFO - 2020-04-01 14:35:53 --> Hooks Class Initialized
+DEBUG - 2020-04-01 14:35:53 --> UTF-8 Support Enabled
+INFO - 2020-04-01 14:35:53 --> Utf8 Class Initialized
+INFO - 2020-04-01 14:35:53 --> URI Class Initialized
+DEBUG - 2020-04-01 14:35:53 --> No URI present. Default controller set.
+INFO - 2020-04-01 14:35:53 --> Router Class Initialized
+INFO - 2020-04-01 14:35:53 --> Output Class Initialized
+INFO - 2020-04-01 14:35:53 --> Security Class Initialized
+DEBUG - 2020-04-01 14:35:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-01 14:35:53 --> Input Class Initialized
+INFO - 2020-04-01 14:35:53 --> Config Class Initialized
+INFO - 2020-04-01 14:35:53 --> Hooks Class Initialized
+DEBUG - 2020-04-01 14:35:53 --> UTF-8 Support Enabled
+INFO - 2020-04-01 14:35:53 --> Utf8 Class Initialized
+INFO - 2020-04-01 14:35:53 --> URI Class Initialized
+INFO - 2020-04-01 14:35:53 --> Router Class Initialized
+INFO - 2020-04-01 14:35:53 --> Output Class Initialized
+INFO - 2020-04-01 14:35:53 --> Security Class Initialized
+DEBUG - 2020-04-01 14:35:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-01 14:35:53 --> Input Class Initialized
+DEBUG - 2020-04-01 14:35:53 --> Language_Identifier Class Initialized
+INFO - 2020-04-01 14:35:53 --> Language Class Initialized
+INFO - 2020-04-01 14:35:53 --> Config Class Initialized
+INFO - 2020-04-01 14:35:53 --> Loader Class Initialized
+INFO - 2020-04-01 14:35:53 --> Helper loaded: url_helper
+INFO - 2020-04-01 14:35:53 --> Helper loaded: form_helper
+INFO - 2020-04-01 14:35:53 --> Helper loaded: language_helper
+INFO - 2020-04-01 14:35:53 --> Database Driver Class Initialized
+INFO - 2020-04-01 14:35:53 --> Controller Class Initialized
+DEBUG - 2020-04-01 14:35:53 --> Home MX_Controller Initialized
+INFO - 2020-04-01 14:35:53 --> Helper loaded: html_helper
+INFO - 2020-04-01 14:35:53 --> Helper loaded: cookie_helper
+INFO - 2020-04-01 14:35:53 --> Session: Class initialized using 'files' driver.
+INFO - 2020-04-01 14:35:53 --> Helper loaded: file_helper
+INFO - 2020-04-01 14:35:53 --> MY_Model class loaded
+INFO - 2020-04-01 14:35:53 --> Model "Language_model" initialized
+INFO - 2020-04-01 14:35:53 --> Language file loaded: language/vietnamese/home_lang.php
+INFO - 2020-04-01 14:35:53 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-04-01 14:35:53 --> Helper loaded: inflector_helper
+INFO - 2020-04-01 14:35:53 --> Model "Public_menu_model" initialized
+INFO - 2020-04-01 14:35:53 --> Model "Page_model" initialized
+INFO - 2020-04-01 14:35:53 --> Model "Solution_model" initialized
+INFO - 2020-04-01 14:35:53 --> Model "Product_model" initialized
+INFO - 2020-04-01 14:35:53 --> Model "Service_model" initialized
+INFO - 2020-04-01 14:35:53 --> Model "Manufacture_model" initialized
+INFO - 2020-04-01 14:35:53 --> Model "Category_model" initialized
+INFO - 2020-04-01 14:35:53 --> Model "Link_model" initialized
+INFO - 2020-04-01 14:35:53 --> Model "Article_model" initialized
+INFO - 2020-04-01 14:35:53 --> Model "User_model" initialized
+DEBUG - 2020-04-01 14:35:53 --> File loaded: /Volumes/Betrai/www/thienanphu/application/controllers/../modules/sliders/controllers/Sliders.php
+DEBUG - 2020-04-01 14:35:53 --> Sliders MX_Controller Initialized
+DEBUG - 2020-04-01 14:35:53 --> File loaded: /Volumes/Betrai/www/thienanphu/application/modules/sliders/models/Slider_model.php
+ERROR - 2020-04-01 14:35:53 --> Could not find the language line "Dịch vụ cung cấp"
+ERROR - 2020-04-01 14:35:53 --> Could not find the language line "Tư vấn miễn phí"
+ERROR - 2020-04-01 14:35:53 --> Could not find the language line "Tư vấn miễn phí"
+DEBUG - 2020-04-01 14:35:53 --> File loaded: /Volumes/Betrai/www/thienanphu/application/modules/sliders/views/sliders.php
+DEBUG - 2020-04-01 14:35:53 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/module_view.php
+ERROR - 2020-04-01 14:35:53 --> Could not find the language line "find out"
+DEBUG - 2020-04-01 14:35:53 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_about.php
+DEBUG - 2020-04-01 14:35:53 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_parallax.php
+DEBUG - 2020-04-01 14:35:53 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_solutions.php
+DEBUG - 2020-04-01 14:35:53 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_parallax.php
+DEBUG - 2020-04-01 14:35:53 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_services.php
+DEBUG - 2020-04-01 14:35:53 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_funfact.php
+ERROR - 2020-04-01 14:35:53 --> Severity: Warning --> reset() expects parameter 1 to be array, null given /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 14:35:53 --> Severity: Notice --> Trying to get property 'slug' of non-object /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 14:35:53 --> Could not find the language line "view more"
+ERROR - 2020-04-01 14:35:53 --> Severity: Warning --> reset() expects parameter 1 to be array, null given /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 14:35:53 --> Severity: Notice --> Trying to get property 'slug' of non-object /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 14:35:53 --> Could not find the language line "view more"
+ERROR - 2020-04-01 14:35:53 --> Severity: Warning --> reset() expects parameter 1 to be array, null given /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 14:35:53 --> Severity: Notice --> Trying to get property 'slug' of non-object /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 14:35:53 --> Could not find the language line "view more"
+ERROR - 2020-04-01 14:35:53 --> Severity: Warning --> reset() expects parameter 1 to be array, null given /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 14:35:53 --> Severity: Notice --> Trying to get property 'slug' of non-object /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 14:35:53 --> Could not find the language line "view more"
+ERROR - 2020-04-01 14:35:53 --> Severity: Warning --> reset() expects parameter 1 to be array, null given /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 14:35:53 --> Severity: Notice --> Trying to get property 'slug' of non-object /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 14:35:53 --> Could not find the language line "view more"
+ERROR - 2020-04-01 14:35:53 --> Severity: Warning --> reset() expects parameter 1 to be array, null given /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 14:35:53 --> Severity: Notice --> Trying to get property 'slug' of non-object /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 14:35:53 --> Could not find the language line "view more"
+DEBUG - 2020-04-01 14:35:53 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php
+DEBUG - 2020-04-01 14:35:53 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/default/home/index_view.php
+ERROR - 2020-04-01 14:35:53 --> Could not find the language line "home"
+ERROR - 2020-04-01 14:35:53 --> Could not find the language line "Giới thiệu"
+ERROR - 2020-04-01 14:35:53 --> Could not find the language line "Dịch vụ thương mại"
+ERROR - 2020-04-01 14:35:53 --> Could not find the language line "Lĩnh vực hoạt động"
+DEBUG - 2020-04-01 14:35:53 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/mega_menu_content.php
+ERROR - 2020-04-01 14:35:53 --> Could not find the language line "Tư Vấn Giải Pháp CNTT"
+ERROR - 2020-04-01 14:35:53 --> Could not find the language line "Bảo Hành & Bảo Trì"
+ERROR - 2020-04-01 14:35:53 --> Could not find the language line "Triển khai & lắp đặt"
+ERROR - 2020-04-01 14:35:53 --> Could not find the language line "Kho bãi - vận chuyển"
+ERROR - 2020-04-01 14:35:53 --> Could not find the language line "Brothers"
+ERROR - 2020-04-01 14:35:53 --> Could not find the language line "Dell"
+ERROR - 2020-04-01 14:35:53 --> Could not find the language line "Hkvision"
+ERROR - 2020-04-01 14:35:53 --> Could not find the language line "HP"
+ERROR - 2020-04-01 14:35:53 --> Could not find the language line "Panasonic"
+ERROR - 2020-04-01 14:35:53 --> Could not find the language line "Sony"
+ERROR - 2020-04-01 14:35:53 --> Could not find the language line "Tin Hoạt Động"
+ERROR - 2020-04-01 14:35:53 --> Could not find the language line "Tin Công Nghệ"
+ERROR - 2020-04-01 14:35:53 --> Could not find the language line "Sự Kiện"
+ERROR - 2020-04-01 14:35:53 --> Could not find the language line "Góc báo chí"
+ERROR - 2020-04-01 14:35:53 --> Could not find the language line "Tuyển dụng"
+DEBUG - 2020-04-01 14:35:53 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/mega_menu.php
+ERROR - 2020-04-01 14:35:53 --> Could not find the language line "Search"
+DEBUG - 2020-04-01 14:35:53 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_header_view.php
+DEBUG - 2020-04-01 14:35:53 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_footer_view.php
+DEBUG - 2020-04-01 14:35:53 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/master_view.php
+INFO - 2020-04-01 14:35:53 --> Final output sent to browser
+DEBUG - 2020-04-01 14:35:53 --> Total execution time: 0.2416
+INFO - 2020-04-01 14:35:54 --> Config Class Initialized
+INFO - 2020-04-01 14:35:54 --> Hooks Class Initialized
+DEBUG - 2020-04-01 14:35:54 --> UTF-8 Support Enabled
+INFO - 2020-04-01 14:35:54 --> Utf8 Class Initialized
+INFO - 2020-04-01 14:35:54 --> URI Class Initialized
+DEBUG - 2020-04-01 14:35:54 --> No URI present. Default controller set.
+INFO - 2020-04-01 14:35:54 --> Router Class Initialized
+INFO - 2020-04-01 14:35:54 --> Output Class Initialized
+INFO - 2020-04-01 14:35:54 --> Security Class Initialized
+DEBUG - 2020-04-01 14:35:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-01 14:35:54 --> Config Class Initialized
+INFO - 2020-04-01 14:35:54 --> Input Class Initialized
+INFO - 2020-04-01 14:35:54 --> Hooks Class Initialized
+DEBUG - 2020-04-01 14:35:54 --> UTF-8 Support Enabled
+INFO - 2020-04-01 14:35:54 --> Utf8 Class Initialized
+INFO - 2020-04-01 14:35:54 --> URI Class Initialized
+INFO - 2020-04-01 14:35:54 --> Router Class Initialized
+INFO - 2020-04-01 14:35:54 --> Output Class Initialized
+INFO - 2020-04-01 14:35:54 --> Security Class Initialized
+DEBUG - 2020-04-01 14:35:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-01 14:35:54 --> Input Class Initialized
+INFO - 2020-04-01 14:35:54 --> Config Class Initialized
+INFO - 2020-04-01 14:35:54 --> Hooks Class Initialized
+DEBUG - 2020-04-01 14:35:54 --> UTF-8 Support Enabled
+INFO - 2020-04-01 14:35:54 --> Utf8 Class Initialized
+INFO - 2020-04-01 14:35:54 --> URI Class Initialized
+INFO - 2020-04-01 14:35:54 --> Router Class Initialized
+INFO - 2020-04-01 14:35:54 --> Output Class Initialized
+INFO - 2020-04-01 14:35:54 --> Security Class Initialized
+DEBUG - 2020-04-01 14:35:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-01 14:35:54 --> Input Class Initialized
+DEBUG - 2020-04-01 14:35:54 --> Language_Identifier Class Initialized
+INFO - 2020-04-01 14:35:54 --> Language Class Initialized
+INFO - 2020-04-01 14:35:54 --> Config Class Initialized
+INFO - 2020-04-01 14:35:54 --> Loader Class Initialized
+INFO - 2020-04-01 14:35:54 --> Helper loaded: url_helper
+INFO - 2020-04-01 14:35:54 --> Helper loaded: form_helper
+INFO - 2020-04-01 14:35:54 --> Helper loaded: language_helper
+INFO - 2020-04-01 14:35:54 --> Database Driver Class Initialized
+INFO - 2020-04-01 14:35:54 --> Controller Class Initialized
+ERROR - 2020-04-01 14:35:54 --> 404 Page Not Found: /index
+INFO - 2020-04-01 14:35:55 --> Config Class Initialized
+INFO - 2020-04-01 14:35:55 --> Hooks Class Initialized
+DEBUG - 2020-04-01 14:35:55 --> UTF-8 Support Enabled
+INFO - 2020-04-01 14:35:55 --> Utf8 Class Initialized
+INFO - 2020-04-01 14:35:55 --> URI Class Initialized
+INFO - 2020-04-01 14:35:55 --> Router Class Initialized
+INFO - 2020-04-01 14:35:55 --> Output Class Initialized
+INFO - 2020-04-01 14:35:55 --> Security Class Initialized
+DEBUG - 2020-04-01 14:35:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-01 14:35:55 --> Input Class Initialized
+DEBUG - 2020-04-01 14:35:55 --> Language_Identifier Class Initialized
+INFO - 2020-04-01 14:35:55 --> Language Class Initialized
+INFO - 2020-04-01 14:35:55 --> Config Class Initialized
+INFO - 2020-04-01 14:35:55 --> Loader Class Initialized
+INFO - 2020-04-01 14:35:55 --> Helper loaded: url_helper
+INFO - 2020-04-01 14:35:55 --> Helper loaded: form_helper
+INFO - 2020-04-01 14:35:55 --> Helper loaded: language_helper
+INFO - 2020-04-01 14:35:55 --> Database Driver Class Initialized
+INFO - 2020-04-01 14:35:55 --> Controller Class Initialized
+DEBUG - 2020-04-01 14:35:55 --> Home MX_Controller Initialized
+INFO - 2020-04-01 14:35:55 --> Helper loaded: html_helper
+INFO - 2020-04-01 14:35:55 --> Helper loaded: cookie_helper
+INFO - 2020-04-01 14:35:55 --> Session: Class initialized using 'files' driver.
+INFO - 2020-04-01 14:35:55 --> Helper loaded: file_helper
+INFO - 2020-04-01 14:35:55 --> MY_Model class loaded
+INFO - 2020-04-01 14:35:55 --> Model "Language_model" initialized
+INFO - 2020-04-01 14:35:55 --> Language file loaded: language/vietnamese/home_lang.php
+INFO - 2020-04-01 14:35:55 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-04-01 14:35:55 --> Helper loaded: inflector_helper
+INFO - 2020-04-01 14:35:55 --> Model "Public_menu_model" initialized
+INFO - 2020-04-01 14:35:55 --> Model "Page_model" initialized
+INFO - 2020-04-01 14:35:55 --> Model "Solution_model" initialized
+INFO - 2020-04-01 14:35:55 --> Model "Product_model" initialized
+INFO - 2020-04-01 14:35:55 --> Model "Service_model" initialized
+INFO - 2020-04-01 14:35:55 --> Model "Manufacture_model" initialized
+INFO - 2020-04-01 14:35:55 --> Model "Category_model" initialized
+INFO - 2020-04-01 14:35:55 --> Model "Link_model" initialized
+INFO - 2020-04-01 14:35:55 --> Model "Article_model" initialized
+INFO - 2020-04-01 14:35:55 --> Model "User_model" initialized
+DEBUG - 2020-04-01 14:35:55 --> File loaded: /Volumes/Betrai/www/thienanphu/application/controllers/../modules/sliders/controllers/Sliders.php
+DEBUG - 2020-04-01 14:35:55 --> Sliders MX_Controller Initialized
+DEBUG - 2020-04-01 14:35:55 --> File loaded: /Volumes/Betrai/www/thienanphu/application/modules/sliders/models/Slider_model.php
+ERROR - 2020-04-01 14:35:55 --> Could not find the language line "Dịch vụ cung cấp"
+ERROR - 2020-04-01 14:35:55 --> Could not find the language line "Tư vấn miễn phí"
+ERROR - 2020-04-01 14:35:55 --> Could not find the language line "Tư vấn miễn phí"
+DEBUG - 2020-04-01 14:35:55 --> File loaded: /Volumes/Betrai/www/thienanphu/application/modules/sliders/views/sliders.php
+DEBUG - 2020-04-01 14:35:55 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/module_view.php
+ERROR - 2020-04-01 14:35:55 --> Could not find the language line "find out"
+DEBUG - 2020-04-01 14:35:55 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_about.php
+DEBUG - 2020-04-01 14:35:55 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_parallax.php
+DEBUG - 2020-04-01 14:35:55 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_solutions.php
+DEBUG - 2020-04-01 14:35:55 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_parallax.php
+DEBUG - 2020-04-01 14:35:55 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_services.php
+DEBUG - 2020-04-01 14:35:55 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_funfact.php
+ERROR - 2020-04-01 14:35:55 --> Severity: Warning --> reset() expects parameter 1 to be array, null given /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 14:35:55 --> Severity: Notice --> Trying to get property 'slug' of non-object /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 14:35:55 --> Could not find the language line "view more"
+ERROR - 2020-04-01 14:35:55 --> Severity: Warning --> reset() expects parameter 1 to be array, null given /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 14:35:55 --> Severity: Notice --> Trying to get property 'slug' of non-object /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 14:35:55 --> Could not find the language line "view more"
+ERROR - 2020-04-01 14:35:55 --> Severity: Warning --> reset() expects parameter 1 to be array, null given /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 14:35:55 --> Severity: Notice --> Trying to get property 'slug' of non-object /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 14:35:55 --> Could not find the language line "view more"
+ERROR - 2020-04-01 14:35:55 --> Severity: Warning --> reset() expects parameter 1 to be array, null given /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 14:35:55 --> Severity: Notice --> Trying to get property 'slug' of non-object /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 14:35:55 --> Could not find the language line "view more"
+ERROR - 2020-04-01 14:35:55 --> Severity: Warning --> reset() expects parameter 1 to be array, null given /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 14:35:55 --> Severity: Notice --> Trying to get property 'slug' of non-object /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 14:35:55 --> Could not find the language line "view more"
+ERROR - 2020-04-01 14:35:55 --> Severity: Warning --> reset() expects parameter 1 to be array, null given /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 14:35:55 --> Severity: Notice --> Trying to get property 'slug' of non-object /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 14:35:55 --> Could not find the language line "view more"
+DEBUG - 2020-04-01 14:35:55 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php
+DEBUG - 2020-04-01 14:35:55 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/default/home/index_view.php
+ERROR - 2020-04-01 14:35:55 --> Could not find the language line "home"
+ERROR - 2020-04-01 14:35:55 --> Could not find the language line "Giới thiệu"
+ERROR - 2020-04-01 14:35:55 --> Could not find the language line "Dịch vụ thương mại"
+ERROR - 2020-04-01 14:35:55 --> Could not find the language line "Lĩnh vực hoạt động"
+DEBUG - 2020-04-01 14:35:55 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/mega_menu_content.php
+ERROR - 2020-04-01 14:35:55 --> Could not find the language line "Tư Vấn Giải Pháp CNTT"
+ERROR - 2020-04-01 14:35:55 --> Could not find the language line "Bảo Hành & Bảo Trì"
+ERROR - 2020-04-01 14:35:55 --> Could not find the language line "Triển khai & lắp đặt"
+ERROR - 2020-04-01 14:35:55 --> Could not find the language line "Kho bãi - vận chuyển"
+ERROR - 2020-04-01 14:35:55 --> Could not find the language line "Brothers"
+ERROR - 2020-04-01 14:35:55 --> Could not find the language line "Dell"
+ERROR - 2020-04-01 14:35:55 --> Could not find the language line "Hkvision"
+ERROR - 2020-04-01 14:35:55 --> Could not find the language line "HP"
+ERROR - 2020-04-01 14:35:55 --> Could not find the language line "Panasonic"
+ERROR - 2020-04-01 14:35:55 --> Could not find the language line "Sony"
+ERROR - 2020-04-01 14:35:55 --> Could not find the language line "Tin Hoạt Động"
+ERROR - 2020-04-01 14:35:55 --> Could not find the language line "Tin Công Nghệ"
+ERROR - 2020-04-01 14:35:55 --> Could not find the language line "Sự Kiện"
+ERROR - 2020-04-01 14:35:55 --> Could not find the language line "Góc báo chí"
+ERROR - 2020-04-01 14:35:55 --> Could not find the language line "Tuyển dụng"
+DEBUG - 2020-04-01 14:35:55 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/mega_menu.php
+ERROR - 2020-04-01 14:35:55 --> Could not find the language line "Search"
+DEBUG - 2020-04-01 14:35:55 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_header_view.php
+DEBUG - 2020-04-01 14:35:55 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_footer_view.php
+DEBUG - 2020-04-01 14:35:55 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/master_view.php
+INFO - 2020-04-01 14:35:55 --> Final output sent to browser
+DEBUG - 2020-04-01 14:35:55 --> Total execution time: 0.2814
+INFO - 2020-04-01 14:36:06 --> Config Class Initialized
+INFO - 2020-04-01 14:36:06 --> Hooks Class Initialized
+DEBUG - 2020-04-01 14:36:06 --> UTF-8 Support Enabled
+INFO - 2020-04-01 14:36:06 --> Utf8 Class Initialized
+INFO - 2020-04-01 14:36:06 --> URI Class Initialized
+INFO - 2020-04-01 14:36:06 --> Router Class Initialized
+INFO - 2020-04-01 14:36:06 --> Output Class Initialized
+INFO - 2020-04-01 14:36:06 --> Security Class Initialized
+DEBUG - 2020-04-01 14:36:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-01 14:36:06 --> Input Class Initialized
+DEBUG - 2020-04-01 14:36:06 --> Language_Identifier Class Initialized
+INFO - 2020-04-01 14:36:06 --> Language Class Initialized
+INFO - 2020-04-01 14:36:06 --> Config Class Initialized
+INFO - 2020-04-01 14:36:06 --> Loader Class Initialized
+INFO - 2020-04-01 14:36:06 --> Helper loaded: url_helper
+INFO - 2020-04-01 14:36:06 --> Helper loaded: form_helper
+INFO - 2020-04-01 14:36:06 --> Helper loaded: language_helper
+INFO - 2020-04-01 14:36:06 --> Database Driver Class Initialized
+INFO - 2020-04-01 14:36:06 --> Controller Class Initialized
+DEBUG - 2020-04-01 14:36:06 --> Home MX_Controller Initialized
+INFO - 2020-04-01 14:36:06 --> Helper loaded: html_helper
+INFO - 2020-04-01 14:36:06 --> Helper loaded: cookie_helper
+INFO - 2020-04-01 14:36:06 --> Session: Class initialized using 'files' driver.
+INFO - 2020-04-01 14:36:06 --> Helper loaded: file_helper
+INFO - 2020-04-01 14:36:06 --> MY_Model class loaded
+INFO - 2020-04-01 14:36:06 --> Model "Language_model" initialized
+INFO - 2020-04-01 14:36:06 --> Language file loaded: language/vietnamese/home_lang.php
+INFO - 2020-04-01 14:36:06 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-04-01 14:36:06 --> Helper loaded: inflector_helper
+INFO - 2020-04-01 14:36:06 --> Model "Public_menu_model" initialized
+INFO - 2020-04-01 14:36:06 --> Model "Page_model" initialized
+INFO - 2020-04-01 14:36:06 --> Model "Solution_model" initialized
+INFO - 2020-04-01 14:36:06 --> Model "Product_model" initialized
+INFO - 2020-04-01 14:36:06 --> Model "Service_model" initialized
+INFO - 2020-04-01 14:36:06 --> Model "Manufacture_model" initialized
+INFO - 2020-04-01 14:36:06 --> Model "Category_model" initialized
+INFO - 2020-04-01 14:36:06 --> Model "Link_model" initialized
+INFO - 2020-04-01 14:36:06 --> Model "Article_model" initialized
+INFO - 2020-04-01 14:36:06 --> Model "User_model" initialized
+DEBUG - 2020-04-01 14:36:06 --> File loaded: /Volumes/Betrai/www/thienanphu/application/controllers/../modules/sliders/controllers/Sliders.php
+DEBUG - 2020-04-01 14:36:06 --> Sliders MX_Controller Initialized
+DEBUG - 2020-04-01 14:36:06 --> File loaded: /Volumes/Betrai/www/thienanphu/application/modules/sliders/models/Slider_model.php
+ERROR - 2020-04-01 14:36:06 --> Could not find the language line "Dịch vụ cung cấp"
+ERROR - 2020-04-01 14:36:06 --> Could not find the language line "Tư vấn miễn phí"
+ERROR - 2020-04-01 14:36:06 --> Could not find the language line "Tư vấn miễn phí"
+DEBUG - 2020-04-01 14:36:06 --> File loaded: /Volumes/Betrai/www/thienanphu/application/modules/sliders/views/sliders.php
+DEBUG - 2020-04-01 14:36:06 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/module_view.php
+ERROR - 2020-04-01 14:36:06 --> Could not find the language line "find out"
+DEBUG - 2020-04-01 14:36:06 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_about.php
+DEBUG - 2020-04-01 14:36:06 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_parallax.php
+DEBUG - 2020-04-01 14:36:06 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_solutions.php
+DEBUG - 2020-04-01 14:36:06 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_parallax.php
+DEBUG - 2020-04-01 14:36:06 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_services.php
+DEBUG - 2020-04-01 14:36:06 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_funfact.php
+ERROR - 2020-04-01 14:36:06 --> Severity: Warning --> reset() expects parameter 1 to be array, null given /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 14:36:06 --> Severity: Notice --> Trying to get property 'slug' of non-object /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 14:36:06 --> Could not find the language line "view more"
+ERROR - 2020-04-01 14:36:06 --> Severity: Warning --> reset() expects parameter 1 to be array, null given /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 14:36:06 --> Severity: Notice --> Trying to get property 'slug' of non-object /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 14:36:06 --> Could not find the language line "view more"
+ERROR - 2020-04-01 14:36:06 --> Severity: Warning --> reset() expects parameter 1 to be array, null given /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 14:36:06 --> Severity: Notice --> Trying to get property 'slug' of non-object /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 14:36:06 --> Could not find the language line "view more"
+ERROR - 2020-04-01 14:36:06 --> Severity: Warning --> reset() expects parameter 1 to be array, null given /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 14:36:06 --> Severity: Notice --> Trying to get property 'slug' of non-object /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 14:36:06 --> Could not find the language line "view more"
+ERROR - 2020-04-01 14:36:06 --> Severity: Warning --> reset() expects parameter 1 to be array, null given /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 14:36:06 --> Severity: Notice --> Trying to get property 'slug' of non-object /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 14:36:06 --> Could not find the language line "view more"
+ERROR - 2020-04-01 14:36:06 --> Severity: Warning --> reset() expects parameter 1 to be array, null given /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 14:36:06 --> Severity: Notice --> Trying to get property 'slug' of non-object /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 14:36:06 --> Could not find the language line "view more"
+DEBUG - 2020-04-01 14:36:06 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php
+DEBUG - 2020-04-01 14:36:06 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/default/home/index_view.php
+ERROR - 2020-04-01 14:36:06 --> Could not find the language line "home"
+ERROR - 2020-04-01 14:36:06 --> Could not find the language line "Giới thiệu"
+ERROR - 2020-04-01 14:36:06 --> Could not find the language line "Dịch vụ thương mại"
+ERROR - 2020-04-01 14:36:06 --> Could not find the language line "Lĩnh vực hoạt động"
+DEBUG - 2020-04-01 14:36:06 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/mega_menu_content.php
+ERROR - 2020-04-01 14:36:06 --> Could not find the language line "Tư Vấn Giải Pháp CNTT"
+ERROR - 2020-04-01 14:36:06 --> Could not find the language line "Bảo Hành & Bảo Trì"
+ERROR - 2020-04-01 14:36:06 --> Could not find the language line "Triển khai & lắp đặt"
+ERROR - 2020-04-01 14:36:06 --> Could not find the language line "Kho bãi - vận chuyển"
+ERROR - 2020-04-01 14:36:06 --> Could not find the language line "Brothers"
+ERROR - 2020-04-01 14:36:06 --> Could not find the language line "Dell"
+ERROR - 2020-04-01 14:36:06 --> Could not find the language line "Hkvision"
+ERROR - 2020-04-01 14:36:06 --> Could not find the language line "HP"
+ERROR - 2020-04-01 14:36:06 --> Could not find the language line "Panasonic"
+ERROR - 2020-04-01 14:36:06 --> Could not find the language line "Sony"
+ERROR - 2020-04-01 14:36:06 --> Could not find the language line "Tin Hoạt Động"
+ERROR - 2020-04-01 14:36:06 --> Could not find the language line "Tin Công Nghệ"
+ERROR - 2020-04-01 14:36:06 --> Could not find the language line "Sự Kiện"
+ERROR - 2020-04-01 14:36:06 --> Could not find the language line "Góc báo chí"
+ERROR - 2020-04-01 14:36:06 --> Could not find the language line "Tuyển dụng"
+DEBUG - 2020-04-01 14:36:06 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/mega_menu.php
+ERROR - 2020-04-01 14:36:06 --> Could not find the language line "Search"
+DEBUG - 2020-04-01 14:36:06 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_header_view.php
+DEBUG - 2020-04-01 14:36:06 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_footer_view.php
+DEBUG - 2020-04-01 14:36:06 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/master_view.php
+INFO - 2020-04-01 14:36:06 --> Final output sent to browser
+DEBUG - 2020-04-01 14:36:06 --> Total execution time: 0.1505
+INFO - 2020-04-01 14:36:06 --> Config Class Initialized
+INFO - 2020-04-01 14:36:06 --> Hooks Class Initialized
+DEBUG - 2020-04-01 14:36:06 --> UTF-8 Support Enabled
+INFO - 2020-04-01 14:36:06 --> Utf8 Class Initialized
+INFO - 2020-04-01 14:36:06 --> URI Class Initialized
+DEBUG - 2020-04-01 14:36:06 --> No URI present. Default controller set.
+INFO - 2020-04-01 14:36:06 --> Router Class Initialized
+INFO - 2020-04-01 14:36:06 --> Output Class Initialized
+INFO - 2020-04-01 14:36:06 --> Security Class Initialized
+DEBUG - 2020-04-01 14:36:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-01 14:36:06 --> Input Class Initialized
+INFO - 2020-04-01 14:36:06 --> Config Class Initialized
+INFO - 2020-04-01 14:36:06 --> Hooks Class Initialized
+DEBUG - 2020-04-01 14:36:06 --> UTF-8 Support Enabled
+INFO - 2020-04-01 14:36:06 --> Utf8 Class Initialized
+INFO - 2020-04-01 14:36:06 --> URI Class Initialized
+INFO - 2020-04-01 14:36:06 --> Router Class Initialized
+INFO - 2020-04-01 14:36:06 --> Output Class Initialized
+INFO - 2020-04-01 14:36:06 --> Security Class Initialized
+DEBUG - 2020-04-01 14:36:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-01 14:36:06 --> Input Class Initialized
+DEBUG - 2020-04-01 14:36:06 --> Language_Identifier Class Initialized
+INFO - 2020-04-01 14:36:06 --> Language Class Initialized
+INFO - 2020-04-01 14:36:06 --> Config Class Initialized
+INFO - 2020-04-01 14:36:06 --> Loader Class Initialized
+INFO - 2020-04-01 14:36:06 --> Helper loaded: url_helper
+INFO - 2020-04-01 14:36:06 --> Helper loaded: form_helper
+INFO - 2020-04-01 14:36:06 --> Helper loaded: language_helper
+INFO - 2020-04-01 14:36:06 --> Database Driver Class Initialized
+INFO - 2020-04-01 14:36:06 --> Controller Class Initialized
+DEBUG - 2020-04-01 14:36:06 --> Home MX_Controller Initialized
+INFO - 2020-04-01 14:36:06 --> Helper loaded: html_helper
+INFO - 2020-04-01 14:36:06 --> Helper loaded: cookie_helper
+INFO - 2020-04-01 14:36:06 --> Session: Class initialized using 'files' driver.
+INFO - 2020-04-01 14:36:06 --> Helper loaded: file_helper
+INFO - 2020-04-01 14:36:06 --> MY_Model class loaded
+INFO - 2020-04-01 14:36:06 --> Model "Language_model" initialized
+INFO - 2020-04-01 14:36:06 --> Language file loaded: language/vietnamese/home_lang.php
+INFO - 2020-04-01 14:36:06 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-04-01 14:36:06 --> Helper loaded: inflector_helper
+INFO - 2020-04-01 14:36:06 --> Model "Public_menu_model" initialized
+INFO - 2020-04-01 14:36:06 --> Model "Page_model" initialized
+INFO - 2020-04-01 14:36:06 --> Model "Solution_model" initialized
+INFO - 2020-04-01 14:36:06 --> Model "Product_model" initialized
+INFO - 2020-04-01 14:36:06 --> Model "Service_model" initialized
+INFO - 2020-04-01 14:36:06 --> Model "Manufacture_model" initialized
+INFO - 2020-04-01 14:36:06 --> Model "Category_model" initialized
+INFO - 2020-04-01 14:36:06 --> Model "Link_model" initialized
+INFO - 2020-04-01 14:36:06 --> Model "Article_model" initialized
+INFO - 2020-04-01 14:36:06 --> Model "User_model" initialized
+DEBUG - 2020-04-01 14:36:06 --> File loaded: /Volumes/Betrai/www/thienanphu/application/controllers/../modules/sliders/controllers/Sliders.php
+DEBUG - 2020-04-01 14:36:06 --> Sliders MX_Controller Initialized
+DEBUG - 2020-04-01 14:36:06 --> File loaded: /Volumes/Betrai/www/thienanphu/application/modules/sliders/models/Slider_model.php
+ERROR - 2020-04-01 14:36:06 --> Could not find the language line "Dịch vụ cung cấp"
+ERROR - 2020-04-01 14:36:06 --> Could not find the language line "Tư vấn miễn phí"
+ERROR - 2020-04-01 14:36:06 --> Could not find the language line "Tư vấn miễn phí"
+DEBUG - 2020-04-01 14:36:06 --> File loaded: /Volumes/Betrai/www/thienanphu/application/modules/sliders/views/sliders.php
+DEBUG - 2020-04-01 14:36:06 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/module_view.php
+ERROR - 2020-04-01 14:36:06 --> Could not find the language line "find out"
+DEBUG - 2020-04-01 14:36:06 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_about.php
+DEBUG - 2020-04-01 14:36:06 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_parallax.php
+DEBUG - 2020-04-01 14:36:06 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_solutions.php
+DEBUG - 2020-04-01 14:36:06 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_parallax.php
+DEBUG - 2020-04-01 14:36:06 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_services.php
+DEBUG - 2020-04-01 14:36:06 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_funfact.php
+ERROR - 2020-04-01 14:36:06 --> Severity: Warning --> reset() expects parameter 1 to be array, null given /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 14:36:06 --> Severity: Notice --> Trying to get property 'slug' of non-object /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 14:36:06 --> Could not find the language line "view more"
+ERROR - 2020-04-01 14:36:06 --> Severity: Warning --> reset() expects parameter 1 to be array, null given /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 14:36:06 --> Severity: Notice --> Trying to get property 'slug' of non-object /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 14:36:06 --> Could not find the language line "view more"
+ERROR - 2020-04-01 14:36:06 --> Severity: Warning --> reset() expects parameter 1 to be array, null given /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 14:36:06 --> Severity: Notice --> Trying to get property 'slug' of non-object /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 14:36:06 --> Could not find the language line "view more"
+ERROR - 2020-04-01 14:36:06 --> Severity: Warning --> reset() expects parameter 1 to be array, null given /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 14:36:06 --> Severity: Notice --> Trying to get property 'slug' of non-object /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 14:36:06 --> Could not find the language line "view more"
+ERROR - 2020-04-01 14:36:06 --> Severity: Warning --> reset() expects parameter 1 to be array, null given /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 14:36:06 --> Severity: Notice --> Trying to get property 'slug' of non-object /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 14:36:06 --> Could not find the language line "view more"
+ERROR - 2020-04-01 14:36:06 --> Severity: Warning --> reset() expects parameter 1 to be array, null given /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 14:36:07 --> Severity: Notice --> Trying to get property 'slug' of non-object /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 14:36:07 --> Could not find the language line "view more"
+DEBUG - 2020-04-01 14:36:07 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php
+DEBUG - 2020-04-01 14:36:07 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/default/home/index_view.php
+ERROR - 2020-04-01 14:36:07 --> Could not find the language line "home"
+ERROR - 2020-04-01 14:36:07 --> Could not find the language line "Giới thiệu"
+ERROR - 2020-04-01 14:36:07 --> Could not find the language line "Dịch vụ thương mại"
+ERROR - 2020-04-01 14:36:07 --> Could not find the language line "Lĩnh vực hoạt động"
+DEBUG - 2020-04-01 14:36:07 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/mega_menu_content.php
+ERROR - 2020-04-01 14:36:07 --> Could not find the language line "Tư Vấn Giải Pháp CNTT"
+ERROR - 2020-04-01 14:36:07 --> Could not find the language line "Bảo Hành & Bảo Trì"
+ERROR - 2020-04-01 14:36:07 --> Could not find the language line "Triển khai & lắp đặt"
+ERROR - 2020-04-01 14:36:07 --> Could not find the language line "Kho bãi - vận chuyển"
+ERROR - 2020-04-01 14:36:07 --> Could not find the language line "Brothers"
+ERROR - 2020-04-01 14:36:07 --> Could not find the language line "Dell"
+ERROR - 2020-04-01 14:36:07 --> Could not find the language line "Hkvision"
+ERROR - 2020-04-01 14:36:07 --> Could not find the language line "HP"
+ERROR - 2020-04-01 14:36:07 --> Could not find the language line "Panasonic"
+ERROR - 2020-04-01 14:36:07 --> Could not find the language line "Sony"
+ERROR - 2020-04-01 14:36:07 --> Could not find the language line "Tin Hoạt Động"
+ERROR - 2020-04-01 14:36:07 --> Could not find the language line "Tin Công Nghệ"
+ERROR - 2020-04-01 14:36:07 --> Could not find the language line "Sự Kiện"
+ERROR - 2020-04-01 14:36:07 --> Could not find the language line "Góc báo chí"
+ERROR - 2020-04-01 14:36:07 --> Could not find the language line "Tuyển dụng"
+DEBUG - 2020-04-01 14:36:07 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/mega_menu.php
+ERROR - 2020-04-01 14:36:07 --> Could not find the language line "Search"
+DEBUG - 2020-04-01 14:36:07 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_header_view.php
+DEBUG - 2020-04-01 14:36:07 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_footer_view.php
+DEBUG - 2020-04-01 14:36:07 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/master_view.php
+INFO - 2020-04-01 14:36:07 --> Final output sent to browser
+DEBUG - 2020-04-01 14:36:07 --> Total execution time: 0.3344
+INFO - 2020-04-01 14:36:51 --> Config Class Initialized
+INFO - 2020-04-01 14:36:51 --> Hooks Class Initialized
+DEBUG - 2020-04-01 14:36:51 --> UTF-8 Support Enabled
+INFO - 2020-04-01 14:36:51 --> Utf8 Class Initialized
+INFO - 2020-04-01 14:36:51 --> URI Class Initialized
+INFO - 2020-04-01 14:36:51 --> Router Class Initialized
+INFO - 2020-04-01 14:36:51 --> Output Class Initialized
+INFO - 2020-04-01 14:36:51 --> Security Class Initialized
+DEBUG - 2020-04-01 14:36:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-01 14:36:51 --> Input Class Initialized
+DEBUG - 2020-04-01 14:36:51 --> Language_Identifier Class Initialized
+INFO - 2020-04-01 14:36:51 --> Language Class Initialized
+INFO - 2020-04-01 14:36:51 --> Config Class Initialized
+INFO - 2020-04-01 14:36:51 --> Loader Class Initialized
+INFO - 2020-04-01 14:36:51 --> Helper loaded: url_helper
+INFO - 2020-04-01 14:36:51 --> Helper loaded: form_helper
+INFO - 2020-04-01 14:36:51 --> Helper loaded: language_helper
+INFO - 2020-04-01 14:36:51 --> Database Driver Class Initialized
+INFO - 2020-04-01 14:36:51 --> Controller Class Initialized
+DEBUG - 2020-04-01 14:36:51 --> Home MX_Controller Initialized
+INFO - 2020-04-01 14:36:51 --> Helper loaded: html_helper
+INFO - 2020-04-01 14:36:51 --> Helper loaded: cookie_helper
+INFO - 2020-04-01 14:36:51 --> Session: Class initialized using 'files' driver.
+INFO - 2020-04-01 14:36:51 --> Helper loaded: file_helper
+INFO - 2020-04-01 14:36:51 --> MY_Model class loaded
+INFO - 2020-04-01 14:36:51 --> Model "Language_model" initialized
+INFO - 2020-04-01 14:36:51 --> Language file loaded: language/vietnamese/home_lang.php
+INFO - 2020-04-01 14:36:51 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-04-01 14:36:51 --> Helper loaded: inflector_helper
+INFO - 2020-04-01 14:36:51 --> Model "Setting_model" initialized
+INFO - 2020-04-01 14:36:51 --> Model "Public_menu_model" initialized
+INFO - 2020-04-01 14:36:51 --> Model "Page_model" initialized
+INFO - 2020-04-01 14:36:51 --> Model "Solution_model" initialized
+INFO - 2020-04-01 14:36:51 --> Model "Product_model" initialized
+INFO - 2020-04-01 14:36:51 --> Model "Service_model" initialized
+INFO - 2020-04-01 14:36:51 --> Model "Manufacture_model" initialized
+INFO - 2020-04-01 14:36:51 --> Model "Category_model" initialized
+INFO - 2020-04-01 14:36:51 --> Model "Link_model" initialized
+INFO - 2020-04-01 14:36:51 --> Model "Article_model" initialized
+INFO - 2020-04-01 14:36:51 --> Model "User_model" initialized
+INFO - 2020-04-01 14:37:09 --> Config Class Initialized
+INFO - 2020-04-01 14:37:09 --> Hooks Class Initialized
+DEBUG - 2020-04-01 14:37:09 --> UTF-8 Support Enabled
+INFO - 2020-04-01 14:37:09 --> Utf8 Class Initialized
+INFO - 2020-04-01 14:37:09 --> URI Class Initialized
+INFO - 2020-04-01 14:37:09 --> Router Class Initialized
+INFO - 2020-04-01 14:37:09 --> Output Class Initialized
+INFO - 2020-04-01 14:37:09 --> Security Class Initialized
+DEBUG - 2020-04-01 14:37:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-01 14:37:09 --> Input Class Initialized
+DEBUG - 2020-04-01 14:37:09 --> Language_Identifier Class Initialized
+INFO - 2020-04-01 14:37:09 --> Language Class Initialized
+INFO - 2020-04-01 14:37:09 --> Config Class Initialized
+INFO - 2020-04-01 14:37:09 --> Loader Class Initialized
+INFO - 2020-04-01 14:37:09 --> Helper loaded: url_helper
+INFO - 2020-04-01 14:37:09 --> Helper loaded: form_helper
+INFO - 2020-04-01 14:37:09 --> Helper loaded: language_helper
+INFO - 2020-04-01 14:37:09 --> Database Driver Class Initialized
+INFO - 2020-04-01 14:37:09 --> Controller Class Initialized
+DEBUG - 2020-04-01 14:37:09 --> Home MX_Controller Initialized
+INFO - 2020-04-01 14:37:09 --> Helper loaded: html_helper
+INFO - 2020-04-01 14:37:09 --> Helper loaded: cookie_helper
+INFO - 2020-04-01 14:37:09 --> Session: Class initialized using 'files' driver.
+INFO - 2020-04-01 14:37:09 --> Helper loaded: file_helper
+INFO - 2020-04-01 14:37:09 --> MY_Model class loaded
+INFO - 2020-04-01 14:37:09 --> Model "Language_model" initialized
+INFO - 2020-04-01 14:37:09 --> Language file loaded: language/vietnamese/home_lang.php
+INFO - 2020-04-01 14:37:09 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-04-01 14:37:09 --> Helper loaded: inflector_helper
+INFO - 2020-04-01 14:37:09 --> Model "Public_menu_model" initialized
+INFO - 2020-04-01 14:37:09 --> Model "Page_model" initialized
+INFO - 2020-04-01 14:37:09 --> Model "Solution_model" initialized
+INFO - 2020-04-01 14:37:09 --> Model "Product_model" initialized
+INFO - 2020-04-01 14:37:09 --> Model "Service_model" initialized
+INFO - 2020-04-01 14:37:09 --> Model "Manufacture_model" initialized
+INFO - 2020-04-01 14:37:09 --> Model "Category_model" initialized
+INFO - 2020-04-01 14:37:09 --> Model "Link_model" initialized
+INFO - 2020-04-01 14:37:09 --> Model "Article_model" initialized
+INFO - 2020-04-01 14:37:09 --> Model "User_model" initialized
+DEBUG - 2020-04-01 14:37:09 --> File loaded: /Volumes/Betrai/www/thienanphu/application/controllers/../modules/sliders/controllers/Sliders.php
+DEBUG - 2020-04-01 14:37:09 --> Sliders MX_Controller Initialized
+DEBUG - 2020-04-01 14:37:09 --> File loaded: /Volumes/Betrai/www/thienanphu/application/modules/sliders/models/Slider_model.php
+ERROR - 2020-04-01 14:37:09 --> Could not find the language line "Dịch vụ cung cấp"
+ERROR - 2020-04-01 14:37:09 --> Could not find the language line "Tư vấn miễn phí"
+ERROR - 2020-04-01 14:37:09 --> Could not find the language line "Tư vấn miễn phí"
+DEBUG - 2020-04-01 14:37:09 --> File loaded: /Volumes/Betrai/www/thienanphu/application/modules/sliders/views/sliders.php
+DEBUG - 2020-04-01 14:37:09 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/module_view.php
+ERROR - 2020-04-01 14:37:09 --> Could not find the language line "find out"
+DEBUG - 2020-04-01 14:37:09 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_about.php
+DEBUG - 2020-04-01 14:37:09 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_parallax.php
+DEBUG - 2020-04-01 14:37:09 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_solutions.php
+DEBUG - 2020-04-01 14:37:09 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_parallax.php
+DEBUG - 2020-04-01 14:37:09 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_services.php
+DEBUG - 2020-04-01 14:37:09 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_funfact.php
+ERROR - 2020-04-01 14:37:09 --> Severity: Warning --> reset() expects parameter 1 to be array, null given /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 14:37:09 --> Severity: Notice --> Trying to get property 'slug' of non-object /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 14:37:09 --> Could not find the language line "view more"
+ERROR - 2020-04-01 14:37:09 --> Severity: Warning --> reset() expects parameter 1 to be array, null given /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 14:37:09 --> Severity: Notice --> Trying to get property 'slug' of non-object /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 14:37:09 --> Could not find the language line "view more"
+ERROR - 2020-04-01 14:37:09 --> Severity: Warning --> reset() expects parameter 1 to be array, null given /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 14:37:09 --> Severity: Notice --> Trying to get property 'slug' of non-object /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 14:37:09 --> Could not find the language line "view more"
+ERROR - 2020-04-01 14:37:09 --> Severity: Warning --> reset() expects parameter 1 to be array, null given /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 14:37:09 --> Severity: Notice --> Trying to get property 'slug' of non-object /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 14:37:09 --> Could not find the language line "view more"
+ERROR - 2020-04-01 14:37:09 --> Severity: Warning --> reset() expects parameter 1 to be array, null given /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 14:37:09 --> Severity: Notice --> Trying to get property 'slug' of non-object /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 14:37:09 --> Could not find the language line "view more"
+ERROR - 2020-04-01 14:37:09 --> Severity: Warning --> reset() expects parameter 1 to be array, null given /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 14:37:09 --> Severity: Notice --> Trying to get property 'slug' of non-object /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 14:37:09 --> Could not find the language line "view more"
+DEBUG - 2020-04-01 14:37:09 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php
+DEBUG - 2020-04-01 14:37:09 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/default/home/index_view.php
+ERROR - 2020-04-01 14:37:09 --> Could not find the language line "home"
+ERROR - 2020-04-01 14:37:09 --> Could not find the language line "Giới thiệu"
+ERROR - 2020-04-01 14:37:09 --> Could not find the language line "Dịch vụ thương mại"
+ERROR - 2020-04-01 14:37:09 --> Could not find the language line "Lĩnh vực hoạt động"
+DEBUG - 2020-04-01 14:37:09 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/mega_menu_content.php
+ERROR - 2020-04-01 14:37:09 --> Could not find the language line "Tư Vấn Giải Pháp CNTT"
+ERROR - 2020-04-01 14:37:09 --> Could not find the language line "Bảo Hành & Bảo Trì"
+ERROR - 2020-04-01 14:37:09 --> Could not find the language line "Triển khai & lắp đặt"
+ERROR - 2020-04-01 14:37:09 --> Could not find the language line "Kho bãi - vận chuyển"
+ERROR - 2020-04-01 14:37:09 --> Could not find the language line "Brothers"
+ERROR - 2020-04-01 14:37:09 --> Could not find the language line "Dell"
+ERROR - 2020-04-01 14:37:09 --> Could not find the language line "Hkvision"
+ERROR - 2020-04-01 14:37:09 --> Could not find the language line "HP"
+ERROR - 2020-04-01 14:37:09 --> Could not find the language line "Panasonic"
+ERROR - 2020-04-01 14:37:09 --> Could not find the language line "Sony"
+ERROR - 2020-04-01 14:37:09 --> Could not find the language line "Tin Hoạt Động"
+ERROR - 2020-04-01 14:37:09 --> Could not find the language line "Tin Công Nghệ"
+ERROR - 2020-04-01 14:37:09 --> Could not find the language line "Sự Kiện"
+ERROR - 2020-04-01 14:37:09 --> Could not find the language line "Góc báo chí"
+ERROR - 2020-04-01 14:37:09 --> Could not find the language line "Tuyển dụng"
+DEBUG - 2020-04-01 14:37:09 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/mega_menu.php
+ERROR - 2020-04-01 14:37:09 --> Could not find the language line "Search"
+DEBUG - 2020-04-01 14:37:09 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_header_view.php
+DEBUG - 2020-04-01 14:37:09 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_footer_view.php
+DEBUG - 2020-04-01 14:37:09 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/master_view.php
+INFO - 2020-04-01 14:37:09 --> Final output sent to browser
+DEBUG - 2020-04-01 14:37:09 --> Total execution time: 0.2388
+INFO - 2020-04-01 14:37:09 --> Config Class Initialized
+INFO - 2020-04-01 14:37:09 --> Hooks Class Initialized
+DEBUG - 2020-04-01 14:37:09 --> UTF-8 Support Enabled
+INFO - 2020-04-01 14:37:09 --> Utf8 Class Initialized
+INFO - 2020-04-01 14:37:09 --> URI Class Initialized
+DEBUG - 2020-04-01 14:37:09 --> No URI present. Default controller set.
+INFO - 2020-04-01 14:37:09 --> Router Class Initialized
+INFO - 2020-04-01 14:37:09 --> Output Class Initialized
+INFO - 2020-04-01 14:37:09 --> Security Class Initialized
+DEBUG - 2020-04-01 14:37:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-01 14:37:09 --> Input Class Initialized
+INFO - 2020-04-01 14:37:09 --> Config Class Initialized
+INFO - 2020-04-01 14:37:09 --> Hooks Class Initialized
+DEBUG - 2020-04-01 14:37:09 --> UTF-8 Support Enabled
+INFO - 2020-04-01 14:37:09 --> Utf8 Class Initialized
+INFO - 2020-04-01 14:37:09 --> URI Class Initialized
+INFO - 2020-04-01 14:37:09 --> Router Class Initialized
+INFO - 2020-04-01 14:37:09 --> Output Class Initialized
+INFO - 2020-04-01 14:37:09 --> Security Class Initialized
+DEBUG - 2020-04-01 14:37:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-01 14:37:09 --> Input Class Initialized
+DEBUG - 2020-04-01 14:37:09 --> Language_Identifier Class Initialized
+INFO - 2020-04-01 14:37:09 --> Language Class Initialized
+INFO - 2020-04-01 14:37:09 --> Config Class Initialized
+INFO - 2020-04-01 14:37:09 --> Loader Class Initialized
+INFO - 2020-04-01 14:37:09 --> Helper loaded: url_helper
+INFO - 2020-04-01 14:37:09 --> Helper loaded: form_helper
+INFO - 2020-04-01 14:37:09 --> Helper loaded: language_helper
+INFO - 2020-04-01 14:37:09 --> Database Driver Class Initialized
+INFO - 2020-04-01 14:37:09 --> Controller Class Initialized
+DEBUG - 2020-04-01 14:37:09 --> Home MX_Controller Initialized
+INFO - 2020-04-01 14:37:09 --> Helper loaded: html_helper
+INFO - 2020-04-01 14:37:09 --> Helper loaded: cookie_helper
+INFO - 2020-04-01 14:37:09 --> Session: Class initialized using 'files' driver.
+INFO - 2020-04-01 14:37:09 --> Helper loaded: file_helper
+INFO - 2020-04-01 14:37:09 --> MY_Model class loaded
+INFO - 2020-04-01 14:37:09 --> Model "Language_model" initialized
+INFO - 2020-04-01 14:37:09 --> Language file loaded: language/vietnamese/home_lang.php
+INFO - 2020-04-01 14:37:09 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-04-01 14:37:09 --> Helper loaded: inflector_helper
+INFO - 2020-04-01 14:37:09 --> Model "Public_menu_model" initialized
+INFO - 2020-04-01 14:37:09 --> Model "Page_model" initialized
+INFO - 2020-04-01 14:37:09 --> Model "Solution_model" initialized
+INFO - 2020-04-01 14:37:09 --> Model "Product_model" initialized
+INFO - 2020-04-01 14:37:09 --> Model "Service_model" initialized
+INFO - 2020-04-01 14:37:09 --> Model "Manufacture_model" initialized
+INFO - 2020-04-01 14:37:09 --> Model "Category_model" initialized
+INFO - 2020-04-01 14:37:09 --> Model "Link_model" initialized
+INFO - 2020-04-01 14:37:09 --> Model "Article_model" initialized
+INFO - 2020-04-01 14:37:09 --> Model "User_model" initialized
+DEBUG - 2020-04-01 14:37:09 --> File loaded: /Volumes/Betrai/www/thienanphu/application/controllers/../modules/sliders/controllers/Sliders.php
+DEBUG - 2020-04-01 14:37:09 --> Sliders MX_Controller Initialized
+DEBUG - 2020-04-01 14:37:09 --> File loaded: /Volumes/Betrai/www/thienanphu/application/modules/sliders/models/Slider_model.php
+ERROR - 2020-04-01 14:37:09 --> Could not find the language line "Dịch vụ cung cấp"
+ERROR - 2020-04-01 14:37:09 --> Could not find the language line "Tư vấn miễn phí"
+ERROR - 2020-04-01 14:37:09 --> Could not find the language line "Tư vấn miễn phí"
+DEBUG - 2020-04-01 14:37:09 --> File loaded: /Volumes/Betrai/www/thienanphu/application/modules/sliders/views/sliders.php
+DEBUG - 2020-04-01 14:37:09 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/module_view.php
+ERROR - 2020-04-01 14:37:09 --> Could not find the language line "find out"
+DEBUG - 2020-04-01 14:37:09 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_about.php
+DEBUG - 2020-04-01 14:37:09 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_parallax.php
+DEBUG - 2020-04-01 14:37:09 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_solutions.php
+DEBUG - 2020-04-01 14:37:09 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_parallax.php
+DEBUG - 2020-04-01 14:37:09 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_services.php
+DEBUG - 2020-04-01 14:37:09 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_funfact.php
+ERROR - 2020-04-01 14:37:09 --> Severity: Warning --> reset() expects parameter 1 to be array, null given /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 14:37:09 --> Severity: Notice --> Trying to get property 'slug' of non-object /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 14:37:09 --> Could not find the language line "view more"
+ERROR - 2020-04-01 14:37:09 --> Severity: Warning --> reset() expects parameter 1 to be array, null given /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 14:37:09 --> Severity: Notice --> Trying to get property 'slug' of non-object /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 14:37:09 --> Could not find the language line "view more"
+ERROR - 2020-04-01 14:37:09 --> Severity: Warning --> reset() expects parameter 1 to be array, null given /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 14:37:09 --> Severity: Notice --> Trying to get property 'slug' of non-object /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 14:37:09 --> Could not find the language line "view more"
+ERROR - 2020-04-01 14:37:09 --> Severity: Warning --> reset() expects parameter 1 to be array, null given /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 14:37:09 --> Severity: Notice --> Trying to get property 'slug' of non-object /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 14:37:09 --> Could not find the language line "view more"
+ERROR - 2020-04-01 14:37:09 --> Severity: Warning --> reset() expects parameter 1 to be array, null given /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 14:37:09 --> Severity: Notice --> Trying to get property 'slug' of non-object /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 14:37:09 --> Could not find the language line "view more"
+ERROR - 2020-04-01 14:37:09 --> Severity: Warning --> reset() expects parameter 1 to be array, null given /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 14:37:10 --> Severity: Notice --> Trying to get property 'slug' of non-object /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 14:37:10 --> Could not find the language line "view more"
+DEBUG - 2020-04-01 14:37:10 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php
+DEBUG - 2020-04-01 14:37:10 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/default/home/index_view.php
+ERROR - 2020-04-01 14:37:10 --> Could not find the language line "home"
+ERROR - 2020-04-01 14:37:10 --> Could not find the language line "Giới thiệu"
+ERROR - 2020-04-01 14:37:10 --> Could not find the language line "Dịch vụ thương mại"
+ERROR - 2020-04-01 14:37:10 --> Could not find the language line "Lĩnh vực hoạt động"
+DEBUG - 2020-04-01 14:37:10 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/mega_menu_content.php
+ERROR - 2020-04-01 14:37:10 --> Could not find the language line "Tư Vấn Giải Pháp CNTT"
+ERROR - 2020-04-01 14:37:10 --> Could not find the language line "Bảo Hành & Bảo Trì"
+ERROR - 2020-04-01 14:37:10 --> Could not find the language line "Triển khai & lắp đặt"
+ERROR - 2020-04-01 14:37:10 --> Could not find the language line "Kho bãi - vận chuyển"
+ERROR - 2020-04-01 14:37:10 --> Could not find the language line "Brothers"
+ERROR - 2020-04-01 14:37:10 --> Could not find the language line "Dell"
+ERROR - 2020-04-01 14:37:10 --> Could not find the language line "Hkvision"
+ERROR - 2020-04-01 14:37:10 --> Could not find the language line "HP"
+ERROR - 2020-04-01 14:37:10 --> Could not find the language line "Panasonic"
+ERROR - 2020-04-01 14:37:10 --> Could not find the language line "Sony"
+ERROR - 2020-04-01 14:37:10 --> Could not find the language line "Tin Hoạt Động"
+ERROR - 2020-04-01 14:37:10 --> Could not find the language line "Tin Công Nghệ"
+ERROR - 2020-04-01 14:37:10 --> Could not find the language line "Sự Kiện"
+ERROR - 2020-04-01 14:37:10 --> Could not find the language line "Góc báo chí"
+ERROR - 2020-04-01 14:37:10 --> Could not find the language line "Tuyển dụng"
+DEBUG - 2020-04-01 14:37:10 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/mega_menu.php
+ERROR - 2020-04-01 14:37:10 --> Could not find the language line "Search"
+DEBUG - 2020-04-01 14:37:10 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_header_view.php
+DEBUG - 2020-04-01 14:37:10 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_footer_view.php
+DEBUG - 2020-04-01 14:37:10 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/master_view.php
+INFO - 2020-04-01 14:37:10 --> Final output sent to browser
+DEBUG - 2020-04-01 14:37:10 --> Total execution time: 0.2467
+INFO - 2020-04-01 14:46:20 --> Config Class Initialized
+INFO - 2020-04-01 14:46:20 --> Hooks Class Initialized
+DEBUG - 2020-04-01 14:46:20 --> UTF-8 Support Enabled
+INFO - 2020-04-01 14:46:20 --> Utf8 Class Initialized
+INFO - 2020-04-01 14:46:20 --> URI Class Initialized
+INFO - 2020-04-01 14:46:20 --> Router Class Initialized
+INFO - 2020-04-01 14:46:20 --> Output Class Initialized
+INFO - 2020-04-01 14:46:20 --> Security Class Initialized
+DEBUG - 2020-04-01 14:46:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-01 14:46:20 --> Input Class Initialized
+DEBUG - 2020-04-01 14:46:20 --> Language_Identifier Class Initialized
+INFO - 2020-04-01 14:46:20 --> Language Class Initialized
+INFO - 2020-04-01 14:46:20 --> Config Class Initialized
+INFO - 2020-04-01 14:46:20 --> Loader Class Initialized
+INFO - 2020-04-01 14:46:20 --> Helper loaded: url_helper
+INFO - 2020-04-01 14:46:20 --> Helper loaded: form_helper
+INFO - 2020-04-01 14:46:20 --> Helper loaded: language_helper
+INFO - 2020-04-01 14:46:20 --> Database Driver Class Initialized
+INFO - 2020-04-01 14:46:20 --> Controller Class Initialized
+DEBUG - 2020-04-01 14:46:21 --> Home MX_Controller Initialized
+INFO - 2020-04-01 14:46:21 --> Helper loaded: html_helper
+INFO - 2020-04-01 14:46:21 --> Helper loaded: cookie_helper
+INFO - 2020-04-01 14:46:21 --> Session: Class initialized using 'files' driver.
+INFO - 2020-04-01 14:46:21 --> Helper loaded: file_helper
+INFO - 2020-04-01 14:46:21 --> MY_Model class loaded
+INFO - 2020-04-01 14:46:21 --> Model "Language_model" initialized
+INFO - 2020-04-01 14:46:21 --> Language file loaded: language/vietnamese/home_lang.php
+INFO - 2020-04-01 14:46:21 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-04-01 14:46:21 --> Helper loaded: inflector_helper
+INFO - 2020-04-01 14:46:21 --> Model "Setting_model" initialized
+INFO - 2020-04-01 14:46:21 --> Model "Public_menu_model" initialized
+INFO - 2020-04-01 14:46:21 --> Model "Page_model" initialized
+INFO - 2020-04-01 14:46:21 --> Model "Solution_model" initialized
+INFO - 2020-04-01 14:46:21 --> Model "Product_model" initialized
+INFO - 2020-04-01 14:46:21 --> Model "Service_model" initialized
+INFO - 2020-04-01 14:46:21 --> Model "Manufacture_model" initialized
+INFO - 2020-04-01 14:46:21 --> Model "Category_model" initialized
+INFO - 2020-04-01 14:46:21 --> Model "Link_model" initialized
+INFO - 2020-04-01 14:46:21 --> Model "Article_model" initialized
+INFO - 2020-04-01 14:46:21 --> Model "User_model" initialized
+DEBUG - 2020-04-01 14:46:21 --> File loaded: /Volumes/Betrai/www/thienanphu/application/controllers/../modules/sliders/controllers/Sliders.php
+DEBUG - 2020-04-01 14:46:21 --> Sliders MX_Controller Initialized
+DEBUG - 2020-04-01 14:46:21 --> File loaded: /Volumes/Betrai/www/thienanphu/application/modules/sliders/models/Slider_model.php
+ERROR - 2020-04-01 14:46:21 --> Could not find the language line "Dịch vụ cung cấp"
+ERROR - 2020-04-01 14:46:21 --> Could not find the language line "Tư vấn miễn phí"
+ERROR - 2020-04-01 14:46:21 --> Could not find the language line "Tư vấn miễn phí"
+DEBUG - 2020-04-01 14:46:21 --> File loaded: /Volumes/Betrai/www/thienanphu/application/modules/sliders/views/sliders.php
+DEBUG - 2020-04-01 14:46:21 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/module_view.php
+ERROR - 2020-04-01 14:46:21 --> Could not find the language line "find out"
+DEBUG - 2020-04-01 14:46:21 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_about.php
+DEBUG - 2020-04-01 14:46:21 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_parallax.php
+DEBUG - 2020-04-01 14:46:21 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_solutions.php
+DEBUG - 2020-04-01 14:46:21 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_parallax.php
+DEBUG - 2020-04-01 14:46:21 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_services.php
+DEBUG - 2020-04-01 14:46:21 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_funfact.php
+ERROR - 2020-04-01 14:46:21 --> Severity: Notice --> Undefined property: stdClass::$category /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 14:46:21 --> Severity: Warning --> reset() expects parameter 1 to be array, null given /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 19
+ERROR - 2020-04-01 14:46:21 --> Severity: Notice --> Trying to get property 'slug' of non-object /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 19
+ERROR - 2020-04-01 14:46:21 --> Could not find the language line "view more"
+ERROR - 2020-04-01 14:46:21 --> Severity: Notice --> Undefined property: stdClass::$category /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 14:46:21 --> Severity: Warning --> reset() expects parameter 1 to be array, null given /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 19
+ERROR - 2020-04-01 14:46:21 --> Severity: Notice --> Trying to get property 'slug' of non-object /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 19
+ERROR - 2020-04-01 14:46:21 --> Could not find the language line "view more"
+ERROR - 2020-04-01 14:46:21 --> Severity: Notice --> Undefined property: stdClass::$category /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 14:46:21 --> Severity: Warning --> reset() expects parameter 1 to be array, null given /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 19
+ERROR - 2020-04-01 14:46:21 --> Severity: Notice --> Trying to get property 'slug' of non-object /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 19
+ERROR - 2020-04-01 14:46:21 --> Could not find the language line "view more"
+ERROR - 2020-04-01 14:46:21 --> Severity: Notice --> Undefined property: stdClass::$category /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 14:46:21 --> Severity: Warning --> reset() expects parameter 1 to be array, null given /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 19
+ERROR - 2020-04-01 14:46:21 --> Severity: Notice --> Trying to get property 'slug' of non-object /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 19
+ERROR - 2020-04-01 14:46:21 --> Could not find the language line "view more"
+ERROR - 2020-04-01 14:46:21 --> Severity: Notice --> Undefined property: stdClass::$category /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 14:46:21 --> Severity: Warning --> reset() expects parameter 1 to be array, null given /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 19
+ERROR - 2020-04-01 14:46:21 --> Severity: Notice --> Trying to get property 'slug' of non-object /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 19
+ERROR - 2020-04-01 14:46:21 --> Could not find the language line "view more"
+ERROR - 2020-04-01 14:46:21 --> Severity: Notice --> Undefined property: stdClass::$category /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 14:46:21 --> Severity: Warning --> reset() expects parameter 1 to be array, null given /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 19
+ERROR - 2020-04-01 14:46:21 --> Severity: Notice --> Trying to get property 'slug' of non-object /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 19
+ERROR - 2020-04-01 14:46:21 --> Could not find the language line "view more"
+DEBUG - 2020-04-01 14:46:21 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php
+DEBUG - 2020-04-01 14:46:21 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/default/home/index_view.php
+ERROR - 2020-04-01 14:46:21 --> Could not find the language line "home"
+ERROR - 2020-04-01 14:46:21 --> Could not find the language line "Giới thiệu"
+ERROR - 2020-04-01 14:46:21 --> Could not find the language line "Dịch vụ thương mại"
+ERROR - 2020-04-01 14:46:21 --> Could not find the language line "Lĩnh vực hoạt động"
+DEBUG - 2020-04-01 14:46:21 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/mega_menu_content.php
+ERROR - 2020-04-01 14:46:21 --> Could not find the language line "Tư Vấn Giải Pháp CNTT"
+ERROR - 2020-04-01 14:46:21 --> Could not find the language line "Bảo Hành & Bảo Trì"
+ERROR - 2020-04-01 14:46:21 --> Could not find the language line "Triển khai & lắp đặt"
+ERROR - 2020-04-01 14:46:21 --> Could not find the language line "Kho bãi - vận chuyển"
+ERROR - 2020-04-01 14:46:21 --> Could not find the language line "Brothers"
+ERROR - 2020-04-01 14:46:21 --> Could not find the language line "Dell"
+ERROR - 2020-04-01 14:46:21 --> Could not find the language line "Hkvision"
+ERROR - 2020-04-01 14:46:21 --> Could not find the language line "HP"
+ERROR - 2020-04-01 14:46:21 --> Could not find the language line "Panasonic"
+ERROR - 2020-04-01 14:46:21 --> Could not find the language line "Sony"
+ERROR - 2020-04-01 14:46:21 --> Could not find the language line "Tin Hoạt Động"
+ERROR - 2020-04-01 14:46:21 --> Could not find the language line "Tin Công Nghệ"
+ERROR - 2020-04-01 14:46:21 --> Could not find the language line "Sự Kiện"
+ERROR - 2020-04-01 14:46:21 --> Could not find the language line "Góc báo chí"
+ERROR - 2020-04-01 14:46:21 --> Could not find the language line "Tuyển dụng"
+DEBUG - 2020-04-01 14:46:21 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/mega_menu.php
+ERROR - 2020-04-01 14:46:21 --> Could not find the language line "Search"
+DEBUG - 2020-04-01 14:46:21 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_header_view.php
+DEBUG - 2020-04-01 14:46:21 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_footer_view.php
+DEBUG - 2020-04-01 14:46:21 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/master_view.php
+INFO - 2020-04-01 14:46:21 --> Final output sent to browser
+DEBUG - 2020-04-01 14:46:21 --> Total execution time: 0.8919
+INFO - 2020-04-01 14:46:21 --> Config Class Initialized
+INFO - 2020-04-01 14:46:21 --> Hooks Class Initialized
+DEBUG - 2020-04-01 14:46:21 --> UTF-8 Support Enabled
+INFO - 2020-04-01 14:46:21 --> Utf8 Class Initialized
+INFO - 2020-04-01 14:46:21 --> URI Class Initialized
+DEBUG - 2020-04-01 14:46:21 --> No URI present. Default controller set.
+INFO - 2020-04-01 14:46:21 --> Router Class Initialized
+INFO - 2020-04-01 14:46:21 --> Output Class Initialized
+INFO - 2020-04-01 14:46:21 --> Security Class Initialized
+DEBUG - 2020-04-01 14:46:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-01 14:46:21 --> Input Class Initialized
+INFO - 2020-04-01 14:46:22 --> Config Class Initialized
+INFO - 2020-04-01 14:46:22 --> Hooks Class Initialized
+DEBUG - 2020-04-01 14:46:22 --> UTF-8 Support Enabled
+INFO - 2020-04-01 14:46:22 --> Utf8 Class Initialized
+INFO - 2020-04-01 14:46:22 --> URI Class Initialized
+INFO - 2020-04-01 14:46:22 --> Router Class Initialized
+INFO - 2020-04-01 14:46:22 --> Output Class Initialized
+INFO - 2020-04-01 14:46:22 --> Security Class Initialized
+DEBUG - 2020-04-01 14:46:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-01 14:46:22 --> Input Class Initialized
+DEBUG - 2020-04-01 14:46:22 --> Language_Identifier Class Initialized
+INFO - 2020-04-01 14:46:22 --> Language Class Initialized
+INFO - 2020-04-01 14:46:22 --> Config Class Initialized
+INFO - 2020-04-01 14:46:22 --> Loader Class Initialized
+INFO - 2020-04-01 14:46:22 --> Helper loaded: url_helper
+INFO - 2020-04-01 14:46:22 --> Helper loaded: form_helper
+INFO - 2020-04-01 14:46:22 --> Helper loaded: language_helper
+INFO - 2020-04-01 14:46:22 --> Database Driver Class Initialized
+INFO - 2020-04-01 14:46:22 --> Controller Class Initialized
+DEBUG - 2020-04-01 14:46:22 --> Home MX_Controller Initialized
+INFO - 2020-04-01 14:46:22 --> Helper loaded: html_helper
+INFO - 2020-04-01 14:46:22 --> Helper loaded: cookie_helper
+INFO - 2020-04-01 14:46:22 --> Session: Class initialized using 'files' driver.
+INFO - 2020-04-01 14:46:22 --> Helper loaded: file_helper
+INFO - 2020-04-01 14:46:22 --> MY_Model class loaded
+INFO - 2020-04-01 14:46:22 --> Model "Language_model" initialized
+INFO - 2020-04-01 14:46:22 --> Language file loaded: language/vietnamese/home_lang.php
+INFO - 2020-04-01 14:46:22 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-04-01 14:46:22 --> Helper loaded: inflector_helper
+INFO - 2020-04-01 14:46:22 --> Model "Public_menu_model" initialized
+INFO - 2020-04-01 14:46:22 --> Model "Page_model" initialized
+INFO - 2020-04-01 14:46:22 --> Model "Solution_model" initialized
+INFO - 2020-04-01 14:46:22 --> Model "Product_model" initialized
+INFO - 2020-04-01 14:46:22 --> Model "Service_model" initialized
+INFO - 2020-04-01 14:46:22 --> Model "Manufacture_model" initialized
+INFO - 2020-04-01 14:46:22 --> Model "Category_model" initialized
+INFO - 2020-04-01 14:46:22 --> Model "Link_model" initialized
+INFO - 2020-04-01 14:46:22 --> Model "Article_model" initialized
+INFO - 2020-04-01 14:46:22 --> Model "User_model" initialized
+DEBUG - 2020-04-01 14:46:22 --> File loaded: /Volumes/Betrai/www/thienanphu/application/controllers/../modules/sliders/controllers/Sliders.php
+DEBUG - 2020-04-01 14:46:22 --> Sliders MX_Controller Initialized
+DEBUG - 2020-04-01 14:46:22 --> File loaded: /Volumes/Betrai/www/thienanphu/application/modules/sliders/models/Slider_model.php
+ERROR - 2020-04-01 14:46:22 --> Could not find the language line "Dịch vụ cung cấp"
+ERROR - 2020-04-01 14:46:22 --> Could not find the language line "Tư vấn miễn phí"
+ERROR - 2020-04-01 14:46:22 --> Could not find the language line "Tư vấn miễn phí"
+DEBUG - 2020-04-01 14:46:22 --> File loaded: /Volumes/Betrai/www/thienanphu/application/modules/sliders/views/sliders.php
+DEBUG - 2020-04-01 14:46:22 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/module_view.php
+ERROR - 2020-04-01 14:46:22 --> Could not find the language line "find out"
+DEBUG - 2020-04-01 14:46:22 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_about.php
+DEBUG - 2020-04-01 14:46:22 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_parallax.php
+DEBUG - 2020-04-01 14:46:22 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_solutions.php
+DEBUG - 2020-04-01 14:46:22 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_parallax.php
+DEBUG - 2020-04-01 14:46:22 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_services.php
+DEBUG - 2020-04-01 14:46:22 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_funfact.php
+ERROR - 2020-04-01 14:46:22 --> Severity: Notice --> Undefined property: stdClass::$category /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 14:46:22 --> Severity: Warning --> reset() expects parameter 1 to be array, null given /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 19
+ERROR - 2020-04-01 14:46:22 --> Severity: Notice --> Trying to get property 'slug' of non-object /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 19
+ERROR - 2020-04-01 14:46:22 --> Could not find the language line "view more"
+ERROR - 2020-04-01 14:46:22 --> Severity: Notice --> Undefined property: stdClass::$category /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 14:46:22 --> Severity: Warning --> reset() expects parameter 1 to be array, null given /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 19
+ERROR - 2020-04-01 14:46:22 --> Severity: Notice --> Trying to get property 'slug' of non-object /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 19
+ERROR - 2020-04-01 14:46:22 --> Could not find the language line "view more"
+ERROR - 2020-04-01 14:46:22 --> Severity: Notice --> Undefined property: stdClass::$category /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 14:46:22 --> Severity: Warning --> reset() expects parameter 1 to be array, null given /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 19
+ERROR - 2020-04-01 14:46:22 --> Severity: Notice --> Trying to get property 'slug' of non-object /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 19
+ERROR - 2020-04-01 14:46:22 --> Could not find the language line "view more"
+ERROR - 2020-04-01 14:46:22 --> Severity: Notice --> Undefined property: stdClass::$category /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 14:46:22 --> Severity: Warning --> reset() expects parameter 1 to be array, null given /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 19
+ERROR - 2020-04-01 14:46:22 --> Severity: Notice --> Trying to get property 'slug' of non-object /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 19
+ERROR - 2020-04-01 14:46:22 --> Could not find the language line "view more"
+ERROR - 2020-04-01 14:46:22 --> Severity: Notice --> Undefined property: stdClass::$category /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 14:46:22 --> Severity: Warning --> reset() expects parameter 1 to be array, null given /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 19
+ERROR - 2020-04-01 14:46:22 --> Severity: Notice --> Trying to get property 'slug' of non-object /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 19
+ERROR - 2020-04-01 14:46:22 --> Could not find the language line "view more"
+ERROR - 2020-04-01 14:46:22 --> Severity: Notice --> Undefined property: stdClass::$category /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 14:46:22 --> Severity: Warning --> reset() expects parameter 1 to be array, null given /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 19
+ERROR - 2020-04-01 14:46:22 --> Severity: Notice --> Trying to get property 'slug' of non-object /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 19
+ERROR - 2020-04-01 14:46:22 --> Could not find the language line "view more"
+DEBUG - 2020-04-01 14:46:22 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php
+DEBUG - 2020-04-01 14:46:22 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/default/home/index_view.php
+ERROR - 2020-04-01 14:46:22 --> Could not find the language line "home"
+ERROR - 2020-04-01 14:46:22 --> Could not find the language line "Giới thiệu"
+ERROR - 2020-04-01 14:46:22 --> Could not find the language line "Dịch vụ thương mại"
+ERROR - 2020-04-01 14:46:22 --> Could not find the language line "Lĩnh vực hoạt động"
+DEBUG - 2020-04-01 14:46:22 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/mega_menu_content.php
+ERROR - 2020-04-01 14:46:22 --> Could not find the language line "Tư Vấn Giải Pháp CNTT"
+ERROR - 2020-04-01 14:46:22 --> Could not find the language line "Bảo Hành & Bảo Trì"
+ERROR - 2020-04-01 14:46:22 --> Could not find the language line "Triển khai & lắp đặt"
+ERROR - 2020-04-01 14:46:22 --> Could not find the language line "Kho bãi - vận chuyển"
+ERROR - 2020-04-01 14:46:22 --> Could not find the language line "Brothers"
+ERROR - 2020-04-01 14:46:22 --> Could not find the language line "Dell"
+ERROR - 2020-04-01 14:46:22 --> Could not find the language line "Hkvision"
+ERROR - 2020-04-01 14:46:22 --> Could not find the language line "HP"
+ERROR - 2020-04-01 14:46:22 --> Could not find the language line "Panasonic"
+ERROR - 2020-04-01 14:46:22 --> Could not find the language line "Sony"
+ERROR - 2020-04-01 14:46:22 --> Could not find the language line "Tin Hoạt Động"
+ERROR - 2020-04-01 14:46:22 --> Could not find the language line "Tin Công Nghệ"
+ERROR - 2020-04-01 14:46:22 --> Could not find the language line "Sự Kiện"
+ERROR - 2020-04-01 14:46:22 --> Could not find the language line "Góc báo chí"
+ERROR - 2020-04-01 14:46:22 --> Could not find the language line "Tuyển dụng"
+DEBUG - 2020-04-01 14:46:22 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/mega_menu.php
+ERROR - 2020-04-01 14:46:22 --> Could not find the language line "Search"
+DEBUG - 2020-04-01 14:46:22 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_header_view.php
+DEBUG - 2020-04-01 14:46:22 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_footer_view.php
+DEBUG - 2020-04-01 14:46:22 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/master_view.php
+INFO - 2020-04-01 14:46:22 --> Final output sent to browser
+DEBUG - 2020-04-01 14:46:22 --> Total execution time: 0.3674
+INFO - 2020-04-01 14:54:53 --> Config Class Initialized
+INFO - 2020-04-01 14:54:53 --> Hooks Class Initialized
+DEBUG - 2020-04-01 14:54:53 --> UTF-8 Support Enabled
+INFO - 2020-04-01 14:54:53 --> Utf8 Class Initialized
+INFO - 2020-04-01 14:54:53 --> URI Class Initialized
+INFO - 2020-04-01 14:54:53 --> Router Class Initialized
+INFO - 2020-04-01 14:54:53 --> Output Class Initialized
+INFO - 2020-04-01 14:54:53 --> Security Class Initialized
+DEBUG - 2020-04-01 14:54:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-01 14:54:53 --> Input Class Initialized
+DEBUG - 2020-04-01 14:54:53 --> Language_Identifier Class Initialized
+INFO - 2020-04-01 14:54:53 --> Language Class Initialized
+INFO - 2020-04-01 14:54:53 --> Config Class Initialized
+INFO - 2020-04-01 14:54:53 --> Loader Class Initialized
+INFO - 2020-04-01 14:54:53 --> Helper loaded: url_helper
+INFO - 2020-04-01 14:54:53 --> Helper loaded: form_helper
+INFO - 2020-04-01 14:54:53 --> Helper loaded: language_helper
+INFO - 2020-04-01 14:54:53 --> Database Driver Class Initialized
+INFO - 2020-04-01 14:54:53 --> Controller Class Initialized
+ERROR - 2020-04-01 14:54:53 --> 404 Page Not Found: /index
+INFO - 2020-04-01 14:54:56 --> Config Class Initialized
+INFO - 2020-04-01 14:54:56 --> Hooks Class Initialized
+DEBUG - 2020-04-01 14:54:56 --> UTF-8 Support Enabled
+INFO - 2020-04-01 14:54:56 --> Utf8 Class Initialized
+INFO - 2020-04-01 14:54:56 --> URI Class Initialized
+INFO - 2020-04-01 14:54:56 --> Router Class Initialized
+INFO - 2020-04-01 14:54:56 --> Output Class Initialized
+INFO - 2020-04-01 14:54:56 --> Security Class Initialized
+DEBUG - 2020-04-01 14:54:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-01 14:54:56 --> Input Class Initialized
+DEBUG - 2020-04-01 14:54:56 --> Language_Identifier Class Initialized
+INFO - 2020-04-01 14:54:56 --> Language Class Initialized
+INFO - 2020-04-01 14:54:56 --> Config Class Initialized
+INFO - 2020-04-01 14:54:56 --> Loader Class Initialized
+INFO - 2020-04-01 14:54:56 --> Helper loaded: url_helper
+INFO - 2020-04-01 14:54:56 --> Helper loaded: form_helper
+INFO - 2020-04-01 14:54:56 --> Helper loaded: language_helper
+INFO - 2020-04-01 14:54:56 --> Database Driver Class Initialized
+INFO - 2020-04-01 14:54:56 --> Controller Class Initialized
+DEBUG - 2020-04-01 14:54:56 --> Home MX_Controller Initialized
+INFO - 2020-04-01 14:54:56 --> Helper loaded: html_helper
+INFO - 2020-04-01 14:54:56 --> Helper loaded: cookie_helper
+INFO - 2020-04-01 14:54:56 --> Session: Class initialized using 'files' driver.
+INFO - 2020-04-01 14:54:56 --> Helper loaded: file_helper
+INFO - 2020-04-01 14:54:56 --> MY_Model class loaded
+INFO - 2020-04-01 14:54:56 --> Model "Language_model" initialized
+INFO - 2020-04-01 14:54:56 --> Language file loaded: language/vietnamese/home_lang.php
+INFO - 2020-04-01 14:54:56 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-04-01 14:54:56 --> Helper loaded: inflector_helper
+INFO - 2020-04-01 14:54:56 --> Model "Setting_model" initialized
+INFO - 2020-04-01 14:54:56 --> Model "Public_menu_model" initialized
+INFO - 2020-04-01 14:54:56 --> Model "Page_model" initialized
+INFO - 2020-04-01 14:54:56 --> Model "Solution_model" initialized
+INFO - 2020-04-01 14:54:56 --> Model "Product_model" initialized
+INFO - 2020-04-01 14:54:56 --> Model "Service_model" initialized
+INFO - 2020-04-01 14:54:56 --> Model "Manufacture_model" initialized
+INFO - 2020-04-01 14:54:56 --> Model "Category_model" initialized
+INFO - 2020-04-01 14:54:56 --> Model "Link_model" initialized
+INFO - 2020-04-01 14:54:56 --> Model "Article_model" initialized
+INFO - 2020-04-01 14:54:56 --> Model "User_model" initialized
+DEBUG - 2020-04-01 14:54:56 --> File loaded: /Volumes/Betrai/www/thienanphu/application/controllers/../modules/sliders/controllers/Sliders.php
+DEBUG - 2020-04-01 14:54:56 --> Sliders MX_Controller Initialized
+DEBUG - 2020-04-01 14:54:56 --> File loaded: /Volumes/Betrai/www/thienanphu/application/modules/sliders/models/Slider_model.php
+ERROR - 2020-04-01 14:54:56 --> Could not find the language line "Dịch vụ cung cấp"
+ERROR - 2020-04-01 14:54:56 --> Could not find the language line "Tư vấn miễn phí"
+ERROR - 2020-04-01 14:54:56 --> Could not find the language line "Tư vấn miễn phí"
+DEBUG - 2020-04-01 14:54:56 --> File loaded: /Volumes/Betrai/www/thienanphu/application/modules/sliders/views/sliders.php
+DEBUG - 2020-04-01 14:54:56 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/module_view.php
+ERROR - 2020-04-01 14:54:56 --> Could not find the language line "find out"
+DEBUG - 2020-04-01 14:54:56 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_about.php
+DEBUG - 2020-04-01 14:54:56 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_parallax.php
+DEBUG - 2020-04-01 14:54:56 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_solutions.php
+DEBUG - 2020-04-01 14:54:56 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_parallax.php
+DEBUG - 2020-04-01 14:54:56 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_services.php
+DEBUG - 2020-04-01 14:54:56 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_funfact.php
+ERROR - 2020-04-01 14:54:56 --> Severity: Notice --> Undefined property: stdClass::$category /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 14:54:56 --> Severity: Warning --> reset() expects parameter 1 to be array, null given /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 19
+ERROR - 2020-04-01 14:54:56 --> Severity: Notice --> Trying to get property 'slug' of non-object /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 19
+ERROR - 2020-04-01 14:54:56 --> Could not find the language line "view more"
+ERROR - 2020-04-01 14:54:56 --> Severity: Notice --> Undefined property: stdClass::$category /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 14:54:56 --> Severity: Warning --> reset() expects parameter 1 to be array, null given /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 19
+ERROR - 2020-04-01 14:54:56 --> Severity: Notice --> Trying to get property 'slug' of non-object /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 19
+ERROR - 2020-04-01 14:54:56 --> Could not find the language line "view more"
+ERROR - 2020-04-01 14:54:56 --> Severity: Notice --> Undefined property: stdClass::$category /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 14:54:56 --> Severity: Warning --> reset() expects parameter 1 to be array, null given /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 19
+ERROR - 2020-04-01 14:54:56 --> Severity: Notice --> Trying to get property 'slug' of non-object /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 19
+ERROR - 2020-04-01 14:54:56 --> Could not find the language line "view more"
+ERROR - 2020-04-01 14:54:56 --> Severity: Notice --> Undefined property: stdClass::$category /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 14:54:56 --> Severity: Warning --> reset() expects parameter 1 to be array, null given /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 19
+ERROR - 2020-04-01 14:54:56 --> Severity: Notice --> Trying to get property 'slug' of non-object /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 19
+ERROR - 2020-04-01 14:54:56 --> Could not find the language line "view more"
+ERROR - 2020-04-01 14:54:56 --> Severity: Notice --> Undefined property: stdClass::$category /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 14:54:56 --> Severity: Warning --> reset() expects parameter 1 to be array, null given /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 19
+ERROR - 2020-04-01 14:54:56 --> Severity: Notice --> Trying to get property 'slug' of non-object /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 19
+ERROR - 2020-04-01 14:54:56 --> Could not find the language line "view more"
+ERROR - 2020-04-01 14:54:56 --> Severity: Notice --> Undefined property: stdClass::$category /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 14:54:56 --> Severity: Warning --> reset() expects parameter 1 to be array, null given /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 19
+ERROR - 2020-04-01 14:54:56 --> Severity: Notice --> Trying to get property 'slug' of non-object /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 19
+ERROR - 2020-04-01 14:54:56 --> Could not find the language line "view more"
+DEBUG - 2020-04-01 14:54:56 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php
+DEBUG - 2020-04-01 14:54:56 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/default/home/index_view.php
+ERROR - 2020-04-01 14:54:56 --> Could not find the language line "home"
+ERROR - 2020-04-01 14:54:56 --> Could not find the language line "Giới thiệu"
+ERROR - 2020-04-01 14:54:56 --> Could not find the language line "Dịch vụ thương mại"
+ERROR - 2020-04-01 14:54:56 --> Could not find the language line "Lĩnh vực hoạt động"
+DEBUG - 2020-04-01 14:54:56 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/mega_menu_content.php
+ERROR - 2020-04-01 14:54:56 --> Could not find the language line "Tư Vấn Giải Pháp CNTT"
+ERROR - 2020-04-01 14:54:56 --> Could not find the language line "Bảo Hành & Bảo Trì"
+ERROR - 2020-04-01 14:54:56 --> Could not find the language line "Triển khai & lắp đặt"
+ERROR - 2020-04-01 14:54:56 --> Could not find the language line "Kho bãi - vận chuyển"
+ERROR - 2020-04-01 14:54:56 --> Could not find the language line "Brothers"
+ERROR - 2020-04-01 14:54:56 --> Could not find the language line "Dell"
+ERROR - 2020-04-01 14:54:56 --> Could not find the language line "Hkvision"
+ERROR - 2020-04-01 14:54:56 --> Could not find the language line "HP"
+ERROR - 2020-04-01 14:54:56 --> Could not find the language line "Panasonic"
+ERROR - 2020-04-01 14:54:56 --> Could not find the language line "Sony"
+ERROR - 2020-04-01 14:54:56 --> Could not find the language line "Tin Hoạt Động"
+ERROR - 2020-04-01 14:54:56 --> Could not find the language line "Tin Công Nghệ"
+ERROR - 2020-04-01 14:54:56 --> Could not find the language line "Sự Kiện"
+ERROR - 2020-04-01 14:54:56 --> Could not find the language line "Góc báo chí"
+ERROR - 2020-04-01 14:54:56 --> Could not find the language line "Tuyển dụng"
+DEBUG - 2020-04-01 14:54:56 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/mega_menu.php
+ERROR - 2020-04-01 14:54:56 --> Could not find the language line "Search"
+DEBUG - 2020-04-01 14:54:56 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_header_view.php
+DEBUG - 2020-04-01 14:54:56 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_footer_view.php
+DEBUG - 2020-04-01 14:54:56 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/master_view.php
+INFO - 2020-04-01 14:54:56 --> Final output sent to browser
+DEBUG - 2020-04-01 14:54:56 --> Total execution time: 0.3333
+INFO - 2020-04-01 14:54:57 --> Config Class Initialized
+INFO - 2020-04-01 14:54:57 --> Hooks Class Initialized
+DEBUG - 2020-04-01 14:54:57 --> UTF-8 Support Enabled
+INFO - 2020-04-01 14:54:57 --> Utf8 Class Initialized
+INFO - 2020-04-01 14:54:57 --> URI Class Initialized
+INFO - 2020-04-01 14:54:57 --> Router Class Initialized
+INFO - 2020-04-01 14:54:57 --> Output Class Initialized
+INFO - 2020-04-01 14:54:57 --> Security Class Initialized
+DEBUG - 2020-04-01 14:54:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-01 14:54:57 --> Input Class Initialized
+DEBUG - 2020-04-01 14:54:57 --> Language_Identifier Class Initialized
+INFO - 2020-04-01 14:54:57 --> Language Class Initialized
+INFO - 2020-04-01 14:54:57 --> Config Class Initialized
+INFO - 2020-04-01 14:54:57 --> Loader Class Initialized
+INFO - 2020-04-01 14:54:57 --> Helper loaded: url_helper
+INFO - 2020-04-01 14:54:57 --> Helper loaded: form_helper
+INFO - 2020-04-01 14:54:57 --> Helper loaded: language_helper
+INFO - 2020-04-01 14:54:57 --> Database Driver Class Initialized
+INFO - 2020-04-01 14:54:57 --> Controller Class Initialized
+DEBUG - 2020-04-01 14:54:57 --> Home MX_Controller Initialized
+INFO - 2020-04-01 14:54:57 --> Helper loaded: html_helper
+INFO - 2020-04-01 14:54:57 --> Helper loaded: cookie_helper
+INFO - 2020-04-01 14:54:57 --> Session: Class initialized using 'files' driver.
+INFO - 2020-04-01 14:54:57 --> Helper loaded: file_helper
+INFO - 2020-04-01 14:54:57 --> MY_Model class loaded
+INFO - 2020-04-01 14:54:57 --> Model "Language_model" initialized
+INFO - 2020-04-01 14:54:57 --> Language file loaded: language/vietnamese/home_lang.php
+INFO - 2020-04-01 14:54:57 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-04-01 14:54:57 --> Helper loaded: inflector_helper
+INFO - 2020-04-01 14:54:57 --> Model "Public_menu_model" initialized
+INFO - 2020-04-01 14:54:57 --> Model "Page_model" initialized
+INFO - 2020-04-01 14:54:57 --> Model "Solution_model" initialized
+INFO - 2020-04-01 14:54:57 --> Model "Product_model" initialized
+INFO - 2020-04-01 14:54:57 --> Model "Service_model" initialized
+INFO - 2020-04-01 14:54:57 --> Model "Manufacture_model" initialized
+INFO - 2020-04-01 14:54:57 --> Model "Category_model" initialized
+INFO - 2020-04-01 14:54:57 --> Model "Link_model" initialized
+INFO - 2020-04-01 14:54:57 --> Model "Article_model" initialized
+INFO - 2020-04-01 14:54:57 --> Model "User_model" initialized
+DEBUG - 2020-04-01 14:54:57 --> File loaded: /Volumes/Betrai/www/thienanphu/application/controllers/../modules/sliders/controllers/Sliders.php
+DEBUG - 2020-04-01 14:54:57 --> Sliders MX_Controller Initialized
+DEBUG - 2020-04-01 14:54:57 --> File loaded: /Volumes/Betrai/www/thienanphu/application/modules/sliders/models/Slider_model.php
+ERROR - 2020-04-01 14:54:57 --> Could not find the language line "Dịch vụ cung cấp"
+ERROR - 2020-04-01 14:54:57 --> Could not find the language line "Tư vấn miễn phí"
+ERROR - 2020-04-01 14:54:57 --> Could not find the language line "Tư vấn miễn phí"
+DEBUG - 2020-04-01 14:54:57 --> File loaded: /Volumes/Betrai/www/thienanphu/application/modules/sliders/views/sliders.php
+DEBUG - 2020-04-01 14:54:57 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/module_view.php
+ERROR - 2020-04-01 14:54:57 --> Could not find the language line "find out"
+DEBUG - 2020-04-01 14:54:57 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_about.php
+DEBUG - 2020-04-01 14:54:57 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_parallax.php
+DEBUG - 2020-04-01 14:54:57 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_solutions.php
+DEBUG - 2020-04-01 14:54:57 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_parallax.php
+DEBUG - 2020-04-01 14:54:57 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_services.php
+DEBUG - 2020-04-01 14:54:57 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_funfact.php
+ERROR - 2020-04-01 14:54:57 --> Severity: Notice --> Undefined property: stdClass::$category /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 14:54:57 --> Severity: Warning --> reset() expects parameter 1 to be array, null given /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 19
+ERROR - 2020-04-01 14:54:57 --> Severity: Notice --> Trying to get property 'slug' of non-object /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 19
+ERROR - 2020-04-01 14:54:57 --> Could not find the language line "view more"
+ERROR - 2020-04-01 14:54:57 --> Severity: Notice --> Undefined property: stdClass::$category /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 14:54:57 --> Severity: Warning --> reset() expects parameter 1 to be array, null given /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 19
+ERROR - 2020-04-01 14:54:57 --> Severity: Notice --> Trying to get property 'slug' of non-object /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 19
+ERROR - 2020-04-01 14:54:57 --> Could not find the language line "view more"
+ERROR - 2020-04-01 14:54:57 --> Severity: Notice --> Undefined property: stdClass::$category /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 14:54:57 --> Severity: Warning --> reset() expects parameter 1 to be array, null given /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 19
+ERROR - 2020-04-01 14:54:57 --> Severity: Notice --> Trying to get property 'slug' of non-object /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 19
+ERROR - 2020-04-01 14:54:57 --> Could not find the language line "view more"
+ERROR - 2020-04-01 14:54:57 --> Severity: Notice --> Undefined property: stdClass::$category /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 14:54:57 --> Severity: Warning --> reset() expects parameter 1 to be array, null given /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 19
+ERROR - 2020-04-01 14:54:57 --> Severity: Notice --> Trying to get property 'slug' of non-object /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 19
+ERROR - 2020-04-01 14:54:57 --> Could not find the language line "view more"
+ERROR - 2020-04-01 14:54:57 --> Severity: Notice --> Undefined property: stdClass::$category /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 14:54:57 --> Severity: Warning --> reset() expects parameter 1 to be array, null given /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 19
+ERROR - 2020-04-01 14:54:57 --> Severity: Notice --> Trying to get property 'slug' of non-object /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 19
+ERROR - 2020-04-01 14:54:57 --> Could not find the language line "view more"
+ERROR - 2020-04-01 14:54:57 --> Severity: Notice --> Undefined property: stdClass::$category /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 14:54:57 --> Severity: Warning --> reset() expects parameter 1 to be array, null given /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 19
+ERROR - 2020-04-01 14:54:57 --> Severity: Notice --> Trying to get property 'slug' of non-object /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 19
+ERROR - 2020-04-01 14:54:57 --> Could not find the language line "view more"
+DEBUG - 2020-04-01 14:54:57 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php
+DEBUG - 2020-04-01 14:54:57 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/default/home/index_view.php
+ERROR - 2020-04-01 14:54:57 --> Could not find the language line "home"
+ERROR - 2020-04-01 14:54:57 --> Could not find the language line "Giới thiệu"
+ERROR - 2020-04-01 14:54:57 --> Could not find the language line "Dịch vụ thương mại"
+ERROR - 2020-04-01 14:54:57 --> Could not find the language line "Lĩnh vực hoạt động"
+DEBUG - 2020-04-01 14:54:57 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/mega_menu_content.php
+ERROR - 2020-04-01 14:54:57 --> Could not find the language line "Tư Vấn Giải Pháp CNTT"
+ERROR - 2020-04-01 14:54:57 --> Could not find the language line "Bảo Hành & Bảo Trì"
+ERROR - 2020-04-01 14:54:57 --> Could not find the language line "Triển khai & lắp đặt"
+ERROR - 2020-04-01 14:54:57 --> Could not find the language line "Kho bãi - vận chuyển"
+ERROR - 2020-04-01 14:54:57 --> Could not find the language line "Brothers"
+ERROR - 2020-04-01 14:54:57 --> Could not find the language line "Dell"
+ERROR - 2020-04-01 14:54:57 --> Could not find the language line "Hkvision"
+ERROR - 2020-04-01 14:54:57 --> Could not find the language line "HP"
+ERROR - 2020-04-01 14:54:57 --> Could not find the language line "Panasonic"
+ERROR - 2020-04-01 14:54:57 --> Could not find the language line "Sony"
+ERROR - 2020-04-01 14:54:57 --> Could not find the language line "Tin Hoạt Động"
+ERROR - 2020-04-01 14:54:57 --> Could not find the language line "Tin Công Nghệ"
+ERROR - 2020-04-01 14:54:57 --> Could not find the language line "Sự Kiện"
+ERROR - 2020-04-01 14:54:57 --> Could not find the language line "Góc báo chí"
+ERROR - 2020-04-01 14:54:57 --> Could not find the language line "Tuyển dụng"
+DEBUG - 2020-04-01 14:54:57 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/mega_menu.php
+ERROR - 2020-04-01 14:54:57 --> Could not find the language line "Search"
+DEBUG - 2020-04-01 14:54:57 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_header_view.php
+DEBUG - 2020-04-01 14:54:57 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_footer_view.php
+DEBUG - 2020-04-01 14:54:57 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/master_view.php
+INFO - 2020-04-01 14:54:57 --> Final output sent to browser
+DEBUG - 2020-04-01 14:54:57 --> Total execution time: 0.4150
+INFO - 2020-04-01 14:55:09 --> Config Class Initialized
+INFO - 2020-04-01 14:55:09 --> Hooks Class Initialized
+DEBUG - 2020-04-01 14:55:09 --> UTF-8 Support Enabled
+INFO - 2020-04-01 14:55:09 --> Utf8 Class Initialized
+INFO - 2020-04-01 14:55:09 --> URI Class Initialized
+INFO - 2020-04-01 14:55:09 --> Router Class Initialized
+INFO - 2020-04-01 14:55:09 --> Output Class Initialized
+INFO - 2020-04-01 14:55:09 --> Security Class Initialized
+DEBUG - 2020-04-01 14:55:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-01 14:55:10 --> Input Class Initialized
+DEBUG - 2020-04-01 14:55:10 --> Language_Identifier Class Initialized
+INFO - 2020-04-01 14:55:10 --> Language Class Initialized
+INFO - 2020-04-01 14:55:10 --> Config Class Initialized
+INFO - 2020-04-01 14:55:10 --> Loader Class Initialized
+INFO - 2020-04-01 14:55:10 --> Helper loaded: url_helper
+INFO - 2020-04-01 14:55:10 --> Helper loaded: form_helper
+INFO - 2020-04-01 14:55:10 --> Helper loaded: language_helper
+INFO - 2020-04-01 14:55:10 --> Database Driver Class Initialized
+INFO - 2020-04-01 14:55:10 --> Controller Class Initialized
+DEBUG - 2020-04-01 14:55:10 --> Home MX_Controller Initialized
+INFO - 2020-04-01 14:55:10 --> Helper loaded: html_helper
+INFO - 2020-04-01 14:55:10 --> Helper loaded: cookie_helper
+INFO - 2020-04-01 14:55:10 --> Session: Class initialized using 'files' driver.
+INFO - 2020-04-01 14:55:10 --> Helper loaded: file_helper
+INFO - 2020-04-01 14:55:10 --> MY_Model class loaded
+INFO - 2020-04-01 14:55:10 --> Model "Language_model" initialized
+INFO - 2020-04-01 14:55:10 --> Language file loaded: language/vietnamese/home_lang.php
+INFO - 2020-04-01 14:55:10 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-04-01 14:55:10 --> Helper loaded: inflector_helper
+INFO - 2020-04-01 14:55:10 --> Model "Public_menu_model" initialized
+INFO - 2020-04-01 14:55:10 --> Model "Page_model" initialized
+INFO - 2020-04-01 14:55:10 --> Model "Solution_model" initialized
+INFO - 2020-04-01 14:55:10 --> Model "Product_model" initialized
+INFO - 2020-04-01 14:55:10 --> Model "Service_model" initialized
+INFO - 2020-04-01 14:55:10 --> Model "Manufacture_model" initialized
+INFO - 2020-04-01 14:55:10 --> Model "Category_model" initialized
+INFO - 2020-04-01 14:55:10 --> Model "Link_model" initialized
+INFO - 2020-04-01 14:55:10 --> Model "Article_model" initialized
+INFO - 2020-04-01 14:55:10 --> Model "User_model" initialized
+DEBUG - 2020-04-01 14:55:10 --> File loaded: /Volumes/Betrai/www/thienanphu/application/controllers/../modules/sliders/controllers/Sliders.php
+DEBUG - 2020-04-01 14:55:10 --> Sliders MX_Controller Initialized
+DEBUG - 2020-04-01 14:55:10 --> File loaded: /Volumes/Betrai/www/thienanphu/application/modules/sliders/models/Slider_model.php
+ERROR - 2020-04-01 14:55:10 --> Could not find the language line "Dịch vụ cung cấp"
+ERROR - 2020-04-01 14:55:10 --> Could not find the language line "Tư vấn miễn phí"
+ERROR - 2020-04-01 14:55:10 --> Could not find the language line "Tư vấn miễn phí"
+DEBUG - 2020-04-01 14:55:10 --> File loaded: /Volumes/Betrai/www/thienanphu/application/modules/sliders/views/sliders.php
+DEBUG - 2020-04-01 14:55:10 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/module_view.php
+ERROR - 2020-04-01 14:55:10 --> Could not find the language line "find out"
+DEBUG - 2020-04-01 14:55:10 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_about.php
+DEBUG - 2020-04-01 14:55:10 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_parallax.php
+DEBUG - 2020-04-01 14:55:10 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_solutions.php
+DEBUG - 2020-04-01 14:55:10 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_parallax.php
+DEBUG - 2020-04-01 14:55:10 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_services.php
+DEBUG - 2020-04-01 14:55:10 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_funfact.php
+ERROR - 2020-04-01 14:55:10 --> Severity: Notice --> Undefined property: stdClass::$category /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 14:55:10 --> Severity: Warning --> reset() expects parameter 1 to be array, null given /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 19
+ERROR - 2020-04-01 14:55:10 --> Severity: Notice --> Trying to get property 'slug' of non-object /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 19
+ERROR - 2020-04-01 14:55:10 --> Could not find the language line "view more"
+ERROR - 2020-04-01 14:55:10 --> Severity: Notice --> Undefined property: stdClass::$category /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 14:55:10 --> Severity: Warning --> reset() expects parameter 1 to be array, null given /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 19
+ERROR - 2020-04-01 14:55:10 --> Severity: Notice --> Trying to get property 'slug' of non-object /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 19
+ERROR - 2020-04-01 14:55:10 --> Could not find the language line "view more"
+ERROR - 2020-04-01 14:55:10 --> Severity: Notice --> Undefined property: stdClass::$category /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 14:55:10 --> Severity: Warning --> reset() expects parameter 1 to be array, null given /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 19
+ERROR - 2020-04-01 14:55:10 --> Severity: Notice --> Trying to get property 'slug' of non-object /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 19
+ERROR - 2020-04-01 14:55:10 --> Could not find the language line "view more"
+ERROR - 2020-04-01 14:55:10 --> Severity: Notice --> Undefined property: stdClass::$category /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 14:55:10 --> Severity: Warning --> reset() expects parameter 1 to be array, null given /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 19
+ERROR - 2020-04-01 14:55:10 --> Severity: Notice --> Trying to get property 'slug' of non-object /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 19
+ERROR - 2020-04-01 14:55:10 --> Could not find the language line "view more"
+ERROR - 2020-04-01 14:55:10 --> Severity: Notice --> Undefined property: stdClass::$category /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 14:55:10 --> Severity: Warning --> reset() expects parameter 1 to be array, null given /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 19
+ERROR - 2020-04-01 14:55:10 --> Severity: Notice --> Trying to get property 'slug' of non-object /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 19
+ERROR - 2020-04-01 14:55:10 --> Could not find the language line "view more"
+ERROR - 2020-04-01 14:55:10 --> Severity: Notice --> Undefined property: stdClass::$category /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 14:55:10 --> Severity: Warning --> reset() expects parameter 1 to be array, null given /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 19
+ERROR - 2020-04-01 14:55:10 --> Severity: Notice --> Trying to get property 'slug' of non-object /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 19
+ERROR - 2020-04-01 14:55:10 --> Could not find the language line "view more"
+DEBUG - 2020-04-01 14:55:10 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php
+DEBUG - 2020-04-01 14:55:10 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/default/home/index_view.php
+ERROR - 2020-04-01 14:55:10 --> Could not find the language line "home"
+ERROR - 2020-04-01 14:55:10 --> Could not find the language line "Giới thiệu"
+ERROR - 2020-04-01 14:55:10 --> Could not find the language line "Dịch vụ thương mại"
+ERROR - 2020-04-01 14:55:10 --> Could not find the language line "Lĩnh vực hoạt động"
+DEBUG - 2020-04-01 14:55:10 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/mega_menu_content.php
+ERROR - 2020-04-01 14:55:10 --> Could not find the language line "Tư Vấn Giải Pháp CNTT"
+ERROR - 2020-04-01 14:55:10 --> Could not find the language line "Bảo Hành & Bảo Trì"
+ERROR - 2020-04-01 14:55:10 --> Could not find the language line "Triển khai & lắp đặt"
+ERROR - 2020-04-01 14:55:10 --> Could not find the language line "Kho bãi - vận chuyển"
+ERROR - 2020-04-01 14:55:10 --> Could not find the language line "Brothers"
+ERROR - 2020-04-01 14:55:10 --> Could not find the language line "Dell"
+ERROR - 2020-04-01 14:55:10 --> Could not find the language line "Hkvision"
+ERROR - 2020-04-01 14:55:10 --> Could not find the language line "HP"
+ERROR - 2020-04-01 14:55:10 --> Could not find the language line "Panasonic"
+ERROR - 2020-04-01 14:55:10 --> Could not find the language line "Sony"
+ERROR - 2020-04-01 14:55:10 --> Could not find the language line "Tin Hoạt Động"
+ERROR - 2020-04-01 14:55:10 --> Could not find the language line "Tin Công Nghệ"
+ERROR - 2020-04-01 14:55:10 --> Could not find the language line "Sự Kiện"
+ERROR - 2020-04-01 14:55:10 --> Could not find the language line "Góc báo chí"
+ERROR - 2020-04-01 14:55:10 --> Could not find the language line "Tuyển dụng"
+DEBUG - 2020-04-01 14:55:10 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/mega_menu.php
+ERROR - 2020-04-01 14:55:10 --> Could not find the language line "Search"
+DEBUG - 2020-04-01 14:55:10 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_header_view.php
+DEBUG - 2020-04-01 14:55:10 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_footer_view.php
+DEBUG - 2020-04-01 14:55:10 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/master_view.php
+INFO - 2020-04-01 14:55:10 --> Final output sent to browser
+DEBUG - 2020-04-01 14:55:10 --> Total execution time: 0.5191
+INFO - 2020-04-01 14:55:10 --> Config Class Initialized
+INFO - 2020-04-01 14:55:10 --> Hooks Class Initialized
+DEBUG - 2020-04-01 14:55:10 --> UTF-8 Support Enabled
+INFO - 2020-04-01 14:55:10 --> Utf8 Class Initialized
+INFO - 2020-04-01 14:55:10 --> URI Class Initialized
+DEBUG - 2020-04-01 14:55:10 --> No URI present. Default controller set.
+INFO - 2020-04-01 14:55:10 --> Router Class Initialized
+INFO - 2020-04-01 14:55:10 --> Output Class Initialized
+INFO - 2020-04-01 14:55:10 --> Security Class Initialized
+DEBUG - 2020-04-01 14:55:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-01 14:55:10 --> Input Class Initialized
+INFO - 2020-04-01 14:55:10 --> Config Class Initialized
+INFO - 2020-04-01 14:55:10 --> Hooks Class Initialized
+DEBUG - 2020-04-01 14:55:10 --> UTF-8 Support Enabled
+INFO - 2020-04-01 14:55:10 --> Utf8 Class Initialized
+INFO - 2020-04-01 14:55:10 --> URI Class Initialized
+INFO - 2020-04-01 14:55:10 --> Router Class Initialized
+INFO - 2020-04-01 14:55:10 --> Output Class Initialized
+INFO - 2020-04-01 14:55:10 --> Security Class Initialized
+DEBUG - 2020-04-01 14:55:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-01 14:55:10 --> Input Class Initialized
+DEBUG - 2020-04-01 14:55:10 --> Language_Identifier Class Initialized
+INFO - 2020-04-01 14:55:10 --> Language Class Initialized
+INFO - 2020-04-01 14:55:10 --> Config Class Initialized
+INFO - 2020-04-01 14:55:10 --> Loader Class Initialized
+INFO - 2020-04-01 14:55:10 --> Helper loaded: url_helper
+INFO - 2020-04-01 14:55:10 --> Helper loaded: form_helper
+INFO - 2020-04-01 14:55:10 --> Helper loaded: language_helper
+INFO - 2020-04-01 14:55:10 --> Database Driver Class Initialized
+INFO - 2020-04-01 14:55:10 --> Controller Class Initialized
+DEBUG - 2020-04-01 14:55:10 --> Home MX_Controller Initialized
+INFO - 2020-04-01 14:55:10 --> Helper loaded: html_helper
+INFO - 2020-04-01 14:55:10 --> Helper loaded: cookie_helper
+INFO - 2020-04-01 14:55:10 --> Session: Class initialized using 'files' driver.
+INFO - 2020-04-01 14:55:10 --> Helper loaded: file_helper
+INFO - 2020-04-01 14:55:10 --> MY_Model class loaded
+INFO - 2020-04-01 14:55:10 --> Model "Language_model" initialized
+INFO - 2020-04-01 14:55:10 --> Language file loaded: language/vietnamese/home_lang.php
+INFO - 2020-04-01 14:55:10 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-04-01 14:55:10 --> Helper loaded: inflector_helper
+INFO - 2020-04-01 14:55:10 --> Model "Public_menu_model" initialized
+INFO - 2020-04-01 14:55:10 --> Model "Page_model" initialized
+INFO - 2020-04-01 14:55:10 --> Model "Solution_model" initialized
+INFO - 2020-04-01 14:55:10 --> Model "Product_model" initialized
+INFO - 2020-04-01 14:55:10 --> Model "Service_model" initialized
+INFO - 2020-04-01 14:55:10 --> Model "Manufacture_model" initialized
+INFO - 2020-04-01 14:55:10 --> Model "Category_model" initialized
+INFO - 2020-04-01 14:55:10 --> Model "Link_model" initialized
+INFO - 2020-04-01 14:55:10 --> Model "Article_model" initialized
+INFO - 2020-04-01 14:55:10 --> Model "User_model" initialized
+DEBUG - 2020-04-01 14:55:10 --> File loaded: /Volumes/Betrai/www/thienanphu/application/controllers/../modules/sliders/controllers/Sliders.php
+DEBUG - 2020-04-01 14:55:10 --> Sliders MX_Controller Initialized
+DEBUG - 2020-04-01 14:55:10 --> File loaded: /Volumes/Betrai/www/thienanphu/application/modules/sliders/models/Slider_model.php
+ERROR - 2020-04-01 14:55:10 --> Could not find the language line "Dịch vụ cung cấp"
+ERROR - 2020-04-01 14:55:10 --> Could not find the language line "Tư vấn miễn phí"
+ERROR - 2020-04-01 14:55:10 --> Could not find the language line "Tư vấn miễn phí"
+DEBUG - 2020-04-01 14:55:10 --> File loaded: /Volumes/Betrai/www/thienanphu/application/modules/sliders/views/sliders.php
+DEBUG - 2020-04-01 14:55:10 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/module_view.php
+ERROR - 2020-04-01 14:55:10 --> Could not find the language line "find out"
+DEBUG - 2020-04-01 14:55:10 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_about.php
+DEBUG - 2020-04-01 14:55:10 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_parallax.php
+DEBUG - 2020-04-01 14:55:10 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_solutions.php
+DEBUG - 2020-04-01 14:55:10 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_parallax.php
+DEBUG - 2020-04-01 14:55:10 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_services.php
+DEBUG - 2020-04-01 14:55:10 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_funfact.php
+ERROR - 2020-04-01 14:55:10 --> Severity: Notice --> Undefined property: stdClass::$category /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 14:55:10 --> Severity: Warning --> reset() expects parameter 1 to be array, null given /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 19
+ERROR - 2020-04-01 14:55:10 --> Severity: Notice --> Trying to get property 'slug' of non-object /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 19
+ERROR - 2020-04-01 14:55:10 --> Could not find the language line "view more"
+ERROR - 2020-04-01 14:55:10 --> Severity: Notice --> Undefined property: stdClass::$category /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 14:55:10 --> Severity: Warning --> reset() expects parameter 1 to be array, null given /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 19
+ERROR - 2020-04-01 14:55:10 --> Severity: Notice --> Trying to get property 'slug' of non-object /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 19
+ERROR - 2020-04-01 14:55:10 --> Could not find the language line "view more"
+ERROR - 2020-04-01 14:55:10 --> Severity: Notice --> Undefined property: stdClass::$category /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 14:55:10 --> Severity: Warning --> reset() expects parameter 1 to be array, null given /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 19
+ERROR - 2020-04-01 14:55:10 --> Severity: Notice --> Trying to get property 'slug' of non-object /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 19
+ERROR - 2020-04-01 14:55:10 --> Could not find the language line "view more"
+ERROR - 2020-04-01 14:55:10 --> Severity: Notice --> Undefined property: stdClass::$category /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 14:55:10 --> Severity: Warning --> reset() expects parameter 1 to be array, null given /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 19
+ERROR - 2020-04-01 14:55:10 --> Severity: Notice --> Trying to get property 'slug' of non-object /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 19
+ERROR - 2020-04-01 14:55:10 --> Could not find the language line "view more"
+ERROR - 2020-04-01 14:55:10 --> Severity: Notice --> Undefined property: stdClass::$category /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 14:55:10 --> Severity: Warning --> reset() expects parameter 1 to be array, null given /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 19
+ERROR - 2020-04-01 14:55:10 --> Severity: Notice --> Trying to get property 'slug' of non-object /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 19
+ERROR - 2020-04-01 14:55:10 --> Could not find the language line "view more"
+ERROR - 2020-04-01 14:55:10 --> Severity: Notice --> Undefined property: stdClass::$category /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 14:55:10 --> Severity: Warning --> reset() expects parameter 1 to be array, null given /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 19
+ERROR - 2020-04-01 14:55:10 --> Severity: Notice --> Trying to get property 'slug' of non-object /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 19
+ERROR - 2020-04-01 14:55:10 --> Could not find the language line "view more"
+DEBUG - 2020-04-01 14:55:10 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php
+DEBUG - 2020-04-01 14:55:10 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/default/home/index_view.php
+ERROR - 2020-04-01 14:55:10 --> Could not find the language line "home"
+ERROR - 2020-04-01 14:55:10 --> Could not find the language line "Giới thiệu"
+ERROR - 2020-04-01 14:55:10 --> Could not find the language line "Dịch vụ thương mại"
+ERROR - 2020-04-01 14:55:10 --> Could not find the language line "Lĩnh vực hoạt động"
+DEBUG - 2020-04-01 14:55:10 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/mega_menu_content.php
+ERROR - 2020-04-01 14:55:10 --> Could not find the language line "Tư Vấn Giải Pháp CNTT"
+ERROR - 2020-04-01 14:55:10 --> Could not find the language line "Bảo Hành & Bảo Trì"
+ERROR - 2020-04-01 14:55:10 --> Could not find the language line "Triển khai & lắp đặt"
+ERROR - 2020-04-01 14:55:10 --> Could not find the language line "Kho bãi - vận chuyển"
+ERROR - 2020-04-01 14:55:10 --> Could not find the language line "Brothers"
+ERROR - 2020-04-01 14:55:10 --> Could not find the language line "Dell"
+ERROR - 2020-04-01 14:55:10 --> Could not find the language line "Hkvision"
+ERROR - 2020-04-01 14:55:10 --> Could not find the language line "HP"
+ERROR - 2020-04-01 14:55:10 --> Could not find the language line "Panasonic"
+ERROR - 2020-04-01 14:55:10 --> Could not find the language line "Sony"
+ERROR - 2020-04-01 14:55:10 --> Could not find the language line "Tin Hoạt Động"
+ERROR - 2020-04-01 14:55:10 --> Could not find the language line "Tin Công Nghệ"
+ERROR - 2020-04-01 14:55:10 --> Could not find the language line "Sự Kiện"
+ERROR - 2020-04-01 14:55:10 --> Could not find the language line "Góc báo chí"
+ERROR - 2020-04-01 14:55:10 --> Could not find the language line "Tuyển dụng"
+DEBUG - 2020-04-01 14:55:10 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/mega_menu.php
+ERROR - 2020-04-01 14:55:10 --> Could not find the language line "Search"
+DEBUG - 2020-04-01 14:55:10 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_header_view.php
+DEBUG - 2020-04-01 14:55:10 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_footer_view.php
+DEBUG - 2020-04-01 14:55:10 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/master_view.php
+INFO - 2020-04-01 14:55:10 --> Final output sent to browser
+DEBUG - 2020-04-01 14:55:10 --> Total execution time: 0.3014
+INFO - 2020-04-01 15:51:28 --> Config Class Initialized
+INFO - 2020-04-01 15:51:28 --> Hooks Class Initialized
+DEBUG - 2020-04-01 15:51:28 --> UTF-8 Support Enabled
+INFO - 2020-04-01 15:51:28 --> Utf8 Class Initialized
+INFO - 2020-04-01 15:51:28 --> URI Class Initialized
+INFO - 2020-04-01 15:51:59 --> Config Class Initialized
+INFO - 2020-04-01 15:51:59 --> Hooks Class Initialized
+DEBUG - 2020-04-01 15:51:59 --> UTF-8 Support Enabled
+INFO - 2020-04-01 15:51:59 --> Utf8 Class Initialized
+INFO - 2020-04-01 15:51:59 --> URI Class Initialized
+INFO - 2020-04-01 15:52:13 --> Config Class Initialized
+INFO - 2020-04-01 15:52:13 --> Hooks Class Initialized
+DEBUG - 2020-04-01 15:52:13 --> UTF-8 Support Enabled
+INFO - 2020-04-01 15:52:13 --> Utf8 Class Initialized
+INFO - 2020-04-01 15:52:13 --> URI Class Initialized
+INFO - 2020-04-01 15:52:13 --> Router Class Initialized
+INFO - 2020-04-01 15:52:13 --> Output Class Initialized
+INFO - 2020-04-01 15:52:13 --> Security Class Initialized
+DEBUG - 2020-04-01 15:52:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-01 15:52:13 --> Input Class Initialized
+DEBUG - 2020-04-01 15:52:13 --> Language_Identifier Class Initialized
+INFO - 2020-04-01 15:52:13 --> Language Class Initialized
+INFO - 2020-04-01 15:52:13 --> Config Class Initialized
+INFO - 2020-04-01 15:52:13 --> Loader Class Initialized
+INFO - 2020-04-01 15:52:13 --> Helper loaded: url_helper
+INFO - 2020-04-01 15:52:13 --> Helper loaded: form_helper
+INFO - 2020-04-01 15:52:13 --> Helper loaded: language_helper
+INFO - 2020-04-01 15:52:13 --> Database Driver Class Initialized
+INFO - 2020-04-01 15:52:13 --> Controller Class Initialized
+DEBUG - 2020-04-01 15:52:13 --> Home MX_Controller Initialized
+INFO - 2020-04-01 15:52:13 --> Helper loaded: html_helper
+INFO - 2020-04-01 15:52:13 --> Helper loaded: cookie_helper
+INFO - 2020-04-01 15:52:13 --> Session: Class initialized using 'files' driver.
+INFO - 2020-04-01 15:52:13 --> Helper loaded: file_helper
+INFO - 2020-04-01 15:52:13 --> MY_Model class loaded
+INFO - 2020-04-01 15:52:13 --> Model "Language_model" initialized
+INFO - 2020-04-01 15:52:13 --> Language file loaded: language/vietnamese/home_lang.php
+INFO - 2020-04-01 15:52:13 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-04-01 15:52:13 --> Helper loaded: inflector_helper
+INFO - 2020-04-01 15:52:13 --> Model "Setting_model" initialized
+INFO - 2020-04-01 15:52:13 --> Model "Public_menu_model" initialized
+INFO - 2020-04-01 15:52:13 --> Model "Page_model" initialized
+INFO - 2020-04-01 15:52:13 --> Model "Solution_model" initialized
+INFO - 2020-04-01 15:52:13 --> Model "Product_model" initialized
+INFO - 2020-04-01 15:52:13 --> Model "Service_model" initialized
+INFO - 2020-04-01 15:52:13 --> Model "Manufacture_model" initialized
+INFO - 2020-04-01 15:52:13 --> Model "Category_model" initialized
+INFO - 2020-04-01 15:52:13 --> Model "Link_model" initialized
+INFO - 2020-04-01 15:52:13 --> Model "Article_model" initialized
+INFO - 2020-04-01 15:52:13 --> Model "User_model" initialized
+DEBUG - 2020-04-01 15:52:13 --> File loaded: /Volumes/Betrai/www/thienanphu/application/controllers/../modules/sliders/controllers/Sliders.php
+DEBUG - 2020-04-01 15:52:13 --> Sliders MX_Controller Initialized
+DEBUG - 2020-04-01 15:52:13 --> File loaded: /Volumes/Betrai/www/thienanphu/application/modules/sliders/models/Slider_model.php
+ERROR - 2020-04-01 15:52:13 --> Severity: Notice --> Undefined property: CI::$data /Volumes/Betrai/www/thienanphu/application/third_party/MX/Controller.php 64
+ERROR - 2020-04-01 15:52:13 --> Severity: Notice --> Indirect modification of overloaded property Sliders::$data has no effect /Volumes/Betrai/www/thienanphu/application/modules/sliders/controllers/Sliders.php 13
+ERROR - 2020-04-01 15:52:13 --> Severity: error --> Exception: Call to undefined method Sliders::render() /Volumes/Betrai/www/thienanphu/application/modules/sliders/controllers/Sliders.php 14
+INFO - 2020-04-01 15:52:22 --> Config Class Initialized
+INFO - 2020-04-01 15:52:22 --> Hooks Class Initialized
+DEBUG - 2020-04-01 15:52:22 --> UTF-8 Support Enabled
+INFO - 2020-04-01 15:52:22 --> Utf8 Class Initialized
+INFO - 2020-04-01 15:52:22 --> URI Class Initialized
+INFO - 2020-04-01 15:52:22 --> Router Class Initialized
+INFO - 2020-04-01 15:52:22 --> Output Class Initialized
+INFO - 2020-04-01 15:52:22 --> Security Class Initialized
+DEBUG - 2020-04-01 15:52:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-01 15:52:22 --> Input Class Initialized
+DEBUG - 2020-04-01 15:52:22 --> Language_Identifier Class Initialized
+INFO - 2020-04-01 15:52:22 --> Language Class Initialized
+INFO - 2020-04-01 15:52:22 --> Config Class Initialized
+INFO - 2020-04-01 15:52:22 --> Loader Class Initialized
+INFO - 2020-04-01 15:52:22 --> Helper loaded: url_helper
+INFO - 2020-04-01 15:52:22 --> Helper loaded: form_helper
+INFO - 2020-04-01 15:52:22 --> Helper loaded: language_helper
+INFO - 2020-04-01 15:52:22 --> Database Driver Class Initialized
+INFO - 2020-04-01 15:52:22 --> Controller Class Initialized
+DEBUG - 2020-04-01 15:52:22 --> Home MX_Controller Initialized
+INFO - 2020-04-01 15:52:22 --> Helper loaded: html_helper
+INFO - 2020-04-01 15:52:22 --> Helper loaded: cookie_helper
+INFO - 2020-04-01 15:52:22 --> Session: Class initialized using 'files' driver.
+INFO - 2020-04-01 15:52:22 --> Helper loaded: file_helper
+INFO - 2020-04-01 15:52:22 --> MY_Model class loaded
+INFO - 2020-04-01 15:52:22 --> Model "Language_model" initialized
+INFO - 2020-04-01 15:52:22 --> Language file loaded: language/vietnamese/home_lang.php
+INFO - 2020-04-01 15:52:22 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-04-01 15:52:22 --> Helper loaded: inflector_helper
+INFO - 2020-04-01 15:52:22 --> Model "Public_menu_model" initialized
+INFO - 2020-04-01 15:52:22 --> Model "Page_model" initialized
+INFO - 2020-04-01 15:52:22 --> Model "Solution_model" initialized
+INFO - 2020-04-01 15:52:22 --> Model "Product_model" initialized
+INFO - 2020-04-01 15:52:22 --> Model "Service_model" initialized
+INFO - 2020-04-01 15:52:22 --> Model "Manufacture_model" initialized
+INFO - 2020-04-01 15:52:22 --> Model "Category_model" initialized
+INFO - 2020-04-01 15:52:22 --> Model "Link_model" initialized
+INFO - 2020-04-01 15:52:22 --> Model "Article_model" initialized
+INFO - 2020-04-01 15:52:22 --> Model "User_model" initialized
+DEBUG - 2020-04-01 15:52:22 --> File loaded: /Volumes/Betrai/www/thienanphu/application/controllers/../modules/sliders/controllers/Sliders.php
+DEBUG - 2020-04-01 15:52:22 --> Sliders MX_Controller Initialized
+DEBUG - 2020-04-01 15:52:22 --> File loaded: /Volumes/Betrai/www/thienanphu/application/modules/sliders/models/Slider_model.php
+ERROR - 2020-04-01 15:52:22 --> Severity: Notice --> Undefined property: CI::$data /Volumes/Betrai/www/thienanphu/application/third_party/MX/Controller.php 64
+ERROR - 2020-04-01 15:52:22 --> Severity: Notice --> Indirect modification of overloaded property Sliders::$data has no effect /Volumes/Betrai/www/thienanphu/application/modules/sliders/controllers/Sliders.php 13
+ERROR - 2020-04-01 15:52:22 --> Severity: error --> Exception: Call to undefined method Sliders::render() /Volumes/Betrai/www/thienanphu/application/modules/sliders/controllers/Sliders.php 14
+INFO - 2020-04-01 15:52:24 --> Config Class Initialized
+INFO - 2020-04-01 15:52:24 --> Hooks Class Initialized
+DEBUG - 2020-04-01 15:52:24 --> UTF-8 Support Enabled
+INFO - 2020-04-01 15:52:24 --> Utf8 Class Initialized
+INFO - 2020-04-01 15:52:24 --> URI Class Initialized
+INFO - 2020-04-01 15:52:24 --> Router Class Initialized
+INFO - 2020-04-01 15:52:24 --> Output Class Initialized
+INFO - 2020-04-01 15:52:24 --> Security Class Initialized
+DEBUG - 2020-04-01 15:52:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-01 15:52:24 --> Input Class Initialized
+DEBUG - 2020-04-01 15:52:24 --> Language_Identifier Class Initialized
+INFO - 2020-04-01 15:52:24 --> Language Class Initialized
+INFO - 2020-04-01 15:52:24 --> Config Class Initialized
+INFO - 2020-04-01 15:52:24 --> Loader Class Initialized
+INFO - 2020-04-01 15:52:24 --> Helper loaded: url_helper
+INFO - 2020-04-01 15:52:24 --> Helper loaded: form_helper
+INFO - 2020-04-01 15:52:24 --> Helper loaded: language_helper
+INFO - 2020-04-01 15:52:24 --> Database Driver Class Initialized
+INFO - 2020-04-01 15:52:24 --> Controller Class Initialized
+DEBUG - 2020-04-01 15:52:24 --> Home MX_Controller Initialized
+INFO - 2020-04-01 15:52:24 --> Helper loaded: html_helper
+INFO - 2020-04-01 15:52:24 --> Helper loaded: cookie_helper
+INFO - 2020-04-01 15:52:24 --> Session: Class initialized using 'files' driver.
+INFO - 2020-04-01 15:52:24 --> Helper loaded: file_helper
+INFO - 2020-04-01 15:52:24 --> MY_Model class loaded
+INFO - 2020-04-01 15:52:24 --> Model "Language_model" initialized
+INFO - 2020-04-01 15:52:24 --> Language file loaded: language/vietnamese/home_lang.php
+INFO - 2020-04-01 15:52:24 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-04-01 15:52:24 --> Helper loaded: inflector_helper
+INFO - 2020-04-01 15:52:24 --> Model "Public_menu_model" initialized
+INFO - 2020-04-01 15:52:24 --> Model "Page_model" initialized
+INFO - 2020-04-01 15:52:24 --> Model "Solution_model" initialized
+INFO - 2020-04-01 15:52:24 --> Model "Product_model" initialized
+INFO - 2020-04-01 15:52:24 --> Model "Service_model" initialized
+INFO - 2020-04-01 15:52:24 --> Model "Manufacture_model" initialized
+INFO - 2020-04-01 15:52:24 --> Model "Category_model" initialized
+INFO - 2020-04-01 15:52:24 --> Model "Link_model" initialized
+INFO - 2020-04-01 15:52:24 --> Model "Article_model" initialized
+INFO - 2020-04-01 15:52:24 --> Model "User_model" initialized
+DEBUG - 2020-04-01 15:52:24 --> File loaded: /Volumes/Betrai/www/thienanphu/application/controllers/../modules/sliders/controllers/Sliders.php
+DEBUG - 2020-04-01 15:52:24 --> Sliders MX_Controller Initialized
+DEBUG - 2020-04-01 15:52:24 --> File loaded: /Volumes/Betrai/www/thienanphu/application/modules/sliders/models/Slider_model.php
+ERROR - 2020-04-01 15:52:24 --> Severity: Notice --> Undefined property: CI::$data /Volumes/Betrai/www/thienanphu/application/third_party/MX/Controller.php 64
+ERROR - 2020-04-01 15:52:24 --> Severity: Notice --> Indirect modification of overloaded property Sliders::$data has no effect /Volumes/Betrai/www/thienanphu/application/modules/sliders/controllers/Sliders.php 13
+ERROR - 2020-04-01 15:52:24 --> Severity: error --> Exception: Call to undefined method Sliders::render() /Volumes/Betrai/www/thienanphu/application/modules/sliders/controllers/Sliders.php 14
+INFO - 2020-04-01 15:53:17 --> Config Class Initialized
+INFO - 2020-04-01 15:53:17 --> Hooks Class Initialized
+DEBUG - 2020-04-01 15:53:17 --> UTF-8 Support Enabled
+INFO - 2020-04-01 15:53:17 --> Utf8 Class Initialized
+INFO - 2020-04-01 15:53:17 --> URI Class Initialized
+INFO - 2020-04-01 15:53:17 --> Router Class Initialized
+INFO - 2020-04-01 15:53:17 --> Output Class Initialized
+INFO - 2020-04-01 15:53:17 --> Security Class Initialized
+DEBUG - 2020-04-01 15:53:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-01 15:53:17 --> Input Class Initialized
+DEBUG - 2020-04-01 15:53:17 --> Language_Identifier Class Initialized
+INFO - 2020-04-01 15:53:17 --> Language Class Initialized
+INFO - 2020-04-01 15:53:17 --> Config Class Initialized
+INFO - 2020-04-01 15:53:17 --> Loader Class Initialized
+INFO - 2020-04-01 15:53:17 --> Helper loaded: url_helper
+INFO - 2020-04-01 15:53:17 --> Helper loaded: form_helper
+INFO - 2020-04-01 15:53:17 --> Helper loaded: language_helper
+INFO - 2020-04-01 15:53:17 --> Database Driver Class Initialized
+INFO - 2020-04-01 15:53:17 --> Controller Class Initialized
+DEBUG - 2020-04-01 15:53:17 --> Home MX_Controller Initialized
+INFO - 2020-04-01 15:53:17 --> Helper loaded: html_helper
+INFO - 2020-04-01 15:53:17 --> Helper loaded: cookie_helper
+INFO - 2020-04-01 15:53:17 --> Session: Class initialized using 'files' driver.
+INFO - 2020-04-01 15:53:17 --> Helper loaded: file_helper
+INFO - 2020-04-01 15:53:17 --> MY_Model class loaded
+INFO - 2020-04-01 15:53:17 --> Model "Language_model" initialized
+INFO - 2020-04-01 15:53:17 --> Language file loaded: language/vietnamese/home_lang.php
+INFO - 2020-04-01 15:53:17 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-04-01 15:53:17 --> Helper loaded: inflector_helper
+INFO - 2020-04-01 15:53:17 --> Model "Setting_model" initialized
+INFO - 2020-04-01 15:53:17 --> Model "Public_menu_model" initialized
+INFO - 2020-04-01 15:53:17 --> Model "Page_model" initialized
+INFO - 2020-04-01 15:53:17 --> Model "Solution_model" initialized
+INFO - 2020-04-01 15:53:17 --> Model "Product_model" initialized
+INFO - 2020-04-01 15:53:17 --> Model "Service_model" initialized
+INFO - 2020-04-01 15:53:17 --> Model "Manufacture_model" initialized
+INFO - 2020-04-01 15:53:17 --> Model "Category_model" initialized
+INFO - 2020-04-01 15:53:17 --> Model "Link_model" initialized
+INFO - 2020-04-01 15:53:17 --> Model "Article_model" initialized
+INFO - 2020-04-01 15:53:17 --> Model "User_model" initialized
+DEBUG - 2020-04-01 15:53:17 --> File loaded: /Volumes/Betrai/www/thienanphu/application/controllers/../modules/sliders/controllers/Sliders.php
+DEBUG - 2020-04-01 15:53:17 --> Sliders MX_Controller Initialized
+DEBUG - 2020-04-01 15:53:17 --> File loaded: /Volumes/Betrai/www/thienanphu/application/modules/sliders/models/Slider_model.php
+ERROR - 2020-04-01 15:53:17 --> Could not find the language line "Dịch vụ cung cấp"
+ERROR - 2020-04-01 15:53:17 --> Could not find the language line "Tư vấn miễn phí"
+ERROR - 2020-04-01 15:53:17 --> Could not find the language line "Tư vấn miễn phí"
+DEBUG - 2020-04-01 15:53:17 --> File loaded: /Volumes/Betrai/www/thienanphu/application/modules/sliders/views/sliders.php
+DEBUG - 2020-04-01 15:53:17 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/module_view.php
+ERROR - 2020-04-01 15:53:17 --> Could not find the language line "find out"
+DEBUG - 2020-04-01 15:53:17 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_about.php
+DEBUG - 2020-04-01 15:53:17 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_parallax.php
+DEBUG - 2020-04-01 15:53:17 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_solutions.php
+DEBUG - 2020-04-01 15:53:17 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_parallax.php
+DEBUG - 2020-04-01 15:53:17 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_services.php
+DEBUG - 2020-04-01 15:53:17 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_funfact.php
+ERROR - 2020-04-01 15:53:17 --> Severity: Notice --> Undefined property: stdClass::$category /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 15:53:17 --> Severity: Warning --> reset() expects parameter 1 to be array, null given /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 19
+ERROR - 2020-04-01 15:53:17 --> Severity: Notice --> Trying to get property 'slug' of non-object /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 19
+ERROR - 2020-04-01 15:53:17 --> Could not find the language line "view more"
+ERROR - 2020-04-01 15:53:17 --> Severity: Notice --> Undefined property: stdClass::$category /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 15:53:17 --> Severity: Warning --> reset() expects parameter 1 to be array, null given /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 19
+ERROR - 2020-04-01 15:53:17 --> Severity: Notice --> Trying to get property 'slug' of non-object /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 19
+ERROR - 2020-04-01 15:53:17 --> Could not find the language line "view more"
+ERROR - 2020-04-01 15:53:17 --> Severity: Notice --> Undefined property: stdClass::$category /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 15:53:17 --> Severity: Warning --> reset() expects parameter 1 to be array, null given /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 19
+ERROR - 2020-04-01 15:53:17 --> Severity: Notice --> Trying to get property 'slug' of non-object /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 19
+ERROR - 2020-04-01 15:53:17 --> Could not find the language line "view more"
+ERROR - 2020-04-01 15:53:17 --> Severity: Notice --> Undefined property: stdClass::$category /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 15:53:17 --> Severity: Warning --> reset() expects parameter 1 to be array, null given /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 19
+ERROR - 2020-04-01 15:53:17 --> Severity: Notice --> Trying to get property 'slug' of non-object /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 19
+ERROR - 2020-04-01 15:53:17 --> Could not find the language line "view more"
+ERROR - 2020-04-01 15:53:17 --> Severity: Notice --> Undefined property: stdClass::$category /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 15:53:17 --> Severity: Warning --> reset() expects parameter 1 to be array, null given /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 19
+ERROR - 2020-04-01 15:53:17 --> Severity: Notice --> Trying to get property 'slug' of non-object /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 19
+ERROR - 2020-04-01 15:53:17 --> Could not find the language line "view more"
+ERROR - 2020-04-01 15:53:17 --> Severity: Notice --> Undefined property: stdClass::$category /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 15:53:17 --> Severity: Warning --> reset() expects parameter 1 to be array, null given /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 19
+ERROR - 2020-04-01 15:53:17 --> Severity: Notice --> Trying to get property 'slug' of non-object /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 19
+ERROR - 2020-04-01 15:53:17 --> Could not find the language line "view more"
+DEBUG - 2020-04-01 15:53:17 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php
+DEBUG - 2020-04-01 15:53:17 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/default/home/index_view.php
+ERROR - 2020-04-01 15:53:17 --> Could not find the language line "home"
+ERROR - 2020-04-01 15:53:17 --> Could not find the language line "Giới thiệu"
+ERROR - 2020-04-01 15:53:17 --> Could not find the language line "Dịch vụ thương mại"
+ERROR - 2020-04-01 15:53:17 --> Could not find the language line "Lĩnh vực hoạt động"
+DEBUG - 2020-04-01 15:53:17 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/mega_menu_content.php
+ERROR - 2020-04-01 15:53:17 --> Could not find the language line "Tư Vấn Giải Pháp CNTT"
+ERROR - 2020-04-01 15:53:17 --> Could not find the language line "Bảo Hành & Bảo Trì"
+ERROR - 2020-04-01 15:53:17 --> Could not find the language line "Triển khai & lắp đặt"
+ERROR - 2020-04-01 15:53:17 --> Could not find the language line "Kho bãi - vận chuyển"
+ERROR - 2020-04-01 15:53:17 --> Could not find the language line "Brothers"
+ERROR - 2020-04-01 15:53:17 --> Could not find the language line "Dell"
+ERROR - 2020-04-01 15:53:17 --> Could not find the language line "Hkvision"
+ERROR - 2020-04-01 15:53:17 --> Could not find the language line "HP"
+ERROR - 2020-04-01 15:53:17 --> Could not find the language line "Panasonic"
+ERROR - 2020-04-01 15:53:17 --> Could not find the language line "Sony"
+ERROR - 2020-04-01 15:53:17 --> Could not find the language line "Tin Hoạt Động"
+ERROR - 2020-04-01 15:53:17 --> Could not find the language line "Tin Công Nghệ"
+ERROR - 2020-04-01 15:53:17 --> Could not find the language line "Sự Kiện"
+ERROR - 2020-04-01 15:53:17 --> Could not find the language line "Góc báo chí"
+ERROR - 2020-04-01 15:53:17 --> Could not find the language line "Tuyển dụng"
+DEBUG - 2020-04-01 15:53:17 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/mega_menu.php
+ERROR - 2020-04-01 15:53:17 --> Could not find the language line "Search"
+DEBUG - 2020-04-01 15:53:17 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_header_view.php
+DEBUG - 2020-04-01 15:53:17 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_footer_view.php
+DEBUG - 2020-04-01 15:53:17 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/master_view.php
+INFO - 2020-04-01 15:53:17 --> Final output sent to browser
+DEBUG - 2020-04-01 15:53:17 --> Total execution time: 0.2139
+INFO - 2020-04-01 15:53:17 --> Config Class Initialized
+INFO - 2020-04-01 15:53:17 --> Hooks Class Initialized
+DEBUG - 2020-04-01 15:53:17 --> UTF-8 Support Enabled
+INFO - 2020-04-01 15:53:17 --> Utf8 Class Initialized
+INFO - 2020-04-01 15:53:17 --> URI Class Initialized
+DEBUG - 2020-04-01 15:53:17 --> No URI present. Default controller set.
+INFO - 2020-04-01 15:53:17 --> Router Class Initialized
+INFO - 2020-04-01 15:53:17 --> Output Class Initialized
+INFO - 2020-04-01 15:53:17 --> Security Class Initialized
+DEBUG - 2020-04-01 15:53:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-01 15:53:17 --> Input Class Initialized
+INFO - 2020-04-01 15:53:18 --> Config Class Initialized
+INFO - 2020-04-01 15:53:18 --> Hooks Class Initialized
+DEBUG - 2020-04-01 15:53:18 --> UTF-8 Support Enabled
+INFO - 2020-04-01 15:53:18 --> Utf8 Class Initialized
+INFO - 2020-04-01 15:53:18 --> URI Class Initialized
+INFO - 2020-04-01 15:53:18 --> Router Class Initialized
+INFO - 2020-04-01 15:53:18 --> Output Class Initialized
+INFO - 2020-04-01 15:53:18 --> Security Class Initialized
+DEBUG - 2020-04-01 15:53:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-01 15:53:18 --> Input Class Initialized
+DEBUG - 2020-04-01 15:53:18 --> Language_Identifier Class Initialized
+INFO - 2020-04-01 15:53:18 --> Language Class Initialized
+INFO - 2020-04-01 15:53:18 --> Config Class Initialized
+INFO - 2020-04-01 15:53:18 --> Loader Class Initialized
+INFO - 2020-04-01 15:53:18 --> Helper loaded: url_helper
+INFO - 2020-04-01 15:53:18 --> Helper loaded: form_helper
+INFO - 2020-04-01 15:53:18 --> Helper loaded: language_helper
+INFO - 2020-04-01 15:53:18 --> Database Driver Class Initialized
+INFO - 2020-04-01 15:53:18 --> Controller Class Initialized
+DEBUG - 2020-04-01 15:53:18 --> Home MX_Controller Initialized
+INFO - 2020-04-01 15:53:18 --> Helper loaded: html_helper
+INFO - 2020-04-01 15:53:18 --> Helper loaded: cookie_helper
+INFO - 2020-04-01 15:53:18 --> Session: Class initialized using 'files' driver.
+INFO - 2020-04-01 15:53:18 --> Helper loaded: file_helper
+INFO - 2020-04-01 15:53:18 --> MY_Model class loaded
+INFO - 2020-04-01 15:53:18 --> Model "Language_model" initialized
+INFO - 2020-04-01 15:53:18 --> Language file loaded: language/vietnamese/home_lang.php
+INFO - 2020-04-01 15:53:18 --> Language file loaded: language/vietnamese/global_lang.php
+INFO - 2020-04-01 15:53:18 --> Helper loaded: inflector_helper
+INFO - 2020-04-01 15:53:18 --> Model "Public_menu_model" initialized
+INFO - 2020-04-01 15:53:18 --> Model "Page_model" initialized
+INFO - 2020-04-01 15:53:18 --> Model "Solution_model" initialized
+INFO - 2020-04-01 15:53:18 --> Model "Product_model" initialized
+INFO - 2020-04-01 15:53:18 --> Model "Service_model" initialized
+INFO - 2020-04-01 15:53:18 --> Model "Manufacture_model" initialized
+INFO - 2020-04-01 15:53:18 --> Model "Category_model" initialized
+INFO - 2020-04-01 15:53:18 --> Model "Link_model" initialized
+INFO - 2020-04-01 15:53:18 --> Model "Article_model" initialized
+INFO - 2020-04-01 15:53:18 --> Model "User_model" initialized
+DEBUG - 2020-04-01 15:53:18 --> File loaded: /Volumes/Betrai/www/thienanphu/application/controllers/../modules/sliders/controllers/Sliders.php
+DEBUG - 2020-04-01 15:53:18 --> Sliders MX_Controller Initialized
+DEBUG - 2020-04-01 15:53:18 --> File loaded: /Volumes/Betrai/www/thienanphu/application/modules/sliders/models/Slider_model.php
+ERROR - 2020-04-01 15:53:18 --> Could not find the language line "Dịch vụ cung cấp"
+ERROR - 2020-04-01 15:53:18 --> Could not find the language line "Tư vấn miễn phí"
+ERROR - 2020-04-01 15:53:18 --> Could not find the language line "Tư vấn miễn phí"
+DEBUG - 2020-04-01 15:53:18 --> File loaded: /Volumes/Betrai/www/thienanphu/application/modules/sliders/views/sliders.php
+DEBUG - 2020-04-01 15:53:18 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/module_view.php
+ERROR - 2020-04-01 15:53:18 --> Could not find the language line "find out"
+DEBUG - 2020-04-01 15:53:18 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_about.php
+DEBUG - 2020-04-01 15:53:18 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_parallax.php
+DEBUG - 2020-04-01 15:53:18 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_solutions.php
+DEBUG - 2020-04-01 15:53:18 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_parallax.php
+DEBUG - 2020-04-01 15:53:18 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_services.php
+DEBUG - 2020-04-01 15:53:18 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_funfact.php
+ERROR - 2020-04-01 15:53:18 --> Severity: Notice --> Undefined property: stdClass::$category /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 15:53:18 --> Severity: Warning --> reset() expects parameter 1 to be array, null given /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 19
+ERROR - 2020-04-01 15:53:18 --> Severity: Notice --> Trying to get property 'slug' of non-object /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 19
+ERROR - 2020-04-01 15:53:18 --> Could not find the language line "view more"
+ERROR - 2020-04-01 15:53:18 --> Severity: Notice --> Undefined property: stdClass::$category /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 15:53:18 --> Severity: Warning --> reset() expects parameter 1 to be array, null given /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 19
+ERROR - 2020-04-01 15:53:18 --> Severity: Notice --> Trying to get property 'slug' of non-object /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 19
+ERROR - 2020-04-01 15:53:18 --> Could not find the language line "view more"
+ERROR - 2020-04-01 15:53:18 --> Severity: Notice --> Undefined property: stdClass::$category /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 15:53:18 --> Severity: Warning --> reset() expects parameter 1 to be array, null given /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 19
+ERROR - 2020-04-01 15:53:18 --> Severity: Notice --> Trying to get property 'slug' of non-object /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 19
+ERROR - 2020-04-01 15:53:18 --> Could not find the language line "view more"
+ERROR - 2020-04-01 15:53:18 --> Severity: Notice --> Undefined property: stdClass::$category /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 15:53:18 --> Severity: Warning --> reset() expects parameter 1 to be array, null given /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 19
+ERROR - 2020-04-01 15:53:18 --> Severity: Notice --> Trying to get property 'slug' of non-object /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 19
+ERROR - 2020-04-01 15:53:18 --> Could not find the language line "view more"
+ERROR - 2020-04-01 15:53:18 --> Severity: Notice --> Undefined property: stdClass::$category /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 15:53:18 --> Severity: Warning --> reset() expects parameter 1 to be array, null given /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 19
+ERROR - 2020-04-01 15:53:18 --> Severity: Notice --> Trying to get property 'slug' of non-object /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 19
+ERROR - 2020-04-01 15:53:18 --> Could not find the language line "view more"
+ERROR - 2020-04-01 15:53:18 --> Severity: Notice --> Undefined property: stdClass::$category /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 18
+ERROR - 2020-04-01 15:53:18 --> Severity: Warning --> reset() expects parameter 1 to be array, null given /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 19
+ERROR - 2020-04-01 15:53:18 --> Severity: Notice --> Trying to get property 'slug' of non-object /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php 19
+ERROR - 2020-04-01 15:53:18 --> Could not find the language line "view more"
+DEBUG - 2020-04-01 15:53:18 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/home_news.php
+DEBUG - 2020-04-01 15:53:18 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/default/home/index_view.php
+ERROR - 2020-04-01 15:53:18 --> Could not find the language line "home"
+ERROR - 2020-04-01 15:53:18 --> Could not find the language line "Giới thiệu"
+ERROR - 2020-04-01 15:53:18 --> Could not find the language line "Dịch vụ thương mại"
+ERROR - 2020-04-01 15:53:18 --> Could not find the language line "Lĩnh vực hoạt động"
+DEBUG - 2020-04-01 15:53:18 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/mega_menu_content.php
+ERROR - 2020-04-01 15:53:18 --> Could not find the language line "Tư Vấn Giải Pháp CNTT"
+ERROR - 2020-04-01 15:53:18 --> Could not find the language line "Bảo Hành & Bảo Trì"
+ERROR - 2020-04-01 15:53:18 --> Could not find the language line "Triển khai & lắp đặt"
+ERROR - 2020-04-01 15:53:18 --> Could not find the language line "Kho bãi - vận chuyển"
+ERROR - 2020-04-01 15:53:18 --> Could not find the language line "Brothers"
+ERROR - 2020-04-01 15:53:18 --> Could not find the language line "Dell"
+ERROR - 2020-04-01 15:53:18 --> Could not find the language line "Hkvision"
+ERROR - 2020-04-01 15:53:18 --> Could not find the language line "HP"
+ERROR - 2020-04-01 15:53:18 --> Could not find the language line "Panasonic"
+ERROR - 2020-04-01 15:53:18 --> Could not find the language line "Sony"
+ERROR - 2020-04-01 15:53:18 --> Could not find the language line "Tin Hoạt Động"
+ERROR - 2020-04-01 15:53:18 --> Could not find the language line "Tin Công Nghệ"
+ERROR - 2020-04-01 15:53:18 --> Could not find the language line "Sự Kiện"
+ERROR - 2020-04-01 15:53:18 --> Could not find the language line "Góc báo chí"
+ERROR - 2020-04-01 15:53:18 --> Could not find the language line "Tuyển dụng"
+DEBUG - 2020-04-01 15:53:18 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/elements/modules/mega_menu.php
+ERROR - 2020-04-01 15:53:18 --> Could not find the language line "Search"
+DEBUG - 2020-04-01 15:53:18 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_header_view.php
+DEBUG - 2020-04-01 15:53:18 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/_parts/master_footer_view.php
+DEBUG - 2020-04-01 15:53:18 --> File loaded: /Volumes/Betrai/www/thienanphu/application/views/templates/master_view.php
+INFO - 2020-04-01 15:53:18 --> Final output sent to browser
+DEBUG - 2020-04-01 15:53:18 --> Total execution time: 0.2591

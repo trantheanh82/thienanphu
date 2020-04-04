@@ -26,12 +26,13 @@
 				<?php
 					if(!empty($items)):
 						foreach($items as $k=>$v):
+						$img = base_url().$v->image;
 						$link_edit = base_url().'admin/'.$page_name.'/edit/'.$v->id;
 						$link_delete = base_url().'admin/'.$page_name.'/edit/'.$v->id;
 					?>
 					<tr>
 						<td class='text-center'><?=$v->id?></td>
-						<td class='text-center'><a href="<?=$link_edit?>"><?=img($v->image,false,array('style'=>'max-width:50px;max-height:20px'))?></a></td>
+						<td class='text-center'><a href="<?=$link_edit?>"><?=img($img,false,array('style'=>'max-width:50px;max-height:20px'))?></a></td>
 						<td><a href="<?=$link_edit?>"><?=$v->name?></a></td>
 						<td class='text-center'><?=$v->products_count?></td>
 						<td class='text-center'><?=$v->sort?></td>

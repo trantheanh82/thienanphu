@@ -81,7 +81,7 @@ echo form_hidden('type_file',$type_file);
               </td>
               <td>
                   
-                      <button class="btn btn-danger delete" data-type="DELETE" data-url="/billfee/vn/admin/upload/delete/product?file=<?=$v['name']?>">
+                      <button class="btn btn-danger delete" data-type="DELETE" data-url="<?=base_url()?>	admin/upload/delete/product?file=<?=$v['name']?>">
                           <i class="glyphicon glyphicon-trash"></i>
                           <span>Delete</span>
                       </button>

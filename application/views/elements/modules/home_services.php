@@ -1,61 +1,41 @@
+<?php
+	$column = 4;
+	?>
 <!-- Service -->
 <section id="course_all" class='padding'>
   <div class="container">
     <div class="row">
 	    <div class="col-sm-6 col-md-4">
-        	<h2 class="heading"><span>Dịch vụ</span><span class="divider-left"></span></h2>
+        	<h2 class="heading"><span><?=lang('Services')?></span><span class="divider-left"></span></h2>
       	</div>
       	<div class='col-sm-4 col-md-8'>
       		&nbsp;
       	</div>
     </div>
     <div class="row">
-	  <div class="col-sm-6 col-md-3 equalheight" style="height: 494px;">
-        <div class="course margin_top wow fadeIn animated" data-wow-delay="400ms" style="visibility: visible; animation-delay: 400ms; animation-name: fadeIn;">
+	    <?php
+		    if(!empty($home_services)):
+		    	foreach($home_services as $k=>$v):
+		    	$img = img($v->image,'',array('alt'=>$v->name,'class'=>"border_radius"));
+		    	$link = base_url().'services/'.$v->slug;
+		    ?>
+	  <div class="col-sm-6 col-md-<?=12/$column?> equalheight">
+        <div class="course margin_top wow fadeIn" data-wow-delay="400ms">
           <div class="image bottom25">
-            <?php
-	            echo img('assets/upload/img/services/news3.jpg',array('class'=>'border_radius','alt'=>__('Services',$this)));
-	            ?>
+            <?=$img?>
           </div>
-          <h3 class="bottom20"><a href="service-detail.html">Tư Vấn Giải Pháp</a></h3>
-          <p class="bottom20">Các doanh nghiệp có nhu cầu về lưu trữ thông tin một cách thông minh, các giải pháp sao lưu, phục hồi và lưu trữ để doanh nghiệp có thể quản lý.</p>
-          <a class="btn_common yellow border_radius" href="service-detail.html">Chi tiết</a>
+          <h3 class="bottom10">
+	          <?=anchor($link,$v->name)?>
+	      </h3>
+          <p class="bottom20"><?=getSnippet(strip_tags($v->description),20)?></p>
+          <?=anchor($link,lang('view detail'),array('class'=>"btn_common yellow border_radius"))?>
         </div>
       </div>
-      <div class="col-sm-6 col-md-3 equalheight" style="height: 494px;">
-        <div class="course margin_top wow fadeIn animated" data-wow-delay="500ms" style="visibility: visible; animation-delay: 500ms; animation-name: fadeIn;">
-          <div class="image bottom25">
-            <?php
-	            echo img('assets/upload/img/services/service-deploy.jpg',array('class'=>'border_radius','alt'=>__('Services',$this)));
-	            ?>
-          </div>
-          <h3 class="bottom20"><a href="service-detail.html">Triển Khai - Lắp Đặt</a></h3>
-          <p class="bottom20">Các doanh nghiệp có nhu cầu về lưu trữ thông tin một cách thông minh, các giải pháp sao lưu, phục hồi và lưu trữ để doanh nghiệp có thể quản lý.</p>
-          <a class="btn_common yellow border_radius" href="service-detail.html">Chi tiết</a>
-        </div>
-      </div>
-      <div class="col-sm-6 col-md-3 equalheight" style="height: 494px;">
-        <div class="course margin_top wow fadeIn animated" data-wow-delay="600ms" style="visibility: visible; animation-delay: 600ms; animation-name: fadeIn;">
-          <div class="image bottom25">
-            <?=img('assets/upload/img/services/service-guarantee.jpg',array('class'=>'border_radius','alt'=>__('Services',$this)));?>
-          </div>
-          <h3 class="bottom20"><a href="service-detail.html">Bảo Hành - Bảo Trì</a></h3>
-          <p class="bottom20">Các doanh nghiệp có nhu cầu về lưu trữ thông tin một cách thông minh, các giải pháp sao lưu, phục hồi và lưu trữ để doanh nghiệp có thể quản lý.</p>
-          <a class="btn_common yellow border_radius" href="service-detail.html">Chi tiết</a>
-        </div>
-      </div>
-      <div class="col-sm-6 col-md-3 equalheight" style="height: 494px;">
-        <div class="course margin_top  wow fadeIn animated" data-wow-delay="700ms" style="visibility: visible; animation-delay: 700ms; animation-name: fadeIn;">
-          <div class="image bottom25">
-            <?=img('assets/upload/img/services/service-shipping.jpg',array('class'=>'border_radius','alt'=>__('Services',$this)));?>
-            
-          </div>
-          <h3 class="bottom20"><a href="service-detail.html">Kho bãi - Vận Chuyển</a></h3>
-          <p class="bottom20">Các doanh nghiệp có nhu cầu về lưu trữ thông tin một cách thông minh, các giải pháp sao lưu, phục hồi và lưu trữ để doanh nghiệp có thể quản lý.</p>
-          <a class="btn_common yellow border_radius" href="service-detail.html">Chi tiết</a>
-        </div>
-      </div>
-
+      <?php
+	      	endforeach;
+	      endif;
+	      ?>
+      
     </div>
   </div>
 </section>

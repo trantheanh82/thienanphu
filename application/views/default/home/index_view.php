@@ -10,7 +10,7 @@
 	
 	$this->load->view('elements/modules/home_parallax',array('background_image'=>'blink-edited.jpg'));
 	
-	$this->load->view('elements/modules/home_services',array('home_services'=>""));
+	$this->load->view('elements/modules/home_services',array('home_services'=>$home_services));
 	
 	$this->load->view('elements/modules/home_funfact',array('funcfact'=>""));
 	

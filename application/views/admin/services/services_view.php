@@ -28,10 +28,11 @@
 				<?php
 					if(!empty($items)):
 						foreach($items as $k=>$v):
+						$img = img(base_url().$v->image,'',array('width'=>100));
 					?>
 					<tr>
 						<td class='text-center'><?=$v->id?></td>
-						<td class='text-center'><a href="<?=base_url()?>admin/services/edit/<?=$v->id?>"><img src="<?=$v->image?>" width="100"/></a>
+						<td class='text-center'><a href="<?=base_url()?>admin/services/edit/<?=$v->id?>"><?=$img?></a>
 						<td><a href="<?=base_url()?>admin/services/edit/<?=$v->id?>"><?=$v->name?></a></td>
 						<td><?=getSnippet($v->description,10)?> [<a href="<?=base_url()?>admin/services/edit/<?=$v->id?>">...</a>]</td>
 						<td class='text-center'><?=$v->created_at?></td>

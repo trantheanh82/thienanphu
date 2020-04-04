@@ -32,13 +32,15 @@ class Home extends Public_Controller {
 		$this->load->model('article_model');
 		$this->load->model('solution_model');
 		$this->load->model('page_model');
+		$this->load->model('service_model');
 		
-		$this->data['home_article'] = $this->article_model->with_category('fields:slug','where:`categories`.`active`=\'Y\'')->limit(6)->where('active','Y')->order_by('created_at','DESC')->get_all();
+		$this->data['home_article'] = $this->article_model->with_categories('fields:slug','where:`categories`.`active`=\'Y\'')->limit(6)->where('active','Y')->order_by('created_at','DESC')->get_all();
 		
 		$this->data['home_solutions'] = $this->solution_model->get_home_solutions();
 		
 		$this->data['home_about'] = $this->page_model->get_page_home();
 		
+		$this->data['home_services'] = $this->service_model->get_services();
 		$this->render('default/home/index_view');
 
 	}

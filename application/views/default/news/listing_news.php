@@ -10,6 +10,7 @@
 		    
 		      	foreach($items as $k=>$item):
 		      	 $link = '/news/'.$category->slug.'/'.$item->id.'-'.$item->slug;
+		      	 $img = img(base_url().$item->image,'',array('atl'=>'blog','class'=>'border_raidus'));
 		      ?>
 		      
         <article class="blog_item heading_space wow fadeInLeft" data-wow-delay="300ms">
@@ -17,7 +18,7 @@
             <div class="col-md-5 col-sm-5 heading_space">
               <div class="image">
 	              <!--<a href="news-detail.html"><img src="images/blog1.jpg" alt="blog" class="border_radius"></a>-->
-				  <?=anchor($link,img($item->image,true,array('atl'=>'blog','class'=>'border_raidus')))?>
+				  <?=anchor($link,$img)?>
 				</div>
             </div>
             <div class="col-md-7 col-sm-7 heading_space">

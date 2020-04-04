@@ -17,7 +17,7 @@
       <div class="col-sm-4 icon_box text-center margin_tophalf wow fadeInUp" data-wow-delay="300ms" data-url="<?=$link?>">
          <i class="<?=$v->icon?>"></i>
          <h4 class="text-uppercase bottom20 margin10"><?=$v->name?></h4>
-         <p class="no_bottom"><?=getSnippet($v->description,15)?></p>
+         <p class="no_bottom"><?=getSnippet(strip_tags($v->description),15)?></p>
       </div>
       <?php
 	      endforeach;
