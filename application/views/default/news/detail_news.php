@@ -64,7 +64,7 @@
       <div class="col-md-4	">
         <aside class="sidebar bg_grey border-radius wow fadeIn" data-wow-delay="300ms">
           
-          <?=$this->load->view('elements/modules/module_search')?>
+          <?php //$this->load->view('elements/modules/module_search')?>
           
           <?=$this->load->view('elements/modules/module_news_categories',array('categories'=>$other_category))?>
           

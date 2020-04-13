@@ -2863,12 +2863,18 @@ footer .footer_panel p.address > i, .services p.address > i {
 }
 
 }
+
+
 @media screen and (max-width:1024px){
 nav.navbar.bootsnav.navbar-fixed .logo-display,
 nav.navbar.bootsnav.navbar-fixed .navbar-brand > .logo-display,
 .logo-display{
   display: none !important;
 }
+
+nav.navbar.bootsnav ul.nav > li > a, nav.navbar.bootsnav.navbar-fixed.no-background ul.nav > li > a {
+    	padding: 31px 12px;
+	}
 }
 @media screen and (max-width:992px){
 	html{
@@ -2937,6 +2943,7 @@ nav.navbar.bootsnav #menu_bars{
 }
 
 }
+
 
 @media screen and (max-width:767px){
 html{

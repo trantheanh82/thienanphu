@@ -138,6 +138,8 @@ class Product_model extends MY_Model
 	    $item = $this->with_images('fields:id,image')->with_manufacture('fields:id,name,slug')->with_solution('fields:id,name,slug')->with_product_type('fields:name,id')->where(array('active'=>'Y','slug'=>$slug))->get();
 	    if(!empty($item->images->image)){
 		    $item->images = unserialize($item->images->image);
+	    }else{
+		    $item->images = "";
 	    }
 	    
 	    return $item;

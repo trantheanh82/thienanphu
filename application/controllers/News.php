@@ -66,12 +66,12 @@ class News extends Public_Controller {
 		$this->data['page_header_title'] = $this->data['category']->name;
 		$this->data['page_header_description'] = $this->data['category']->description;
 		
-		$this->data['item'] = $this->article_model->with_category('fields:slug,name','where:`model`=\'article\' AND `categories.slug`=\''.$category_slug.'\'')->with_user()->where(array('active'=>'Y','id'=>$article_id))->get();
+		$this->data['item'] = $this->article_model->with_categories('fields:slug,name','where:`model`=\'article\' AND `categories.slug`=\''.$category_slug.'\'')->with_user()->where(array('active'=>'Y','id'=>$article_id))->get();
+			
 		
-		$this->data['nitem'] = $this->article_model->with_category('fields:id,slug','where:`model`=\'article\' AND `categories.slug`=\''.$category_slug.'\'')->where(array('created_at >' => $this->data['item']->created_at))->limit(1)->order_by('created_at','ASC')->fields(array('id','slug','image','title','created_at'))->get();
+		$this->data['nitem'] = $this->article_model->with_categories('fields:id,slug','where:`model`=\'article\' AND `categories.slug`=\''.$category_slug.'\'')->with_user()->where(array('created_at >' => $this->data['item']->created_at))->limit(1)->order_by('created_at','ASC')->fields(array('id','slug','image','title','created_at'))->get();
 		
-
-		$this->data['pitem'] = $this->article_model->with_category('fields:id,slug','where:`model`=\'article\' AND `categories.slug`=\''.$category_slug.'\'')->where(array('created_at <' => $this->data['item']->created_at))->limit(1)->order_by('created_at','DESC')->fields(array('id','slug','image','title','created_at'))->get();
+		$this->data['pitem'] = $this->article_model->with_categories('fields:id,slug','where:`model`=\'article\' AND `categories.slug`=\''.$category_slug.'\'')->where(array('created_at <' => $this->data['item']->created_at))->limit(1)->order_by('created_at','DESC')->fields(array('id','slug','image','title','created_at'))->get();
 		$this->data['category_slug'] = $category_slug;
 		
 		

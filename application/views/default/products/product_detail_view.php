@@ -6,7 +6,9 @@
       <div class="col-md-5 col-sm-5 wow fadeInLeft" data-wow-delay="400ms">
         <div class="image">
           <?php
+	          if(!empty($item->images)):
 	          echo img('assets/upload/product/medium/'.$item->images[0]['name'],'',array('class'=>"img-responsive border-radius","id"=>"product_image"));
+	          endif;
 	          ?>
           <div class="overlay border-radius text-center"></div>
         </div>

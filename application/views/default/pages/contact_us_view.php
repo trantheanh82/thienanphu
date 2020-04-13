@@ -11,7 +11,7 @@
         <div class="address">
           <i class="icon icon-map-pin border_radius"></i>
           <h4><?=lang('company address')?></h4>
-          <p><?=$Settings['company_address_1']?></p>
+          <p><?=anchor("https://www.google.com/maps/search/".$Settings['company_address_1'],$Settings['company_address_1'],array('target'=>'_blank'))?></p>
         </div>
         <?php
 	        endif;
@@ -92,7 +92,8 @@
     </div>
     <div class="row wow bounceIn" data-wow-delay="300ms">
       <div class="col-md-12">
-        <div id="map"></div>
+        <!--<div id="map"></div>-->
+        <?=anchor("https://www.google.com/maps/place/Khu+c%C4%83n+h%E1%BB%99+cao+%E1%BB%91c+Ph%C3%BA+Ho%C3%A0ng+Anh+1/@10.7168673,106.7036746,17z/data=!4m5!3m4!1s0x31752fe91361f00f:0xaf391795df3bfa97!8m2!3d10.7167197!4d106.7038033",img('assets/img/thienanphu-map.gif',false,array('alt'=>"Địa chỉ công ty Thiên An Phú",'class'=>"img-responsive")),array('target'=>'_blank')) ?>
       </div>
     </div>
   </div>

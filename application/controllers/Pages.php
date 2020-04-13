@@ -10,7 +10,7 @@ class Pages extends Public_Controller {
 		$this->load->language('pages_lang');
 	}
 	
-	public function index($slug){
+	public function index($slug = 'gioi-thieu'){
 		$this->data['item'] = $this->page_model->where(array('active'=>'Y','slug'=>$slug))->get();
 		$this->data['page_header_title'] = $this->data['item']->name;
 		
