@@ -27,7 +27,7 @@
           <h3 class="bottom10">
 	          <?=anchor($link,$v->name)?>
 	      </h3>
-          <p class="bottom20"><?=getSnippet(strip_tags($v->description),20)?></p>
+          <p class="bottom20 top10"><?=getSnippet(strip_tags($v->description),20)?></p>
           <?=anchor($link,lang('view detail'),array('class'=>"btn_common yellow border_radius"))?>
         </div>
       </div>
@@ -35,7 +35,7 @@
 	      	endforeach;
 	      endif;
 	      ?>
-      
+
     </div>
   </div>
 </section>
