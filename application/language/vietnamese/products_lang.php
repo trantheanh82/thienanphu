@@ -1,5 +1,5 @@
 <?php
-	
+
 $lang['Products'] 	=	"Sản phẩm";
 $lang['General']	=	"Thông tin chung";
 $lang['Images']		=	"Hình ảnh";
@@ -24,6 +24,8 @@ $lang['Information Detail']		=	"Thông tin chi tiết";
 $lang['Specifications']			=	"Thông số kỹ thuật";
 $lang['General Information']	=	"Thông tin chung";
 $lang['Category']			=	"Danh mục";
+
+$lang['Technical Details']	=	"Thông tin chi tiết";
 
 $lang['Related Products']	=	"Sản phẩm liên quan";
 

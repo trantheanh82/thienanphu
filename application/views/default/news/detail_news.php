@@ -16,7 +16,7 @@
             <!--<li><a href="#."><i class="icon-comment"></i> 5</a></li>-->
           </ul>
           <?=$item->content?>
-            
+
         </article>
         <?=$this->load->view('elements/modules/module_share_social',array('class'=>"share clearfix heading_space"))?>
         <div class="row">
@@ -35,7 +35,7 @@
 		          echo anchor('/news/'.$category_slug.'/'.$pitem->id.'-'.$pitem->slug,getSnippet($pitem->title,10).' ...',array('class'=>'post_title'))?>
 	          </div>
 	          </article>
-	          <?php 
+	          <?php
 		          endif;
 		          ?>
 	        </div>
@@ -48,7 +48,7 @@
 		          <div class="text">
 		          <i class="link"><?=lang('Next')?></i>
 		          <?php
-		          echo anchor('/news/'.$category_slug.'/'.$nitem->id.'-'.$nitem->slug,getSnippet($nitem->title,10).' ...',array('class'=>'post_title'))?>
+		          echo anchor('/news/'.$category_slug.'/'.$nitem->id.'-'.$nitem->slug,getSnippet(strip_tags($nitem->title),10).' ...',array('class'=>'post_title'))?>
 		          </div>
 		          <span class="post_img">
 		          	<?=img(base_url().$nitem->image,true,array('alt'=>$nitem->title,'width'=>'100'))?>
@@ -59,19 +59,19 @@
 			          endif;
 			          ?>
 	        </div>
-        </div>  
+        </div>
       </div>
       <div class="col-md-4	">
         <aside class="sidebar bg_grey border-radius wow fadeIn" data-wow-delay="300ms">
-          
+
           <?php //$this->load->view('elements/modules/module_search')?>
-          
+
           <?=$this->load->view('elements/modules/module_news_categories',array('categories'=>$other_category))?>
-          
+
           <?=$this->load->view('elements/modules/module_services',array('module_services'=>$module_services))?>
-          
+
 		  <?=$this->load->view('elements/modules/module_solutions',array('solutions'=>$module_solutions))?>
-		  
+
           <?php //$this->load->view('elements/modules/module_tags')?>
         </aside>
       </div>
