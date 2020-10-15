@@ -15,8 +15,8 @@
           <div id="news_slider" class="owl-carousel">
 	          <?php
 		          foreach($home_news as $k => $news):
-		          pr($news->category);
-		          	$link = base_url().'news/'.reset($news->category)[0]->slug.'/'.$news->id.'-'.$news->slug;
+
+		          	$link = base_url().'news/'.reset($news->categories)->slug.'/'.$news->id.'-'.$news->slug;
 		          ?>
             <div class="item">
               <div class="content_wrap">
