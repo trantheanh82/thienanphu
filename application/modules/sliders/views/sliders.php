@@ -11,7 +11,7 @@
         <!-- MAIN IMAGE -->
         <!--<img src="images/banner5.jpg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgparallax="10" class="rev-slidebg">-->
         <?php
-	        echo img($slider->image,false,array("alt"=>$Settings['company_name'].' '.$slider->tag_line,"data-bgposition"=>"center center","data-bgfit"=>"cover", "data-bgparallax"=>"10", "class"=>"rev-slidebg"));
+	        echo img($slider->image,true,array("alt"=>$Settings['company_name'].' '.$slider->tag_line,"data-bgposition"=>"center center","data-bgfit"=>"cover", "data-bgparallax"=>"10", "class"=>"rev-slidebg"));
 	        ?>
 	    <?php
 		    if(!empty($slider->tag_line)):
