@@ -26,8 +26,8 @@ jQuery(function ($) {
     }, 700);
     return false;
   });
-  
-  
+
+
   //Header Scroll
 	var stickyheader=$("header#boxed");
    $(window).on("scroll", function(event) {
@@ -36,12 +36,12 @@ jQuery(function ($) {
         } else {
             stickyheader.removeClass("stick");
         }
-		  event.preventDefault(); 
+		  event.preventDefault();
     });
-	 
-	 
 
-  // Push Menus 
+
+
+  // Push Menus
   var $menuRight = $(".pushmenu-right");
   var $toggleright = $("#menu_bars.right");
   if ($("#menu_bars").length) {
@@ -54,7 +54,7 @@ jQuery(function ($) {
     });
   }
 
-  //push DropDowns 
+  //push DropDowns
   var side_drop = $('.push_nav .dropdown');
   side_drop.on('show.bs.dropdown', function (e) {
     $(this).find('.dropdown-menu').first().stop(true, true).slideDown();
@@ -63,7 +63,7 @@ jQuery(function ($) {
     $(this).find('.dropdown-menu').first().stop(true, true).slideUp();
   });
 
-  // ************ Accordions 
+  // ************ Accordions
   $(".items > li:first-child .sub-items").fadeIn();
   $(".items > li:first-child >").addClass("expanded");
   $(".items > li > a").on('click', function (e) {
@@ -92,14 +92,14 @@ jQuery(function ($) {
       $(this).removeClass("open");
     }
   });
-  
+
    /*Equal Heights*/
     if($(".equalheight").length){
         $(".equalheight").matchHeight({ property: 'height' });
     }
 
 
-  // ************ tabbed content 
+  // ************ tabbed content
   $(".tab_content").hide();
   $(".tab_content:first").show();
   /* tab mode */
@@ -158,7 +158,7 @@ jQuery(function ($) {
       //Ajax post data to server
       $.post('contact', post_data, function (response) {
 	  	console.log(response);
-        //load json data from server and output message     
+        //load json data from server and output message
         if (response.type == 'error') {
           output = '<div class="alert-danger" style="padding:10px; margin-bottom:10px;">' + response.text + '</div>';
         } else {
@@ -242,11 +242,11 @@ jQuery(function ($) {
     scrollbarDrag: "true",
     /*delay: 9000,*/
 	 delay: 5000,
-	 /* options that disable autoplay 
+	 /* options that disable autoplay
     stopLoop: "on",
     stopAfterLoops: 0,
     stopAtSlide: 1, */
-	 
+
     spinner: "off",
     navigation: {
       arrows: {
@@ -364,7 +364,6 @@ jQuery(function ($) {
   }
 
   //Contact Map
-  
+
 
 });
-
