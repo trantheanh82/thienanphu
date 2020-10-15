@@ -11,11 +11,11 @@
         <!-- MAIN IMAGE -->
         <!--<img src="images/banner5.jpg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgparallax="10" class="rev-slidebg">-->
         <?php
-	        echo img($slider->image,array("alt"=>$Settings['company_name'].' '.$slider->tag_line,"data-bgposition"=>"center center","data-bgfit"=>"cover", "data-bgparallax"=>"10", "class"=>"rev-slidebg"));
+	        echo img($slider->image,false,array("alt"=>$Settings['company_name'].' '.$slider->tag_line,"data-bgposition"=>"center center","data-bgfit"=>"cover", "data-bgparallax"=>"10", "class"=>"rev-slidebg"));
 	        ?>
 	    <?php
 		    if(!empty($slider->tag_line)):
-		    ?>   
+		    ?>
         <!-- LAYER NR. 1 -->
         <div class="tp-caption tp-resizeme"
         data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
@@ -34,7 +34,7 @@
         </div>
         <?php
 	        endif; //end of tag_line
-	        
+
 	        if(!empty($slider->description)):
 	        ?>
         <div class="tp-caption tp-resizeme"
@@ -55,7 +55,7 @@
         <?php
 	        endif; //end of description
 	    ?>
-	    
+
         <div class="tp-caption  tp-resizeme"
         data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
         data-y="['470','410','350','250']" data-voffset="['0','0','0','0']"
@@ -77,7 +77,7 @@
         <a href="<?=$slider->button_1_link?>" class="border_radius btn_common blue"><?=lang($slider->button_1)?></a>
         <?php
 	        	endif;
-	        	
+
 	        	if(!empty($slider->button_2)):
 	        ?>
         <a href="<?=$slider->button_2_link?>" class="border_radius btn_common yellow"><?=lang($slider->button_2)?></a>
