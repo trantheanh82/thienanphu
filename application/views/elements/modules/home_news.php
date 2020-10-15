@@ -29,7 +29,9 @@
                     <li><i class="icon-icons20"></i><?=date_format(date_create($news->created_at),'d-m-Y')?></li>
                     <!--<li><a href="#."><i class="icon-comment"></i> 02</a></li>-->
                   </ul>
-                  <?=getSnippet(strip_tags($news->description),30)?>
+                  	<p>
+
+										<?=getSnippet(strip_tags($news->description),30)?></p>
 									<br />
                   <?=anchor($link,lang('view more'),array('class'=>'readmore'))?>
                 </div>
