@@ -1,6 +1,6 @@
 <?php
 
-	echo Modules::run('sliders/sliders');
+	echo Modules::run('sliders/sliders/sliders');
 
 	$this->load->view('elements/modules/home_about',array('home_about'=>$home_about));
 
