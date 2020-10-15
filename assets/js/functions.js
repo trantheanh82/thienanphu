@@ -275,9 +275,9 @@ jQuery(function ($) {
             visible_area: "80%",
             presize:false,
         },
-    responsiveLevels: [4096, 1024, 778, 480],
-    gridwidth: [1170, 960, 750, 480],
-    gridheight: [670, 600, 500, 300],
+    responsiveLevels: [4096, 1024, 778, 480, 414],
+    gridwidth: [1170, 960, 750, 480, 414],
+    gridheight: [670, 600, 500, 300, 200],
   });
 
 

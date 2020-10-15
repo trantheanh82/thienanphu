@@ -24,7 +24,7 @@
         data-visibility="['on','on','on','on']"
         data-width="none"
 		    data-height="none"
-        data-fontsize="['32','24','18','16']"
+        data-fontsize="['32','24','18','16', '16']"
         data-type="text"
         data-textAlign="['center','center','center','center']"
         data-transform_idle="o:1;"
