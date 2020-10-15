@@ -1,4 +1,4 @@
-<?php 
+<?php
 	if(isset($module_services)):
 ?>
 <!-- Dịch vụ -->
@@ -8,12 +8,12 @@
 			foreach($module_services as $k=>$service):
 			?>
 		  <div class="media">
-		    
-		    <?=anchor('/services/'.$service->slug,img($service->image,true,array('alt'=>$service->name,'width'=>100)),array('class'=>'media-left'))?>		    
+
+		    <?=anchor('/services/'.$service->slug,img($service->image,false,array('alt'=>$service->name,'width'=>100)),array('class'=>'media-left'))?>		    
 			    <div class="media-body">
 				  <?=anchor('/services/'.$service->slug,'<h5 class="bottom5">'.$service->name.'</h5>')?>
 			      <p><?=getSnippet($service->description,15)?></p>
-			      <?=anchor('/services/'.$service->slug,lang('view more'),array('class'=>'btn-primary border_radius bottom5'))?>            
+			      <?=anchor('/services/'.$service->slug,lang('view more'),array('class'=>'btn-primary border_radius bottom5'))?>
 			    </div>
 		  </div>
 		<?php

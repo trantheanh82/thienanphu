@@ -14,17 +14,16 @@
 	</a>
     <div class="media-body">
       <?=anchor($link,'<h5 class="bottom5">'.$v->name.'</h5>')?>
-      <p><?=getSnippet($v->description,20)?></p>
+      <p><?=getSnippet(strip_tags($v->description),20)?></p>
       <?=anchor($link,lang('find out'),array('class'=>'btn-primary border_radius bottom5'))?>
   	</div>
   </div>
   <?php
 	  	endforeach;
 	  ?>
-  
+
 </div>
   <!-- ./end dịch vụ -->
 <?php
 	endif;
 ?>
-

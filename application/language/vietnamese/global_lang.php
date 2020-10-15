@@ -3,7 +3,7 @@
 * Name:  Ion Auth Lang - English
 *
 *
-* 
+*
 *
 * Created:  04.01.2017
 *
@@ -83,3 +83,5 @@ $lang['Press']				=	"Góc báo chí";
 /**/
 $lang['Share this article:']	=	"Chia sẻ trang này: ";
 
+/**/
+$lang['find out'] = "Tìm hiểu thêm";
