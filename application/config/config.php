@@ -235,7 +235,7 @@ $config['log_threshold'] = 4;
 | application/logs/ directory. Use a full server path with trailing slash.
 |
 */
-$config['log_path'] = '/Volumes/Betrai/www/thienanphu/application/logs/';
+$config['log_path'] = FCPATH.'/application/logs/';
 
 /*
 |--------------------------------------------------------------------------
@@ -294,7 +294,7 @@ $config['error_views_path'] = '';
 | application/cache/ directory.  Use a full server path with trailing slash.
 |
 */
-$config['cache_path'] = '/Volumes/Betrai/www/thienanphu/application/cache/';
+$config['cache_path'] = FCPATH.'/application/cache/';
 
 /*
 |--------------------------------------------------------------------------
@@ -381,7 +381,7 @@ $config['encryption_key'] = '';
 $config['sess_driver'] = 'files';
 $config['sess_cookie_name'] = 'ci_session';
 $config['sess_expiration'] = 7200;
-$config['sess_save_path'] = '/Volumes/Betrai/www/thienanphu/application/tmp';
+$config['sess_save_path'] = FCPATH.'/application/tmp';
 $config['sess_match_ip'] = FALSE;
 $config['sess_time_to_update'] = 300;
 $config['sess_regenerate_destroy'] = FALSE;
@@ -544,5 +544,5 @@ $config['for_sell']['N']	= "Không Bán";
 /* Setup config for modules
 	*/
 $config['modules_locations'] = array(
-    APPPATH . 'modules/' => '../modules/'
+    APPPATH . 'modules/' => FCPATH.'/application/modules/'
 );
