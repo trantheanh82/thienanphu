@@ -11,6 +11,7 @@ class Sliders extends Public_Controller {
 
 	function sliders(){
 		$this->data['sliders'] = $this->slider_model->where(array('active'=>'Y'))->get_all();
+		pr($this->data['sliders']);exit();
 		$this->render('sliders/sliders','module');
 	}
 }
