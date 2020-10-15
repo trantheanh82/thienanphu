@@ -1,10 +1,10 @@
 <?php defined('BASEPATH') OR exit('No direct script access allowed');?>
-<?php 
+<?php
 	$this->load->view('admin/elements/section_header_view');
 ?>
 	<!-- Main Content -->
 	<?=content_open($page_name,$this)?>
-		
+
 		<div class='box-body'>
 			<?php
 				$this->load->view('admin/elements/ui/command_tools.php',array('command_tools'=>array('create'=>array('url'=>'admin/sliders/create','name'=>lang('Sliders')))));
@@ -14,19 +14,19 @@
 				    <tr>
 				      <th class='text-center'><?=__("ID",$this)?></th>
 				      <th class='text-center'><?=__("Name",$this)?></th>
-				      
+
 				      <th class='text-center'><?=__("Head Line",$this)?></th>
-				      <th class='text-center'><?=__("Image",$this)?></th>    
+				      <th class='text-center'><?=__("Image",$this)?></th>
 				      <th class='text-center'><?=__("Create",$this)?></th>
 				       <th class='text-center'><?=__("Sort",$this)?></th>
-				       <th class='text-center'><?=__("Action",$this)?></th>     
+				       <th class='text-center'><?=__("Action",$this)?></th>
 				    </tr>
 			    </thead>
 				<tbody>
 					<?php
 						if(isset($items)):
 							foreach($items as $k => $v):
-							
+
 							$link = base_url().'admin/sliders/edit/'.$v->id;
 						?>
 						<tr>
@@ -40,11 +40,10 @@
 						</tr>
 					<?php
 							endforeach;
-						
+
 						endif;
 						?>
 				</tbody>
 			</table>
 		</div>
 	<?=content_close()?>
-
