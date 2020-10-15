@@ -1,6 +1,6 @@
-*tmp/*
-*logs/*
+*/tmp/*
+*/logs/*
 *cache/*
 *.DS_Store
 */.DS_Store
-*/config/*
+*/config/config.php
