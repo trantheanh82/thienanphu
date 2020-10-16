@@ -1,6 +1,6 @@
-$(document).ready(function() {
+var base_url = "thienanphu/";
 
-	var base_url = "thienanphu/";
+$(document).ready(function() {
 
 	startjs();	// Make Ajax load on all page
 	$('a[data-load="ajax"]').click(function(){
