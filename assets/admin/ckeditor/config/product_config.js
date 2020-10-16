@@ -2,7 +2,7 @@
  * @license Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
  * For licensing, see LICENSE.md or http://ckeditor.com/license
  */
-
+var base_url = "/thienanphu/";
 CKEDITOR.editorConfig = function( config ) {
 	// Define changes to default configuration here.
 	// For complete reference see:
@@ -38,9 +38,9 @@ CKEDITOR.editorConfig = function( config ) {
 	// Simplify the dialog windows.
 	config.removeDialogTabs = 'link:advanced;image:file';
 
-	config.filebrowserBrowseUrl = '/filemanager/dialog.php?type=1&akey=abc&editor=ckeditor&fldr=';
-	config.filebrowserUploadUrl = '/filemanager/dialog.php?type=1&akey=abc&editor=ckeditor&fldr=';
-	config.filebrowserImageBrowseUrl = '/filemanager/dialog.php?type=1&akey=abc&editor=ckeditor&fldr=';
+	config.filebrowserBrowseUrl = base_url+'filemanager/dialog.php?type=1&akey=abc&editor=ckeditor&fldr=';
+	config.filebrowserUploadUrl = base_url+'filemanager/dialog.php?type=1&akey=abc&editor=ckeditor&fldr=';
+	config.filebrowserImageBrowseUrl = base_url+'filemanager/dialog.php?type=1&akey=abc&editor=ckeditor&fldr=';
 
 	//config.extraPlugins = "dialogadvtab";
 

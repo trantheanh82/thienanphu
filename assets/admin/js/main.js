@@ -1,4 +1,4 @@
-var base_url = "thienanphu/";
+var base_url = "/thienanphu/";
 
 $(document).ready(function() {
 
