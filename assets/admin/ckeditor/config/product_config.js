@@ -10,13 +10,13 @@ CKEDITOR.editorConfig = function( config ) {
 
 	// The toolbar groups arrangement, optimized for two toolbar rows.
 	config.toolbarGroups = [
-		
+
 		{ name: 'document',	   groups: [ 'mode', 'document', 'doctools' ] },
 		{ name: 'tools' },
 		{ name: 'clipboard',   groups: [ 'undo', 'clipboard' ] },
 		{ name: 'links' },
 		{ name: 'insert', groups: ['images']},
-		/*{ name: 'forms' },*/		
+		/*{ name: 'forms' },*/
 		{ name: 'others' },
 		'/',
 		{ name: 'basicstyles', groups: [ 'basicstyles', 'cleanup' ] },
@@ -25,7 +25,7 @@ CKEDITOR.editorConfig = function( config ) {
 		{ name: 'colors' },
 		{ name: 'about' }
 	];
-	
+
 	config.width = '100%';
 
 	// Remove some buttons provided by the standard plugins, which are
@@ -37,13 +37,13 @@ CKEDITOR.editorConfig = function( config ) {
 
 	// Simplify the dialog windows.
 	config.removeDialogTabs = 'link:advanced;image:file';
-	
-	config.filebrowserBrowseUrl = '/thienanphu/filemanager/dialog.php?type=1&akey=abc&editor=ckeditor&fldr=';
-	config.filebrowserUploadUrl = '/thienanphu/filemanager/dialog.php?type=1&akey=abc&editor=ckeditor&fldr=';
-	config.filebrowserImageBrowseUrl = '/thienanphu/filemanager/dialog.php?type=1&akey=abc&editor=ckeditor&fldr=';
-	
+
+	config.filebrowserBrowseUrl = '/filemanager/dialog.php?type=1&akey=abc&editor=ckeditor&fldr=';
+	config.filebrowserUploadUrl = '/filemanager/dialog.php?type=1&akey=abc&editor=ckeditor&fldr=';
+	config.filebrowserImageBrowseUrl = '/filemanager/dialog.php?type=1&akey=abc&editor=ckeditor&fldr=';
+
 	//config.extraPlugins = "dialogadvtab";
-	
+
 	config.allowedContent = 'div[class] h1 h2 h3 h4 h5 h6 p ul[class] li[class]';
 	//config.options.fileRoot = '/assets/upload/';
 };
