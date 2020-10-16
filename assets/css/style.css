@@ -2897,7 +2897,7 @@ nav.navbar.bootsnav .navbar-brand, nav.navbar.bootsnav.navbar-fixed.no-backgroun
   padding:10px 0;
 }
 nav.navbar.bootsnav .navbar-brand img, nav.navbar.bootsnav.navbar-fixed.no-background .navbar-brand img.logo-scrolled, .navbar-brand img{
-  width:80px;
+  width:40px;
 }
 nav.navbar.bootsnav.pushy .navbar-toggle{ display:none;}
 nav.navbar.bootsnav .navbar-header{
