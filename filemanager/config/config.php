@@ -1,7 +1,7 @@
 <?php
 
-$basename = '/thienanphu/';
-	
+$basename = '/';
+
 $version = "9.14.0";
 if (session_id() == '') {
     session_start();
@@ -189,7 +189,7 @@ $config = array(
     | Keys are CASE SENSITIVE!
     |
     */
-	
+
     'access_keys' => array('abc'),
 
     //--------------------------------------------------------------------------------------------------------
