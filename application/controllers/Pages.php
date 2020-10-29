@@ -16,6 +16,7 @@ class Pages extends Public_Controller {
 
 
 		if($this->data['item']->slug == 'gioi-thieu'){
+			$this->breadcrumbs->push($this->data['item']->name,'/');
 			$this->render('default/pages/about_us_view');
 		}else{
 			$this->render('default/pages/page_view');
@@ -48,6 +49,7 @@ class Pages extends Public_Controller {
 
 		$this->data['item'] = $this->page_model->where(array('active'=>'Y','slug'=>'contact'))->get();
 
+		$this->breadcrumbs->push(lang('Contact'),'/');
 		$this->render('default/pages/contact_us_view');
 	}
 
