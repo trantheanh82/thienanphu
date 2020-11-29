@@ -1796,6 +1796,7 @@ body.pushmenu-push-toleft  nav.navbar.bootsnav.sticked, body.pushmenu-push-tolef
 .icon_box{
 	padding-top:20px;
 	padding-bottom:20px;
+	min-height:210px;
 }
 .icon_box i{
   display: inline-block;

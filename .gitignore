@@ -3,10 +3,5 @@
 */cache/*
 *.DS_Store
 */.DS_Store
-*/config/config.php
-application/config/database.php
-application/config/config.php
-application/config/database.php
-application/config/config.php
-application/config/database.php
-application/config/config.php
+*config.php
+*database.php

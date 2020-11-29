@@ -54,5 +54,8 @@
 </section>
 <!-- services ends -->
 <!--Shopping-->
-<?=$this->load->view('default/products/products_view',array('products'=>$item->products,'class'=>""))?>
+<?php
+  if(!empty($item->products))
+  $this->load->view('default/products/products_view',array('products'=>$item->products,'class'=>""))
+?>
 <div style='padding-bottom:90px;'></div>

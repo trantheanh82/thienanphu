@@ -8,15 +8,15 @@
   <!-- Tell the browser to be responsive to screen width -->
   <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
   <!-- Bootstrap 3.3.7 -->
-  <?php echo link_tag('assets/admin/bootstrap/dist/css/bootstrap.min.css')?> 
+  <?php echo link_tag('assets/admin/bootstrap/dist/css/bootstrap.min.css')?>
   <!-- Font Awesome -->
-    <?php echo link_tag('assets/admin/font-awesome/css/font-awesome.min.css')?> 
+    <?php echo link_tag('assets/admin/font-awesome/css/font-awesome.min.css')?>
   <!-- Ionicons -->
-  <?php echo link_tag('assets/admin/Ionicons/css/ionicons.min.css')?> 
+  <?php echo link_tag('assets/admin/Ionicons/css/ionicons.min.css')?>
   <!-- Theme style -->
-  <?php echo link_tag('assets/admin/css/AdminLTE.min.css')?> 
+  <?php echo link_tag('assets/admin/css/AdminLTE.min.css')?>
   <!-- iCheck -->
-  <?php echo link_tag('assets/admin/plugins/iCheck/square/blue.css')?> 
+  <?php echo link_tag('assets/admin/plugins/iCheck/square/blue.css')?>
 
   <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -26,20 +26,20 @@
   <![endif]-->
    <?php
 		  if($Settings['login_screen'] != ""){
-			  $background = $Settings['login_screen'];
+			  $background = base_url().$Settings['login_screen'];
 		  }else{
 			  $background = base_url().'assets/img/full-size-bg.jpg';
-		  } 
+		  }
 	  ?>
   <style>
-	 
+
 	  .login-page{
 		  	background: transparent url("<?=$background?>") center center fixed !important;
 		  	-webkit-background-size: cover;
 			  -moz-background-size: cover;
 			  -o-background-size: cover;
 			  background-size: cover; }
-		  	
+
 	  </style>
   <!-- Google Font -->
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,300italic,400italic,600italic">
@@ -51,7 +51,7 @@
   </div>
   <!-- /.login-logo -->
   <div class="login-box-body">
-	  <?php 
+	  <?php
 		  if($this->session->flashdata('message')):
 		  	echo $this->session->flashdata('message');
 		  endif;
@@ -99,24 +99,24 @@
 	<?php
 		endif;
 		?>
-		
+
 	<?php
 		if(isset($forgot_password)):
 		?>
 			<h1><?php echo lang('forgot_password_heading');?></h1>
 			<p><?php echo sprintf(lang('forgot_password_subheading'), $identity_label);?></p>
-			
+
 			<div id="infoMessage"><?php echo $message;?></div>
-			
+
 			<?php echo form_open("/admin/auth/forgot_password");?>
-			
+
 			      <p>
 			      	<label for="identity"><?php echo (($type=='email') ? sprintf(lang('forgot_password_email_label'), $identity_label) : sprintf(lang('forgot_password_identity_label'), $identity_label));?></label> <br />
 			      	<?php echo form_input($identity);?>
 			      </p>
-			
+
 			      <p><?php echo form_submit('submit', lang('forgot_password_submit_btn'));?></p>
-			
+
 			<?php echo form_close();?>
 
 	<?php

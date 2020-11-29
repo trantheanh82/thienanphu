@@ -27,7 +27,9 @@
 <!--Products & Solutions-->
 
 <!--Shopping-->
-<?=$this->load->view('default/products/products_view',array('products'=>$products,'class'=>""))?>
+<?php
+    $this->load->view('default/products/products_view',array('products'=>$products,'class'=>""))
+?>
 <div style='padding-bottom:90px;'></div>
 <!--Shoping-->
 

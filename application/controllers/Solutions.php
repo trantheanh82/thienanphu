@@ -18,10 +18,11 @@ class Solutions extends Public_Controller {
 		$this->breadcrumbs->push(lang('Solutions'),'/solutions');
 		if(!empty($slug)){
 			$this->data['item'] = $this->solution_model->get_solution_products($slug,8);
+			
 			$this->data['page_header_title'] = $this->data['item']->name;
 			$this->data['page_header_description'] = 'Solutions';
 
-				$this->breadcrumbs->push($this->data['item']->name,'/');
+			$this->breadcrumbs->push($this->data['item']->name,'/');
 			$this->render('default/solutions/solutions_detail');
 
 		}else{

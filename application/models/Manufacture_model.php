@@ -52,8 +52,8 @@ class Manufacture_model extends MY_Model
 		$item = $this->where($conditions)->with_products(array('fields'=>'id,name,slug,description','with'=>array('relation'=>'images')))->get();
 		if(!empty($item->products)){
 			foreach($item->products as $k=>$v){
-				if(isset($v->images)){
-				$item->products[$k]->images = unserialize($v->images->image)[0];
+				if(!empty($v->images)){
+					$item->products[$k]->images = unserialize($v->images->image)[0];
 				}
 			}
 		}
