@@ -35,7 +35,7 @@
 	}
 
 	if(isset($item->image)){
-		$og_image = $item->image;
+		$og_image = base_url().$item->image;
 	}else{
 		$og_image = base_url().'assets/img/default_image_website.jpg';
 	}

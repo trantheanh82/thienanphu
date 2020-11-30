@@ -32,6 +32,9 @@
         <h3 class="heading bottom25">Trụ Sở <span class="divider-left"></span></h3>
         <p class=" address"><i class="icon-map-pin"></i><?=$Settings['address']?></p>
         <p class=" address"><i class="icon-phone4"></i><?=$Settings['company_phone_1'].(!empty($Settings['company_phone_2'])?" - ".$Settings['company_phone_2']:"")?></p>
+        <?php if(!empty($Settings['company_fax'])):?>
+        <p class="address"><i class="fa fa-fax" aria-hidden="true"></i> Fax: <?=$Settings['company_fax']?></p>
+        <?php endif;?>
         <p class=" address"><i class="icon-envelope"></i>
 				<?=mailto($Settings['company_email'],$Settings['company_email'])?>
 	       </p>
@@ -51,15 +54,15 @@
 </div>
 <!--FOOTER ends-->
 
-        
+
     <!-- jquery latest version
-	========================================================= -->	
+	========================================================= -->
    <!-- <script src="<?php echo base_url('assets/js/jquery-2.2.3.js')?>"></script>
-    
+
     <!-- Bootstrap framework js
-	========================================================= -->			
+	========================================================= -->
     <script src="<?php echo base_url('assets/js/bootstrap.min.js')?>"></script>
-    
+
     <script src="<?php echo base_url('assets/js/bootsnav.js')?>"></script>
     <script src="<?php echo base_url('assets/js/jquery.appear.js')?>"></script>
     <script src="<?php echo base_url('assets/js/jquery-countTo.js')?>"></script>
@@ -76,12 +79,12 @@
     <script src="<?php echo base_url('assets/js/revolution.extension.video.min.js')?>"></script>
     <script src="<?php echo base_url('assets/js/wow.min.js')?>"></script>
     <script src="<?php echo base_url('assets/js/functions.js')?>"></script>
-    
-   
-    
+
+
+
     <!-- Google Map js
-	============================================ --> 		
-    
+	============================================ -->
+
 	<!--<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDSLSFRa0DyBj9VGzT7GM6SFbSMcG0YNBM "></script>
 	<script type="text/javascript" src="https://www.google.com/jsapi"></script>
 	<script>
@@ -103,12 +106,12 @@
 			icon: 'images/map-marker.png',
 			map: map
 		  });
-            
+
 		}
-            
+
 		google.maps.event.addDomListener(window, 'load', initialize);
 	</script>-->
-    
+
     <?php echo $before_body;?>
     </body>
 </html>
