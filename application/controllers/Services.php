@@ -28,6 +28,8 @@ class Services extends Public_Controller {
 		$this->data['other_categories'] =  $this->news->module_news();
 
 		$this->data['item'] = $this->service_model->with_user()->where(array('active'=>'Y','slug'=>$slug))->get();
+
+		$this->data['solutions'] = $this->solution_model->get_items();
 		//pr($this->data['item']);
 		$this->data['page_header_title'] = $this->data['meta_title'] = $this->data['item']->name;
 		$this->data['page_header_description'] = $this->data['meta_description'] = $this->data['item']->description;
@@ -37,6 +39,7 @@ class Services extends Public_Controller {
 		$this->breadcrumbs->push($this->data['item']->name,'/');
 
 		$this->render('default/services/service_detail');
+
 	}
 
 }

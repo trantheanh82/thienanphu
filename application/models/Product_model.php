@@ -118,12 +118,12 @@ class Product_model extends MY_Model
 
 	    $items =  $this->with_images('fields:image')->fields('id,name,slug,code,description')->where($conditions)->limit(20,0)->order_by('created_at','desc')->get_all();
 
+			//pr($items);exit();
 	    foreach($items as $k=>$v){
-		    if(!empty($v->images)){
+		    if(isset($v->images) && !empty($v->images)){
 		    	$items[$k]->images = unserialize($v->images->image)[0];
 		    }
 	    }
-
 	    return $items;
     }
 

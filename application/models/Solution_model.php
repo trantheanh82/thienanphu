@@ -38,6 +38,11 @@ class Solution_model extends MY_Model
 	    return $item;
     }
 
+		function get_items(){
+			$items = $this->where(array('active'=>'Y'))->order_by('sort','asc')->set_cache('get_all_active_Y')->get_all();
+			return $items;
+		}
+
     function get_menu_solutions(){
 	    $this->load->model('product_model');
 	    $items = $this->where(array('active'=>'Y'))->fields(array('id','name','slug','icon','description'))->get_all();
