@@ -28,7 +28,7 @@
 		  if($Settings['login_screen'] != ""){
 			  $background = base_url().$Settings['login_screen'];
 		  }else{
-			  $background = base_url().'assets/img/full-size-bg.jpg';
+			  $background = base_url().'assets/images/logo-bg.jpg';
 		  }
 	  ?>
   <style>
