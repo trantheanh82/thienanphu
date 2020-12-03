@@ -128,13 +128,13 @@
 <!-- /.login-box -->
 
 <!-- jQuery 3 -->
-	<script type="text/javascript" src="<?php echo site_url('/assets/js/jquery.js');?>"></script>
+	<script type="text/javascript" src="<?php echo base_url('/assets/admin/jquery/dist/jquery.js');?>"></script>
 
 <!-- Bootstrap 3.3.7 -->
-	<script type="text/javascript" src="<?php echo site_url('/assets/admin/bootstrap/dist/js/bootstrap.min.js');?>"></script>
+	<script type="text/javascript" src="<?php echo base_url('/assets/admin/bootstrap/dist/js/bootstrap.min.js');?>"></script>
 
 <!-- iCheck -->
-   <script type="text/javascript" src="<?php echo site_url('/assets/admin/plugins/iCheck/icheck.min.js');?>"></script>
+   <script type="text/javascript" src="<?php echo base_url('/assets/admin/plugins/iCheck/icheck.min.js');?>"></script>
 <script>
   $(function () {
     $('input').iCheck({
