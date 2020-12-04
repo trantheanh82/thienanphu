@@ -50,7 +50,7 @@
         data-transform_idle="o:1;"
         data-transform_in="opacity:0;s:1000;e:Power2.easeInOut;"
         data-transform_out="opacity:0;s:1000;s:1000;"
-        data-start="1500"><p>Giải pháp quản lý tổng thể giúp doanh nghiệp hoạt động hiệu quả, phát triển và bền vững hơn!
+        data-start="1500"><p><?=$slider->description?>
 .</p>
         </div>
         <?php
