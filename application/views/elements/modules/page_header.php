@@ -9,9 +9,12 @@
 	        if(isset($page_header_description))
 	        echo "<p>".lang($page_header_description)."</p>";
 	        ?>
-        <div class="page_nav">
-      <span></span> <a href="index.html"><?=lang('Home')?></a> <span><i class="fa fa-angle-double-right"></i><?=lang($this->router->fetch_class())?></span>
-      </div>
+        <!--<div class="page_nav">
+          <span></span>
+          <a href="index.html"><?=lang('Home')?></a> <span><i class="fa fa-angle-double-right"></i><?=lang($this->router->fetch_class())?></span>
+
+        </div>-->
+        <?=$this->breadcrumbs->show()?>
       </div>
     </div>
   </div>

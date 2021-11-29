@@ -15,10 +15,9 @@
 	  </div>
 	  <br /><br />
     <div class="row">
-	    
+
 	    <?php
-		    	foreach($products as $k=>$p):
-		    			
+		    	foreach($products as $k=>$p): 			
 		    ?>
       <div class="col-md-3 col-sm-6 margin10 bottom15 wow fadeIn" data-wow-delay="300ms">
         <?=$this->load->view('elements/modules/module_product_box',array('item'=>$p))?>

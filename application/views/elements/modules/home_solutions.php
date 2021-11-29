@@ -11,10 +11,11 @@
 
     <div class="icon_wrapclearfix">
 	        <?php
+					$number_of_solutions =  count($home_solutions);
 	    	foreach($home_solutions as $k=>$v):
 	    		$link = base_url().'solutions/'.$v->slug;
 	    ?>
-      <div class="col-sm-4 icon_box text-center margin_tophalf wow fadeInUp" data-wow-delay="300ms" data-url="<?=$link?>">
+      <div class="<?=($k >= ($number_of_solutions-1)?"col-md-offset-4 ":"")?>col-sm-4 icon_box text-center margin_tophalf wow fadeInUp" data-wow-delay="300ms" data-url="<?=$link?>">
          <i class="<?=$v->icon?>"></i>
          <h4 class="text-uppercase bottom20 margin10"><?=$v->name?></h4>
          <p class="no_bottom"><?=getSnippet(strip_tags($v->description),15)?></p>
@@ -34,6 +35,6 @@
 	$(document).ready(function(){
 		$('.icon_box').click(function(){
 			window.location.href = $(this).attr('data-url');
-			});	
+			});
 	});
 	</script>

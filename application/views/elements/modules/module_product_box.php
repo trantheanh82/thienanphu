@@ -4,14 +4,15 @@
 	}else{
 		$image = img('assets/upload/product/medium/'.$item->images['name'],false,array('alt'=>$item->name,'class'=>'img-responsive border-radius'));
 	}
-	
+
 	$link = 'products/'.$item->slug;
 ?>
 <div class="shopping_box">
   <div class="image">
-    <?=anchor($link,$image,array('class'=>'img-responsive border-radius'))?>
-    <div class="overlay border_radius">
-    </div>
+		<?=$image?>
+		<?=anchor($link,'<div class="overlay border_radius">
+    </div>')?>
+
   </div>
   <div class="shop_content text-center">
     <h4>

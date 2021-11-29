@@ -1,6 +1,6 @@
- <ul class="nav navbar-nav">
+  <ul class="nav navbar-nav">
 	 <?php
-		
+
 		 foreach($admin_menu as $k => $items):
 		 	if(empty($items->link)):
 	 ?>
@@ -22,11 +22,11 @@
 		 	else:
 	?>
 		<li><a href='<?=site_url($items->link)?>' data-load="ajax"><?=$k?> yes</a></li>
-	<?php	 	
+	<?php
 		 	endif;
 		 endforeach;
 	?>
-	<!--	
+	<!--
 	<li><a href="#">Contact & About us</a></li>
     <li><a href="#">Products</a></li>
     <li><a href="#">Capabilities</a></li>

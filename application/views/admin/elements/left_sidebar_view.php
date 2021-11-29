@@ -10,10 +10,10 @@
 <section class="sidebar">
   <?php
 	  $this->load->view('admin/elements/user/sidebar_view');
-	  
+
 	 // $this->load->view('admin/elements/modules/search_form_sidebar_view');
   ?>
-  
+
   <!-- /.search form -->
   <!-- sidebar menu: : style can be found in sidebar.less -->
   <ul class="sidebar-menu" data-widget="tree">
@@ -21,25 +21,27 @@
     <?php
 	    // end top level admin menu
 		if(!empty($admin_menu)):
+
 		$menu_class = "";
 			foreach($admin_menu as $k=>$menu1):
-			
+
 			 if($menu1->controller == $controller){
 				 $menu_class .= " active menu-open";
 			 }
-				
+
+
 			 if(!$menu1->children){
-				 
-				 
+
+
 					$link = menulink($menu1);
-					$data_load = "data-load='ajax' title='".$menu1->name."'"; 
-				 
+					$data_load = "data-load='ajax' title='".$menu1->name."'";
+
 			 }else{
 				 $menu_class .= " treeview";
 				 $link = '#';
 				 $data_load = "";
 			 }
-		     
+
 	?>
 		<li class="<?=$menu_class?>">
 	      <a href="<?=$link?>"  <?=$data_load?>>
@@ -57,14 +59,14 @@
 	      	<?php
 		      	// Menu level 2
 		      	if(!empty($menu1->children)):
-		      		
+
 	      	?>
 	      <ul class="treeview-menu">
 		      <?php
 			      	foreach($menu1->children as $key=>$menu2):
-			      	
+
 			      	$class = "";
-			      	if($menu2->action == $action){
+			      	if($menu2->action == $action && $menu2->controller == $controller){
 				      	$class .= " active";
 			      	}
 			      		if(!$menu2->children){
@@ -91,7 +93,7 @@
 				    if(!empty($menu2->children)):
 				?>
 				<ul class="treeview-menu">
-                
+
 				<?php
 				    //Menu level 3
 				    foreach($menu2->children as $level3 => $menu3):
@@ -104,14 +106,14 @@
 				<?php
 					endif;
 					?>
-			    
+
 	        </li>
 	        <?php
-		        	endforeach; 
+		        	endforeach;
 		        ?>
 	      </ul>
 	    </li>
-	    <?php 
+	    <?php
 	    		endif; // End if children $v->children
 	    		//.$menu_class
 	    		$menu_class = "";
@@ -282,7 +284,7 @@
         <li><a href="#"><i class="fa fa-circle-o"></i> Level One</a></li>
       </ul>
     </li>
-   
+
     <li><a href="https://adminlte.io/docs"><i class="fa fa-book"></i> <span>Documentation</span></a></li>
      -->
     <li class="header">LABELS</li>

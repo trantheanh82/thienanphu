@@ -11,7 +11,7 @@
         <!-- MAIN IMAGE -->
         <!--<img src="images/banner5.jpg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgparallax="10" class="rev-slidebg">-->
         <?php
-	        echo img(base_url().$slider->image,false,array("alt"=>$Settings['company_name'].' '.$slider->tag_line,"data-bgposition"=>"center center","data-bgfit"=>"cover", "data-bgparallax"=>"10", "class"=>"rev-slidebg"));
+	        echo img(base_url().$slider->image,'',array("alt"=>$Settings['company_name'].' '.$slider->tag_line,"data-bgposition"=>"center center","data-bgfit"=>"cover", "data-bgparallax"=>"10", "class"=>"rev-slidebg"));
 	        ?>
 	    <?php
 		    if(!empty($slider->tag_line)):
@@ -50,7 +50,7 @@
         data-transform_idle="o:1;"
         data-transform_in="opacity:0;s:1000;e:Power2.easeInOut;"
         data-transform_out="opacity:0;s:1000;s:1000;"
-        data-start="1500"><p>Giải pháp quản lý tổng thể giúp doanh nghiệp hoạt động hiệu quả, phát triển và bền vững hơn!
+        data-start="1500"><p><?=$slider->description?>
 .</p>
         </div>
         <?php
